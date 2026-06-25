@@ -93,7 +93,7 @@ export default function LandingPage() {
           >
             무료로 시작하기 →
           </Link>
-          <span className="text-gray-400 text-sm">로그인 없이 바로 시작 · 기기에 저장</span>
+          <span className="text-gray-400 text-sm">지금 무료로 시작해보세요</span>
         </div>
       </section>
 
@@ -194,9 +194,10 @@ export default function LandingPage() {
       {/* ── 푸터 ── */}
       <footer className="text-center py-8 text-gray-400 text-xs border-t border-gray-100 bg-white">
         <p className="mb-1">📖 한자 하루 한자 · 소리와 뜻으로 여는 문해력</p>
-        <p>학습 데이터는 이 기기에만 저장됩니다 · 로그인 불필요</p>
+        <p>© 2024 한자 하루 한자 · 모든 권리 보유</p>
       </footer>
 
     </div>
   );
 }
+                                      

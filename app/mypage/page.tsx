@@ -518,16 +518,4 @@ export default function MyPage() {
                       </div>
                     );
                   })}
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        <p className="text-center text-[11px] text-gray-400 pb-4">
-          학습 데이터는 이 기기에 저장돼요 · 로그인 기능 추가 예정
-        </p>
-      </main>
-    </div>
-  );
-}
+  

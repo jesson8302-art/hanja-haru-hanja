@@ -12,14 +12,29 @@ export default function LoginPage() {
   const router = useRouter();
   const { user, loading, signInWithGoogle, signInWithEmail, signUpWithEmail, signInWithKakao } = useAuth();
 
-  const [tab,      setTab]      = useState<Tab>("login");
-  const [email,    setEmail]    = useState("");
-  const [password, setPassword] = useState("");
-  const [name,     setName]     = useState("");
-  const [error,    setError]    = useState("");
-  const [busy,     setBusy]     = useState(false);
+  const [tab,        setTab]      = useState<Tab>("login");
+  const [email,      setEmail]    = useState("");
+  const [password,   setPassword] = useState("");
+  const [name,       setName]     = useState("");
+  const [error,      setError]    = useState("");
+  const [busy,       setBusy]     = useState(false);
+  const [kakaoReady, setKakaoReady] = useState(false);
 
   const kakaoKey = process.env.NEXT_PUBLIC_KAKAO_JS_KEY;
+
+  // 카카오 SDK 로드 확인
+  useEffect(() => {
+    if (!kakaoKey || kakaoKey === "YOUR_KAKAO_JS_KEY_HERE") return;
+    const check = setInterval(() => {
+      const win = window as Window & { Kakao?: { init: (k: string) => void; isInitialized: () => boolean } };
+      if (win.Kakao) {
+        if (!win.Kakao.isInitialized()) win.Kakao.init(kakaoKey);
+        setKakaoReady(true);
+        clearInterval(check);
+      }
+    }, 200);
+    return () => clearInterval(check);
+  }, [kakaoKey]);
 
   useEffect(() => {
     if (!loading && user) {
@@ -106,7 +121,7 @@ export default function LoginPage() {
   return (
     <>
       {kakaoKey && kakaoKey !== "YOUR_KAKAO_JS_KEY_HERE" && (
-        <Script src="https://developers.kakao.com/sdk/js/kakao.js" strategy="beforeInteractive" />
+        <Script src="https://developers.kakao.com/sdk/js/kakao.js" strategy="afterInteractive" />
       )}
 
       <div className="min-h-screen bg-gradient-to-b from-amber-50 to-orange-50 flex flex-col">
@@ -151,15 +166,12 @@ export default function LoginPage() {
 
               <button
                 onClick={handleKakao}
-                disabled={busy || !kakaoKey || kakaoKey === "YOUR_KAKAO_JS_KEY_HERE"}
+                disabled={busy || !kakaoReady}
                 className="w-full flex items-center justify-center gap-3 bg-yellow-300 border border-yellow-400 rounded-2xl px-4 py-3.5 font-bold text-gray-800 hover:bg-yellow-400 shadow-sm transition-all active:scale-98 disabled:opacity-60"
               >
                 <KakaoIcon />
-                카카오로 {tab === "login" ? "로그인" : "가입"}
+                {kakaoReady ? `카카오로 ${tab === "login" ? "로그인" : "가입"}` : "카카오 로딩 중..."}
               </button>
-              {(!kakaoKey || kakaoKey === "YOUR_KAKAO_JS_KEY_HERE") && (
-                <p className="text-center text-[10px] text-gray-400">카카오 키 미설정 — .env.local에 NEXT_PUBLIC_KAKAO_JS_KEY 추가 필요</p>
-              )}
             </div>
 
             <div className="flex items-center gap-3 mb-6">
@@ -233,15 +245,4 @@ function GoogleIcon() {
       <path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.2l6.8-6.8C35.6 2.3 30.1 0 24 0 14.7 0 6.7 5.4 2.7 13.3l7.9 6.1C12.5 13 17.8 9.5 24 9.5z"/>
       <path fill="#4285F4" d="M46.1 24.5c0-1.7-.2-3.3-.4-4.9H24v9.3h12.5c-.5 2.8-2.1 5.2-4.5 6.8l7 5.4c4.1-3.8 6.5-9.4 6.5-16.1-.1-.2-.1-.3-.4-.5z"/>
       <path fill="#FBBC05" d="M10.6 28.5c-.5-1.5-.8-3-.8-4.5s.3-3 .8-4.5l-7.9-6.1C1 16.3 0 20 0 24s1 7.7 2.7 10.6l7.9-6.1z"/>
-      <path fill="#34A853" d="M24 48c6.1 0 11.3-2 15.1-5.5l-7-5.4c-2 1.3-4.5 2.1-8.1 2.1-6.2 0-11.5-4.2-13.4-9.8l-7.9 6.1C6.7 42.6 14.7 48 24 48z"/>
-    </svg>
-  );
-}
-
-function KakaoIcon() {
-  return (
-    <svg width="20" height="20" viewBox="0 0 24 24">
-      <path fill="#3C1E1E" d="M12 3C6.5 3 2 6.6 2 11c0 2.8 1.8 5.3 4.5 6.8l-.9 3.4 4-2.5c.8.1 1.6.2 2.4.2 5.5 0 10-3.6 10-8S17.5 3 12 3z"/>
-    </svg>
-  );
-}
+      <path fill="#34A853" d="M24 48c6.1 0 11.3-2 15.1-5.5l-7-5.4c-2 1.3-4.5 2.1-8.1 2.1

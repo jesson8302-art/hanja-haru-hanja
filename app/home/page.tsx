@@ -246,36 +246,4 @@ export default function HomePage() {
             {showAll && myLevel && (
               <button
                 onClick={() => setShowAll(false)}
-                className="w-full py-2.5 text-sm font-bold text-gray-500 border border-gray-200 rounded-2xl hover:bg-gray-50 mb-6"
-              >
-                접기 ↑
-              </button>
-            )}
-          </>
-        )}
-
-        <section className="grid grid-cols-3 gap-3">
-          <Link href="/quiz" className="bg-gradient-to-br from-amber-400 to-orange-500 rounded-2xl p-4 text-white shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all text-center">
-            <div className="text-2xl mb-1">🎯</div>
-            <p className="font-black text-sm">단어 퀴즈</p>
-            <p className="text-amber-100 text-xs mt-0.5">뜻 맞추기</p>
-          </Link>
-          <Link href="/mypage" className="bg-gradient-to-br from-blue-400 to-indigo-500 rounded-2xl p-4 text-white shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all text-center">
-            <div className="text-2xl mb-1">📊</div>
-            <p className="font-black text-sm">학습 기록</p>
-            <p className="text-blue-100 text-xs mt-0.5">진도 이력</p>
-          </Link>
-          <Link href="/idioms" className="bg-gradient-to-br from-emerald-400 to-teal-500 rounded-2xl p-4 text-white shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all text-center">
-            <div className="text-2xl mb-1">📜</div>
-            <p className="font-black text-sm">사자성어</p>
-            <p className="text-emerald-100 text-xs mt-0.5">퀘스트 해금</p>
-          </Link>
-        </section>
-      </main>
-
-      <footer className="text-center py-8 text-gray-400 text-xs">
-        2026 한자 하루 한자 · 소리와 뜻으로 여는 문해력
-      </footer>
-    </div>
-  );
-}
+      
