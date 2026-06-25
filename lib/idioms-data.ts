@@ -459,8 +459,8 @@ export function getIdiomsByLevel(level: "beginner" | "intermediate" | "advanced"
   return IDIOMS.filter((idiom) => idiom.level === level);
 }
 
-export function getIdiomByChars(chars: string): Idiom | undefined {
-  return IDIOMS.find((idiom) => idiom.chars === chars);
+export function getIdiomByChars(hanja: string): Idiom | undefined {
+  return IDIOMS.find((idiom) => idiom.hanja === hanja);
 }
 
 export function getAllIdioms(): Idiom[] {
