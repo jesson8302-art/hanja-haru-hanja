@@ -1,6 +1,0 @@
-{
-  "/learn/[level]/page": "app/learn/[level]/page.js",
-  "/page": "app/page.js",
-  "/login/page": "app/login/page.js",
-  "/terms/page": "app/terms/page.js"
-}
