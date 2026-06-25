@@ -10,8 +10,14 @@ import {
   type ReviewRecord, type LearningRecord, type StreakInfo,
 } from "@/lib/review-system";
 
+// ── 타입 별칭 (SWC TSX 파서 호환) ─────────────────────────────
+type LvColorStyle  = { bg: string; text: string; border: string };
+type LevelProgMap  = Record<string, { learned: number }>;
+type CalendarMap   = Record<string, LearningRecord[]>;
+type MRStats       = ReturnType<typeof getMorningReviewStats>;
+type HeatmapProps  = { calendar: CalendarMap };
+
 // ── 상수 ──────────────────────────────────────────────────────
-type LvColorStyle = { bg: string; text: string; border: string };
 
 // Lv.X 색상 (4구간) + 구 급수 fallback
 function getLvColor(level: string) {
@@ -64,7 +70,7 @@ function QualityBadge({ avg }: { avg: number }) {
 }
 
 // ── 캘린더 히트맵 컴포넌트 ────────────────────────────────────
-function CalendarHeatmap({ calendar }: { calendar: Record<string, LearningRecord[]> }) {
+function CalendarHeatmap({ calendar }: HeatmapProps) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
@@ -133,12 +139,12 @@ export default function MyPage() {
   const [dueCards, setDueCards]     = useState<ReviewRecord[]>([]);
   const [collection, setCollection] = useState<LearningRecord[]>([]);
   const [weakCards, setWeakCards]   = useState<ReviewRecord[]>([]);
-  const [levelProg, setLevelProg]   = useState<Record<string, { learned: number }>>({});
+  const [levelProg, setLevelProg]   = useState<LevelProgMap>({});
   const [todayCount, setToday]      = useState(0);
-  const [calendar, setCalendar]     = useState<Record<string, LearningRecord[]>>({});
+  const [calendar, setCalendar]     = useState<CalendarMap>({});
   const [tab, setTab]               = useState<"review" | "collection" | "weak" | "history">("review");
   const [myLevel, setMyLv]          = useState<string | null>(null);
-  const [mrStats, setMrStats]       = useState<ReturnType<typeof getMorningReviewStats> | null>(null);
+  const [mrStats, setMrStats]       = useState<MRStats | null>(null);
 
   useEffect(() => {
     setStreak(getStreak());
