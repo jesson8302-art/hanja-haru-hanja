@@ -518,4 +518,16 @@ export default function MyPage() {
                       </div>
                     );
                   })}
-  
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        <p className="text-center text-[11px] text-gray-400 pb-4">
+          한자 하루 한자 · 소리와 뜻으로 여는 문해력
+        </p>
+      </main>
+    </div>
+  );
+}
