@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "修",
+    "hanja_sound": "수",
+    "hanja_meaning": "닦을",
+    "full_reading": "닦을 수",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "修",
+    "sound": "수",
+    "meaning": "닦을",
+    "stroke_count": 10,
+    "radical": "人",
+    "etymology_story": "修는 사람(人)과 털어낼 수(攸) 그리고 彡(터럭 삼)이 합쳐진 글자입니다. 사람이 솔질하여 깨끗이 닦아 꾸미는 모습에서 '닦다', '고치다', '배우다'의 뜻이 생겼습니다.",
+    "memory_tip": "사람(人)이 솔질하여 닦는(攸) 모습이 '닦다(修)'입니다.",
+    "level_context": "5급 한자로, 닦을을(를) 뜻하는 修입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수련",
+      "word_hanja": "修練",
+      "reading": "수련",
+      "easy_definition": "갈고닦아 훈련함",
+      "etymology_dissection": "닦을 수(修)+단련할 련(練): 닦아 단련",
+      "example_sentence": "검도를 수련합니다.",
+      "sentence_meaning": "검도를 갈고닦아 훈련합니다."
+    },
+    {
+      "word_korean": "수리",
+      "word_hanja": "修理",
+      "reading": "수리",
+      "easy_definition": "고쳐 바로잡음",
+      "etymology_dissection": "닦을 수(修)+다스릴 리(理): 닦아 다스림",
+      "example_sentence": "자전거를 수리했습니다.",
+      "sentence_meaning": "자전거를 고쳐 바로잡았습니다."
+    },
+    {
+      "word_korean": "연수",
+      "word_hanja": "硏修",
+      "reading": "연수",
+      "easy_definition": "연구하며 배움",
+      "etymology_dissection": "갈 연(硏)+닦을 수(修): 갈고닦음",
+      "example_sentence": "해외 연수를 다녀왔습니다.",
+      "sentence_meaning": "해외에서 연구하며 배우고 왔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "꾸준한 수련으로 실력이 늘었습니다. 고장난 자전거를 수리했습니다. 선생님들이 해외 연수를 통해 역량을 키웠습니다.",
+    "passage_meaning": "수련, 수리, 연수 모두 '닦다', '고치다'를 뜻하는 修에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'수리'의 뜻은?",
+        "options": [
+          "부수는 것",
+          "고쳐 바로잡는 것",
+          "사는 것",
+          "파는 것"
+        ],
+        "correct_answer": "고쳐 바로잡는 것",
+        "explanation": "수리(修理)는 고쳐 바로잡는 것입니다."
+      },
+      {
+        "question": "'修'의 뜻은?",
+        "options": [
+          "파괴하다",
+          "닦다·고치다",
+          "달리다",
+          "먹다"
+        ],
+        "correct_answer": "닦다·고치다",
+        "explanation": "修는 '닦다', '고치다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'수련'이나 '수리'를 사용하여 문장을 써 보세요.",
+    "hint": "노력이나 기술에 관한 내용을 담아 보세요.",
+    "example_answer": "꾸준한 수련이 실력 향상의 비결입니다.",
+    "key_vocabulary": [
+      "수련",
+      "수리"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "열심히 수련합니다.",
+      "고장난 것을 수리했습니다.",
+      "해외 연수로 실력을 키웠습니다."
+    ],
+    "pronunciation_tips": "'수'을 명확하게 발음하며 읽어 보세요."
+  }
+}

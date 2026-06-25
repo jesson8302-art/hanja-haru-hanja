@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "속",
+    "hanja_meaning": "빠를",
+    "hanja_char": "速",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "가볍게 빠르게 가다 — 빠를 속(速)",
+    "etymology_story": "'빠를 속(速)'은 빠를 束(묶을 속)과 걸을 착(辶)이 합쳐진 글자예요. 묶인 것처럼 집중해서 빠르게 가는 것이 '빠르다(速)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "속도(速度)",
+      "etymology_dissection": "빠를 속(速)+법도 도(度)",
+      "easy_definition": "빠르기의 정도",
+      "context_sentence": "속도를 줄여요."
+    },
+    {
+      "word_korean": "급속(急速)",
+      "etymology_dissection": "급할 급(急)+빠를 속(速)",
+      "easy_definition": "매우 빠른 것",
+      "context_sentence": "급속 충전해요."
+    },
+    {
+      "word_korean": "고속(高速)",
+      "etymology_dissection": "높을 고(高)+빠를 속(速)",
+      "easy_definition": "높은 속도",
+      "context_sentence": "고속도로를 달려요."
+    },
+    {
+      "word_korean": "신속(迅速)",
+      "etymology_dissection": "빠를 신(迅)+빠를 속(速)",
+      "easy_definition": "재빠른 것",
+      "context_sentence": "신속하게 대응해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빠름의 지혜",
+    "passage_text": "**신속(迅速)**한 대응이 위기를 줄여요. **고속(高速)**도로처럼 목표를 향해 달려요. **속도(速度)**보다 방향이 중요해요.",
+    "quiz": {
+      "question": "'신속(迅速)'이란?",
+      "choices": [
+        "급속",
+        "속도",
+        "재빠른 것",
+        "고속"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'신속(迅速)'=빠를 신+빠를 속, 매우 재빠르게 하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "신속하게 행동해서 좋은 결과를 낸 경험을 문장으로 써 보세요.",
+    "model_example": "속도보다 방향을 먼저 정하고 신속하게 달리면 고속도로처럼 목표에 빠르게 도달해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'빠를 — 속(速)! 빠를 — 속(速)!' 열 번 외쳐요!"
+  }
+}

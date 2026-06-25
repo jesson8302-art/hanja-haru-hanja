@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "제목",
+    "hanja_char": "題",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "題 — 이마에 새긴 이름표",
+    "etymology_story": "題(제)는 이마 제(頁, 머리)와 바를 시(是)가 합쳐진 글자예요. 이마처럼 맨 위에 붙이는 '제목·표제'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "제목(題目)",
+      "etymology_dissection": "제목 제(題)+눈 목(目)",
+      "easy_definition": "글이나 작품의 이름",
+      "context_sentence": "작문의 제목을 멋있게 지었어요."
+    },
+    {
+      "word_korean": "문제(問題)",
+      "etymology_dissection": "물을 문(問)+제목 제(題)",
+      "easy_definition": "풀어야 할 문제",
+      "context_sentence": "수학 문제를 다 풀었어요."
+    },
+    {
+      "word_korean": "숙제(宿題)",
+      "etymology_dissection": "잘 숙(宿)+제목 제(題)",
+      "easy_definition": "집에서 해야 할 공부 과제",
+      "context_sentence": "숙제를 먼저 하고 놀았어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "멋진 제목 짓기",
+    "passage_text": "글을 쓸 때 제목(題目)이 중요해요. 제목은 읽는 사람의 궁금증을 불러일으켜야 해요. 숙제(宿題)로 일기를 쓸 때도 멋진 제목을 붙이면 더 재미있어요. 문제(問題)처럼 답이 있는 것도 있고, 창의적인 것도 있어요.",
+    "quiz": {
+      "question": "'숙제'의 뜻은?",
+      "choices": [
+        "집에서 해야 할 공부 과제",
+        "학교에서 하는 시험",
+        "선생님이 읽어주는 이야기",
+        "친구와 하는 놀이"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "숙제(宿題)는 '잘 숙(宿)+제목 제(題)'로, 집에 가져가서 해야 하는 학습 과제예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 쓸 일기의 제목을 창의적으로 지어 보고, 왜 그 제목을 골랐는지 써 보세요.",
+    "model_example": "예) 제목: '넘어졌지만 일어섰다!' — 오늘 달리기하다 넘어졌지만 다시 일어난 것이 뿌듯해서요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "題(제)! 멋진 제목이 멋진 글을 만들어요! 훌륭해요! 📝"
+  }
+}

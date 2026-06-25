@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "勤",
+    "hanja_sound": "근",
+    "hanja_meaning": "부지런할",
+    "full_reading": "부지런할 근",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "勤",
+    "sound": "근",
+    "meaning": "부지런할",
+    "stroke_count": 13,
+    "radical": "力",
+    "etymology_story": "勤은 힘(力)과 땅 이름 근(堇)이 합쳐진 글자입니다. 힘을 다해 꾸준히 일하는 모습에서 '부지런하다', '근면하다'의 뜻이 생겼습니다.",
+    "memory_tip": "힘(力)을 다해 꾸준히 일하는 것이 '부지런하다'입니다.",
+    "level_context": "5급 한자로, 부지런할을(를) 뜻하는 勤입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "근면",
+      "word_hanja": "勤勉",
+      "reading": "근면",
+      "easy_definition": "부지런하고 열심히 함",
+      "etymology_dissection": "부지런할 근(勤)+힘쓸 면(勉): 부지런히 힘씀",
+      "example_sentence": "근면한 사람이 성공합니다.",
+      "sentence_meaning": "부지런히 열심히 하는 사람이 성공합니다."
+    },
+    {
+      "word_korean": "근무",
+      "word_hanja": "勤務",
+      "reading": "근무",
+      "easy_definition": "직장에서 일함",
+      "etymology_dissection": "부지런할 근(勤)+힘쓸 무(務): 부지런히 일함",
+      "example_sentence": "오늘 야근 근무를 했습니다.",
+      "sentence_meaning": "오늘 밤늦게까지 직장에서 일했습니다."
+    },
+    {
+      "word_korean": "출근",
+      "word_hanja": "出勤",
+      "reading": "출근",
+      "easy_definition": "직장에 나가 일하러 감",
+      "etymology_dissection": "날 출(出)+부지런할 근(勤): 나가 일함",
+      "example_sentence": "아침 일찍 출근했습니다.",
+      "sentence_meaning": "아침 일찍 직장에 나갔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "근면한 사람은 아침 일찍 출근하여 열심히 근무합니다. 꾸준히 노력하는 습관이 성공의 비결입니다. 부지런함은 배울 수 있는 덕목입니다.",
+    "passage_meaning": "근면하게 출근하고 성실히 근무하는 것이 성공의 기초입니다.",
+    "questions": [
+      {
+        "question": "'근면'의 뜻으로 알맞은 것은?",
+        "options": [
+          "게으르고 나태한 것",
+          "부지런하고 열심히 하는 것",
+          "느리고 천천히 하는 것",
+          "마음대로 하는 것"
+        ],
+        "correct_answer": "부지런하고 열심히 하는 것",
+        "explanation": "근면(勤勉)은 부지런하고 열심히 하는 것입니다."
+      },
+      {
+        "question": "'출근'에서 '勤'의 뜻은?",
+        "options": [
+          "출발하다",
+          "부지런히 일하다",
+          "집에 있다",
+          "쉬다"
+        ],
+        "correct_answer": "부지런히 일하다",
+        "explanation": "출근(出勤)의 勤은 '부지런히 일하다'로, 직장에 나가 일하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'근면'이나 '출근'을 사용하여 문장을 써 보세요.",
+    "hint": "일과 성실함에 관한 내용을 담아 보세요.",
+    "example_answer": "근면한 태도로 매일 열심히 공부합니다.",
+    "key_vocabulary": [
+      "근면",
+      "근무"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "근면함이 성공의 비결입니다.",
+      "매일 아침 일찍 출근합니다.",
+      "성실히 근무하는 것이 중요합니다."
+    ],
+    "pronunciation_tips": "'근'을 명확하게 발음하며 읽어 보세요."
+  }
+}

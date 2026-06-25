@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "要",
+    "hanja_sound": "요",
+    "hanja_meaning": "중요할",
+    "full_reading": "중요할 요",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "要",
+    "sound": "요",
+    "meaning": "중요할",
+    "stroke_count": 9,
+    "radical": "西",
+    "etymology_story": "要는 여자(女)가 허리를 짚는 모습을 본뜬 글자입니다. 허리는 몸의 핵심이므로 '중요하다', '요구하다'의 뜻이 생겼습니다.",
+    "memory_tip": "허리(腰)처럼 핵심적인 것이 '중요하다(要)'입니다.",
+    "level_context": "5급 한자로, 중요할을(를) 뜻하는 要입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "요구",
+      "word_hanja": "要求",
+      "reading": "요구",
+      "easy_definition": "중요한 것을 구함",
+      "etymology_dissection": "중요할 요(要)+구할 구(求): 중요한 것을 구함",
+      "example_sentence": "조건을 요구했습니다.",
+      "sentence_meaning": "중요한 조건을 구했습니다."
+    },
+    {
+      "word_korean": "필요",
+      "word_hanja": "必要",
+      "reading": "필요",
+      "easy_definition": "반드시 중요함",
+      "etymology_dissection": "반드시 필(必)+중요할 요(要): 반드시 중요함",
+      "example_sentence": "도움이 필요합니다.",
+      "sentence_meaning": "도움이 반드시 중요합니다."
+    },
+    {
+      "word_korean": "요약",
+      "word_hanja": "要約",
+      "reading": "요약",
+      "easy_definition": "중요한 내용만 간략히",
+      "etymology_dissection": "중요할 요(要)+간략할 약(約): 중요하게 간략히",
+      "example_sentence": "내용을 요약했습니다.",
+      "sentence_meaning": "내용의 중요한 것만 간략하게 했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "학생들이 더 나은 시설을 요구했습니다. 건강한 삶에 필요한 것들을 갖춥니다. 발표 전에 내용을 요약합니다.",
+    "passage_meaning": "요구, 필요, 요약 모두 '중요하다', '요구하다'를 뜻하는 要에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'요약'의 뜻은?",
+        "options": [
+          "길게 늘리는 것",
+          "중요한 내용만 간략히 하는 것",
+          "내용을 추가하는 것",
+          "내용을 삭제하는 것"
+        ],
+        "correct_answer": "중요한 내용만 간략히 하는 것",
+        "explanation": "요약(要約)은 중요한 내용만 간략히 하는 것입니다."
+      },
+      {
+        "question": "'要'의 뜻은?",
+        "options": [
+          "불필요하다",
+          "중요하다·요구하다",
+          "사소하다",
+          "쓸모없다"
+        ],
+        "correct_answer": "중요하다·요구하다",
+        "explanation": "要는 '중요하다', '요구하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'필요'나 '요약'을 사용하여 문장을 써 보세요.",
+    "hint": "생활이나 공부에 관한 내용을 담아 보세요.",
+    "example_answer": "발표 자료를 요약하여 핵심 내용을 전달했습니다.",
+    "key_vocabulary": [
+      "요구",
+      "필요"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "도움이 필요합니다.",
+      "조건을 요구합니다.",
+      "내용을 요약합니다."
+    ],
+    "pronunciation_tips": "'요'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "조",
+    "hanja_meaning": "새",
+    "hanja_char": "鳥",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "鳥 — 꼬리가 긴 새의 모습",
+    "etymology_story": "새의 머리, 날개, 발, 꼬리를 나타낸 상형 글자입니다. 꼬리가 긴 새의 전체 모습을 본떠 만들었습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "조류",
+      "word_hanja": "鳥類",
+      "etymology_dissection": "鳥(새 조)+類(무리 류) = 새의 무리",
+      "easy_definition": "새의 종류를 통칭하는 말",
+      "context_sentence": "**조류** 독감이 유행하여 주의가 필요합니다."
+    },
+    {
+      "word_korean": "철새",
+      "word_hanja": "鐵鳥",
+      "etymology_dissection": "- 계절에 따라 이동하는 새",
+      "easy_definition": "계절에 따라 이동하며 사는 새",
+      "context_sentence": "**철새**들이 따뜻한 남쪽으로 날아갑니다."
+    },
+    {
+      "word_korean": "야조",
+      "word_hanja": "野鳥",
+      "etymology_dissection": "野(들 야)+鳥(새 조) = 들의 새",
+      "easy_definition": "야생에서 사는 새",
+      "context_sentence": "**야조** 관찰은 자연을 이해하는 좋은 방법입니다."
+    },
+    {
+      "word_korean": "조망",
+      "word_hanja": "鳥瞰",
+      "etymology_dissection": "鳥(새 조)+瞰(내려볼 감) = 새가 내려보듯",
+      "easy_definition": "높은 곳에서 아래를 내려다보는 것",
+      "context_sentence": "산 정상에서 도시를 **조감**할 수 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "새의 이주",
+    "passage_text": "**철새**들은 매년 수천 킬로미터를 이동합니다. 북극제비갈매기는 남극에서 북극까지 왕복하는 가장 긴 이동을 합니다. **철새**들은 어떻게 길을 찾을까요? 과학자들은 지구 자기장, 별, 태양의 위치를 감지하는 능력이 있다고 합니다. **조류**는 지구상에서 가장 다양한 동물 중 하나로, 약 10,000종이 넘습니다. **조류** 관찰(**야조** 관찰)은 전 세계 많은 사람이 즐기는 취미입니다.",
+    "quiz": {
+      "question": "북극제비갈매기에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "가장 빠른 새이다",
+        "남극에서 북극까지 왕복하는 가장 긴 이동을 한다",
+        "날지 못하는 새이다",
+        "물속에서만 산다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "북극제비갈매기는 남극에서 북극까지 왕복하는 가장 긴 이동을 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'조류'를 사용해서 자연 속 동물을 관찰한 경험이나 느낌을 써보세요.",
+    "model_example": "공원에서 **조류** 도감을 들고 새를 관찰하다 보니, 평범한 참새도 얼마나 정교한 생명체인지 알게 되었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "鳥(조) — 새 조! 조류·야조·조감 모두 여기서! 훨훨 잘했어요!"
+  }
+}

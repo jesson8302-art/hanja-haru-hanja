@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "隊",
+    "hanja_sound": "대",
+    "hanja_meaning": "무리",
+    "full_reading": "무리 대",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "隊",
+    "sound": "대",
+    "meaning": "무리",
+    "stroke_count": 12,
+    "radical": "阜",
+    "etymology_story": "隊는 언덕(阜)과 떼(㒸)가 합쳐진 글자입니다. 언덕에 줄지어 있는 무리에서 '무리', '대열', '부대'의 뜻이 생겼습니다.",
+    "memory_tip": "언덕(阜)에 줄지어 선 무리(㒸)가 '隊'입니다.",
+    "level_context": "5급 한자로, 무리을(를) 뜻하는 隊입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "군대",
+      "word_hanja": "軍隊",
+      "reading": "군대",
+      "easy_definition": "나라를 지키는 무장 집단",
+      "etymology_dissection": "군사 군(軍)+무리 대(隊): 군사 무리",
+      "example_sentence": "군대에서 규율이 중요합니다.",
+      "sentence_meaning": "나라를 지키는 조직에서 규율이 중요합니다."
+    },
+    {
+      "word_korean": "대열",
+      "word_hanja": "隊列",
+      "reading": "대열",
+      "easy_definition": "줄을 지어 늘어선 무리",
+      "etymology_dissection": "무리 대(隊)+벌일 열(列): 무리의 열",
+      "example_sentence": "대열을 맞추어 행진했습니다.",
+      "sentence_meaning": "줄을 맞추어 행진했습니다."
+    },
+    {
+      "word_korean": "부대",
+      "word_hanja": "部隊",
+      "reading": "부대",
+      "easy_definition": "군대의 한 단위",
+      "etymology_dissection": "거느릴 부(部)+무리 대(隊): 부분 무리",
+      "example_sentence": "부대가 이동했습니다.",
+      "sentence_meaning": "군대의 한 단위가 이동했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "군대는 규율이 매우 중요합니다. 운동회에서 대열을 맞추어 행진했습니다. 부대원들이 함께 훈련합니다.",
+    "passage_meaning": "군대, 대열, 부대 모두 '무리'를 뜻하는 隊에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'군대'의 뜻으로 알맞은 것은?",
+        "options": [
+          "상인들의 무리",
+          "나라를 지키는 무장 집단",
+          "학생들의 모임",
+          "시민 단체"
+        ],
+        "correct_answer": "나라를 지키는 무장 집단",
+        "explanation": "군대(軍隊)는 나라를 지키는 무장 집단입니다."
+      },
+      {
+        "question": "'대열'에서 '隊'의 뜻은?",
+        "options": [
+          "줄",
+          "무리·대열",
+          "사람",
+          "크다"
+        ],
+        "correct_answer": "무리·대열",
+        "explanation": "대열(隊列)의 隊는 '무리'로, 줄을 지어 늘어선 무리를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'군대'나 '대열'을 사용하여 문장을 써 보세요.",
+    "hint": "질서나 규율에 관한 내용을 담아 보세요.",
+    "example_answer": "대열을 맞추어 질서 있게 행진했습니다.",
+    "key_vocabulary": [
+      "군대",
+      "대열"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "군대의 규율이 엄격합니다.",
+      "대열을 맞추어 이동합니다.",
+      "부대원들이 단결합니다."
+    ],
+    "pronunciation_tips": "'대'을 명확하게 발음하며 읽어 보세요."
+  }
+}

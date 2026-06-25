@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "미",
+    "hanja_meaning": "쌀",
+    "hanja_char": "米",
+    "hanja_level": "6급",
+    "linked_subject": "사회, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "낟알이 흩어진 모습 — 쌀 미(米)",
+    "etymology_story": "'쌀 미(米)'는 낟알들이 중심에서 사방으로 퍼지는 모습이에요. 벼의 낟알을 탈곡한 것이 '쌀(米)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "미곡(米穀)",
+      "etymology_dissection": "쌀 미(米)+곡식 곡(穀)",
+      "easy_definition": "쌀을 중심으로 한 곡식",
+      "context_sentence": "미곡을 소중히 여겨요."
+    },
+    {
+      "word_korean": "백미(白米)",
+      "etymology_dissection": "흰 백(白)+쌀 미(米)",
+      "easy_definition": "흰 쌀",
+      "context_sentence": "백미밥이 맛있어요."
+    },
+    {
+      "word_korean": "현미(玄米)",
+      "etymology_dissection": "검을 현(玄)+쌀 미(米)",
+      "easy_definition": "껍질을 벗기지 않은 쌀",
+      "context_sentence": "현미가 건강에 좋아요."
+    },
+    {
+      "word_korean": "정미소(精米所)",
+      "etymology_dissection": "정할 정(精)+쌀 미(米)+바 소(所)",
+      "easy_definition": "쌀을 정제하는 곳",
+      "context_sentence": "정미소에서 쌀을 찧어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "쌀의 소중함",
+    "passage_text": "**백미(白米)** 한 공기에 농부의 땀이 담겨있어요. **미곡(米穀)**을 소중히 여기는 것이 감사의 시작이에요. **현미(玄米)**가 건강에 좋아요.",
+    "quiz": {
+      "question": "'백미(白米)'란?",
+      "choices": [
+        "현미",
+        "정미소",
+        "흰 쌀",
+        "미곡"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'백미(白米)'=흰 백+쌀 미, 도정하여 흰 빛이 나는 쌀이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "쌀(밥)의 소중함을 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "백미 한 공기를 위해 농부가 흘린 땀을 생각하면 밥 한 그릇이 더 소중해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'쌀 — 미(米)! 쌀 — 미(米)!' 열 번 외쳐요!"
+  }
+}

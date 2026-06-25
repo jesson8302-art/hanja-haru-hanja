@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "교",
+    "hanja_meaning": "가르칠",
+    "hanja_char": "敎",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 교육"
+  },
+  "step_1_etymology": {
+    "visual_title": "막대로 이끌어 가르치는 '가르칠 교(敎)'",
+    "etymology_story": "'가르칠 교(敎)'는 아이에게 산가지(수 세는 막대)를 들고 가르치는 어른의 모습이에요. 지식을 전달하는 행위가 이 글자에 담겨 있어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교육(敎育)",
+      "etymology_dissection": "가르칠 교(敎) + 기를 육(育) = 가르쳐 기르는 것",
+      "easy_definition": "지식·덕성·체력을 길러 주는 활동",
+      "context_sentence": "교육은 나라의 미래를 만들어요."
+    },
+    {
+      "word_korean": "교사(敎師)",
+      "etymology_dissection": "가르칠 교(敎) + 스승 사(師) = 가르치는 스승",
+      "easy_definition": "학교에서 학생을 가르치는 사람",
+      "context_sentence": "훌륭한 교사가 되는 것이 꿈이에요."
+    },
+    {
+      "word_korean": "교과(敎科)",
+      "etymology_dissection": "가르칠 교(敎) + 과목 과(科) = 가르치는 과목",
+      "easy_definition": "학교에서 가르치는 각 과목",
+      "context_sentence": "교과서는 교과 내용이 담긴 책이에요."
+    },
+    {
+      "word_korean": "종교(宗敎)",
+      "etymology_dissection": "마루 종(宗) + 가르칠 교(敎) = 가장 높은 가르침",
+      "easy_definition": "신을 믿고 따르는 신앙 체계",
+      "context_sentence": "다양한 종교가 평화롭게 공존해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "가르침의 힘",
+    "passage_text": "**교육(敎育)**은 씨앗을 심고 가꾸는 것과 같아요. 훌륭한 **교사(敎師)**는 지식뿐 아니라 삶의 방식도 가르쳐요. **교과(敎科)** 공부를 열심히 하면서 사람됨도 함께 키워야 해요.",
+    "quiz": {
+      "question": "'교육(敎育)'이란?",
+      "choices": [
+        "시험을 보는 것",
+        "지식·덕성·체력을 길러 주는 활동",
+        "책을 읽는 것",
+        "학교에 가는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'교육(敎育)'은 '가르칠 교 + 기를 육' = 가르쳐서 사람을 키우는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내게 가장 큰 영향을 준 가르침이나 선생님에 대해 써 보세요.",
+    "model_example": "교육이란 교사가 지식을 일방적으로 전달하는 게 아니라, 학생 스스로 생각하는 힘을 길러주는 것이라고 생각해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'가르칠 — 교(敎)! 가르칠 — 교(敎)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "健",
+    "hanja_sound": "건",
+    "hanja_meaning": "굳셀",
+    "full_reading": "굳셀 건",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "健",
+    "sound": "건",
+    "meaning": "굳셀",
+    "stroke_count": 11,
+    "radical": "人",
+    "etymology_story": "健은 사람(人)과 세우다·굳세다를 뜻하는 建(건)이 합쳐진 글자입니다. 사람이 굳건히 서 있는 모습에서 '굳세다', '건강하다'의 뜻이 생겼습니다.",
+    "memory_tip": "사람(人)이 굳건히(建) 서 있는 것이 '건강'입니다.",
+    "level_context": "5급 한자로, 굳셀을(를) 뜻하는 健입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "건강",
+      "word_hanja": "健康",
+      "reading": "건강",
+      "easy_definition": "몸과 마음이 튼튼한 상태",
+      "etymology_dissection": "굳셀 건(健)+편안할 강(康): 굳세고 편안함",
+      "example_sentence": "규칙적인 운동이 건강에 좋습니다.",
+      "sentence_meaning": "규칙적으로 운동하면 몸이 튼튼해집니다."
+    },
+    {
+      "word_korean": "건전",
+      "word_hanja": "健全",
+      "reading": "건전",
+      "easy_definition": "온전하고 바람직한 상태",
+      "etymology_dissection": "굳셀 건(健)+온전할 전(全): 굳세고 온전함",
+      "example_sentence": "건전한 취미를 가지세요.",
+      "sentence_meaning": "바람직하고 좋은 취미를 가지세요."
+    },
+    {
+      "word_korean": "강건",
+      "word_hanja": "強健",
+      "reading": "강건",
+      "easy_definition": "강하고 튼튼함",
+      "etymology_dissection": "강할 강(強)+굳셀 건(健): 강하고 굳셈",
+      "example_sentence": "할아버지께서 강건하게 지내십니다.",
+      "sentence_meaning": "할아버지께서 강하고 건강하게 사십니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "건강한 몸과 건전한 정신을 위해 매일 운동을 합니다. 강건한 체력은 공부에도 도움이 됩니다. 몸이 건강해야 무슨 일이든 잘 할 수 있습니다.",
+    "passage_meaning": "건강한 몸과 건전한 정신은 모든 활동의 기초가 됩니다.",
+    "questions": [
+      {
+        "question": "'건강'의 뜻으로 알맞은 것은?",
+        "options": [
+          "몸이 아픈 상태",
+          "몸과 마음이 튼튼한 상태",
+          "공부를 잘하는 것",
+          "운동을 싫어하는 것"
+        ],
+        "correct_answer": "몸과 마음이 튼튼한 상태",
+        "explanation": "건강(健康)은 몸과 마음이 튼튼한 상태입니다."
+      },
+      {
+        "question": "'건전'에서 '健'의 뜻은?",
+        "options": [
+          "아프다",
+          "굳세다",
+          "빠르다",
+          "느리다"
+        ],
+        "correct_answer": "굳세다",
+        "explanation": "건전(健全)의 健은 '굳세다'로, 바람직하고 온전한 상태를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'건강'이나 '건전'을 사용하여 생활 습관에 대한 문장을 써 보세요.",
+    "hint": "좋은 습관과 관련된 내용을 담아 보세요.",
+    "example_answer": "건강을 위해 매일 운동을 합니다.",
+    "key_vocabulary": [
+      "건강",
+      "건전"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "건강이 최고의 재산입니다.",
+      "건전한 취미를 가집시다.",
+      "강건한 체력을 키워봅시다."
+    ],
+    "pronunciation_tips": "'건'을 명확하게 발음하며 읽어 보세요."
+  }
+}

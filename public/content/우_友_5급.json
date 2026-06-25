@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "友",
+    "hanja_sound": "우",
+    "hanja_meaning": "벗",
+    "full_reading": "벗 우",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "友",
+    "sound": "우",
+    "meaning": "벗",
+    "stroke_count": 4,
+    "radical": "又",
+    "etymology_story": "友는 두 손(又)이 함께 있는 모습을 본뜬 글자입니다. 두 사람이 손을 잡고 함께하는 모습에서 '벗', '친구'의 뜻이 생겼습니다.",
+    "memory_tip": "두 손(又)이 맞잡은 것이 '벗(友)'입니다.",
+    "level_context": "5급 한자로, 벗을(를) 뜻하는 友입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "친구",
+      "word_hanja": "親友",
+      "reading": "친구",
+      "easy_definition": "가까운 벗",
+      "etymology_dissection": "친할 친(親)+벗 우(友): 가까운 벗",
+      "example_sentence": "친구와 놀았습니다.",
+      "sentence_meaning": "가까운 벗과 놀았습니다."
+    },
+    {
+      "word_korean": "우정",
+      "word_hanja": "友情",
+      "reading": "우정",
+      "easy_definition": "친구 사이의 정",
+      "etymology_dissection": "벗 우(友)+뜻 정(情): 친구의 정",
+      "example_sentence": "우정이 소중합니다.",
+      "sentence_meaning": "친구 사이의 정이 소중합니다."
+    },
+    {
+      "word_korean": "교우",
+      "word_hanja": "交友",
+      "reading": "교우",
+      "easy_definition": "친구를 사귐",
+      "etymology_dissection": "사귈 교(交)+벗 우(友): 사귀어 벗함",
+      "example_sentence": "좋은 교우 관계를 맺습니다.",
+      "sentence_meaning": "좋은 친구를 사귑니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "좋은 친구는 평생의 보물입니다. 진정한 우정은 어려울 때 더 빛납니다. 다양한 교우 관계를 통해 성장합니다.",
+    "passage_meaning": "친구, 우정, 교우 모두 '벗', '친구'를 뜻하는 友에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'우정'의 뜻은?",
+        "options": [
+          "가족 사이의 정",
+          "친구 사이의 정",
+          "이웃 사이의 정",
+          "모르는 사람의 정"
+        ],
+        "correct_answer": "친구 사이의 정",
+        "explanation": "우정(友情)은 친구 사이의 정입니다."
+      },
+      {
+        "question": "'友'의 뜻은?",
+        "options": [
+          "적",
+          "벗·친구",
+          "경쟁자",
+          "모르는 사람"
+        ],
+        "correct_answer": "벗·친구",
+        "explanation": "友는 '벗', '친구'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'우정'을 사용하여 문장을 써 보세요.",
+    "hint": "친구나 관계에 관한 내용을 담아 보세요.",
+    "example_answer": "진정한 우정은 어려울 때 더욱 빛납니다.",
+    "key_vocabulary": [
+      "친구",
+      "우정"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "친구가 소중합니다.",
+      "우정을 키웁니다.",
+      "좋은 교우를 사귑니다."
+    ],
+    "pronunciation_tips": "'우'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "銅",
+    "hanja_sound": "동",
+    "hanja_meaning": "구리",
+    "full_reading": "구리 동",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "銅",
+    "sound": "동",
+    "meaning": "구리",
+    "stroke_count": 14,
+    "radical": "金",
+    "etymology_story": "銅은 쇠(金)와 같을 동(同)이 합쳐진 글자입니다. 쇠 중에서도 구리색을 나타내며 '구리', '동(금속)'의 뜻이 생겼습니다.",
+    "memory_tip": "쇠(金)와 같은(同) 색의 금속이 '구리(銅)'입니다.",
+    "level_context": "5급 한자로, 구리을(를) 뜻하는 銅입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동상",
+      "word_hanja": "銅像",
+      "reading": "동상",
+      "easy_definition": "구리로 만든 상",
+      "etymology_dissection": "구리 동(銅)+모양 상(像): 구리 모양",
+      "example_sentence": "광장에 동상이 서 있습니다.",
+      "sentence_meaning": "광장에 구리로 만든 조각상이 있습니다."
+    },
+    {
+      "word_korean": "동메달",
+      "word_hanja": "銅메달",
+      "reading": "동메달",
+      "easy_definition": "3위에게 주는 구리 메달",
+      "etymology_dissection": "구리 동(銅)+메달: 구리 메달",
+      "example_sentence": "올림픽에서 동메달을 땄습니다.",
+      "sentence_meaning": "올림픽에서 3위 메달을 획득했습니다."
+    },
+    {
+      "word_korean": "청동",
+      "word_hanja": "靑銅",
+      "reading": "청동",
+      "easy_definition": "구리와 주석의 합금",
+      "etymology_dissection": "푸를 청(靑)+구리 동(銅): 푸른 구리",
+      "example_sentence": "청동기 시대 유물을 봤습니다.",
+      "sentence_meaning": "구리 합금 시대의 유물을 봤습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "올림픽에서 동메달을 따도 정말 대단한 성취입니다. 역사 박물관에서 청동기 유물을 봤습니다. 위인의 동상이 광장에 서 있습니다.",
+    "passage_meaning": "구리를 뜻하는 銅은 동상, 동메달, 청동 등 다양한 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'동메달'은 몇 위를 뜻합니까?",
+        "options": [
+          "1위",
+          "2위",
+          "3위",
+          "4위"
+        ],
+        "correct_answer": "3위",
+        "explanation": "동메달(銅메달)은 3위에게 주는 메달입니다."
+      },
+      {
+        "question": "'동상'에서 '銅'의 뜻은?",
+        "options": [
+          "돌",
+          "구리",
+          "금",
+          "은"
+        ],
+        "correct_answer": "구리",
+        "explanation": "동상(銅像)의 銅은 '구리'로, 구리로 만든 조각상을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'동상'이나 '청동'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 예술과 관련된 내용을 담아 보세요.",
+    "example_answer": "광장에 세워진 동상이 역사를 기억하게 합니다.",
+    "key_vocabulary": [
+      "동상",
+      "동메달"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "이순신 동상이 광화문에 있습니다.",
+      "청동기 시대 유물을 보았습니다.",
+      "동메달도 훌륭한 성취입니다."
+    ],
+    "pronunciation_tips": "'동'을 명확하게 발음하며 읽어 보세요."
+  }
+}

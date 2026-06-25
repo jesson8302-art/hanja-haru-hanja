@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "졸",
+    "hanja_meaning": "마칠",
+    "hanja_char": "卒",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "卒 — 옷에 표시를 달고 마친 병사",
+    "etymology_story": "衣(옷 의)에 표시가 된 모습의 글자입니다. 병역을 마친 병사처럼 '마치다', '졸병'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "졸업",
+      "word_hanja": "卒業",
+      "etymology_dissection": "卒(마칠 졸)+業(일 업) = 일을 마침",
+      "easy_definition": "학교의 전 과정을 마침",
+      "context_sentence": "올해 중학교를 **졸업**합니다."
+    },
+    {
+      "word_korean": "졸병",
+      "word_hanja": "卒兵",
+      "etymology_dissection": "卒(마칠 졸)+兵(병사 병) = 낮은 병사",
+      "easy_definition": "가장 낮은 계급의 병사",
+      "context_sentence": "**졸병**도 조직에 중요한 역할을 합니다."
+    },
+    {
+      "word_korean": "졸도",
+      "word_hanja": "卒倒",
+      "etymology_dissection": "卒(갑자기 졸)+倒(넘어질 도) = 갑자기 넘어짐",
+      "easy_definition": "갑자기 정신을 잃고 쓰러짐",
+      "context_sentence": "더위에 **졸도**한 선수가 병원으로 이송됐습니다."
+    },
+    {
+      "word_korean": "돌졸",
+      "word_hanja": "突卒",
+      "etymology_dissection": "突(갑자기 돌)+卒(갑자기 졸) = 갑자기",
+      "easy_definition": "갑자기, 급작스럽게",
+      "context_sentence": "**돌졸** 닥친 문제를 침착하게 해결했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "졸업의 의미",
+    "passage_text": "**졸업**은 끝이 아니라 새로운 시작입니다. 학교를 **졸업**하면 그동안 배운 것을 가지고 더 넓은 세상으로 나아갑니다. 졸업장은 과정을 마쳤다는 증명이지만, 진정한 배움은 평생 계속됩니다. 세상에는 **졸업**이 없는 배움의 영역들이 있습니다. 인간관계, 창의성, 감성 지능 같은 것들은 평생 공부해야 합니다. **졸업** 후에도 배움을 계속하는 사람이 진정한 의미의 학습자입니다.",
+    "quiz": {
+      "question": "졸업에 대한 글의 핵심 주장은?",
+      "choices": [
+        "졸업은 모든 것의 끝이다",
+        "졸업은 끝이 아니라 새로운 시작이다",
+        "졸업장이 가장 중요하다",
+        "졸업 후에는 공부가 필요 없다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 졸업은 끝이 아니라 새로운 시작이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'졸업'을 사용해서 학교를 마친 후 하고 싶은 것에 대해 써보세요.",
+    "model_example": "중학교를 **졸업**하면 더 많은 책을 읽고, 다양한 취미를 탐구하며, 더 넓은 세상을 경험해보고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "卒(졸) — 마칠 졸! 졸업·졸병·졸도 모두 여기서! 졸업처럼 잘 마쳤어요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "인",
+    "hanja_meaning": "인할",
+    "hanja_char": "因",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "因 — 큰 자리에 사람이 기대다",
+    "etymology_story": "囗(에울 위, 큰 자리 뜻)와 大(큰 대)가 합쳐진 글자입니다. 사람이 무언가에 기대어 의존하는 모습에서 '인하다', '원인'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "원인",
+      "word_hanja": "原因",
+      "etymology_dissection": "原(근원 원)+因(인할 인) = 근본 원인",
+      "easy_definition": "어떤 일이 생기게 된 처음 이유",
+      "context_sentence": "사고의 **원인**을 정확히 밝혀야 합니다."
+    },
+    {
+      "word_korean": "요인",
+      "word_hanja": "要因",
+      "etymology_dissection": "要(구할 요)+因(인할 인) = 중요한 원인",
+      "easy_definition": "결과에 영향을 주는 중요한 원인이나 조건",
+      "context_sentence": "성공의 주요 **요인**은 꾸준한 노력입니다."
+    },
+    {
+      "word_korean": "인과",
+      "word_hanja": "因果",
+      "etymology_dissection": "因(인할 인)+果(열매 과) = 원인과 결과",
+      "easy_definition": "원인과 결과의 관계",
+      "context_sentence": "모든 일에는 **인과** 관계가 있습니다."
+    },
+    {
+      "word_korean": "기인",
+      "word_hanja": "起因",
+      "etymology_dissection": "起(일어날 기)+因(인할 인) = 일어난 원인",
+      "easy_definition": "어떤 현상이 생기게 된 원인",
+      "context_sentence": "이 문제는 오해에서 **기인**한 것입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "원인과 결과",
+    "passage_text": "불교에서는 **인과**응보를 중요한 진리로 여깁니다. 좋은 **원인**은 좋은 결과를, 나쁜 **원인**은 나쁜 결과를 낳는다는 것입니다. 과학에서도 **인과** 관계는 핵심 개념입니다. 어떤 현상의 **요인**을 밝혀야 그 현상을 설명할 수 있습니다. 역사적 사건도 단순한 한 가지 **원인**이 아니라 여러 복합적 **요인**이 **기인**하여 발생합니다.",
+    "quiz": {
+      "question": "인과응보의 의미로 알맞은 것은?",
+      "choices": [
+        "강한 자가 이긴다",
+        "좋은 원인은 좋은 결과를, 나쁜 원인은 나쁜 결과를 낳는다",
+        "노력하면 무조건 성공한다",
+        "결과보다 과정이 중요하다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "인과응보는 좋은 원인은 좋은 결과를, 나쁜 원인은 나쁜 결과를 낳는다는 뜻입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'원인'이나 '인과'를 사용해서 일상에서 경험한 원인과 결과를 써보세요.",
+    "model_example": "밤늦게까지 게임을 한 **원인**으로 다음 날 졸려서 공부가 안 됐습니다. 이 **인과** 관계를 깨닫고 일찍 자기로 했습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "因(인) — 인할 인! 원인·요인·인과·기인 모두 여기서! 훌륭해요!"
+  }
+}

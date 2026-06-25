@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "斤",
+    "hanja_sound": "근",
+    "hanja_meaning": "날",
+    "full_reading": "날 근",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "斤",
+    "sound": "근",
+    "meaning": "날",
+    "stroke_count": 4,
+    "radical": "斤",
+    "etymology_story": "斤은 도끼의 모양을 본뜬 글자입니다. 도끼로 나무를 찍는 모습에서 '도끼', '무게 단위(근)'의 뜻이 생겼습니다.",
+    "memory_tip": "도끼의 모양이 바로 '斤(날, 도끼)'입니다.",
+    "level_context": "5급 한자로, 날을(를) 뜻하는 斤입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "근량",
+      "word_hanja": "斤量",
+      "reading": "근량",
+      "easy_definition": "무게",
+      "etymology_dissection": "날 근(斤)+헤아릴 량(量): 근으로 헤아린 무게",
+      "example_sentence": "과일의 근량을 달았습니다.",
+      "sentence_meaning": "과일의 무게를 달았습니다."
+    },
+    {
+      "word_korean": "천근",
+      "word_hanja": "千斤",
+      "reading": "천근",
+      "easy_definition": "천 근, 매우 무거운 것을 비유",
+      "etymology_dissection": "일천 천(千)+날 근(斤): 천 근의 무게",
+      "example_sentence": "피곤함에 눈꺼풀이 천근입니다.",
+      "sentence_meaning": "너무 피곤해서 눈이 매우 무겁게 느껴집니다."
+    },
+    {
+      "word_korean": "근",
+      "word_hanja": "斤",
+      "reading": "근",
+      "easy_definition": "무게의 단위(약 600g)",
+      "etymology_dissection": "날 근(斤): 무게 단위",
+      "example_sentence": "고기 한 근을 샀습니다.",
+      "sentence_meaning": "고기 약 600그램을 샀습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "전통 시장에서는 고기나 생선을 '근'으로 팝니다. 피곤하면 눈꺼풀이 천근같이 무거워집니다. 도끼(斤)는 예로부터 무게를 나타내는 기준이었습니다.",
+    "passage_meaning": "斤은 도끼를 뜻하는 한자에서 무게 단위로 발전한 글자입니다.",
+    "questions": [
+      {
+        "question": "'天斤'에서 '斤'의 뜻은?",
+        "options": [
+          "시간",
+          "무게 단위·도끼",
+          "거리",
+          "사람"
+        ],
+        "correct_answer": "무게 단위·도끼",
+        "explanation": "斤은 도끼를 뜻하며, 무게 단위로도 쓰입니다."
+      },
+      {
+        "question": "전통 시장에서 '한 근'은 약 얼마입니까?",
+        "options": [
+          "약 100g",
+          "약 300g",
+          "약 600g",
+          "약 1000g"
+        ],
+        "correct_answer": "약 600g",
+        "explanation": "한 근은 약 600그램입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'근량'이나 '한 근'을 사용하여 문장을 써 보세요.",
+    "hint": "전통 시장이나 무게와 관련된 내용을 담아 보세요.",
+    "example_answer": "전통 시장에서 고기 두 근을 샀습니다.",
+    "key_vocabulary": [
+      "근량",
+      "천근"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "고기 한 근을 주세요.",
+      "근량을 달아보니 딱 맞았습니다.",
+      "눈꺼풀이 천근처럼 무겁습니다."
+    ],
+    "pronunciation_tips": "'근'을 명확하게 발음하며 읽어 보세요."
+  }
+}

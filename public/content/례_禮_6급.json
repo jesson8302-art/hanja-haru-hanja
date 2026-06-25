@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "례",
+    "hanja_meaning": "예도",
+    "hanja_char": "禮",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "신에게 제사 드리는 예 — 예도 례(禮)",
+    "etymology_story": "'예도 례(禮)'는 신(示)과 예기(豊, 제사 그릇)가 합쳐진 글자예요. 신(示)에게 제사 그릇(豊)으로 정성껏 올리는 것이 '예도(禮)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "예의(禮儀)",
+      "etymology_dissection": "예도 례(禮)+의식 의(儀)",
+      "easy_definition": "상대를 공경하는 행동",
+      "context_sentence": "예의를 갖춰요."
+    },
+    {
+      "word_korean": "예절(禮節)",
+      "etymology_dissection": "예도 례(禮)+마디 절(節)",
+      "easy_definition": "상황에 맞는 예의",
+      "context_sentence": "예절을 지켜요."
+    },
+    {
+      "word_korean": "경례(敬禮)",
+      "etymology_dissection": "공경할 경(敬)+예도 례(禮)",
+      "easy_definition": "존경을 표하는 인사",
+      "context_sentence": "경례를 해요."
+    },
+    {
+      "word_korean": "실례(失禮)",
+      "etymology_dissection": "잃을 실(失)+예도 례(禮)",
+      "easy_definition": "예를 잃는 것",
+      "context_sentence": "실례를 사과해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "예의 바른 사람",
+    "passage_text": "**예의(禮儀)**와 **예절(禮節)**을 지키는 사람이 존경받아요. **경례(敬禮)**는 공경의 표현이에요. **실례(失禮)**를 했을 때는 진심으로 사과해요.",
+    "quiz": {
+      "question": "'예절(禮節)'이란?",
+      "choices": [
+        "경례",
+        "실례",
+        "상황에 맞는 예의",
+        "예의"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'예절(禮節)'=예도 례+마디 절, 상황마다 맞는 예의 바른 행동이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "예의를 지켜서 좋은 관계를 맺은 경험을 문장으로 써 보세요.",
+    "model_example": "경례처럼 예절을 지키면 실례 없이 예의 바른 사람으로 인정받아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'예도 — 례(禮)! 예도 — 례(禮)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "초",
+    "hanja_meaning": "풀",
+    "hanja_char": "草",
+    "hanja_level": "7급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "풀이 돋아나다 — 풀 초(草)",
+    "etymology_story": "'풀 초(草)'는 풀(艸)과 이를 조(早)가 합쳐진 글자예요. 이른 봄에 제일 먼저 돋아나는 것이 바로 풀(草)이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "초원(草原)",
+      "etymology_dissection": "풀 초(草)+들 원(原)",
+      "easy_definition": "풀이 넓게 자란 들판",
+      "context_sentence": "초원에서 말이 달려요."
+    },
+    {
+      "word_korean": "잡초(雜草)",
+      "etymology_dissection": "잡될 잡(雜)+풀 초(草)",
+      "easy_definition": "제멋대로 자라는 풀",
+      "context_sentence": "잡초를 뽑아요."
+    },
+    {
+      "word_korean": "초식(草食)",
+      "etymology_dissection": "풀 초(草)+밥 식(食)",
+      "easy_definition": "풀을 먹는 것",
+      "context_sentence": "초식 동물이 초원에서 풀을 먹어요."
+    },
+    {
+      "word_korean": "초가집(草家집)",
+      "etymology_dissection": "풀 초(草)+집 가(家)+집",
+      "easy_definition": "볏짚으로 지붕을 인 집",
+      "context_sentence": "초가집이 정겨워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "풀의 생명력",
+    "passage_text": "**잡초(雜草)**처럼 어디서든 살아남는 생명력을 가져요. **초원(草原)**은 생명의 들판이에요. **초식(草食)** 동물도 풀 하나로 힘차게 달려요.",
+    "quiz": {
+      "question": "'잡초(雜草)'란?",
+      "choices": [
+        "초원",
+        "제멋대로 자라는 풀",
+        "초가집",
+        "초식"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'잡초(雜草)'=잡될 잡+풀 초, 여기저기 제멋대로 자라는 풀이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "잡초처럼 강한 생명력이나 포기하지 않은 경험을 문장으로 써 보세요.",
+    "model_example": "잡초처럼 어떤 환경에서도 자라는 강한 생명력이 바로 내가 닮고 싶은 모습이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'풀 — 초(草)! 풀 — 초(草)!' 열 번 외쳐요!"
+  }
+}

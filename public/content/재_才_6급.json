@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "재",
+    "hanja_meaning": "재주",
+    "hanja_char": "才",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "才 — 땅에서 싹트는 씨앗의 힘",
+    "etymology_story": "才(재)는 씨앗이 땅에서 갓 싹튼 모양이에요. 타고난 능력이 싹트듯, '재주·재능'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "재능(才能)",
+      "etymology_dissection": "재주 재(才)+능할 능(能)",
+      "easy_definition": "타고난 능력",
+      "context_sentence": "그 아이는 그림 재능이 뛰어나요."
+    },
+    {
+      "word_korean": "천재(天才)",
+      "etymology_dissection": "하늘 천(天)+재주 재(才)",
+      "easy_definition": "하늘이 준 뛰어난 재주",
+      "context_sentence": "모차르트는 음악 천재였어요."
+    },
+    {
+      "word_korean": "인재(人才)",
+      "etymology_dissection": "사람 인(人)+재주 재(才)",
+      "easy_definition": "뛰어난 능력을 가진 사람",
+      "context_sentence": "우리나라는 훌륭한 인재가 많아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "저마다의 재능",
+    "passage_text": "누구에게나 재능(才能)이 있어요. 어떤 친구는 달리기를 잘하고, 어떤 친구는 그림을 잘 그려요. 타고난 재주를 열심히 키우면 인재(人才)가 될 수 있어요. 천재(天才)가 아니어도 노력하면 빛날 수 있어요.",
+    "quiz": {
+      "question": "'재능'의 뜻은?",
+      "choices": [
+        "타고난 능력",
+        "배운 지식",
+        "좋아하는 취미",
+        "친구 관계"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "재능(才能)은 '재주 재(才)+능할 능(能)'으로, 타고나거나 갈고 닦아 생긴 뛰어난 능력이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 잘하거나 좋아하는 것을 한 가지 써 보고, 그것을 더 키우려면 어떻게 하면 좋을지 써 보세요.",
+    "model_example": "예) 저는 요리하는 것을 좋아해요. 요리 재능을 키우려면 요리 책을 보고 직접 만들어 봐야 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "才(재)! 네 안에 숨어있는 재능을 꺼내 봐요! 훌륭해요! 🌱"
+  }
+}

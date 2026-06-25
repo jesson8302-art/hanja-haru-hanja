@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "직",
+    "hanja_meaning": "직분",
+    "hanja_char": "職",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "職 — 귀로 듣고 맡은 일을 행하다",
+    "etymology_story": "耳(귀 이)와 戠(표시할 직)이 합쳐진 글자입니다. 윗사람의 명을 귀로 듣고 그것을 표시하여 맡은 바 임무를 수행한다는 뜻에서 '직분', '직업'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "직업",
+      "word_hanja": "職業",
+      "etymology_dissection": "職(직분 직)+業(일 업) = 맡은 일",
+      "easy_definition": "생계를 위해 규칙적으로 하는 일",
+      "context_sentence": "꿈의 **직업**을 위해 열심히 준비하고 있습니다."
+    },
+    {
+      "word_korean": "직장",
+      "word_hanja": "職場",
+      "etymology_dissection": "職(직분 직)+場(마당 장) = 일하는 곳",
+      "easy_definition": "일을 하는 곳",
+      "context_sentence": "부모님은 매일 **직장**에 출근하십니다."
+    },
+    {
+      "word_korean": "직책",
+      "word_hanja": "職責",
+      "etymology_dissection": "職(직분 직)+責(꾸짖을 책) = 직분의 책임",
+      "easy_definition": "맡은 직위에 따르는 임무와 책임",
+      "context_sentence": "반장의 **직책**을 맡아 열심히 하겠습니다."
+    },
+    {
+      "word_korean": "퇴직",
+      "word_hanja": "退職",
+      "etymology_dissection": "退(물러날 퇴)+職(직분 직) = 직분에서 물러남",
+      "easy_definition": "직장이나 직위에서 물러나는 것",
+      "context_sentence": "할아버지께서 올해 **퇴직**하셨습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "미래의 직업",
+    "passage_text": "인공지능이 발전하면서 미래의 **직업** 환경이 크게 변하고 있습니다. 일부 **직업**은 사라지고, 지금은 없는 새로운 **직업**이 생겨날 것입니다. 중요한 것은 어떤 **직장**에서 일하든 자신의 **직책**에 최선을 다하는 자세입니다. 또한 평생 배우고 성장하는 능력이 미래 사회에서 더욱 중요해질 것입니다.",
+    "quiz": {
+      "question": "미래에 대한 설명으로 글의 내용과 맞지 않는 것은?",
+      "choices": [
+        "일부 직업이 사라질 것이다",
+        "새로운 직업이 생겨날 것이다",
+        "모든 직업이 사라질 것이다",
+        "직책에 최선을 다하는 자세가 중요하다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서는 일부 직업이 사라지고 새로운 직업이 생긴다고 했으며, 모든 직업이 사라진다는 내용은 없습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'직업'을 사용해서 자신이 원하는 미래 직업과 그 이유를 써보세요.",
+    "model_example": "저의 꿈의 **직업**은 의사인데, 아픈 사람들을 돕는 일이 정말 가치 있다고 생각하기 때문입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "職(직) — 직분 직! 직업·직장·직책 모두 여기서! 멋져요!"
+  }
+}

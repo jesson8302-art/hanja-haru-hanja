@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "진",
+    "hanja_meaning": "나아갈",
+    "hanja_char": "進",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "進 — 새가 앞으로 나아가다",
+    "etymology_story": "辶(갈 착)과 隹(새 추)가 합쳐진 글자입니다. 새가 앞으로 날아가는 모습에서 '나아가다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "진보",
+      "word_hanja": "進步",
+      "etymology_dissection": "進(나아갈 진)+步(걸음 보) = 나아가는 걸음",
+      "easy_definition": "더 발전된 방향으로 나아감",
+      "context_sentence": "과학 기술이 빠르게 **진보**하고 있습니다."
+    },
+    {
+      "word_korean": "전진",
+      "word_hanja": "前進",
+      "etymology_dissection": "前(앞 전)+進(나아갈 진) = 앞으로 나아감",
+      "easy_definition": "앞으로 나아감",
+      "context_sentence": "어려움이 있어도 **전진**해야 합니다."
+    },
+    {
+      "word_korean": "진학",
+      "word_hanja": "進學",
+      "etymology_dissection": "進(나아갈 진)+學(배울 학) = 배움으로 나아감",
+      "easy_definition": "상위 학교로 올라가 공부함",
+      "context_sentence": "중학교 졸업 후 고등학교로 **진학**합니다."
+    },
+    {
+      "word_korean": "촉진",
+      "word_hanja": "促進",
+      "etymology_dissection": "促(재촉할 촉)+進(나아갈 진) = 재촉하여 나아감",
+      "easy_definition": "일이 빨리 이루어지도록 재촉함",
+      "context_sentence": "운동은 혈액 순환을 **촉진**합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "진보란 무엇인가",
+    "passage_text": "**진보**는 단순히 새로운 것이 생기는 것이 아닙니다. 인류의 삶의 질이 실제로 나아지는 것이 진정한 **진보**입니다. 의학의 **진보**로 수명이 늘었고, 기술의 **진보**로 생산성이 높아졌습니다. 그러나 **진보**가 모든 사람에게 혜택을 주지 않고 불평등을 심화시킨다면 진정한 **진보**라 할 수 없습니다. 우리 모두가 함께 **전진**할 수 있는 방향이 참다운 **진보**입니다.",
+    "quiz": {
+      "question": "진정한 진보의 의미로 글에서 설명한 것은?",
+      "choices": [
+        "새로운 기술을 발명하는 것",
+        "인류의 삶의 질이 실제로 나아지는 것",
+        "더 많은 돈을 버는 것",
+        "빠르게 변화하는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 진정한 진보는 단순히 새로운 것이 생기는 것이 아니라 인류의 삶의 질이 실제로 나아지는 것이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'진보'나 '전진'을 사용해서 자신이 성장하고 싶은 방향에 대해 써보세요.",
+    "model_example": "조금씩이라도 매일 **전진**하다 보면, 1년 뒤에는 분명히 더 나은 방향으로 **진보**해 있을 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "進(진) — 나아갈 진! 진보·전진·진학·촉진 모두 여기서! 대단해요!"
+  }
+}

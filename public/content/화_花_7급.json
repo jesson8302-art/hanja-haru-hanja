@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "꽃",
+    "hanja_char": "花",
+    "hanja_level": "7급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 꽃처럼 변화하다 — 꽃 화(花)",
+    "etymology_story": "'꽃 화(花)'는 풀(艸)과 변화할 화(化)가 합쳐진 글자예요. 풀이 변화하여 아름다운 꽃이 피어나는 것을 표현했어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "화분(花盆)",
+      "etymology_dissection": "꽃 화(花)+동이 분(盆)",
+      "easy_definition": "꽃을 심는 그릇",
+      "context_sentence": "화분에 꽃을 심어요."
+    },
+    {
+      "word_korean": "화단(花壇)",
+      "etymology_dissection": "꽃 화(花)+단 단(壇)",
+      "easy_definition": "꽃을 심어 가꾸는 곳",
+      "context_sentence": "학교 화단이 아름다워요."
+    },
+    {
+      "word_korean": "꽃(花)",
+      "etymology_dissection": "꽃 화(花)",
+      "easy_definition": "식물의 꽃",
+      "context_sentence": "봄에 꽃이 피어요."
+    },
+    {
+      "word_korean": "화환(花環)",
+      "etymology_dissection": "꽃 화(花)+고리 환(環)",
+      "easy_definition": "꽃으로 만든 둥근 장식",
+      "context_sentence": "졸업식에 화환을 보냈어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "꽃의 아름다움",
+    "passage_text": "**화단(花壇)**에 꽃이 피면 마음이 밝아져요. **화분(花盆)**에 꽃을 키우며 생명의 소중함을 배워요. **화환(花環)**은 축하와 위로의 마음이에요.",
+    "quiz": {
+      "question": "'화단(花壇)'이란?",
+      "choices": [
+        "화분",
+        "꽃으로 만든 장식",
+        "꽃을 심어 가꾸는 곳",
+        "꽃"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'화단(花壇)'=꽃 화+단 단, 꽃을 심어 가꾸는 화원이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "꽃이나 식물을 기른 경험, 또는 꽃처럼 아름다운 순간을 문장으로 써 보세요.",
+    "model_example": "화단의 꽃처럼 보살핌을 받으며 자란 나는 언젠가 화환이 되어 남을 축하해 주고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'꽃 — 화(花)! 꽃 — 화(花)!' 열 번 외쳐요!"
+  }
+}

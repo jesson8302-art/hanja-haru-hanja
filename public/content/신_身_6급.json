@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "신",
+    "hanja_meaning": "몸",
+    "hanja_char": "身",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "임신한 여자의 배 — 몸 신(身)",
+    "etymology_story": "'몸 신(身)'은 임신한 여자의 배가 불러 있는 모습이에요. 새 생명을 품은 몸에서 '몸(身)'이라는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신체(身體)",
+      "etymology_dissection": "몸 신(身)+몸 체(體)",
+      "easy_definition": "사람의 몸",
+      "context_sentence": "신체 건강이 중요해요."
+    },
+    {
+      "word_korean": "단신(短身)",
+      "etymology_dissection": "짧을 단(短)+몸 신(身)",
+      "easy_definition": "키가 작은 것",
+      "context_sentence": "단신이지만 당당해요."
+    },
+    {
+      "word_korean": "신분(身分)",
+      "etymology_dissection": "몸 신(身)+나눌 분(分)",
+      "easy_definition": "사회적 지위",
+      "context_sentence": "신분증을 확인해요."
+    },
+    {
+      "word_korean": "헌신(獻身)",
+      "etymology_dissection": "드릴 헌(獻)+몸 신(身)",
+      "easy_definition": "몸을 바쳐 봉사하는 것",
+      "context_sentence": "헌신적으로 돕는 분이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "몸과 헌신",
+    "passage_text": "**신체(身體)**를 건강하게 가꿔요. **헌신(獻身)**적인 사람이 존경받아요. **신분(身分)**보다 노력이 중요해요.",
+    "quiz": {
+      "question": "'헌신(獻身)'이란?",
+      "choices": [
+        "신체",
+        "단신",
+        "몸을 바쳐 봉사하는 것",
+        "신분"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'헌신(獻身)'=드릴 헌+몸 신, 자신의 몸을 바쳐 봉사하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "헌신적으로 누군가를 돕거나 몸을 아끼지 않은 경험을 문장으로 써 보세요.",
+    "model_example": "헌신적으로 신체를 단련하고 노력하면 어떤 신분도 뛰어넘을 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'몸 — 신(身)! 몸 — 신(身)!' 열 번 외쳐요!"
+  }
+}

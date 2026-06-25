@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "은",
+    "hanja_meaning": "은",
+    "hanja_char": "銀",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "銀 — 빛나는 흰 금속",
+    "etymology_story": "銀(은)은 쇠 금(金)과 어질 간(艮)이 합쳐진 글자예요. 금속 중 하얗게 빛나는 것이 '은'이에요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "은행(銀行)",
+      "etymology_dissection": "은 은(銀)+다닐 행(行)",
+      "easy_definition": "돈을 맡기고 찾는 곳",
+      "context_sentence": "엄마와 함께 은행에 가서 저금했어요."
+    },
+    {
+      "word_korean": "은메달(銀medal)",
+      "etymology_dissection": "은 은(銀)+메달",
+      "easy_definition": "운동 경기에서 2등에게 주는 메달",
+      "context_sentence": "올림픽에서 은메달을 땄어요."
+    },
+    {
+      "word_korean": "은빛(銀빛)",
+      "etymology_dissection": "은 은(銀)+빛",
+      "easy_definition": "하얗게 반짝이는 빛",
+      "context_sentence": "눈이 내리자 세상이 은빛으로 변했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "저금통의 은빛 동전",
+    "passage_text": "하준이는 저금통에 동전을 모아요. 은빛(銀빛) 100원짜리 동전이 반짝거려요. 동전이 가득 차면 은행(銀行)에 가져가서 저금할 거예요. 언젠가는 은메달처럼 빛나는 사람이 되고 싶다고 생각했어요.",
+    "quiz": {
+      "question": "'은행'이 하는 일은?",
+      "choices": [
+        "돈을 맡기고 찾는 곳",
+        "음식을 파는 곳",
+        "책을 빌려주는 곳",
+        "옷을 만드는 곳"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "은행(銀行)은 '은 은(銀)+다닐 행(行)'으로, 돈이 오가는(行) 곳이에요. 돈을 맡기거나 빌릴 수 있어요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 저금통에 돈을 모아 무엇을 하고 싶은지 써 보세요. 왜 그것을 원하나요?",
+    "model_example": "예) 저는 강아지 용품을 사고 싶어서 저금하고 있어요. 매달 용돈의 반을 저금통에 넣어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "銀(은)! 반짝반짝 빛나는 어린이! 훌륭해요! 🥈"
+  }
+}

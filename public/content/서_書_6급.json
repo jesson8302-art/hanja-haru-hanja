@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "서",
+    "hanja_meaning": "글",
+    "hanja_char": "書",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "붓으로 쓰다 — 글 서(書)",
+    "etymology_story": "'글 서(書)'는 붓(聿)과 말씀 왈(曰)이 합쳐진 글자예요. 붓(聿)으로 말(曰)을 기록하는 것이 '글(書)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "독서(讀書)",
+      "etymology_dissection": "읽을 독(讀)+글 서(書)",
+      "easy_definition": "책 읽기",
+      "context_sentence": "독서가 최고예요."
+    },
+    {
+      "word_korean": "서점(書店)",
+      "etymology_dissection": "글 서(書)+가게 점(店)",
+      "easy_definition": "책 파는 가게",
+      "context_sentence": "서점에서 책을 샀어요."
+    },
+    {
+      "word_korean": "도서관(圖書館)",
+      "etymology_dissection": "그림 도(圖)+글 서(書)+집 관(館)",
+      "easy_definition": "책을 모아둔 곳",
+      "context_sentence": "도서관을 이용해요."
+    },
+    {
+      "word_korean": "서예(書藝)",
+      "etymology_dissection": "글 서(書)+재주 예(藝)",
+      "easy_definition": "붓으로 글씨를 쓰는 예술",
+      "context_sentence": "서예를 배워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "글의 힘",
+    "passage_text": "**독서(讀書)**가 최고의 공부예요. **서예(書藝)**로 마음을 다스려요. **도서관(圖書館)**은 누구나 이용할 수 있어요.",
+    "quiz": {
+      "question": "'서예(書藝)'란?",
+      "choices": [
+        "독서",
+        "서점",
+        "붓으로 글씨를 쓰는 예술",
+        "도서관"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'서예(書藝)'=글 서+재주 예, 붓으로 아름다운 글씨를 쓰는 예술이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "독서나 글쓰기가 도움이 된 경험을 문장으로 써 보세요.",
+    "model_example": "독서로 쌓은 지식을 서예처럼 아름다운 글로 표현할 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'글 — 서(書)! 글 — 서(書)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "臣",
+    "hanja_sound": "신",
+    "hanja_meaning": "신하",
+    "full_reading": "신하 신",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "臣",
+    "sound": "신",
+    "meaning": "신하",
+    "stroke_count": 7,
+    "radical": "臣",
+    "etymology_story": "臣은 엎드린 눈의 모양을 본뜬 글자입니다. 임금 앞에 엎드린 신하의 눈 모습에서 '신하', '종'의 뜻이 생겼습니다.",
+    "memory_tip": "임금 앞에 엎드린 신하의 눈 모양이 '臣'입니다.",
+    "level_context": "5급 한자로, 신하을(를) 뜻하는 臣입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신하",
+      "word_hanja": "臣下",
+      "reading": "신하",
+      "easy_definition": "임금을 섬기는 관리",
+      "etymology_dissection": "신하 신(臣)+아래 하(下): 아래의 신하",
+      "example_sentence": "충성스러운 신하가 나라를 도왔습니다.",
+      "sentence_meaning": "충성스러운 관리가 나라를 도왔습니다."
+    },
+    {
+      "word_korean": "충신",
+      "word_hanja": "忠臣",
+      "reading": "충신",
+      "easy_definition": "충성스러운 신하",
+      "etymology_dissection": "충성 충(忠)+신하 신(臣): 충성스러운 신하",
+      "example_sentence": "이순신은 충신입니다.",
+      "sentence_meaning": "이순신은 충성스러운 신하입니다."
+    },
+    {
+      "word_korean": "간신",
+      "word_hanja": "奸臣",
+      "reading": "간신",
+      "easy_definition": "간사한 신하",
+      "etymology_dissection": "간사할 간(奸)+신하 신(臣): 간사한 신하",
+      "example_sentence": "간신이 나라를 망쳤습니다.",
+      "sentence_meaning": "간사한 신하가 나라를 망쳤습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "이순신 장군은 나라를 지킨 위대한 충신입니다. 충신과 간신의 차이는 충성심에 있습니다. 신하들이 임금을 보좌했습니다.",
+    "passage_meaning": "신하, 충신, 간신 모두 '신하'를 뜻하는 臣에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'충신'의 뜻은?",
+        "options": [
+          "간사한 신하",
+          "충성스러운 신하",
+          "게으른 신하",
+          "무능한 신하"
+        ],
+        "correct_answer": "충성스러운 신하",
+        "explanation": "충신(忠臣)은 충성스러운 신하입니다."
+      },
+      {
+        "question": "'臣'의 뜻은?",
+        "options": [
+          "임금",
+          "신하",
+          "백성",
+          "상인"
+        ],
+        "correct_answer": "신하",
+        "explanation": "臣은 '신하'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'충신'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 충성에 관한 내용을 담아 보세요.",
+    "example_answer": "이순신 장군처럼 나라를 사랑하는 충신이 필요합니다.",
+    "key_vocabulary": [
+      "신하",
+      "충신"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "충신이 나라를 지킵니다.",
+      "신하들이 임금을 보좌합니다.",
+      "간신은 나라를 망칩니다."
+    ],
+    "pronunciation_tips": "'신'을 명확하게 발음하며 읽어 보세요."
+  }
+}

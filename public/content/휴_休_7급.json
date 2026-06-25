@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "휴",
+    "hanja_meaning": "쉴",
+    "hanja_char": "休",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무 아래서 쉬다 — 쉴 휴(休)",
+    "etymology_story": "'쉴 휴(休)'는 사람(人)이 나무(木) 아래에 기대어 쉬는 모습이에요. 나무 그늘 아래서 한숨 돌리는 것이 '쉬는 것(休)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "휴식(休息)",
+      "etymology_dissection": "쉴 휴(休)+숨쉴 식(息)",
+      "easy_definition": "쉬면서 기운을 회복하는 것",
+      "context_sentence": "충분한 휴식이 필요해요."
+    },
+    {
+      "word_korean": "휴일(休日)",
+      "etymology_dissection": "쉴 휴(休)+날 일(日)",
+      "easy_definition": "쉬는 날",
+      "context_sentence": "휴일에 가족과 시간을 보내요."
+    },
+    {
+      "word_korean": "휴가(休暇)",
+      "etymology_dissection": "쉴 휴(休)+겨를 가(暇)",
+      "easy_definition": "허락을 받아 쉬는 기간",
+      "context_sentence": "방학이 긴 휴가예요."
+    },
+    {
+      "word_korean": "휴게소(休憩所)",
+      "etymology_dissection": "쉴 휴(休)+쉴 게(憩)+바 소(所)",
+      "easy_definition": "쉬어가는 곳",
+      "context_sentence": "고속도로 휴게소에 들렀어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "쉼의 가치",
+    "passage_text": "**휴식(休息)**이 있어야 더 멀리 가요. **휴일(休日)**을 보람 있게 보내요. **휴가(休暇)**는 재충전의 시간이에요. **휴게소(休憩所)**처럼 삶에도 쉬어가는 순간이 필요해요.",
+    "quiz": {
+      "question": "'휴식(休息)'이란?",
+      "choices": [
+        "쉬는 날",
+        "쉬면서 기운을 회복하는 것",
+        "휴가",
+        "쉬어가는 곳"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'휴식(休息)'=쉴 휴+숨쉴 식, 쉬면서 기운을 되찾는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "쉼이 오히려 도움이 된 경험을 문장으로 써 보세요.",
+    "model_example": "휴일의 충분한 휴식이 있어야 다음 날 더 열심히 할 수 있다는 걸 알게 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'쉴 — 휴(休)! 쉴 — 휴(休)!' 열 번 외쳐요!"
+  }
+}

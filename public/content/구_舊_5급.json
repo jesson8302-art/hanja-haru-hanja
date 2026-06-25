@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "舊",
+    "hanja_sound": "구",
+    "hanja_meaning": "옛",
+    "full_reading": "옛 구",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "舊",
+    "sound": "구",
+    "meaning": "옛",
+    "stroke_count": 18,
+    "radical": "臼",
+    "etymology_story": "舊는 새(隹)와 절구(臼)가 합쳐진 글자입니다. 오래된 것이 그대로 남아 있는 모습에서 '오래되다', '낡다', '예전'의 뜻이 생겼습니다.",
+    "memory_tip": "오래된 절구(臼)처럼 낡고 오래된 것이 '舊'입니다.",
+    "level_context": "5급 한자로, 옛을(를) 뜻하는 舊입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "구식",
+      "word_hanja": "舊式",
+      "reading": "구식",
+      "easy_definition": "낡고 오래된 방식",
+      "etymology_dissection": "옛 구(舊)+법 식(式): 낡은 방식",
+      "example_sentence": "구식 방법은 효율이 낮습니다.",
+      "sentence_meaning": "오래되고 낡은 방법은 효율이 낮습니다."
+    },
+    {
+      "word_korean": "신구",
+      "word_hanja": "新舊",
+      "reading": "신구",
+      "easy_definition": "새것과 오래된 것",
+      "etymology_dissection": "새 신(新)+옛 구(舊): 새것과 낡은 것",
+      "example_sentence": "신구 세대가 함께 어울립니다.",
+      "sentence_meaning": "새로운 세대와 기성세대가 함께 어울립니다."
+    },
+    {
+      "word_korean": "구시대",
+      "word_hanja": "舊時代",
+      "reading": "구시대",
+      "easy_definition": "지나간 낡은 시대",
+      "etymology_dissection": "옛 구(舊)+때 시(時)+대 대(代): 낡은 시대",
+      "example_sentence": "구시대적 사고를 버려야 합니다.",
+      "sentence_meaning": "시대에 뒤떨어진 낡은 생각을 버려야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "새로운 것과 오래된 것, 즉 신구가 조화를 이루는 것이 아름답습니다. 구식 방법보다 새로운 방법이 효율적일 수 있습니다. 구시대적 편견을 버리고 열린 마음을 가져야 합니다.",
+    "passage_meaning": "낡은 것과 새것이 조화를 이루되, 구시대적 편견은 버리는 것이 바람직합니다.",
+    "questions": [
+      {
+        "question": "'구식'의 뜻으로 알맞은 것은?",
+        "options": [
+          "최신 방식",
+          "낡고 오래된 방식",
+          "빠른 방식",
+          "세련된 방식"
+        ],
+        "correct_answer": "낡고 오래된 방식",
+        "explanation": "구식(舊式)은 낡고 오래된 방식입니다."
+      },
+      {
+        "question": "'신구'에서 '舊'의 뜻은?",
+        "options": [
+          "새롭다",
+          "오래되다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "오래되다",
+        "explanation": "신구(新舊)의 舊는 '오래되다'로, 낡고 오래된 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'구식'이나 '신구'를 사용하여 문장을 써 보세요.",
+    "hint": "변화나 세대에 관한 내용을 담아 보세요.",
+    "example_answer": "신구 세대가 서로 이해하며 함께 발전합니다.",
+    "key_vocabulary": [
+      "구식",
+      "신구"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "구식 방법보다 새로운 방법을 씁시다.",
+      "신구 조화가 아름답습니다.",
+      "구시대적 편견을 버립시다."
+    ],
+    "pronunciation_tips": "'구'을 명확하게 발음하며 읽어 보세요."
+  }
+}

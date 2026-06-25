@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "락",
+    "hanja_meaning": "즐길",
+    "hanja_char": "樂",
+    "hanja_level": "6급",
+    "linked_subject": "음악, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무에 달린 방울로 연주 — 즐길 락(樂)",
+    "etymology_story": "'즐길 락(樂)'은 나무(木) 위에 방울(白)이 달린 악기 모습이에요. 음악을 연주하며 즐기는 것이 '즐겁다(樂)'예요! '음악 악', '좋아할 요'로도 읽어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "음악(音樂)",
+      "etymology_dissection": "소리 음(音)+즐길 악(樂)",
+      "easy_definition": "소리로 이루어진 예술",
+      "context_sentence": "음악을 들으면 즐거워요."
+    },
+    {
+      "word_korean": "낙원(樂園)",
+      "etymology_dissection": "즐길 락(樂)+동산 원(園)",
+      "easy_definition": "즐거운 동산, 낙원",
+      "context_sentence": "낙원 같은 곳이에요."
+    },
+    {
+      "word_korean": "쾌락(快樂)",
+      "etymology_dissection": "쾌할 쾌(快)+즐길 락(樂)",
+      "easy_definition": "즐겁고 기분 좋은 것",
+      "context_sentence": "과도한 쾌락은 해로워요."
+    },
+    {
+      "word_korean": "오락(娛樂)",
+      "etymology_dissection": "즐길 오(娛)+즐길 락(樂)",
+      "easy_definition": "즐기는 활동",
+      "context_sentence": "오락을 즐겨요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "즐거움의 원천",
+    "passage_text": "**음악(音樂)**이 있는 곳에 즐거움이 있어요. **낙원(樂園)**은 마음속에 있어요. **오락(娛樂)**과 공부의 균형이 중요해요.",
+    "quiz": {
+      "question": "'낙원(樂園)'이란?",
+      "choices": [
+        "음악",
+        "오락",
+        "즐거운 동산",
+        "쾌락"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'낙원(樂園)'=즐길 락+동산 원, 즐겁고 아름다운 곳이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나에게 낙원 같은 즐거운 곳이나 활동을 문장으로 써 보세요.",
+    "model_example": "음악이 흐르는 낙원 같은 곳에서 오락과 공부가 어우러질 때 가장 즐거워요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'즐길 — 락(樂)! 즐길 — 락(樂)!' 열 번 외쳐요!"
+  }
+}

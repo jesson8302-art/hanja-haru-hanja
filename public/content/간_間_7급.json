@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "간",
+    "hanja_meaning": "사이",
+    "hanja_char": "間",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "문 사이로 달빛이 들어오는 '사이 간(間)'",
+    "etymology_story": "'사이 간(間)'은 문(門) 사이로 달(月)빛이 비치는 모습이에요. 두 문짝 사이에 생기는 틈새, 그것이 바로 '사이'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "시간(時間)",
+      "etymology_dissection": "때 시(時)+사이 간(間)",
+      "easy_definition": "시간의 흐름, 또는 어떤 순간",
+      "context_sentence": "시간을 아껴 써야 해요."
+    },
+    {
+      "word_korean": "공간(空間)",
+      "etymology_dissection": "빌 공(空)+사이 간(間)",
+      "easy_definition": "비어 있는 장소나 사이",
+      "context_sentence": "독서할 수 있는 공간을 만들었어요."
+    },
+    {
+      "word_korean": "인간(人間)",
+      "etymology_dissection": "사람 인(人)+사이 간(間)",
+      "easy_definition": "사람 사이에서 사는 존재",
+      "context_sentence": "인간은 함께 살아야 행복해요."
+    },
+    {
+      "word_korean": "간격(間隔)",
+      "etymology_dissection": "사이 간(間)+막을 격(隔)",
+      "easy_definition": "두 물체나 시간 사이의 거리",
+      "context_sentence": "줄 간격을 맞춰 글씨를 써요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사이의 중요성",
+    "passage_text": "**시간(時間)**을 잘 쓰는 사람이 성공해요. **공간(空間)**이 있어야 숨을 쉴 수 있어요. **인간(人間)**은 혼자 살 수 없고, 적당한 **간격(間隔)**을 두며 함께 살아요.",
+    "quiz": {
+      "question": "'인간(人間)'이란?",
+      "choices": [
+        "시간의 흐름",
+        "비어 있는 장소",
+        "사람 사이에서 사는 존재",
+        "두 물체 사이의 거리"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'인간(人間)'=사람 인+사이 간, 사람들 사이에서 사는 존재예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "시간이나 공간을 잘 활용한 경험을 문장으로 써 보세요.",
+    "model_example": "인간은 서로 적절한 간격을 유지하면서도 시간과 공간을 나눌 때 더 행복해져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사이 — 간(間)! 사이 — 간(間)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "徒",
+    "hanja_sound": "도",
+    "hanja_meaning": "무리",
+    "full_reading": "무리 도",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "徒",
+    "sound": "도",
+    "meaning": "무리",
+    "stroke_count": 10,
+    "radical": "彳",
+    "etymology_story": "徒는 천천히 걸을 척(彳)과 土(토)가 합쳐진 글자입니다. 맨발로 걸어다니는 무리에서 '무리', '헛되이', '도보'의 뜻이 생겼습니다.",
+    "memory_tip": "맨발로 걸어다니는(彳) 무리가 '徒'입니다.",
+    "level_context": "5급 한자로, 무리을(를) 뜻하는 徒입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "도보",
+      "word_hanja": "徒步",
+      "reading": "도보",
+      "easy_definition": "걸어서 감",
+      "etymology_dissection": "무리 도(徒)+걸을 보(步): 걸어감",
+      "example_sentence": "도보로 학교에 갑니다.",
+      "sentence_meaning": "걸어서 학교에 갑니다."
+    },
+    {
+      "word_korean": "신도",
+      "word_hanja": "信徒",
+      "reading": "신도",
+      "easy_definition": "종교를 믿는 무리",
+      "etymology_dissection": "믿을 신(信)+무리 도(徒): 믿는 무리",
+      "example_sentence": "교회 신도들이 모였습니다.",
+      "sentence_meaning": "종교를 믿는 사람들이 모였습니다."
+    },
+    {
+      "word_korean": "도움",
+      "word_hanja": "徒然",
+      "reading": "도연",
+      "easy_definition": "헛됨, 의미 없음",
+      "etymology_dissection": "무리 도(徒)+그럴 연(然): 헛되이 그러함",
+      "example_sentence": "헛된 노력을 하지 마세요.",
+      "sentence_meaning": "의미 없는 노력을 하지 마세요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "날씨 좋은 날에는 도보로 산책합니다. 신도들이 함께 모여 예배를 드립니다. 헛된 노력보다 방향을 잘 잡는 것이 중요합니다.",
+    "passage_meaning": "도보로 걷는 것은 건강에 좋으며, 신도들이 함께 모이는 것은 공동체 정신을 키웁니다.",
+    "questions": [
+      {
+        "question": "'도보'의 뜻으로 알맞은 것은?",
+        "options": [
+          "자동차로 이동",
+          "버스를 탐",
+          "걸어서 감",
+          "자전거를 탐"
+        ],
+        "correct_answer": "걸어서 감",
+        "explanation": "도보(徒步)는 걸어서 가는 것입니다."
+      },
+      {
+        "question": "'신도'에서 '徒'의 뜻은?",
+        "options": [
+          "믿다",
+          "무리·도",
+          "종교",
+          "기도하다"
+        ],
+        "correct_answer": "무리·도",
+        "explanation": "신도(信徒)의 徒는 '무리'로, 종교를 믿는 사람들의 무리를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'도보'를 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 일상생활에 관한 내용을 담아 보세요.",
+    "example_answer": "매일 도보로 출근하며 건강을 챙깁니다.",
+    "key_vocabulary": [
+      "도보",
+      "신도"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "도보 여행이 건강에 좋습니다.",
+      "신도들이 함께 기도했습니다.",
+      "걷기는 훌륭한 운동입니다."
+    ],
+    "pronunciation_tips": "'도'을 명확하게 발음하며 읽어 보세요."
+  }
+}

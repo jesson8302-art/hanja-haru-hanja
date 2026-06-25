@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "급",
+    "hanja_meaning": "줄",
+    "hanja_char": "給",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "給 — 실처럼 이어서 공급하다",
+    "etymology_story": "糸(실 사)와 合(합할 합)이 합쳐진 글자입니다. 실이 이어지듯 끊임없이 물건이나 돈을 대어준다는 뜻에서 '주다', '공급하다'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "급여",
+      "word_hanja": "給與",
+      "etymology_dissection": "給(줄 급)+與(더불어 여) = 주어 줌",
+      "easy_definition": "일한 대가로 받는 돈",
+      "context_sentence": "매달 말일에 **급여**가 통장에 들어옵니다."
+    },
+    {
+      "word_korean": "지급",
+      "word_hanja": "支給",
+      "etymology_dissection": "支(지탱할 지)+給(줄 급) = 버텨 주어 줌",
+      "easy_definition": "돈이나 물건을 내어 줌",
+      "context_sentence": "장학금을 **지급**받았습니다."
+    },
+    {
+      "word_korean": "보급",
+      "word_hanja": "補給",
+      "etymology_dissection": "補(기울 보)+給(줄 급) = 보충하여 줌",
+      "easy_definition": "부족한 것을 채워서 공급하는 것",
+      "context_sentence": "군대에 식량과 탄약을 **보급**했습니다."
+    },
+    {
+      "word_korean": "급식",
+      "word_hanja": "給食",
+      "etymology_dissection": "給(줄 급)+食(밥 식) = 음식을 줌",
+      "easy_definition": "단체로 모여 있는 사람들에게 음식을 제공하는 것",
+      "context_sentence": "학교 **급식**은 영양사 선생님이 균형 잡힌 식단으로 준비합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "급식의 역사",
+    "passage_text": "학교 **급식**은 모든 학생이 건강하게 성장하도록 영양을 공급하기 위해 시작됩니다. 우리나라 학교 **급식**은 1950년대 전쟁 후 미국의 식량 **보급**으로 시작되었습니다. 지금은 각 학교의 영양사가 균형 잡힌 식단을 계획합니다. **급식**비를 낼 여유가 없는 학생에게는 나라에서 **지급**해 주기도 합니다.",
+    "quiz": {
+      "question": "급식비를 낼 여유가 없는 학생을 위한 국가의 조치는?",
+      "choices": [
+        "급식을 제공하지 않는다",
+        "급식비를 국가가 지급해준다",
+        "다른 학생들이 나누어 낸다",
+        "부모님이 나중에 내도 된다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 급식비를 낼 여유가 없는 학생에게는 나라에서 지급해준다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'급식'이나 '지급'을 사용해서 학교 급식에 대한 경험이나 생각을 써보세요.",
+    "model_example": "학교 **급식**은 바쁜 부모님 대신 영양 균형 잡힌 음식을 **지급**해주어 학생들의 건강을 챙겨줍니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "給(급) — 줄 급! 급여·지급·보급·급식 모두 여기서! 수고했어요!"
+  }
+}

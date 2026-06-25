@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "群",
+    "hanja_sound": "군",
+    "hanja_meaning": "무리",
+    "full_reading": "무리 군",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "群",
+    "sound": "군",
+    "meaning": "무리",
+    "stroke_count": 13,
+    "radical": "羊",
+    "etymology_story": "群은 양(羊)과 임금 군(君)이 합쳐진 글자입니다. 임금처럼 여러 양 떼를 이끄는 모습에서 '무리', '떼', '집단'의 뜻이 생겼습니다.",
+    "memory_tip": "임금(君)처럼 양(羊) 떼를 이끄는 것이 '무리'입니다.",
+    "level_context": "5급 한자로, 무리을(를) 뜻하는 群입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "군중",
+      "word_hanja": "群衆",
+      "reading": "군중",
+      "easy_definition": "여러 사람의 무리",
+      "etymology_dissection": "무리 군(群)+무리 중(衆): 많은 무리",
+      "example_sentence": "광장에 군중이 모였습니다.",
+      "sentence_meaning": "광장에 많은 사람이 모였습니다."
+    },
+    {
+      "word_korean": "군집",
+      "word_hanja": "群集",
+      "reading": "군집",
+      "easy_definition": "생물들이 모여 사는 무리",
+      "etymology_dissection": "무리 군(群)+모일 집(集): 무리 지어 모임",
+      "example_sentence": "물고기들이 군집을 이룹니다.",
+      "sentence_meaning": "물고기들이 무리를 지어 삽니다."
+    },
+    {
+      "word_korean": "군도",
+      "word_hanja": "群島",
+      "reading": "군도",
+      "easy_definition": "섬들의 무리",
+      "etymology_dissection": "무리 군(群)+섬 도(島): 섬의 무리",
+      "example_sentence": "그 군도는 아름다운 섬들로 이루어져 있습니다.",
+      "sentence_meaning": "그 섬 무리는 아름다운 섬들로 구성되어 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "군중 속에서도 혼자인 느낌이 들 때가 있습니다. 펭귄들은 군집을 이루어 삽니다. 태평양에는 아름다운 군도가 많습니다.",
+    "passage_meaning": "군중, 군집, 군도 모두 '무리'를 뜻하는 群에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'군중'의 뜻으로 알맞은 것은?",
+        "options": [
+          "한 사람",
+          "여러 사람의 무리",
+          "숲 속의 나무",
+          "하늘의 별"
+        ],
+        "correct_answer": "여러 사람의 무리",
+        "explanation": "군중(群衆)은 여러 사람의 무리입니다."
+      },
+      {
+        "question": "'군집'에서 '群'의 뜻은?",
+        "options": [
+          "하나",
+          "무리·떼",
+          "혼자",
+          "빠르다"
+        ],
+        "correct_answer": "무리·떼",
+        "explanation": "군집(群集)의 群은 '무리'로, 생물들이 무리 지어 모여 사는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'군중'이나 '군집'을 사용하여 문장을 써 보세요.",
+    "hint": "사람이나 동물의 모임과 관련된 내용을 담아 보세요.",
+    "example_answer": "새들이 군집을 이루어 남쪽으로 날아갑니다.",
+    "key_vocabulary": [
+      "군중",
+      "군집"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "광장에 군중이 모였습니다.",
+      "물고기들이 군집을 이룹니다.",
+      "그 군도는 정말 아름답습니다."
+    ],
+    "pronunciation_tips": "'군'을 명확하게 발음하며 읽어 보세요."
+  }
+}

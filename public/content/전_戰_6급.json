@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "싸움",
+    "hanja_char": "戰",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "戰 — 창과 두려움이 맞부딪히다",
+    "etymology_story": "戰(전)은 홑 단(單)과 창 과(戈)가 합쳐진 글자예요. 창을 들고 싸우는 모양으로 '싸움·전쟁'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "전쟁(戰爭)",
+      "etymology_dissection": "싸움 전(戰)+다툴 쟁(爭)",
+      "easy_definition": "나라 간의 큰 싸움",
+      "context_sentence": "전쟁은 많은 사람을 슬프게 해요."
+    },
+    {
+      "word_korean": "전투(戰鬪)",
+      "etymology_dissection": "싸움 전(戰)+싸울 투(鬪)",
+      "easy_definition": "직접 맞붙어 싸우는 것",
+      "context_sentence": "역사 속 전투 이야기를 읽었어요."
+    },
+    {
+      "word_korean": "도전(挑戰)",
+      "etymology_dissection": "돋울 도(挑)+싸움 전(戰)",
+      "easy_definition": "어려운 것에 용기 있게 맞섬",
+      "context_sentence": "새로운 일에 도전하는 것은 멋져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "평화가 소중해요",
+    "passage_text": "역사 시간에 전쟁(戰爭)에 대해 배웠어요. 수많은 전투(戰鬪)로 많은 사람이 다쳤어요. 전쟁이 없는 평화로운 세상이 중요해요. 어려움에 도전(挑戰)하되, 사람들과는 사이좋게 지내야 해요.",
+    "quiz": {
+      "question": "'도전'의 뜻은?",
+      "choices": [
+        "어려운 것에 용기 있게 맞섬",
+        "남과 싸우는 것",
+        "도망가는 것",
+        "불평하는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "도전(挑戰)은 '돋울 도(挑)+싸움 전(戰)'으로, 어렵거나 새로운 것에 용기 있게 맞서는 행동이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 해보고 싶은 도전(挑戰)을 한 가지 쓰고, 그것을 위해 준비할 것을 써 보세요.",
+    "model_example": "예) 수영 대회에 도전하고 싶어요. 매일 수영 연습을 하고 체력을 키울 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "戰(전)! 싸움보다 도전! 평화로운 세상을 만들어요! 🕊️"
+  }
+}

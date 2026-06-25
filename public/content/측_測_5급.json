@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "측",
+    "hanja_meaning": "헤아릴",
+    "hanja_char": "測",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "測 — 물의 깊이를 재어 헤아리다",
+    "etymology_story": "水(물 수)와 則(법칙 칙)이 합쳐진 글자입니다. 물의 깊이를 법칙에 따라 재는 모습에서 '헤아리다', '측정하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "측정",
+      "word_hanja": "測定",
+      "etymology_dissection": "測(헤아릴 측)+定(정할 정) = 헤아려 정함",
+      "easy_definition": "수치나 양을 재어 알아냄",
+      "context_sentence": "온도계로 체온을 **측정**했습니다."
+    },
+    {
+      "word_korean": "관측",
+      "word_hanja": "觀測",
+      "etymology_dissection": "觀(볼 관)+測(헤아릴 측) = 보며 재어냄",
+      "easy_definition": "자연 현상을 자세히 보고 재어 기록함",
+      "context_sentence": "기상청에서 날씨를 **관측**합니다."
+    },
+    {
+      "word_korean": "예측",
+      "word_hanja": "豫測",
+      "etymology_dissection": "豫(미리 예)+測(헤아릴 측) = 미리 헤아림",
+      "easy_definition": "앞으로 일어날 일을 미리 어림잡음",
+      "context_sentence": "일기 예보는 날씨를 **예측**하는 것입니다."
+    },
+    {
+      "word_korean": "추측",
+      "word_hanja": "推測",
+      "etymology_dissection": "推(밀 추)+測(헤아릴 측) = 밀어 헤아림",
+      "easy_definition": "확실하지 않은 것을 짐작함",
+      "context_sentence": "정확한 정보 없이 **추측**만으로 판단하면 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "날씨 예측의 과학",
+    "passage_text": "오늘날 일기 예보는 매우 정확해졌습니다. 기상청은 인공위성과 수천 개의 기상 **관측**소 데이터를 수집합니다. 슈퍼컴퓨터가 이 데이터를 **분석**하여 날씨를 **예측**합니다. **측정**된 기온, 습도, 기압 등의 자료가 바탕이 됩니다. 과거에는 경험에 의한 **추측**에 의존했지만, 이제는 과학적 **측정**과 분석으로 수일 후의 날씨도 비교적 정확히 예보할 수 있습니다.",
+    "quiz": {
+      "question": "현대 일기 예보가 정확해진 이유로 알맞은 것은?",
+      "choices": [
+        "기상 전문가가 많아졌기 때문에",
+        "인공위성과 관측 데이터를 슈퍼컴퓨터로 분석하기 때문에",
+        "날씨 변화가 줄었기 때문에",
+        "주민들이 더 잘 협력하기 때문에"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 인공위성과 관측 데이터를 슈퍼컴퓨터로 분석하여 예측하기 때문에 정확해졌다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'측정'이나 '예측'을 사용해서 과학적 방법과 관련된 문장을 써보세요.",
+    "model_example": "실험에서 온도를 정확히 **측정**하고 기록해야, 다음 실험 결과를 올바르게 **예측**할 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "測(측) — 헤아릴 측! 측정·관측·예측·추측 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "非",
+    "hanja_sound": "비",
+    "hanja_meaning": "아닐",
+    "full_reading": "아닐 비",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "非",
+    "sound": "비",
+    "meaning": "아닐",
+    "stroke_count": 8,
+    "radical": "非",
+    "etymology_story": "非는 두 개의 날개가 서로 반대 방향으로 펼쳐진 모양입니다. 서로 등진 모습에서 '아니다', '어기다', '잘못'의 뜻이 생겼습니다.",
+    "memory_tip": "두 날개가 서로 등진 것이 '아니다(非)'입니다.",
+    "level_context": "5급 한자로, 아닐을(를) 뜻하는 非입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "비상",
+      "word_hanja": "非常",
+      "reading": "비상",
+      "easy_definition": "보통이 아닌 위급한 상황",
+      "etymology_dissection": "아닐 비(非)+보통 상(常): 보통이 아님",
+      "example_sentence": "비상구로 대피했습니다.",
+      "sentence_meaning": "위급 상황에 대피하는 문으로 나갔습니다."
+    },
+    {
+      "word_korean": "비판",
+      "word_hanja": "批判",
+      "reading": "비판",
+      "easy_definition": "옳고 그름을 가려 판단함",
+      "etymology_dissection": "칠 비(批)+판단 판(判): 두드려 판단",
+      "example_sentence": "건전한 비판은 발전을 가져옵니다.",
+      "sentence_meaning": "옳고 그름을 따지는 건강한 비판이 발전을 가져옵니다."
+    },
+    {
+      "word_korean": "비교",
+      "word_hanja": "比較",
+      "reading": "비교",
+      "easy_definition": "둘 이상을 견주어 살핌",
+      "etymology_dissection": "견줄 비(比)+견줄 교(較): 견주어 살핌",
+      "example_sentence": "두 제품을 비교했습니다.",
+      "sentence_meaning": "두 제품을 견주어 살펴봤습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "비상 시에는 침착하게 대피해야 합니다. 건전한 비판은 더 나은 발전을 이끕니다. 물건을 살 때 비교하면 더 좋은 선택을 할 수 있습니다.",
+    "passage_meaning": "非는 '아니다'를 뜻하며, 비상이나 비판 등 여러 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'비상'의 뜻으로 알맞은 것은?",
+        "options": [
+          "평범한 상황",
+          "보통이 아닌 위급한 상황",
+          "즐거운 상황",
+          "편안한 상황"
+        ],
+        "correct_answer": "보통이 아닌 위급한 상황",
+        "explanation": "비상(非常)은 보통이 아닌 위급한 상황입니다."
+      },
+      {
+        "question": "'非'의 뜻은?",
+        "options": [
+          "맞다",
+          "아니다",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "아니다",
+        "explanation": "非는 '아니다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'비상'이나 '비판'을 사용하여 문장을 써 보세요.",
+    "hint": "안전이나 의견에 관한 내용을 담아 보세요.",
+    "example_answer": "비상 상황에 침착하게 대피했습니다.",
+    "key_vocabulary": [
+      "비상",
+      "비판"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "비상구 위치를 확인하세요.",
+      "건전한 비판을 받아들입시다.",
+      "두 방법을 비교해 봅시다."
+    ],
+    "pronunciation_tips": "'비'을 명확하게 발음하며 읽어 보세요."
+  }
+}

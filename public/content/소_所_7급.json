@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "소",
+    "hanja_meaning": "바",
+    "hanja_char": "所",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "도끼로 베는 장소 — 바 소(所)",
+    "etymology_story": "'바 소(所)'는 집(戶)과 도끼(斤)가 합쳐진 글자예요. 도끼로 나무를 베는 특정한 장소에서 '어떤 것이 이루어지는 곳'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "장소(場所)",
+      "etymology_dissection": "마당 장(場)+바 소(所)",
+      "easy_definition": "어떤 일이 이루어지는 곳",
+      "context_sentence": "발표 장소를 확인했어요."
+    },
+    {
+      "word_korean": "연구소(硏究所)",
+      "etymology_dissection": "갈 연(硏)+구할 구(究)+바 소(所)",
+      "easy_definition": "연구하는 곳",
+      "context_sentence": "과학 연구소에서 신약을 개발해요."
+    },
+    {
+      "word_korean": "주소(住所)",
+      "etymology_dissection": "살 주(住)+바 소(所)",
+      "easy_definition": "사는 곳의 위치",
+      "context_sentence": "주소를 정확하게 써요."
+    },
+    {
+      "word_korean": "소원(所願)",
+      "etymology_dissection": "바 소(所)+원할 원(願)",
+      "easy_definition": "바라는 것",
+      "context_sentence": "소원이 이루어지길 바라요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "장소의 의미",
+    "passage_text": "**장소(場所)**마다 담긴 이야기가 있어요. **연구소(硏究所)**에서 세상을 바꿀 발견이 이루어져요. **주소(住所)**는 내 삶의 뿌리예요. **소원(所願)**을 이루려면 장소와 때를 잘 골라야 해요.",
+    "quiz": {
+      "question": "'소원(所願)'이란?",
+      "choices": [
+        "사는 곳",
+        "연구하는 곳",
+        "바라는 것",
+        "발표 장소"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'소원(所願)'=바 소+원할 원, 마음속으로 바라는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "이루고 싶은 소원을 구체적으로 문장으로 써 보세요.",
+    "model_example": "연구소에서 일하는 것이 소원인 나는 그 장소에 가기 위해 오늘도 공부해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'바 — 소(所)! 바 — 소(所)!' 열 번 외쳐요!"
+  }
+}

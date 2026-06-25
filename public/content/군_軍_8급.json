@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "군",
+    "hanja_meaning": "군사",
+    "hanja_char": "軍",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "수레 위에 덮개를 씌운 군대 — 군사 군(軍)",
+    "etymology_story": "'군사 군(軍)'은 수레(車) 위에 덮개(冖)를 씌운 모습이에요. 옛날 전쟁에서 수레에 덮개를 씌워 병사를 보호한 것이 군대의 상징이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "군인(軍人)",
+      "etymology_dissection": "군사 군(軍)+사람 인(人)",
+      "easy_definition": "나라를 지키는 군대 구성원",
+      "context_sentence": "군인 아저씨가 나라를 지켜 주셔서 감사해요."
+    },
+    {
+      "word_korean": "군대(軍隊)",
+      "etymology_dissection": "군사 군(軍)+무리 대(隊)",
+      "easy_definition": "나라를 지키는 무장 집단",
+      "context_sentence": "우리나라 군대는 국민을 보호해요."
+    },
+    {
+      "word_korean": "해군(海軍)",
+      "etymology_dissection": "바다 해(海)+군사 군(軍)",
+      "easy_definition": "바다에서 나라를 지키는 군대",
+      "context_sentence": "해군은 배를 타고 바다를 지켜요."
+    },
+    {
+      "word_korean": "공군(空軍)",
+      "etymology_dissection": "빌 공(空)+군사 군(軍)",
+      "easy_definition": "하늘에서 나라를 지키는 군대",
+      "context_sentence": "공군 조종사는 멋진 비행기를 몰아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나라를 지키는 힘",
+    "passage_text": "**군인(軍人)**은 우리의 안전을 위해 하루도 쉬지 않아요. **군대(軍隊)**는 육군·**해군(海軍)**·**공군(空軍)**으로 나뉘어요.",
+    "quiz": {
+      "question": "해군과 공군의 차이는?",
+      "choices": [
+        "둘 다 땅에서 싸워요",
+        "해군은 바다, 공군은 하늘을 지켜요",
+        "해군은 하늘, 공군은 바다를 지켜요",
+        "둘 다 군인이 아니에요"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "해군(海軍)=바다 군대, 공군(空軍)=하늘 군대예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나라를 지키는 군인에게 감사 편지를 쓰듯 문장을 만들어 보세요.",
+    "model_example": "군인 아저씨들이 군대에서 나라를 지켜 주신 덕분에 오늘도 안심하고 학교에 다닐 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'군사 — 군(軍)! 군사 — 군(軍)!' 열 번 외쳐요!"
+  }
+}

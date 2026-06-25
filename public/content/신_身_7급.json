@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "신",
+    "hanja_meaning": "몸",
+    "hanja_char": "身",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "임신한 여자의 배 — 몸 신(身)",
+    "etymology_story": "'몸 신(身)'은 임신한 여자의 배가 불러 있는 모습이에요. 배 속에 새 생명을 담은 몸, 그것이 '몸(身)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신체(身體)",
+      "etymology_dissection": "몸 신(身)+몸 체(體)",
+      "easy_definition": "사람의 몸 전체",
+      "context_sentence": "신체를 건강하게 해요."
+    },
+    {
+      "word_korean": "자신(自身)",
+      "etymology_dissection": "스스로 자(自)+몸 신(身)",
+      "easy_definition": "자기 자신",
+      "context_sentence": "자신을 사랑해요."
+    },
+    {
+      "word_korean": "신분(身分)",
+      "etymology_dissection": "몸 신(身)+나눌 분(分)",
+      "easy_definition": "사회적 지위나 직책",
+      "context_sentence": "신분을 증명해요."
+    },
+    {
+      "word_korean": "출신(出身)",
+      "etymology_dissection": "날 출(出)+몸 신(身)",
+      "easy_definition": "어디서 나온 사람인지",
+      "context_sentence": "어느 학교 출신이에요?"
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나의 몸",
+    "passage_text": "**신체(身體)**가 건강해야 꿈을 이뤄요. **자신(自身)**을 사랑하는 것이 시작이에요. **신분(身分)**보다 자신의 노력이 더 중요해요.",
+    "quiz": {
+      "question": "'자신(自身)'이란?",
+      "choices": [
+        "신체",
+        "출신",
+        "자기 자신",
+        "신분"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'자신(自身)'=스스로 자+몸 신, 나 자신, 스스로를 가리켜요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "자신을 사랑하거나 자신감을 가진 경험을 문장으로 써 보세요.",
+    "model_example": "신체를 건강하게 가꾸고 자신을 사랑하면 어떤 신분도 뛰어넘는 힘이 생겨요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'몸 — 신(身)! 몸 — 신(身)!' 열 번 외쳐요!"
+  }
+}

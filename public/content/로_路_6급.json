@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "로",
+    "hanja_meaning": "길",
+    "hanja_char": "路",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "발로 걸어가는 길 — 길 로(路)",
+    "etymology_story": "'길 로(路)'는 발(足)과 각각 각(各)이 합쳐진 글자예요. 각자 발(足)로 걸어가는 것이 '길(路)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "도로(道路)",
+      "etymology_dissection": "길 도(道)+길 로(路)",
+      "easy_definition": "차가 다니는 길",
+      "context_sentence": "도로가 막혀요."
+    },
+    {
+      "word_korean": "진로(進路)",
+      "etymology_dissection": "나아갈 진(進)+길 로(路)",
+      "easy_definition": "나아가는 방향이나 직업",
+      "context_sentence": "진로를 고민해요."
+    },
+    {
+      "word_korean": "노선(路線)",
+      "etymology_dissection": "길 로(路)+줄 선(線)",
+      "easy_definition": "정해진 이동 경로",
+      "context_sentence": "버스 노선을 확인해요."
+    },
+    {
+      "word_korean": "활로(活路)",
+      "etymology_dissection": "살 활(活)+길 로(路)",
+      "easy_definition": "살아나갈 방법",
+      "context_sentence": "활로를 찾아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "길 위에서",
+    "passage_text": "**진로(進路)**를 일찍 고민하면 방향이 보여요. **도로(道路)**처럼 삶도 넓고 곧게 뻗어야 해요. **활로(活路)**를 찾는 사람이 위기를 극복해요.",
+    "quiz": {
+      "question": "'진로(進路)'란?",
+      "choices": [
+        "도로",
+        "나아가는 방향이나 직업",
+        "노선",
+        "활로"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'진로(進路)'=나아갈 진+길 로, 나아갈 방향이나 미래의 직업 길이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 진로에 대한 꿈이나 고민을 문장으로 써 보세요.",
+    "model_example": "진로라는 길 위에서 활로를 찾으며 나만의 도로를 넓혀가고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'길 — 로(路)! 길 — 로(路)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "善",
+    "hanja_sound": "선",
+    "hanja_meaning": "착할",
+    "full_reading": "착할 선",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "善",
+    "sound": "선",
+    "meaning": "착할",
+    "stroke_count": 12,
+    "radical": "口",
+    "etymology_story": "善은 양(羊)과 말씀 언(言)이 합쳐진 글자입니다. 양처럼 순하고 온순한 말을 하는 모습에서 '착하다', '좋다'의 뜻이 생겼습니다.",
+    "memory_tip": "양(羊)처럼 순한 말(言)이 '착하다(善)'입니다.",
+    "level_context": "5급 한자로, 착할을(를) 뜻하는 善입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선행",
+      "word_hanja": "善行",
+      "reading": "선행",
+      "easy_definition": "착한 행동",
+      "etymology_dissection": "착할 선(善)+행할 행(行): 착한 행동",
+      "example_sentence": "선행을 베풀면 마음이 따뜻합니다.",
+      "sentence_meaning": "착한 행동을 하면 마음이 따뜻합니다."
+    },
+    {
+      "word_korean": "개선",
+      "word_hanja": "改善",
+      "reading": "개선",
+      "easy_definition": "잘못된 것을 좋게 바꿈",
+      "etymology_dissection": "고칠 개(改)+착할 선(善): 고쳐 좋게함",
+      "example_sentence": "문제를 개선했습니다.",
+      "sentence_meaning": "잘못된 것을 좋게 바꿨습니다."
+    },
+    {
+      "word_korean": "최선",
+      "word_hanja": "最善",
+      "reading": "최선",
+      "easy_definition": "가장 좋은 것",
+      "etymology_dissection": "가장 최(最)+착할 선(善): 가장 좋음",
+      "example_sentence": "최선을 다했습니다.",
+      "sentence_meaning": "가장 좋은 것을 위해 힘을 다했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "최선을 다해 노력하면 결과가 좋아집니다. 선행을 베풀면 세상이 따뜻해집니다. 문제를 발견하면 즉시 개선해야 합니다.",
+    "passage_meaning": "선행, 개선, 최선 모두 '착하다', '좋다'를 뜻하는 善에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'최선'의 뜻은?",
+        "options": [
+          "최악의 것",
+          "가장 좋은 것",
+          "보통의 것",
+          "나쁜 것"
+        ],
+        "correct_answer": "가장 좋은 것",
+        "explanation": "최선(最善)은 가장 좋은 것입니다."
+      },
+      {
+        "question": "'善'의 뜻은?",
+        "options": [
+          "나쁘다",
+          "착하다·좋다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "착하다·좋다",
+        "explanation": "善은 '착하다', '좋다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'최선'이나 '선행'을 사용하여 문장을 써 보세요.",
+    "hint": "노력이나 나눔에 관한 내용을 담아 보세요.",
+    "example_answer": "최선을 다해 도전하면 좋은 결과가 옵니다.",
+    "key_vocabulary": [
+      "선행",
+      "개선"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "최선을 다해 도전합니다.",
+      "선행으로 이웃을 돕습니다.",
+      "개선하면 더 나아집니다."
+    ],
+    "pronunciation_tips": "'선'을 명확하게 발음하며 읽어 보세요."
+  }
+}

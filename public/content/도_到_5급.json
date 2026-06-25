@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "到",
+    "hanja_sound": "도",
+    "hanja_meaning": "이를",
+    "full_reading": "이를 도",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "到",
+    "sound": "도",
+    "meaning": "이를",
+    "stroke_count": 8,
+    "radical": "刀",
+    "etymology_story": "到는 이를 지(至)와 칼(刀)이 합쳐진 글자입니다. 목표 지점에 이르는 모습에서 '이르다', '도달하다'의 뜻이 생겼습니다.",
+    "memory_tip": "목표에 이르는(至) 것이 '到'입니다.",
+    "level_context": "5급 한자로, 이를을(를) 뜻하는 到입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "도달",
+      "word_hanja": "到達",
+      "reading": "도달",
+      "easy_definition": "어떤 곳이나 목표에 이름",
+      "etymology_dissection": "이를 도(到)+이를 달(達): 이르고 이름",
+      "example_sentence": "목표에 도달했습니다.",
+      "sentence_meaning": "원하는 목표에 이르렀습니다."
+    },
+    {
+      "word_korean": "도착",
+      "word_hanja": "到着",
+      "reading": "도착",
+      "easy_definition": "목적지에 이르러 닿음",
+      "etymology_dissection": "이를 도(到)+붙을 착(着): 이르러 붙음",
+      "example_sentence": "기차가 역에 도착했습니다.",
+      "sentence_meaning": "기차가 역에 이르러 멈췄습니다."
+    },
+    {
+      "word_korean": "주도",
+      "word_hanja": "周到",
+      "reading": "주도",
+      "easy_definition": "두루 미치어 빈틈없이 꼼꼼함",
+      "etymology_dissection": "두루 주(周)+이를 도(到): 두루 이름",
+      "example_sentence": "주도면밀한 계획이 필요합니다.",
+      "sentence_meaning": "빈틈없이 꼼꼼한 계획이 필요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "기차가 역에 정시에 도착했습니다. 오랜 노력 끝에 목표에 도달했습니다. 주도면밀하게 준비하면 실수를 줄일 수 있습니다.",
+    "passage_meaning": "도착과 도달 모두 '이르다'는 뜻의 到에서 나온 단어이며, 주도는 두루 이른다는 뜻입니다.",
+    "questions": [
+      {
+        "question": "'도착'의 뜻으로 알맞은 것은?",
+        "options": [
+          "출발하는 것",
+          "목적지에 이르러 닿는 것",
+          "중간에 멈추는 것",
+          "길을 잃는 것"
+        ],
+        "correct_answer": "목적지에 이르러 닿는 것",
+        "explanation": "도착(到着)은 목적지에 이르러 닿는 것입니다."
+      },
+      {
+        "question": "'도달'에서 '到'의 뜻은?",
+        "options": [
+          "떠나다",
+          "이르다",
+          "멈추다",
+          "돌아가다"
+        ],
+        "correct_answer": "이르다",
+        "explanation": "도달(到達)의 到는 '이르다'로, 목표에 이르는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'도착'이나 '도달'을 사용하여 문장을 써 보세요.",
+    "hint": "목표나 여행과 관련된 내용을 담아 보세요.",
+    "example_answer": "오랜 노력 끝에 목표에 도달했습니다.",
+    "key_vocabulary": [
+      "도달",
+      "도착"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "기차가 제시간에 도착했습니다.",
+      "목표에 도달하기 위해 노력합니다.",
+      "주도면밀한 준비가 필요합니다."
+    ],
+    "pronunciation_tips": "'도'을 명확하게 발음하며 읽어 보세요."
+  }
+}

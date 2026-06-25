@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "성",
+    "hanja_meaning": "성씨",
+    "hanja_char": "姓",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "여자에게서 태어난 이름 — 성씨 성(姓)",
+    "etymology_story": "'성씨 성(姓)'은 여자(女)와 날 생(生)이 합쳐진 글자예요. 어머니(여자)에게서 태어나 이어받은 것이 바로 성씨예요. 고대 사회에서 모계 혈통이 중요했음을 보여줘요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성명(姓名)",
+      "etymology_dissection": "성씨 성(姓)+이름 명(名)",
+      "easy_definition": "성과 이름을 합친 것",
+      "context_sentence": "성명을 바르게 써요."
+    },
+    {
+      "word_korean": "동성(同姓)",
+      "etymology_dissection": "한가지 동(同)+성씨 성(姓)",
+      "easy_definition": "같은 성씨",
+      "context_sentence": "동성끼리 친하게 지내요."
+    },
+    {
+      "word_korean": "이성(異姓)",
+      "etymology_dissection": "다를 이(異)+성씨 성(姓)",
+      "easy_definition": "다른 성씨",
+      "context_sentence": "이성 친구와도 잘 지내요."
+    },
+    {
+      "word_korean": "백성(百姓)",
+      "etymology_dissection": "일백 백(百)+성씨 성(姓)",
+      "easy_definition": "나라의 모든 국민",
+      "context_sentence": "백성이 행복한 나라가 좋은 나라예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이름의 뿌리",
+    "passage_text": "**성명(姓名)**은 나의 정체성이에요. **동성(同姓)**이라도 촌수가 다를 수 있어요. **백성(百姓)**이 행복해야 좋은 나라예요.",
+    "quiz": {
+      "question": "'성명(姓名)'이란?",
+      "choices": [
+        "성씨만",
+        "이름만",
+        "성과 이름을 합친 것",
+        "별명"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'성명(姓名)'=성씨 성+이름 명, 성과 이름을 합친 전체 이름이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 이름(성명)의 의미나 유래를 문장으로 써 보세요.",
+    "model_example": "내 성명에는 부모님이 담아주신 소망이 있어서 이름 석 자가 더욱 소중하게 느껴져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'성씨 — 성(姓)! 성씨 — 성(姓)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "황",
+    "hanja_meaning": "형편",
+    "hanja_char": "況",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "況 — 물처럼 흘러가는 형편",
+    "etymology_story": "水(물 수)와 兄(맏 형)이 합쳐진 글자입니다. 물이 흘러가듯 상황이 변하는 모습에서 '형편', '상황'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "상황",
+      "word_hanja": "狀況",
+      "etymology_dissection": "狀(모양 상)+況(형편 황) = 모양과 형편",
+      "easy_definition": "일이 되어가는 형편이나 모양",
+      "context_sentence": "현재 **상황**을 파악해야 합니다."
+    },
+    {
+      "word_korean": "실황",
+      "word_hanja": "實況",
+      "etymology_dissection": "實(열매 실)+況(형편 황) = 실제 형편",
+      "easy_definition": "실제로 일어나고 있는 상황",
+      "context_sentence": "경기 **실황**을 중계하고 있습니다."
+    },
+    {
+      "word_korean": "況且",
+      "word_hanja": "況且",
+      "etymology_dissection": "況(형편 황)+且(또 차) = 형편이 이러하고 또",
+      "easy_definition": "하물며, 더구나의 뜻",
+      "context_sentence": "어른도 어려운데 **하물며** 아이는 오죽하겠어요."
+    },
+    {
+      "word_korean": "비황",
+      "word_hanja": "悲況",
+      "etymology_dissection": "悲(슬플 비)+況(형편 황) = 슬픈 형편",
+      "easy_definition": "슬프고 딱한 형편이나 상황",
+      "context_sentence": "전쟁 난민의 **비황**이 전 세계에 전해졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "상황 판단력",
+    "passage_text": "어떤 일을 결정하기 전에 현재 **상황**을 정확히 파악하는 것이 중요합니다. 의사는 환자의 **상황**을 진단한 후 치료를 결정합니다. 소방관은 화재 **상황**을 신속하게 파악하여 대응합니다. 정치 지도자는 국내외 **상황**을 종합적으로 분석하여 정책을 세웁니다. **실황** 중계처럼 상황을 있는 그대로 보는 능력이 올바른 판단의 출발점입니다.",
+    "quiz": {
+      "question": "상황 판단이 중요한 이유로 글에서 설명한 것은?",
+      "choices": [
+        "빠르게 결정하기 위해",
+        "정확한 상황 파악이 올바른 판단의 출발점이기 때문",
+        "남들보다 앞서기 위해",
+        "실수를 피하기 위해서만"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 상황을 있는 그대로 보는 능력이 올바른 판단의 출발점이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'상황'을 사용해서 어려운 상황에서 현명하게 대처한 경험을 써보세요.",
+    "model_example": "발표 준비를 못 한 **상황**에서 당황하지 않고 알고 있는 내용을 최대한 정리하여 침착하게 발표했습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "況(황) — 형편 황! 상황·실황·비황 모두 여기서! 잘했어요!"
+  }
+}

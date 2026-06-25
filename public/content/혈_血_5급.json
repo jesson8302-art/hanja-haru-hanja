@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "혈",
+    "hanja_meaning": "피",
+    "hanja_char": "血",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "血 — 그릇에 담긴 피",
+    "etymology_story": "皿(그릇 명)과 피가 고인 모습이 합쳐진 글자입니다. 그릇에 피가 담겨 있는 모습을 나타냅니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "혈액",
+      "word_hanja": "血液",
+      "etymology_dissection": "血(피 혈)+液(진 액) = 피 액체",
+      "easy_definition": "혈관 속을 흐르는 붉은 액체",
+      "context_sentence": "**혈액**은 산소와 영양을 온몸에 운반합니다."
+    },
+    {
+      "word_korean": "혈관",
+      "word_hanja": "血管",
+      "etymology_dissection": "血(피 혈)+管(관 관) = 피가 흐르는 관",
+      "easy_definition": "혈액이 흐르는 몸속의 관",
+      "context_sentence": "**혈관** 건강을 위해 기름진 음식을 줄여야 합니다."
+    },
+    {
+      "word_korean": "혈압",
+      "word_hanja": "血壓",
+      "etymology_dissection": "血(피 혈)+壓(누를 압) = 피의 압력",
+      "easy_definition": "혈액이 혈관 벽에 가하는 압력",
+      "context_sentence": "스트레스는 **혈압**을 높입니다."
+    },
+    {
+      "word_korean": "헌혈",
+      "word_hanja": "獻血",
+      "etymology_dissection": "獻(드릴 헌)+血(피 혈) = 피를 드림",
+      "easy_definition": "다른 사람을 위해 자신의 피를 기증함",
+      "context_sentence": "**헌혈**은 생명을 살리는 숭고한 행동입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "혈액의 기능",
+    "passage_text": "**혈액**은 우리 몸의 생명 유지에 필수적입니다. **혈액**은 산소와 영양분을 각 세포에 전달하고, 이산화탄소와 노폐물을 폐와 콩팥으로 운반합니다. 또한 면역 세포를 통해 병균으로부터 몸을 보호합니다. **혈관** 건강이 나빠지면 **혈압**이 높아지고 심혈관 질환의 위험이 커집니다. **헌혈**은 혈액 은행의 재고를 채우는 중요한 방법으로, 만 16세 이상이면 참여할 수 있습니다.",
+    "quiz": {
+      "question": "혈액의 주요 기능이 아닌 것은?",
+      "choices": [
+        "산소와 영양분 전달",
+        "이산화탄소와 노폐물 운반",
+        "병균으로부터 몸 보호",
+        "뼈를 단단하게 유지"
+      ],
+      "correct_answer_index": 3,
+      "detailed_explanation": "뼈를 단단하게 유지하는 것은 칼슘의 역할로, 혈액의 기능으로 글에서 언급되지 않았습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'헌혈'을 사용해서 사회적 기여 활동에 대한 생각을 써보세요.",
+    "model_example": "**헌혈**처럼 내 몸을 이용해 다른 사람의 생명을 살릴 수 있다면 기꺼이 참여하고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "血(혈) — 피 혈! 혈액·혈관·혈압·헌혈 모두 여기서! 잘했어요!"
+  }
+}

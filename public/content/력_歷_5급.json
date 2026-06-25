@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "歷",
+    "hanja_sound": "력",
+    "hanja_meaning": "지낼",
+    "full_reading": "지낼 력",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "歷",
+    "sound": "력",
+    "meaning": "지낼",
+    "stroke_count": 16,
+    "radical": "止",
+    "etymology_story": "歷은 벼(禾)와 멈출 지(止)가 합쳐진 글자입니다. 시간이 지나가며 겪은 일들을 나타내며 '지내다', '경력', '역사'의 뜻이 생겼습니다.",
+    "memory_tip": "시간이 흐르며(止) 겪어온 것이 '歷'입니다.",
+    "level_context": "5급 한자로, 지낼을(를) 뜻하는 歷입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "역사",
+      "word_hanja": "歷史",
+      "reading": "역사",
+      "easy_definition": "인류가 지나온 과정의 기록",
+      "etymology_dissection": "지낼 력(歷)+역사 사(史): 지나온 기록",
+      "example_sentence": "역사를 배우는 것이 중요합니다.",
+      "sentence_meaning": "인류가 겪어온 과정을 배우는 것이 중요합니다."
+    },
+    {
+      "word_korean": "경력",
+      "word_hanja": "經歷",
+      "reading": "경력",
+      "easy_definition": "지나온 경험과 이력",
+      "etymology_dissection": "지날 경(經)+지낼 력(歷): 지나온 경험",
+      "example_sentence": "풍부한 경력이 있습니다.",
+      "sentence_meaning": "많은 경험과 이력이 있습니다."
+    },
+    {
+      "word_korean": "이력",
+      "word_hanja": "履歷",
+      "reading": "이력",
+      "easy_definition": "살아온 경험의 내용",
+      "etymology_dissection": "밟을 이(履)+지낼 력(歷): 밟아온 경험",
+      "example_sentence": "이력서를 제출했습니다.",
+      "sentence_meaning": "살아온 경험을 담은 서류를 냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "역사를 배우면 미래를 더 잘 준비할 수 있습니다. 이력서에는 자신의 경력을 잘 정리합니다. 다양한 경력이 있으면 취업에 유리합니다.",
+    "passage_meaning": "역사, 경력, 이력 모두 '지나온 경험'을 뜻하는 歷에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'역사'의 뜻으로 알맞은 것은?",
+        "options": [
+          "미래의 예측",
+          "인류가 지나온 과정의 기록",
+          "현재의 상황",
+          "꿈과 희망"
+        ],
+        "correct_answer": "인류가 지나온 과정의 기록",
+        "explanation": "역사(歷史)는 인류가 지나온 과정의 기록입니다."
+      },
+      {
+        "question": "'경력'에서 '歷'의 뜻은?",
+        "options": [
+          "빠르다",
+          "지내다·경험",
+          "크다",
+          "높다"
+        ],
+        "correct_answer": "지내다·경험",
+        "explanation": "경력(經歷)의 歷은 '지내다', '경험'으로, 지나온 경험과 이력을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'역사'나 '경력'을 사용하여 문장을 써 보세요.",
+    "hint": "학습이나 경험과 관련된 내용을 담아 보세요.",
+    "example_answer": "역사를 배우면 현재를 더 잘 이해할 수 있습니다.",
+    "key_vocabulary": [
+      "역사",
+      "경력"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "역사는 삶의 거울입니다.",
+      "다양한 경력을 쌓으세요.",
+      "이력서를 잘 정리합시다."
+    ],
+    "pronunciation_tips": "'력'을 명확하게 발음하며 읽어 보세요."
+  }
+}

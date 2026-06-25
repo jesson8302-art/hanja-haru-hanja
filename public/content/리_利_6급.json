@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "리",
+    "hanja_meaning": "이로울",
+    "hanja_char": "利",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "칼로 벼를 베어 이익을 얻다 — 이로울 리(利)",
+    "etymology_story": "'이로울 리(利)'는 벼(禾)와 칼(刂)이 합쳐진 글자예요. 칼(刂)로 벼(禾)를 수확하여 이익을 얻는 것이 '이롭다(利)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이익(利益)",
+      "etymology_dissection": "이로울 리(利)+더할 익(益)",
+      "easy_definition": "얻는 이점",
+      "context_sentence": "이익을 나눠요."
+    },
+    {
+      "word_korean": "편리(便利)",
+      "etymology_dissection": "편할 편(便)+이로울 리(利)",
+      "easy_definition": "쓰기 편하고 이로운 것",
+      "context_sentence": "교통이 편리해요."
+    },
+    {
+      "word_korean": "유리(有利)",
+      "etymology_dissection": "있을 유(有)+이로울 리(利)",
+      "easy_definition": "유리한 것",
+      "context_sentence": "유리한 위치를 차지해요."
+    },
+    {
+      "word_korean": "권리(權利)",
+      "etymology_dissection": "권세 권(權)+이로울 리(利)",
+      "easy_definition": "당연히 누릴 수 있는 것",
+      "context_sentence": "권리를 지켜요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이익과 권리",
+    "passage_text": "**권리(權利)**는 모든 사람이 가져요. **편리(便利)**한 세상을 만드는 것이 기술의 힘이에요. **이익(利益)**을 나누는 것이 진정한 부유함이에요.",
+    "quiz": {
+      "question": "'권리(權利)'란?",
+      "choices": [
+        "이익",
+        "편리",
+        "당연히 누릴 수 있는 것",
+        "유리"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'권리(權利)'=권세 권+이로울 리, 당연하게 갖고 누릴 수 있는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 권리나 편리한 것이 당연하지 않다고 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "권리를 알고 이익을 나누며 편리한 세상을 만드는 것이 진정한 유리함이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'이로울 — 리(利)! 이로울 — 리(利)!' 열 번 외쳐요!"
+  }
+}

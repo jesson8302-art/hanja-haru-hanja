@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "각",
+    "hanja_meaning": "뿔",
+    "hanja_char": "角",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "동물 머리의 뿔 — 뿔 각(角)",
+    "etymology_story": "'뿔 각(角)'은 동물의 머리 위에 뿔이 솟아오른 모습이에요. 뿔처럼 뾰족하게 튀어나온 것에서 '모서리, 각도'라는 뜻도 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "각도(角度)",
+      "etymology_dissection": "뿔 각(角)+법도 도(度)",
+      "easy_definition": "두 선이 만나는 벌어짐의 정도",
+      "context_sentence": "각도를 재요."
+    },
+    {
+      "word_korean": "삼각형(三角形)",
+      "etymology_dissection": "셋 삼(三)+뿔 각(角)+모양 형(形)",
+      "easy_definition": "세 개의 각이 있는 도형",
+      "context_sentence": "삼각형의 각도 합은 180도예요."
+    },
+    {
+      "word_korean": "직각(直角)",
+      "etymology_dissection": "곧을 직(直)+뿔 각(角)",
+      "easy_definition": "90도의 각",
+      "context_sentence": "직각 삼각형을 그려요."
+    },
+    {
+      "word_korean": "각자(角者)",
+      "etymology_dissection": "뿔 각(角)+사람 자(者)",
+      "easy_definition": "모서리가 있는 것",
+      "context_sentence": "네모난 테이블의 각자를 조심해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "각도의 세계",
+    "passage_text": "**삼각형(三角形)**의 **각도(角度)**를 알면 수학이 재밌어요. **직각(直角)**은 정확히 90도예요. 뿔처럼 뾰족한 것에는 조심해요.",
+    "quiz": {
+      "question": "'직각(直角)'이란?",
+      "choices": [
+        "세 개의 각",
+        "90도의 각",
+        "각도",
+        "삼각형"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'직각(直角)'=곧을 직+뿔 각, 딱 90도가 되는 각이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "도형의 각도를 재거나 삼각형을 그린 경험을 문장으로 써 보세요.",
+    "model_example": "직각 삼각형의 각도를 재면서 삼각형 세 각의 합이 항상 180도라는 것을 알게 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'뿔 — 각(角)! 뿔 — 각(角)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "원",
+    "hanja_meaning": "근원",
+    "hanja_char": "原",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "原 — 절벽 아래 물이 솟는 근원",
+    "etymology_story": "厂(언덕 한)과 泉(샘 천)이 합쳐진 글자입니다. 절벽 아래에서 샘물이 솟아오르는 모습에서 '근원', '원래'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "원인",
+      "word_hanja": "原因",
+      "etymology_dissection": "原(근원 원)+因(인할 인) = 근본 원인",
+      "easy_definition": "어떤 일이 생기게 된 처음 이유",
+      "context_sentence": "화재의 **원인**을 조사하고 있습니다."
+    },
+    {
+      "word_korean": "원래",
+      "word_hanja": "原來",
+      "etymology_dissection": "原(근원 원)+來(올 래) = 근원에서 온",
+      "easy_definition": "처음부터 그러했던 것",
+      "context_sentence": "이 건물은 **원래** 학교였습니다."
+    },
+    {
+      "word_korean": "원칙",
+      "word_hanja": "原則",
+      "etymology_dissection": "原(근원 원)+則(법칙 칙) = 근본 법칙",
+      "easy_definition": "기본이 되는 규칙이나 법칙",
+      "context_sentence": "어떤 상황에서도 **원칙**을 지켜야 합니다."
+    },
+    {
+      "word_korean": "초원",
+      "word_hanja": "草原",
+      "etymology_dissection": "草(풀 초)+原(근원 원) = 풀이 넓게 펼쳐진 곳",
+      "easy_definition": "풀이 넓게 펼쳐진 평평한 땅",
+      "context_sentence": "몽골의 드넓은 **초원**에서 말들이 달립니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "원인을 알면 해결책이 보인다",
+    "passage_text": "문제를 해결하려면 먼저 **원인**을 파악해야 합니다. 의사는 병의 **원인**을 알아야 올바른 치료를 할 수 있습니다. 수학 문제를 틀렸을 때도 왜 틀렸는지 **원인**을 찾아야 같은 실수를 반복하지 않습니다. 좋은 **원칙**을 세우고 **원인**을 분석하는 습관은 어떤 어려움도 헤쳐나가게 합니다. **원래** 무엇이 문제였는지를 정확히 보는 눈을 길러야 합니다.",
+    "quiz": {
+      "question": "문제 해결의 첫 번째 단계로 글에서 강조한 것은?",
+      "choices": [
+        "바로 해결책을 실행하는 것",
+        "원인을 먼저 파악하는 것",
+        "전문가에게 도움을 요청하는 것",
+        "포기하고 새로운 문제를 찾는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 문제를 해결하려면 먼저 원인을 파악해야 한다고 강조했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'원인'이나 '원칙'을 사용해서 문제를 해결한 경험을 써보세요.",
+    "model_example": "수학 점수가 낮아진 **원인**을 찾아보니 계산 실수가 많았고, 그 후 꼼꼼히 검산하는 **원칙**을 세웠더니 점수가 올랐습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "原(원) — 근원 원! 원인·원래·원칙·초원 모두 여기서! 잘했어요!"
+  }
+}

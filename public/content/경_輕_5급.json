@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "輕",
+    "hanja_sound": "경",
+    "hanja_meaning": "가벼울",
+    "full_reading": "가벼울 경",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "輕",
+    "sound": "경",
+    "meaning": "가벼울",
+    "stroke_count": 14,
+    "radical": "車",
+    "etymology_story": "輕은 수레(車)와 가볍다는 뜻의 巠(경)이 합쳐진 글자입니다. 가벼운 수레가 빠르게 달리는 모습에서 '가볍다', '경솔하다'의 뜻이 생겼습니다.",
+    "memory_tip": "가벼운(巠) 수레(車)처럼 빠르고 가벼운 것이 '輕'입니다.",
+    "level_context": "5급 한자로, 가벼울을(를) 뜻하는 輕입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "경량",
+      "word_hanja": "輕量",
+      "reading": "경량",
+      "easy_definition": "무게가 가벼움",
+      "etymology_dissection": "가벼울 경(輕)+무게 량(量): 가벼운 무게",
+      "example_sentence": "경량 소재로 만든 가방입니다.",
+      "sentence_meaning": "가벼운 재료로 만든 가방입니다."
+    },
+    {
+      "word_korean": "경솔",
+      "word_hanja": "輕率",
+      "reading": "경솔",
+      "easy_definition": "생각 없이 가볍게 행동함",
+      "etymology_dissection": "가벼울 경(輕)+거느릴 솔(率): 가볍게 이끔",
+      "example_sentence": "경솔한 행동은 삼가야 합니다.",
+      "sentence_meaning": "생각 없이 가볍게 행동하지 않아야 합니다."
+    },
+    {
+      "word_korean": "경시",
+      "word_hanja": "輕視",
+      "reading": "경시",
+      "easy_definition": "가볍게 여기고 무시함",
+      "etymology_dissection": "가벼울 경(輕)+볼 시(視): 가볍게 봄",
+      "example_sentence": "타인을 경시하면 안 됩니다.",
+      "sentence_meaning": "다른 사람을 무시해서는 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "경솔한 말 한마디가 상대방에게 상처를 줄 수 있습니다. 다른 사람을 경시하는 태도는 좋지 않습니다. 경량 장비를 이용하면 여행이 더 편해집니다.",
+    "passage_meaning": "경솔한 행동과 다른 사람을 경시하는 태도는 삼가야 합니다.",
+    "questions": [
+      {
+        "question": "'경솔'의 뜻으로 알맞은 것은?",
+        "options": [
+          "신중하게 생각하는 것",
+          "생각 없이 가볍게 행동하는 것",
+          "천천히 행동하는 것",
+          "조심스럽게 말하는 것"
+        ],
+        "correct_answer": "생각 없이 가볍게 행동하는 것",
+        "explanation": "경솔(輕率)은 생각 없이 가볍게 행동하는 것입니다."
+      },
+      {
+        "question": "'경시'에서 '輕'의 뜻은?",
+        "options": [
+          "무겁다",
+          "빠르다",
+          "가볍다",
+          "크다"
+        ],
+        "correct_answer": "가볍다",
+        "explanation": "경시(輕視)의 輕은 '가볍다'로, 가볍게 여겨 무시하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'경솔'이나 '경시'를 사용하여 문장을 써 보세요.",
+    "hint": "올바른 태도와 관련된 내용을 담아 보세요.",
+    "example_answer": "경솔한 말을 하지 않도록 조심합니다.",
+    "key_vocabulary": [
+      "경량",
+      "경솔"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "경솔한 행동을 삼가야 합니다.",
+      "타인을 경시하지 마세요.",
+      "경량 소재라 들기 편합니다."
+    ],
+    "pronunciation_tips": "'경'을 명확하게 발음하며 읽어 보세요."
+  }
+}

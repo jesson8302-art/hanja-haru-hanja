@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "婦",
+    "hanja_sound": "부",
+    "hanja_meaning": "며느리",
+    "full_reading": "며느리 부",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "婦",
+    "sound": "부",
+    "meaning": "며느리",
+    "stroke_count": 11,
+    "radical": "女",
+    "etymology_story": "婦는 여자(女)와 비(帚)가 합쳐진 글자입니다. 집에서 빗자루를 들고 일하는 여성의 모습에서 '며느리', '부인', '주부'의 뜻이 생겼습니다.",
+    "memory_tip": "빗자루(帚)를 든 여자(女)가 '婦(부인)'입니다.",
+    "level_context": "5급 한자로, 며느리을(를) 뜻하는 婦입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주부",
+      "word_hanja": "主婦",
+      "reading": "주부",
+      "easy_definition": "가정을 돌보는 여성",
+      "etymology_dissection": "주인 주(主)+며느리 부(婦): 집의 여주인",
+      "example_sentence": "주부가 가정을 돌봅니다.",
+      "sentence_meaning": "집안일을 하는 여성이 가정을 돌봅니다."
+    },
+    {
+      "word_korean": "부인",
+      "word_hanja": "婦人",
+      "reading": "부인",
+      "easy_definition": "여성을 높이어 부르는 말",
+      "etymology_dissection": "며느리 부(婦)+사람 인(人): 여성 어른",
+      "example_sentence": "부인께서 오셨습니다.",
+      "sentence_meaning": "여성 어른께서 오셨습니다."
+    },
+    {
+      "word_korean": "간호사",
+      "word_hanja": "看護婦",
+      "reading": "간호사",
+      "easy_definition": "환자를 돌보는 의료인",
+      "etymology_dissection": "볼 간(看)+보호할 호(護)+며느리 부(婦)",
+      "example_sentence": "간호사가 환자를 돌봤습니다.",
+      "sentence_meaning": "의료인이 환자를 정성껏 돌봤습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "주부들의 가사 노동은 소중합니다. 부인께서 친절하게 안내해 주셨습니다. 간호사는 환자 곁에서 헌신적으로 일합니다.",
+    "passage_meaning": "婦는 여성, 부인과 관련된 여러 단어에 쓰이는 한자입니다.",
+    "questions": [
+      {
+        "question": "'주부'의 뜻으로 알맞은 것은?",
+        "options": [
+          "회사에서 일하는 사람",
+          "가정을 돌보는 여성",
+          "학교에서 가르치는 사람",
+          "군인"
+        ],
+        "correct_answer": "가정을 돌보는 여성",
+        "explanation": "주부(主婦)는 가정을 돌보는 여성입니다."
+      },
+      {
+        "question": "'婦'의 뜻은?",
+        "options": [
+          "아들",
+          "며느리·부인",
+          "아버지",
+          "어머니"
+        ],
+        "correct_answer": "며느리·부인",
+        "explanation": "婦는 '며느리', '부인'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'주부'나 '부인'을 사용하여 문장을 써 보세요.",
+    "hint": "가정이나 직업과 관련된 내용을 담아 보세요.",
+    "example_answer": "주부의 가사 노동도 소중한 사회적 역할입니다.",
+    "key_vocabulary": [
+      "주부",
+      "부인"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "주부들이 가정을 지킵니다.",
+      "부인께서 친절히 도와주셨습니다.",
+      "간호사들이 열심히 일합니다."
+    ],
+    "pronunciation_tips": "'부'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "출",
+    "hanja_meaning": "날",
+    "hanja_char": "出",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "발이 움푹 패인 곳에서 나오다 — 날 출(出)",
+    "etymology_story": "'날 출(出)'은 발이 아래 움푹 파인 곳(凵)에서 위로 올라오는 모습이에요. 구덩이에서 나오듯 '나오다, 나가다'는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "출발(出發)",
+      "etymology_dissection": "날 출(出)+필 발(發)",
+      "easy_definition": "떠남",
+      "context_sentence": "출발 준비를 해요."
+    },
+    {
+      "word_korean": "출구(出口)",
+      "etymology_dissection": "날 출(出)+입 구(口)",
+      "easy_definition": "나가는 문",
+      "context_sentence": "출구를 찾아요."
+    },
+    {
+      "word_korean": "제출(提出)",
+      "etymology_dissection": "들 제(提)+날 출(出)",
+      "easy_definition": "내어 놓는 것",
+      "context_sentence": "숙제를 제출해요."
+    },
+    {
+      "word_korean": "출세(出世)",
+      "etymology_dissection": "날 출(出)+인간 세(世)",
+      "easy_definition": "세상에 이름을 드러내는 것",
+      "context_sentence": "노력으로 출세해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나아가는 용기",
+    "passage_text": "**출발(出發)**은 용기가 필요해요. **출구(出口)**를 찾는 눈이 문제 해결력이에요. **제출(提出)**하는 것도 실력이에요. **출세(出世)**보다 바른 사람이 먼저예요.",
+    "quiz": {
+      "question": "'제출(提出)'이란?",
+      "choices": [
+        "나가는 문",
+        "출발",
+        "내어 놓는 것",
+        "출세"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'제출(提出)'=들 제+날 출, 무언가를 꺼내어 내놓는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "새로운 시작(출발)을 다짐하는 문장을 써 보세요.",
+    "model_example": "출발은 두렵지만 출구를 찾는 자만이 제출된 숙제처럼 완성된 삶을 살 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'날 — 출(出)! 날 — 출(出)!' 열 번 외쳐요!"
+  }
+}

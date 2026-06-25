@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "철",
+    "hanja_meaning": "밝을",
+    "hanja_char": "哲",
+    "hanja_level": "4급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "哲 — 말로 꺾어 이치를 밝히다",
+    "etymology_story": "折(꺾을 절)과 口(입 구)가 합쳐진 글자입니다. 말로 논리를 세워 사물의 이치를 밝히는 모습에서 '밝다', '지혜롭다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "철학",
+      "word_hanja": "哲學",
+      "etymology_dissection": "哲(밝을 철)+學(배울 학) = 지혜를 배움",
+      "easy_definition": "삶과 세계의 근본을 탐구하는 학문",
+      "context_sentence": "**철학**은 '왜 사는가?'를 묻습니다."
+    },
+    {
+      "word_korean": "선철",
+      "word_hanja": "先哲",
+      "etymology_dissection": "先(먼저 선)+哲(밝을 철) = 먼저 밝은 이",
+      "easy_definition": "과거의 뛰어난 현인이나 철학자",
+      "context_sentence": "공자, 맹자와 같은 **선철**의 가르침은 오늘도 유효합니다."
+    },
+    {
+      "word_korean": "철인",
+      "word_hanja": "哲人",
+      "etymology_dissection": "哲(밝을 철)+人(사람 인) = 밝은 사람",
+      "easy_definition": "깊은 지혜를 가진 사람",
+      "context_sentence": "플라톤은 **철인**이 통치해야 한다고 했습니다."
+    },
+    {
+      "word_korean": "지철",
+      "word_hanja": "至哲",
+      "etymology_dissection": "至(이를 지)+哲(밝을 철) = 최고의 밝음",
+      "easy_definition": "최고의 지혜와 총명함",
+      "context_sentence": "**지철**한 판단이 위기를 극복했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "철학이란 무엇인가",
+    "passage_text": "**철학**은 '어떻게 살아야 하는가?', '진리란 무엇인가?', '정의란 무엇인가?' 같은 근본적인 질문을 탐구하는 학문입니다. 소크라테스는 '나는 내가 모른다는 것을 안다'며 끊임없이 질문을 던졌습니다. 플라톤은 이상적인 국가를 **철인**이 통치해야 한다고 했습니다. **철학**적 사고는 당연하게 여겨지는 것에 '왜?'라고 묻는 것입니다. 이 질문이 인류의 지식을 발전시켜왔습니다.",
+    "quiz": {
+      "question": "소크라테스가 철학의 출발점으로 삼은 것은?",
+      "choices": [
+        "확실한 지식",
+        "자신이 모른다는 것을 아는 것",
+        "남을 가르치는 것",
+        "부유한 삶"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "소크라테스는 '나는 내가 모른다는 것을 안다'며 끊임없이 질문을 던졌다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'철학'을 사용해서 자신이 가장 궁금한 삶의 질문을 써보세요.",
+    "model_example": "제 삶의 **철학**적 질문은 '어떻게 하면 다른 사람에게 도움이 되는 삶을 살 수 있는가?'입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "哲(철) — 밝을 철! 철학·선철·철인 모두 여기서! 밝게 잘했어요!"
+  }
+}

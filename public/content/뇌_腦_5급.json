@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "뇌",
+    "hanja_meaning": "골",
+    "hanja_char": "腦",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "腦 — 머리뼈 속의 뇌",
+    "etymology_story": "月(살 육, 肉)과 腦(뇌 모양)가 합쳐진 글자입니다. 머리 속에 있는 골의 모습을 나타낸 글자입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "뇌",
+      "word_hanja": "腦",
+      "etymology_dissection": "腦(골 뇌)",
+      "easy_definition": "머리 속에 있는 중추 신경 기관",
+      "context_sentence": "**뇌**는 우리 몸의 총 지휘자입니다."
+    },
+    {
+      "word_korean": "뇌세포",
+      "word_hanja": "腦細胞",
+      "etymology_dissection": "腦(골 뇌)+細胞(세포)",
+      "easy_definition": "뇌를 이루는 세포",
+      "context_sentence": "충분한 수면이 **뇌세포**를 회복시킵니다."
+    },
+    {
+      "word_korean": "두뇌",
+      "word_hanja": "頭腦",
+      "etymology_dissection": "頭(머리 두)+腦(골 뇌) = 머리의 골",
+      "easy_definition": "지적 능력이나 두뇌력",
+      "context_sentence": "**두뇌** 훈련으로 기억력을 향상할 수 있습니다."
+    },
+    {
+      "word_korean": "뇌과학",
+      "word_hanja": "腦科學",
+      "etymology_dissection": "腦(골 뇌)+科學(과학) = 뇌를 연구하는 과학",
+      "easy_definition": "뇌의 구조와 기능을 연구하는 학문",
+      "context_sentence": "최근 **뇌과학**이 급격히 발전했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "뇌의 신비",
+    "passage_text": "인간의 **뇌**는 약 860억 개의 신경 세포(**뇌세포**)로 이루어져 있습니다. **뇌**는 몸무게의 2%에 불과하지만 전체 에너지의 20%를 소비합니다. **두뇌**는 사용할수록 더 발달합니다. 새로운 것을 배울 때마다 신경 연결이 새롭게 만들어집니다. **뇌과학** 연구에 따르면 충분한 수면, 규칙적인 운동, 다양한 자극이 **뇌** 건강에 도움이 됩니다.",
+    "quiz": {
+      "question": "뇌에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "뇌는 몸무게의 절반을 차지한다",
+        "뇌는 전체 에너지의 20%를 소비한다",
+        "뇌세포는 사용하면 줄어든다",
+        "뇌는 수면 중에 활동을 멈춘다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "뇌는 몸무게의 2%에 불과하지만 전체 에너지의 20%를 소비한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'두뇌'를 사용해서 두뇌 건강을 위해 실천하는 것을 써보세요.",
+    "model_example": "퍼즐과 독서로 **두뇌**를 자극하고, 충분한 수면으로 **뇌세포**를 회복시키는 것이 제 건강 습관입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "腦(뇌) — 골 뇌! 뇌세포·두뇌·뇌과학 모두 여기서! 두뇌를 써서 잘했어요!"
+  }
+}

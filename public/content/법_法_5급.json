@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "法",
+    "hanja_sound": "법",
+    "hanja_meaning": "법",
+    "full_reading": "법 법",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "法",
+    "sound": "법",
+    "meaning": "법",
+    "stroke_count": 8,
+    "radical": "水",
+    "etymology_story": "法은 물(水)과 갈 거(廌)가 합쳐진 글자입니다. 물이 공정하게 흐르듯 사회를 공정하게 다스리는 규칙에서 '법', '방법'의 뜻이 생겼습니다.",
+    "memory_tip": "물(水)처럼 공정하게 흐르는 것이 '법(法)'입니다.",
+    "level_context": "5급 한자로, 법을(를) 뜻하는 法입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "법률",
+      "word_hanja": "法律",
+      "reading": "법률",
+      "easy_definition": "나라가 정한 규범",
+      "etymology_dissection": "법 법(法)+법칙 률(律): 법과 법칙",
+      "example_sentence": "법률을 위반하면 안 됩니다.",
+      "sentence_meaning": "나라가 정한 규범을 어기면 안 됩니다."
+    },
+    {
+      "word_korean": "방법",
+      "word_hanja": "方法",
+      "reading": "방법",
+      "easy_definition": "어떤 목적을 이루는 수단",
+      "etymology_dissection": "방향 방(方)+법 법(法): 방향의 법",
+      "example_sentence": "좋은 방법을 찾았습니다.",
+      "sentence_meaning": "목적을 이루는 좋은 수단을 찾았습니다."
+    },
+    {
+      "word_korean": "헌법",
+      "word_hanja": "憲法",
+      "reading": "헌법",
+      "easy_definition": "나라의 기본 법",
+      "etymology_dissection": "법 헌(憲)+법 법(法): 기본 법",
+      "example_sentence": "헌법은 나라의 최고 법입니다.",
+      "sentence_meaning": "헌법은 나라에서 가장 기본이 되는 법입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "법률을 지키는 것은 모든 국민의 의무입니다. 문제를 해결하는 방법을 찾아야 합니다. 헌법은 모든 법의 기초가 됩니다.",
+    "passage_meaning": "법률, 방법, 헌법 모두 '법'을 뜻하는 法에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'헌법'의 뜻으로 알맞은 것은?",
+        "options": [
+          "일상적인 규칙",
+          "나라의 기본 법",
+          "회사 규정",
+          "학교 규칙"
+        ],
+        "correct_answer": "나라의 기본 법",
+        "explanation": "헌법(憲法)은 나라의 기본 법입니다."
+      },
+      {
+        "question": "'방법'에서 '法'의 뜻은?",
+        "options": [
+          "방향",
+          "법·수단",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "법·수단",
+        "explanation": "방법(方法)의 法은 '법', '수단'으로, 어떤 목적을 이루는 방법입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'법률'이나 '방법'을 사용하여 문장을 써 보세요.",
+    "hint": "규칙이나 문제 해결에 관한 내용을 담아 보세요.",
+    "example_answer": "문제를 해결하는 좋은 방법을 찾았습니다.",
+    "key_vocabulary": [
+      "법률",
+      "방법"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "법률을 지키는 것이 의무입니다.",
+      "좋은 방법을 생각합시다.",
+      "헌법이 나라의 기초입니다."
+    ],
+    "pronunciation_tips": "'법'을 명확하게 발음하며 읽어 보세요."
+  }
+}

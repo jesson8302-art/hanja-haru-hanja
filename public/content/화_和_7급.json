@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "화할",
+    "hanja_char": "和",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "곡식과 입이 조화를 이루다 — 화할 화(和)",
+    "etymology_story": "'화할 화(和)'는 곡식(禾)과 입(口)이 합쳐진 글자예요. 먹을 것이 충분하면 다툼이 없다는 데서 '조화롭다, 화목하다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "화목(和睦)",
+      "etymology_dissection": "화할 화(和)+화목할 목(睦)",
+      "easy_definition": "사이좋게 지내는 것",
+      "context_sentence": "화목한 가정이 행복해요."
+    },
+    {
+      "word_korean": "평화(平和)",
+      "etymology_dissection": "평평할 평(平)+화할 화(和)",
+      "easy_definition": "싸움 없이 평온한 것",
+      "context_sentence": "평화를 지켜요."
+    },
+    {
+      "word_korean": "조화(調和)",
+      "etymology_dissection": "고를 조(調)+화할 화(和)",
+      "easy_definition": "서로 잘 어울리는 것",
+      "context_sentence": "색깔의 조화가 아름다워요."
+    },
+    {
+      "word_korean": "화해(和解)",
+      "etymology_dissection": "화할 화(和)+풀 해(解)",
+      "easy_definition": "다툼을 풀고 사이가 좋아지는 것",
+      "context_sentence": "친구와 화해했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "조화로운 세상",
+    "passage_text": "**화목(和睦)**한 가정에서 평화가 시작돼요. **화해(和解)**는 용기가 필요해요. **조화(調和)**가 아름다운 세상을 만들어요. **평화(平和)**는 작은 화해에서 시작해요.",
+    "quiz": {
+      "question": "'화해(和解)'란?",
+      "choices": [
+        "조화",
+        "평화",
+        "다툼을 풀고 사이가 좋아지는 것",
+        "화목"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'화해(和解)'=화할 화+풀 해, 다툼을 풀고 다시 사이 좋아지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "친구나 가족과 화해하거나 조화를 이룬 경험을 문장으로 써 보세요.",
+    "model_example": "화해 한 번이 평화로운 관계를 만들고, 그것이 화목한 가정과 조화로운 세상의 씨앗이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'화할 — 화(和)! 화할 — 화(和)!' 열 번 외쳐요!"
+  }
+}

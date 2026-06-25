@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "려",
+    "hanja_meaning": "힘쓸",
+    "hanja_char": "勵",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "勵 — 강하게 힘을 북돋우다",
+    "etymology_story": "萬(일만 만)과 力(힘 력)이 합쳐진 글자입니다. 만 배의 힘으로 격려하고 독려하는 모습에서 '힘쓰다', '격려하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "격려",
+      "word_hanja": "激勵",
+      "etymology_dissection": "激(격할 격)+勵(힘쓸 려) = 격하게 힘씀",
+      "easy_definition": "용기나 의욕을 북돋워 줌",
+      "context_sentence": "선생님의 **격려** 한마디가 큰 힘이 됐습니다."
+    },
+    {
+      "word_korean": "독려",
+      "word_hanja": "督勵",
+      "etymology_dissection": "督(살필 독)+勵(힘쓸 려) = 살펴 힘씀",
+      "easy_definition": "감독하며 힘쓰도록 재촉함",
+      "context_sentence": "코치가 선수들을 **독려**했습니다."
+    },
+    {
+      "word_korean": "장려",
+      "word_hanja": "獎勵",
+      "etymology_dissection": "獎(권할 장)+勵(힘쓸 려) = 권하고 힘씀",
+      "easy_definition": "좋은 일을 하도록 권하여 격려함",
+      "context_sentence": "정부가 독서를 **장려**합니다."
+    },
+    {
+      "word_korean": "면려",
+      "word_hanja": "勉勵",
+      "etymology_dissection": "勉(힘쓸 면)+勵(힘쓸 려) = 힘쓰고 힘씀",
+      "easy_definition": "스스로 힘쓰고 노력함",
+      "context_sentence": "**면려**하는 자세가 성장의 기본입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "격려의 힘",
+    "passage_text": "심리학 연구에 따르면 **격려**는 사람의 행동과 성취에 강력한 영향을 줍니다. 칭찬보다 구체적인 **격려**가 더 효과적입니다. '잘했어'보다 '포기하지 않고 끝까지 노력했구나'가 더 큰 힘을 줍니다. 교사의 **격려**를 받은 학생이 그렇지 않은 학생보다 학업 성취가 높다는 연구 결과도 있습니다. **장려** 정책도 마찬가지로 긍정적 행동을 유도하는 데 효과적입니다. 오늘 주변 사람에게 **격려** 한마디를 건네보세요.",
+    "quiz": {
+      "question": "구체적인 격려가 더 효과적인 이유를 보여주는 예시로 맞는 것은?",
+      "choices": [
+        "'잘했어'라는 짧은 칭찬",
+        "'포기하지 않고 끝까지 노력했구나'라는 과정 중심 격려",
+        "아무 말도 안 하는 것",
+        "상을 주는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "구체적인 격려의 예시로 '포기하지 않고 끝까지 노력했구나'가 언급되었습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'격려'를 사용해서 주변 사람에게 격려의 말을 써보세요.",
+    "model_example": "시험을 앞두고 걱정하는 친구에게 '지금까지 충분히 준비했으니까 자신을 믿어. 나는 네가 잘 해낼 거라 **격려**해'라고 말해주었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "勵(려) — 힘쓸 려! 격려·독려·장려·면려 모두 여기서! 격려받으며 잘했어요!"
+  }
+}

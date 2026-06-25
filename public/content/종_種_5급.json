@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "종",
+    "hanja_meaning": "씨",
+    "hanja_char": "種",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "種 — 무거운 벼가 열린 씨앗",
+    "etymology_story": "禾(벼 화)와 重(무거울 중)이 합쳐진 글자입니다. 알이 실하고 무거운 벼의 씨앗을 나타내며 '씨', '종류'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "종류",
+      "word_hanja": "種類",
+      "etymology_dissection": "種(씨 종)+類(무리 류) = 씨의 무리",
+      "easy_definition": "어떤 기준으로 나눈 각각의 부류",
+      "context_sentence": "식물의 **종류**는 매우 다양합니다."
+    },
+    {
+      "word_korean": "인종",
+      "word_hanja": "人種",
+      "etymology_dissection": "人(사람 인)+種(씨 종) = 사람의 씨",
+      "easy_definition": "같은 신체적 특징을 가진 사람들의 무리",
+      "context_sentence": "**인종**에 따른 차별은 옳지 않습니다."
+    },
+    {
+      "word_korean": "품종",
+      "word_hanja": "品種",
+      "etymology_dissection": "品(물건 품)+種(씨 종) = 물건의 씨",
+      "easy_definition": "식물이나 동물의 특정 종류",
+      "context_sentence": "개량 **품종** 덕분에 수확량이 늘었습니다."
+    },
+    {
+      "word_korean": "멸종",
+      "word_hanja": "滅種",
+      "etymology_dissection": "滅(꺼질 멸)+種(씨 종) = 씨가 꺼짐",
+      "easy_definition": "한 종류의 생물이 완전히 사라짐",
+      "context_sentence": "**멸종** 위기 동물을 보호해야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "생물 다양성",
+    "passage_text": "지구에는 약 870만 **종류**의 생물이 살고 있습니다. 이 생물 다양성은 생태계를 건강하게 유지하는 데 필수적입니다. 한 **종류**의 생물이 **멸종**하면 연쇄적으로 다른 생물에게도 영향을 줍니다. 예를 들어 벌이 사라지면 식물의 꽃가루 수정이 이루어지지 않아 많은 식물이 열매를 맺지 못합니다. **인종** 다양성처럼 생물 **종류**의 다양성도 보존해야 할 소중한 가치입니다.",
+    "quiz": {
+      "question": "벌이 사라지면 생기는 문제는?",
+      "choices": [
+        "바다가 오염된다",
+        "식물의 꽃가루 수정이 이루어지지 않아 열매를 맺지 못한다",
+        "강이 말라버린다",
+        "동물들이 모두 이주한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "벌이 사라지면 식물의 꽃가루 수정이 이루어지지 않아 많은 식물이 열매를 맺지 못한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'멸종'을 사용해서 환경 보호의 중요성을 써보세요.",
+    "model_example": "한번 **멸종**된 생물은 되살릴 수 없으므로, 지금 우리가 환경을 보호하는 노력이 미래 세대에게 물려줄 가장 큰 유산입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "種(종) — 씨 종! 종류·인종·품종·멸종 모두 여기서! 잘했어요!"
+  }
+}

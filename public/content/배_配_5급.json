@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "配",
+    "hanja_sound": "배",
+    "hanja_meaning": "나눌",
+    "full_reading": "나눌 배",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "配",
+    "sound": "배",
+    "meaning": "나눌",
+    "stroke_count": 10,
+    "radical": "酉",
+    "etymology_story": "配는 술(酉)과 무릎 꿇을 기(己)가 합쳐진 글자입니다. 술을 알맞게 나누어 주는 모습에서 '나누다', '배분하다', '배우자'의 뜻이 생겼습니다.",
+    "memory_tip": "술(酉)을 알맞게 나누는(己) 것이 '配'입니다.",
+    "level_context": "5급 한자로, 나눌을(를) 뜻하는 配입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "배분",
+      "word_hanja": "配分",
+      "reading": "배분",
+      "easy_definition": "알맞게 나눔",
+      "etymology_dissection": "나눌 배(配)+나눌 분(分): 나누어 분배",
+      "example_sentence": "이익을 배분했습니다.",
+      "sentence_meaning": "이익을 알맞게 나눠 가졌습니다."
+    },
+    {
+      "word_korean": "배달",
+      "word_hanja": "配達",
+      "reading": "배달",
+      "easy_definition": "물건을 가져다 줌",
+      "etymology_dissection": "나눌 배(配)+전달할 달(達): 나누어 전달",
+      "example_sentence": "음식을 배달했습니다.",
+      "sentence_meaning": "음식을 가져다 주었습니다."
+    },
+    {
+      "word_korean": "지배",
+      "word_hanja": "支配",
+      "reading": "지배",
+      "easy_definition": "힘으로 다스려 통제함",
+      "etymology_dissection": "가를 지(支)+나눌 배(配): 나누어 다스림",
+      "example_sentence": "감정에 지배되면 안 됩니다.",
+      "sentence_meaning": "감정에 의해 통제되면 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "음식 배달 서비스를 이용합니다. 이익을 공정하게 배분하는 것이 중요합니다. 감정에 지배당하지 않고 이성적으로 행동합니다.",
+    "passage_meaning": "배분, 배달, 지배 모두 '나누다', '배치하다'는 뜻의 配에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'배달'의 뜻으로 알맞은 것은?",
+        "options": [
+          "물건을 사는 것",
+          "물건을 가져다 주는 것",
+          "물건을 만드는 것",
+          "물건을 버리는 것"
+        ],
+        "correct_answer": "물건을 가져다 주는 것",
+        "explanation": "배달(配達)은 물건을 가져다 주는 것입니다."
+      },
+      {
+        "question": "'배분'에서 '配'의 뜻은?",
+        "options": [
+          "모으다",
+          "나누다",
+          "쌓다",
+          "숨기다"
+        ],
+        "correct_answer": "나누다",
+        "explanation": "배분(配分)의 配는 '나누다'로, 알맞게 나누는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'배달'이나 '배분'을 사용하여 문장을 써 보세요.",
+    "hint": "나눔이나 서비스와 관련된 내용을 담아 보세요.",
+    "example_answer": "이익을 공정하게 배분하는 것이 중요합니다.",
+    "key_vocabulary": [
+      "배분",
+      "배달"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "음식 배달을 시켰습니다.",
+      "이익을 공정히 배분합시다.",
+      "감정에 지배되지 맙시다."
+    ],
+    "pronunciation_tips": "'배'을 명확하게 발음하며 읽어 보세요."
+  }
+}

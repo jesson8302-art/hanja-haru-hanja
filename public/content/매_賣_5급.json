@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "賣",
+    "hanja_sound": "매",
+    "hanja_meaning": "팔",
+    "full_reading": "팔 매",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "賣",
+    "sound": "매",
+    "meaning": "팔",
+    "stroke_count": 15,
+    "radical": "貝",
+    "etymology_story": "賣는 조개(貝)와 나올 출(出)이 합쳐진 글자입니다. 조개(돈)를 받고 물건을 내놓는 모습에서 '팔다'의 뜻이 생겼습니다.",
+    "memory_tip": "돈(貝)을 받고 물건을 내놓는(出) 것이 '팔다'입니다.",
+    "level_context": "5급 한자로, 팔을(를) 뜻하는 賣입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "판매",
+      "word_hanja": "販賣",
+      "reading": "판매",
+      "easy_definition": "물건을 팔아서 넘김",
+      "etymology_dissection": "팔 판(販)+팔 매(賣): 팔아 넘김",
+      "example_sentence": "온라인 판매가 늘었습니다.",
+      "sentence_meaning": "인터넷으로 물건을 파는 것이 늘었습니다."
+    },
+    {
+      "word_korean": "매출",
+      "word_hanja": "賣出",
+      "reading": "매출",
+      "easy_definition": "물건을 팔아 올리는 수익",
+      "etymology_dissection": "팔 매(賣)+날 출(出): 팔아 내놓음",
+      "example_sentence": "이번 달 매출이 올랐습니다.",
+      "sentence_meaning": "이번 달에 물건을 팔아 올린 수익이 늘었습니다."
+    },
+    {
+      "word_korean": "방매",
+      "word_hanja": "放賣",
+      "reading": "방매",
+      "easy_definition": "물건을 내놓아 팔아 버림",
+      "etymology_dissection": "놓을 방(放)+팔 매(賣): 놓아 팜",
+      "example_sentence": "중고 물건을 방매했습니다.",
+      "sentence_meaning": "쓰던 물건을 내놓아 팔았습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "온라인 판매가 점점 늘어나고 있습니다. 이번 달 매출이 목표를 달성했습니다. 사용하지 않는 물건은 방매하면 좋습니다.",
+    "passage_meaning": "판매, 매출, 방매 모두 '팔다'는 뜻의 賣에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'판매'의 뜻으로 알맞은 것은?",
+        "options": [
+          "물건을 사는 것",
+          "물건을 팔아서 넘기는 것",
+          "물건을 만드는 것",
+          "물건을 버리는 것"
+        ],
+        "correct_answer": "물건을 팔아서 넘기는 것",
+        "explanation": "판매(販賣)는 물건을 팔아서 넘기는 것입니다."
+      },
+      {
+        "question": "'매출'에서 '賣'의 뜻은?",
+        "options": [
+          "사다",
+          "팔다",
+          "만들다",
+          "버리다"
+        ],
+        "correct_answer": "팔다",
+        "explanation": "매출(賣出)의 賣는 '팔다'로, 물건을 팔아 올리는 수익을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'판매'나 '매출'을 사용하여 문장을 써 보세요.",
+    "hint": "경제나 상업과 관련된 내용을 담아 보세요.",
+    "example_answer": "온라인 판매로 매출이 크게 올랐습니다.",
+    "key_vocabulary": [
+      "판매",
+      "매출"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "다양한 상품을 판매합니다.",
+      "매출 목표를 달성했습니다.",
+      "안 쓰는 물건을 방매합시다."
+    ],
+    "pronunciation_tips": "'매'을 명확하게 발음하며 읽어 보세요."
+  }
+}

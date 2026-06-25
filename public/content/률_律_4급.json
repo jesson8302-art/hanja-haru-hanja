@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "률",
+    "hanja_meaning": "법칙",
+    "hanja_char": "律",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "律 — 붓으로 새긴 법칙",
+    "etymology_story": "彳(조금 걸을 척)과 聿(붓 율)이 합쳐진 글자입니다. 사람이 걷는 것처럼 일정한 규칙에 따라 붓으로 써내려간다는 뜻에서 '법칙', '규율'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "법률",
+      "word_hanja": "法律",
+      "etymology_dissection": "法(법 법)+律(법칙 률) = 법의 규칙",
+      "easy_definition": "국가가 정한 강제적인 규범",
+      "context_sentence": "**법률**을 어기면 처벌을 받을 수 있습니다."
+    },
+    {
+      "word_korean": "규율",
+      "word_hanja": "規律",
+      "etymology_dissection": "規(법 규)+律(법칙 률) = 규칙과 법칙",
+      "easy_definition": "일정한 질서와 규칙",
+      "context_sentence": "군대는 엄격한 **규율**로 운영됩니다."
+    },
+    {
+      "word_korean": "자율",
+      "word_hanja": "自律",
+      "etymology_dissection": "自(스스로 자)+律(법칙 률) = 스스로 규율함",
+      "easy_definition": "스스로 규칙을 세우고 지키는 것",
+      "context_sentence": "**자율**적으로 공부하는 습관이 중요합니다."
+    },
+    {
+      "word_korean": "선율",
+      "word_hanja": "旋律",
+      "etymology_dissection": "旋(돌 선)+律(법칙 률) = 돌아오는 법칙",
+      "easy_definition": "음악에서 리듬 있게 이어지는 음의 흐름",
+      "context_sentence": "아름다운 **선율**의 음악을 들으며 마음이 편안해졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "법률과 도덕",
+    "passage_text": "**법률**은 국가가 강제로 지키게 하는 규범이고, 도덕은 스스로 지키는 **규율**입니다. 예를 들어 거짓말은 도덕적으로 나쁘지만 모든 거짓말이 **법률** 위반은 아닙니다. 반대로 음식점에서 허가 없이 음식을 파는 것은 **법률** 위반이지만 도덕적으로 나쁜 것은 아닐 수 있습니다. 좋은 시민은 **법률**을 지키면서도 스스로 **자율**적인 도덕 **규율**을 갖추어야 합니다.",
+    "quiz": {
+      "question": "법률과 도덕의 관계로 옳은 것은?",
+      "choices": [
+        "모든 도덕적 잘못은 법률 위반이다",
+        "법률과 도덕은 항상 일치한다",
+        "법률을 지키면서 스스로 도덕 규율도 갖추는 것이 좋다",
+        "법률만 지키면 도덕은 필요 없다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 좋은 시민은 법률을 지키면서도 스스로 자율적인 도덕 규율을 갖추어야 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'법률'이나 '자율'을 사용해서 규칙과 관련된 문장을 써보세요.",
+    "model_example": "스스로 정한 공부 시간을 지키는 **자율**적인 태도가 훗날 **법률**을 지키는 시민 의식으로 이어집니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "律(률) — 법칙 률! 법률·규율·자율·선율 모두 여기서! 대단해요!"
+  }
+}

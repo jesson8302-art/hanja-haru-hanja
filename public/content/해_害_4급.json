@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "해",
+    "hanja_meaning": "해칠",
+    "hanja_char": "害",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "害 — 집 안의 입이 해를 끼치다",
+    "etymology_story": "宀(집 면)과 丰(풀 봉)과 口(입 구)가 합쳐진 글자입니다. 집 안에서 함부로 말을 뱉어 상대방에게 해를 끼치는 모습에서 '해치다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "해로움",
+      "word_hanja": "害",
+      "etymology_dissection": "害(해칠 해) 자체",
+      "easy_definition": "피해를 주거나 손상을 입히는 것",
+      "context_sentence": "과도한 게임은 건강에 **해로움**을 줍니다."
+    },
+    {
+      "word_korean": "피해",
+      "word_hanja": "被害",
+      "etymology_dissection": "被(당할 피)+害(해칠 해) = 해를 당함",
+      "easy_definition": "해로운 일을 당하는 것",
+      "context_sentence": "태풍으로 큰 **피해**가 발생했습니다."
+    },
+    {
+      "word_korean": "방해",
+      "word_hanja": "妨害",
+      "etymology_dissection": "妨(방해할 방)+害(해칠 해) = 막아서 해를 끼침",
+      "easy_definition": "어떤 일을 못하게 막거나 훼방 놓음",
+      "context_sentence": "수업 중 떠드는 것은 친구들의 학습을 **방해**합니다."
+    },
+    {
+      "word_korean": "유해",
+      "word_hanja": "有害",
+      "etymology_dissection": "有(있을 유)+害(해칠 해) = 해가 있음",
+      "easy_definition": "해로운 성분이나 영향이 있음",
+      "context_sentence": "**유해** 물질을 함부로 버리면 환경이 오염됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "해로운 습관 줄이기",
+    "passage_text": "우리 주변에는 건강에 **유해**한 것들이 많습니다. 미세먼지, 과도한 설탕 섭취, 늦은 취침 등이 대표적입니다. 이런 것들은 당장 큰 **피해**를 주지 않는 것처럼 보여도 쌓이면 건강을 해칩니다. 또한 남에게 **방해**가 되는 행동도 그 사람에게 **해로움**을 줍니다. 작은 해로운 습관부터 하나씩 줄여나가는 것이 건강한 삶의 시작입니다.",
+    "quiz": {
+      "question": "해로운 습관을 줄여야 하는 이유로 글에서 언급된 것은?",
+      "choices": [
+        "바로 큰 피해가 오기 때문에",
+        "쌓이면 건강을 해치기 때문에",
+        "선생님이 시켜서",
+        "친구들이 다 그렇게 하니까"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 당장 큰 피해를 주지 않는 것처럼 보여도 쌓이면 건강을 해친다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'피해'나 '방해'를 사용해서 나쁜 습관이나 행동에 대한 생각을 써보세요.",
+    "model_example": "수업 시간에 떠드는 행동은 공부하려는 친구들에게 **방해**가 되어 모두에게 **피해**를 줍니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "害(해) — 해칠 해! 피해·방해·유해 모두 여기서! 수고했어요!"
+  }
+}

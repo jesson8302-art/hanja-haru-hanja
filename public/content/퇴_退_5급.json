@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "퇴",
+    "hanja_meaning": "물러날",
+    "hanja_char": "退",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "退 — 발이 해에서 멀어져 물러나다",
+    "etymology_story": "辶(갈 착)과 日(해 일)이 합쳐진 글자입니다. 해가 지면 물러나듯이 뒤로 물러나는 모습에서 '물러나다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "퇴직",
+      "word_hanja": "退職",
+      "etymology_dissection": "退(물러날 퇴)+職(직분 직) = 직에서 물러남",
+      "easy_definition": "직장에서 물러나 그만둠",
+      "context_sentence": "아버지가 올해 **퇴직**하셨습니다."
+    },
+    {
+      "word_korean": "후퇴",
+      "word_hanja": "後退",
+      "etymology_dissection": "後(뒤 후)+退(물러날 퇴) = 뒤로 물러남",
+      "easy_definition": "뒤로 물러남. 나빠지는 것",
+      "context_sentence": "기후 변화 대응에서 **후퇴**하면 안 됩니다."
+    },
+    {
+      "word_korean": "퇴보",
+      "word_hanja": "退步",
+      "etymology_dissection": "退(물러날 퇴)+步(걸음 보) = 뒤로 걸음",
+      "easy_definition": "더 나쁜 방향으로 물러남",
+      "context_sentence": "노력하지 않으면 실력이 **퇴보**합니다."
+    },
+    {
+      "word_korean": "철퇴",
+      "word_hanja": "撤退",
+      "etymology_dissection": "撤(거둘 철)+退(물러날 퇴) = 거두어 물러남",
+      "easy_definition": "군대나 단체가 어떤 곳에서 물러남",
+      "context_sentence": "군대가 국경에서 **철퇴**했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "물러남의 지혜",
+    "passage_text": "인생에서 **후퇴**는 때로 지혜입니다. 병에 걸렸을 때 쉬지 않고 계속 일하면 상태가 **퇴보**합니다. 전쟁에서도 전략적 **철퇴**가 최후의 승리를 이끌기도 합니다. 남한산성의 조선 군대가 즉각 싸우지 않고 버텼던 것처럼요. 용기 있게 나아가는 것도 중요하지만, 때로는 물러서야 할 때를 아는 것이 더 큰 지혜입니다. **퇴직** 후의 삶도 새로운 시작이 될 수 있습니다.",
+    "quiz": {
+      "question": "글에서 후퇴를 지혜로운 선택이라고 한 이유는?",
+      "choices": [
+        "후퇴하면 승리하기 때문",
+        "때로는 물러서야 할 때를 아는 것이 더 큰 지혜이기 때문",
+        "후퇴는 항상 옳기 때문에",
+        "전쟁에서 후퇴는 필수이기 때문"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 때로는 물러서야 할 때를 아는 것이 더 큰 지혜라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'퇴보'나 '후퇴'를 사용해서 하지 않으면 퇴보하는 것이 무엇인지 써보세요.",
+    "model_example": "꾸준히 운동하지 않으면 체력이 **퇴보**하므로, 조금씩이라도 매일 몸을 움직여야 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "退(퇴) — 물러날 퇴! 퇴직·후퇴·퇴보·철퇴 모두 여기서! 수고했어요!"
+  }
+}

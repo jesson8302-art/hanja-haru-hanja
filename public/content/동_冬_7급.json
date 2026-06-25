@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "겨울",
+    "hanja_char": "冬",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "실 끝이 매듭지어지는 겨울 — 겨울 동(冬)",
+    "etymology_story": "'겨울 동(冬)'은 실(糸)의 끝이 묶여 있는 모습이에요. 한 해의 실이 끝나는 마지막 계절이 겨울이라는 뜻이에요. 얼음(冫)이 추가돼 더 추운 느낌이 나요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "겨울(冬)",
+      "etymology_dissection": "겨울 동(冬)에서 온 우리말",
+      "easy_definition": "일 년 중 가장 추운 계절",
+      "context_sentence": "겨울에 눈싸움을 했어요."
+    },
+    {
+      "word_korean": "동계(冬季)",
+      "etymology_dissection": "겨울 동(冬)+계절 계(季)",
+      "easy_definition": "겨울 계절",
+      "context_sentence": "동계 올림픽은 눈과 얼음 위에서 해요."
+    },
+    {
+      "word_korean": "동면(冬眠)",
+      "etymology_dissection": "겨울 동(冬)+잠 면(眠)",
+      "easy_definition": "동물이 겨울에 자는 것",
+      "context_sentence": "곰은 겨울에 동면을 해요."
+    },
+    {
+      "word_korean": "월동(越冬)",
+      "etymology_dissection": "넘을 월(越)+겨울 동(冬)",
+      "easy_definition": "겨울을 이겨 넘기는 것",
+      "context_sentence": "식물도 월동 준비가 필요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "겨울의 지혜",
+    "passage_text": "**동계(冬季)** 올림픽에서 선수들이 멋진 경기를 펼쳐요. 곰이 **동면(冬眠)**을 하듯 쉬어가는 것도 필요해요. **월동(越冬)** 준비를 잘 하면 봄이 더 따뜻해요.",
+    "quiz": {
+      "question": "'동면(冬眠)'이란?",
+      "choices": [
+        "겨울 올림픽",
+        "동물이 겨울에 자는 것",
+        "겨울을 넘기는 것",
+        "겨울 계절"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'동면(冬眠)'=겨울 동+잠 면, 동물이 겨울에 긴 잠을 자는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "겨울이 주는 선물(눈, 방학, 따뜻한 음식 등)에 대해 문장으로 써 보세요.",
+    "model_example": "동면하는 곰처럼 겨울엔 충분히 쉬고, 월동을 잘 마친 꽃처럼 봄에 활짝 피어나고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'겨울 — 동(冬)! 겨울 — 동(冬)!' 열 번 외쳐요!"
+  }
+}

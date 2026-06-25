@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "과",
+    "hanja_meaning": "과목",
+    "hanja_char": "科",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "곡식을 재는 것 — 과목 과(科)",
+    "etymology_story": "'과목 과(科)'는 곡식(禾)과 재다(斗)가 합쳐진 글자예요. 곡식을 종류별로 재고 분류하는 것에서 '과목, 분류'라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "과학(科學)",
+      "etymology_dissection": "과목 과(科)+배울 학(學)",
+      "easy_definition": "자연 현상을 연구하는 학문",
+      "context_sentence": "과학을 좋아해요."
+    },
+    {
+      "word_korean": "과목(科目)",
+      "etymology_dissection": "과목 과(科)+눈 목(目)",
+      "easy_definition": "배우는 공부의 항목",
+      "context_sentence": "좋아하는 과목은 국어예요."
+    },
+    {
+      "word_korean": "의과(醫科)",
+      "etymology_dissection": "의원 의(醫)+과목 과(科)",
+      "easy_definition": "의학을 배우는 학과",
+      "context_sentence": "의과 대학에 가고 싶어요."
+    },
+    {
+      "word_korean": "이과(理科)",
+      "etymology_dissection": "다스릴 리(理)+과목 과(科)",
+      "easy_definition": "이학(과학·수학) 계열",
+      "context_sentence": "이과 수업이 즐거워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "과목의 세계",
+    "passage_text": "**과학(科學)**은 세상의 비밀을 밝혀요. 좋아하는 **과목(科目)**을 깊이 공부해요. **의과(醫科)**처럼 사람을 돕는 공부가 보람 있어요.",
+    "quiz": {
+      "question": "'과학(科學)'이란?",
+      "choices": [
+        "과목",
+        "의과",
+        "자연 현상을 연구하는 학문",
+        "이과"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'과학(科學)'=과목 과+배울 학, 자연의 이치를 연구하는 학문이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "좋아하는 과목이나 탐구한 경험을 문장으로 써 보세요.",
+    "model_example": "과학이라는 과목이 좋아서 의과를 꿈꾸게 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'과목 — 과(科)! 과목 — 과(科)!' 열 번 외쳐요!"
+  }
+}

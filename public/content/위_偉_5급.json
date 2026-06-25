@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "偉",
+    "hanja_sound": "위",
+    "hanja_meaning": "위대할",
+    "full_reading": "위대할 위",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "偉",
+    "sound": "위",
+    "meaning": "위대할",
+    "stroke_count": 12,
+    "radical": "人",
+    "etymology_story": "偉는 사람(人)과 가죽 위(韋)가 합쳐진 글자입니다. 가죽처럼 질기고 단단한 사람의 모습에서 '위대하다', '크다'의 뜻이 생겼습니다.",
+    "memory_tip": "가죽(韋)처럼 질긴 사람(人)이 '위대하다(偉)'입니다.",
+    "level_context": "5급 한자로, 위대할을(를) 뜻하는 偉입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "위대",
+      "word_hanja": "偉大",
+      "reading": "위대",
+      "easy_definition": "뛰어나게 큼",
+      "etymology_dissection": "위대할 위(偉)+클 대(大): 위대하고 큰",
+      "example_sentence": "위대한 업적을 남겼습니다.",
+      "sentence_meaning": "뛰어나게 큰 업적을 남겼습니다."
+    },
+    {
+      "word_korean": "위인",
+      "word_hanja": "偉人",
+      "reading": "위인",
+      "easy_definition": "위대한 사람",
+      "etymology_dissection": "위대할 위(偉)+사람 인(人): 위대한 사람",
+      "example_sentence": "이순신은 위인입니다.",
+      "sentence_meaning": "이순신은 위대한 사람입니다."
+    },
+    {
+      "word_korean": "웅위",
+      "word_hanja": "雄偉",
+      "reading": "웅위",
+      "easy_definition": "웅장하고 위대함",
+      "etymology_dissection": "웅장할 웅(雄)+위대할 위(偉): 웅장하고 위대함",
+      "example_sentence": "웅위한 산맥이 있습니다.",
+      "sentence_meaning": "웅장하고 위대한 산맥이 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "이순신 장군은 위대한 위인입니다. 위대한 과학자들의 발견으로 현대 문명이 이루어졌습니다. 웅위한 자연의 모습이 감동을 줍니다.",
+    "passage_meaning": "위대, 위인, 웅위 모두 '위대하다', '크다'를 뜻하는 偉에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'위인'의 뜻은?",
+        "options": [
+          "보통 사람",
+          "위대한 사람",
+          "작은 사람",
+          "어리석은 사람"
+        ],
+        "correct_answer": "위대한 사람",
+        "explanation": "위인(偉人)은 위대한 사람입니다."
+      },
+      {
+        "question": "'偉'의 뜻은?",
+        "options": [
+          "작다",
+          "위대하다",
+          "느리다",
+          "약하다"
+        ],
+        "correct_answer": "위대하다",
+        "explanation": "偉는 '위대하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'위대'나 '위인'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 인물에 관한 내용을 담아 보세요.",
+    "example_answer": "이순신 장군은 나라를 구한 위대한 위인입니다.",
+    "key_vocabulary": [
+      "위대",
+      "위인"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "위대한 업적에 감동합니다.",
+      "위인을 본받습니다.",
+      "웅위한 자연에 감탄합니다."
+    ],
+    "pronunciation_tips": "'위'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "토",
+    "hanja_meaning": "칠",
+    "hanja_char": "討",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "討 — 말로 공격해 사실을 밝히다",
+    "etymology_story": "言(말씀 언)과 寸(마디 촌)이 합쳐진 글자입니다. 마디마디 말로 잘못을 따져 공격한다는 뜻에서 '토론하다', '토벌하다'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "토론",
+      "word_hanja": "討論",
+      "etymology_dissection": "討(칠 토)+論(말할 론) = 쳐서 논함",
+      "easy_definition": "여러 사람이 의견을 나누어 따지고 논의함",
+      "context_sentence": "찬반 **토론**에서 자신의 의견을 논리적으로 말했습니다."
+    },
+    {
+      "word_korean": "검토",
+      "word_hanja": "檢討",
+      "etymology_dissection": "檢(검사할 검)+討(칠 토) = 검사하며 따짐",
+      "easy_definition": "살피고 따져봄",
+      "context_sentence": "계획서를 꼼꼼히 **검토**한 후 승인했습니다."
+    },
+    {
+      "word_korean": "토의",
+      "word_hanja": "討議",
+      "etymology_dissection": "討(칠 토)+議(의논할 의) = 쳐서 의논함",
+      "easy_definition": "문제에 대해 여러 사람이 함께 의논함",
+      "context_sentence": "학급 **토의**로 소풍 장소를 결정했습니다."
+    },
+    {
+      "word_korean": "정토",
+      "word_hanja": "征討",
+      "etymology_dissection": "征(칠 정)+討(칠 토) = 쳐서 토벌함",
+      "easy_definition": "반란이나 적을 무력으로 진압함",
+      "context_sentence": "장군이 적진을 **정토**했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "토론의 규칙",
+    "passage_text": "민주주의 사회에서 **토론**은 핵심적인 소통 방식입니다. **토론**할 때는 상대방의 말을 끝까지 듣고, 근거를 들어 자신의 의견을 말해야 합니다. 감정적으로 공격하거나 사실이 아닌 것을 근거로 들면 안 됩니다. **토의**는 찬반보다 최선의 해결책을 함께 찾는 과정입니다. **검토**를 거쳐 충분히 생각한 후 의견을 말하는 것이 바람직합니다.",
+    "quiz": {
+      "question": "토론할 때 지켜야 할 규칙으로 알맞은 것은?",
+      "choices": [
+        "큰 소리로 상대방을 제압한다",
+        "상대방의 말을 끝까지 듣고 근거를 들어 말한다",
+        "내 의견이 무조건 옳다고 주장한다",
+        "상대방의 외모를 비판한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 토론할 때는 상대방의 말을 끝까지 듣고 근거를 들어 자신의 의견을 말해야 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'토론'이나 '토의'를 사용해서 학교에서 의견을 나눈 경험을 써보세요.",
+    "model_example": "학급 **토의**에서 '급식 메뉴를 학생이 선택할 수 있어야 한다'는 주제로 서로 다른 의견을 나누었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "討(토) — 칠 토! 토론·검토·토의 모두 여기서! 훌륭해요!"
+  }
+}

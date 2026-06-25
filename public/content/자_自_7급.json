@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "자",
+    "hanja_meaning": "스스로",
+    "hanja_char": "自",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "코를 가리켜 나 — 스스로 자(自)",
+    "etymology_story": "'스스로 자(自)'는 코(鼻) 모양이에요. 옛날 중국 사람들은 자기 자신을 가리킬 때 코를 가리켰어요. 그래서 '나, 스스로'라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자신(自信)",
+      "etymology_dissection": "스스로 자(自)+믿을 신(信)",
+      "easy_definition": "스스로에 대한 믿음",
+      "context_sentence": "자신감을 가져요."
+    },
+    {
+      "word_korean": "자유(自由)",
+      "etymology_dissection": "스스로 자(自)+말미암을 유(由)",
+      "easy_definition": "스스로의 뜻대로 하는 것",
+      "context_sentence": "자유를 소중히 여겨요."
+    },
+    {
+      "word_korean": "자연(自然)",
+      "etymology_dissection": "스스로 자(自)+그럴 연(然)",
+      "easy_definition": "스스로 그러한 것",
+      "context_sentence": "자연을 보호해요."
+    },
+    {
+      "word_korean": "자동(自動)",
+      "etymology_dissection": "스스로 자(自)+움직일 동(動)",
+      "easy_definition": "스스로 움직이는 것",
+      "context_sentence": "자동문이 열려요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "스스로의 힘",
+    "passage_text": "**자신(自信)**감이 있으면 무엇이든 할 수 있어요. **자유(自由)**는 책임과 함께해요. **자연(自然)**처럼 **자동(自動)**으로 좋은 습관을 만들어요.",
+    "quiz": {
+      "question": "'자유(自由)'란?",
+      "choices": [
+        "스스로 움직이는 것",
+        "자연스러운 것",
+        "스스로의 뜻대로 하는 것",
+        "자신감"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'자유(自由)'=스스로 자+말미암을 유, 스스로의 의지로 행동하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "자신감 있게 도전해서 이룬 경험을 문장으로 써 보세요.",
+    "model_example": "자신감을 가지고 자유롭게 도전하면 자동으로 성장이 이루어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'스스로 — 자(自)! 스스로 — 자(自)!' 열 번 외쳐요!"
+  }
+}

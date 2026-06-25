@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "救",
+    "hanja_sound": "구",
+    "hanja_meaning": "구원할",
+    "full_reading": "구원할 구",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "救",
+    "sound": "구",
+    "meaning": "구원할",
+    "stroke_count": 11,
+    "radical": "攴",
+    "etymology_story": "救는 구할 구(求)와 칠 복(攴)이 합쳐진 글자입니다. 힘을 써서 위험에서 구해내는 모습에서 '구원하다', '구하다'의 뜻이 생겼습니다.",
+    "memory_tip": "힘(攴)을 써서 구(求)해내는 것이 '구원'입니다.",
+    "level_context": "5급 한자로, 구원할을(를) 뜻하는 救입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "구조",
+      "word_hanja": "救助",
+      "reading": "구조",
+      "easy_definition": "위험에서 도와 구함",
+      "etymology_dissection": "구원할 구(救)+도울 조(助): 구하고 도움",
+      "example_sentence": "소방관이 구조 활동을 했습니다.",
+      "sentence_meaning": "소방관이 위험에서 사람을 구했습니다."
+    },
+    {
+      "word_korean": "구급",
+      "word_hanja": "救急",
+      "reading": "구급",
+      "easy_definition": "급하게 구해내는 것",
+      "etymology_dissection": "구원할 구(救)+급할 급(急): 급히 구함",
+      "example_sentence": "구급차가 빠르게 달려왔습니다.",
+      "sentence_meaning": "응급 처치를 위한 차가 빠르게 왔습니다."
+    },
+    {
+      "word_korean": "구호",
+      "word_hanja": "救護",
+      "reading": "구호",
+      "easy_definition": "어려운 사람을 도움",
+      "etymology_dissection": "구원할 구(救)+보호할 호(護): 구하고 보호함",
+      "example_sentence": "재해 구호 활동을 펼쳤습니다.",
+      "sentence_meaning": "재난을 당한 사람들을 도왔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "화재 현장에서 소방관들이 구조 활동을 합니다. 구급차가 빠르게 달려와 환자를 치료합니다. 재난 지역에서 구호 활동이 이루어집니다.",
+    "passage_meaning": "소방관의 구조, 구급차의 응급처치, 구호 활동 모두 위험에서 사람을 구하는 일입니다.",
+    "questions": [
+      {
+        "question": "'구조'의 뜻으로 알맞은 것은?",
+        "options": [
+          "위험에 빠뜨리는 것",
+          "위험에서 도와 구하는 것",
+          "물건을 파는 것",
+          "집을 짓는 것"
+        ],
+        "correct_answer": "위험에서 도와 구하는 것",
+        "explanation": "구조(救助)는 위험에서 도와 구하는 것입니다."
+      },
+      {
+        "question": "'구급'에서 '救'의 뜻은?",
+        "options": [
+          "파괴하다",
+          "구원하다",
+          "만들다",
+          "팔다"
+        ],
+        "correct_answer": "구원하다",
+        "explanation": "구급(救急)의 救는 '구원하다'로, 급한 상황에서 구해내는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'구조'나 '구급'을 사용하여 문장을 써 보세요.",
+    "hint": "안전이나 응급 상황과 관련된 내용을 담아 보세요.",
+    "example_answer": "소방관이 화재 현장에서 구조 활동을 펼쳤습니다.",
+    "key_vocabulary": [
+      "구조",
+      "구급"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "구급차가 빠르게 도착했습니다.",
+      "재난 구호 활동에 참여했습니다.",
+      "위험에서 사람을 구조했습니다."
+    ],
+    "pronunciation_tips": "'구'을 명확하게 발음하며 읽어 보세요."
+  }
+}

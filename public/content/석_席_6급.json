@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "석",
+    "hanja_meaning": "자리",
+    "hanja_char": "席",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "앉는 자리 — 자리 석(席)",
+    "etymology_story": "'자리 석(席)'은 집(广)과 수건(巾)이 합쳐진 글자예요. 집 안에서 수건처럼 깔아놓은 것이 '자리, 방석(席)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "좌석(座席)",
+      "etymology_dissection": "앉을 좌(座)+자리 석(席)",
+      "easy_definition": "앉는 자리",
+      "context_sentence": "좌석을 양보해요."
+    },
+    {
+      "word_korean": "결석(缺席)",
+      "etymology_dissection": "이지러질 결(缺)+자리 석(席)",
+      "easy_definition": "자리를 비우는 것",
+      "context_sentence": "결석하지 않아요."
+    },
+    {
+      "word_korean": "출석(出席)",
+      "etymology_dissection": "날 출(出)+자리 석(席)",
+      "easy_definition": "자리에 나오는 것",
+      "context_sentence": "출석을 불러요."
+    },
+    {
+      "word_korean": "주석(主席)",
+      "etymology_dissection": "주인 주(主)+자리 석(席)",
+      "easy_definition": "으뜸 자리",
+      "context_sentence": "주석이 회의를 이끌어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자리의 의미",
+    "passage_text": "**출석(出席)**이 기본이에요. **결석(缺席)**하지 않는 성실함이 신뢰를 만들어요. **좌석(座席)**을 양보하는 마음이 아름다워요.",
+    "quiz": {
+      "question": "'출석(出席)'이란?",
+      "choices": [
+        "좌석",
+        "결석",
+        "자리에 나오는 것",
+        "주석"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'출석(出席)'=날 출+자리 석, 자리에 나와 참석하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "출석과 성실함이 중요했던 경험을 문장으로 써 보세요.",
+    "model_example": "출석을 빠지지 않는 성실함이 결석 없는 신뢰와 좌석을 지키는 책임을 만들어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'자리 — 석(席)! 자리 — 석(席)!' 열 번 외쳐요!"
+  }
+}

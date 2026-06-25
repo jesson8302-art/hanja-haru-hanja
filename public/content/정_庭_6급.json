@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "정",
+    "hanja_meaning": "뜰",
+    "hanja_char": "庭",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "庭 — 집 안의 넓고 평평한 마당",
+    "etymology_story": "庭(정)은 집 엄(广)과 정수리 정(廷)이 합쳐진 글자예요. 집 안에 넓게 펼쳐진 '뜰·마당'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "정원(庭園)",
+      "etymology_dissection": "뜰 정(庭)+동산 원(園)",
+      "easy_definition": "집 안의 작은 정원",
+      "context_sentence": "엄마는 정원에 꽃을 심었어요."
+    },
+    {
+      "word_korean": "가정(家庭)",
+      "etymology_dissection": "집 가(家)+뜰 정(庭)",
+      "easy_definition": "함께 사는 가족 공동체",
+      "context_sentence": "따뜻한 가정이 최고의 행복이에요."
+    },
+    {
+      "word_korean": "교정(校庭)",
+      "etymology_dissection": "학교 교(校)+뜰 정(庭)",
+      "easy_definition": "학교의 마당",
+      "context_sentence": "체육 시간에 교정에서 달리기를 했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리 집 마당",
+    "passage_text": "우리 집 정원(庭園)에는 장미꽃이 피어 있어요. 가정(家庭)의 웃음소리가 마당에 가득해요. 학교 교정(校庭)처럼 넓으면 좋겠지만, 작은 뜰도 충분히 아름다워요.",
+    "quiz": {
+      "question": "'가정'의 뜻은?",
+      "choices": [
+        "함께 사는 가족 공동체",
+        "학교의 마당",
+        "집 안의 정원",
+        "동네의 공원"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "가정(家庭)은 '집 가(家)+뜰 정(庭)'으로, 가족이 함께 생활하는 가장 기본적인 공동체예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "우리 가정에서 가장 소중한 것은 무엇인지 써 보세요. 왜 소중한지도 이유를 적어 주세요.",
+    "model_example": "예) 우리 가정에서 가장 소중한 것은 함께 밥 먹는 시간이에요. 서로 이야기하며 하루를 나눌 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "庭(정)! 따뜻한 가정을 소중히! 훌륭해요! 🏡"
+  }
+}

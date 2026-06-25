@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "정",
+    "hanja_meaning": "정할",
+    "hanja_char": "定",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "定 — 집 안에서 목표를 딱 정하다",
+    "etymology_story": "定(정)은 집 면(宀)과 바를 정(正)이 합쳐진 글자예요. 집 안에서 방향을 바로잡아 '결정하다·정하다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "결정(決定)",
+      "etymology_dissection": "결단할 결(決)+정할 정(定)",
+      "easy_definition": "확실히 정함",
+      "context_sentence": "소풍 날짜를 결정했어요."
+    },
+    {
+      "word_korean": "정해진(定해진)",
+      "etymology_dissection": "정할 정(定)+해진",
+      "easy_definition": "이미 정해 놓은",
+      "context_sentence": "정해진 규칙을 잘 지켜요."
+    },
+    {
+      "word_korean": "예정(豫定)",
+      "etymology_dissection": "미리 예(豫)+정할 정(定)",
+      "easy_definition": "미리 계획하여 정함",
+      "context_sentence": "다음 주에 소풍이 예정되어 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "소풍 날짜를 정해요",
+    "passage_text": "선생님이 소풍 날짜를 결정(決定)한다고 하셨어요. 반 친구들이 의견을 모아 예정(豫定) 날짜를 정했어요. 정해진 날짜에 맞춰 준비물도 챙겨야 해요.",
+    "quiz": {
+      "question": "'예정'의 뜻은?",
+      "choices": [
+        "미리 계획하여 정함",
+        "나중에 바꿀 것",
+        "모르는 상태",
+        "취소된 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "예정(豫定)은 '미리 예(豫)+정할 정(定)'으로, 앞으로 일어날 일을 미리 정해 두는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "이번 주말 계획을 예정표로 써 보세요. 토요일과 일요일에 할 일을 각각 써 주세요.",
+    "model_example": "예) 토요일: 도서관에서 책 읽기. 일요일: 가족과 공원 산책 예정."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "定(정)! 계획을 세우는 어린이가 성공해요! 잘했어요! 📋"
+  }
+}

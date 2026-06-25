@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "위",
+    "hanja_meaning": "할",
+    "hanja_char": "爲",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "爲 — 손으로 코끼리를 부리다",
+    "etymology_story": "손(爪)과 코끼리를 부리는 모습이 합쳐진 글자입니다. 코끼리를 손으로 부려 일을 시키는 모습에서 '하다', '~을 위하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "행위",
+      "word_hanja": "行爲",
+      "etymology_dissection": "行(행할 행)+爲(할 위) = 행하여 함",
+      "easy_definition": "사람이 의도를 가지고 하는 행동",
+      "context_sentence": "옳은 **행위**는 사회를 밝게 합니다."
+    },
+    {
+      "word_korean": "위험",
+      "word_hanja": "爲險",
+      "etymology_dissection": "爲(할 위)+險(험할 험) = 위태로움",
+      "easy_definition": "해를 입을 가능성이 있는 상태",
+      "context_sentence": "혼자 깊은 산에 가는 것은 **위험**합니다."
+    },
+    {
+      "word_korean": "인위",
+      "word_hanja": "人爲",
+      "etymology_dissection": "人(사람 인)+爲(할 위) = 사람이 함",
+      "easy_definition": "자연 그대로가 아닌 사람이 만든 것",
+      "context_sentence": "**인위**적인 환경보다 자연이 더 건강합니다."
+    },
+    {
+      "word_korean": "무위",
+      "word_hanja": "無爲",
+      "etymology_dissection": "無(없을 무)+爲(할 위) = 함이 없음",
+      "easy_definition": "일부러 하지 않고 자연스럽게 둠",
+      "context_sentence": "노자는 **무위**자연을 중요하게 생각했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "노자의 무위 철학",
+    "passage_text": "노자는 **무위**(無爲)를 통해 세상이 저절로 이루어진다고 했습니다. **인위**적으로 억지로 무언가를 하려 할수록 오히려 더 어렵게 된다는 것입니다. 물처럼 낮은 곳으로 흐르고 다투지 않는 것이 가장 강한 **행위**라고 했습니다. 현대 사회에서는 빠르고 강한 **행위**를 중요시하지만, 때로는 기다리고 자연스럽게 흘러가도록 두는 지혜도 필요합니다.",
+    "quiz": {
+      "question": "노자가 말한 무위의 핵심 의미는?",
+      "choices": [
+        "아무것도 하지 않는 것",
+        "억지로 하지 않고 자연스럽게 둠",
+        "강한 힘으로 행동함",
+        "인위적인 것을 만드는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "노자는 무위를 일부러 하지 않고 자연스럽게 두는 것으로 설명했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'행위'를 사용해서 옳은 행위와 그렇지 않은 행위를 구분하는 기준에 대해 써보세요.",
+    "model_example": "타인에게 해를 끼치지 않고 사회에 도움이 된다면 그것은 옳은 **행위**라고 생각합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "爲(위) — 할 위! 행위·인위·무위 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "손",
+    "hanja_meaning": "손자",
+    "hanja_char": "孫",
+    "hanja_level": "6급",
+    "linked_subject": "사회, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "아들의 아들 — 손자 손(孫)",
+    "etymology_story": "'손자 손(孫)'은 아들 자(子)와 실 사(系)가 합쳐진 글자예요. 아들(子)로 실처럼 이어지는(系) 것이 '손자(孫)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자손(子孫)",
+      "etymology_dissection": "아들 자(子)+손자 손(孫)",
+      "easy_definition": "자녀와 손자, 후손",
+      "context_sentence": "자손을 사랑해요."
+    },
+    {
+      "word_korean": "손녀(孫女)",
+      "etymology_dissection": "손자 손(孫)+여자 녀(女)",
+      "easy_definition": "손자의 딸",
+      "context_sentence": "손녀가 귀여워요."
+    },
+    {
+      "word_korean": "외손(外孫)",
+      "etymology_dissection": "바깥 외(外)+손자 손(孫)",
+      "easy_definition": "딸의 아이",
+      "context_sentence": "외손자도 소중해요."
+    },
+    {
+      "word_korean": "후손(後孫)",
+      "etymology_dissection": "뒤 후(後)+손자 손(孫)",
+      "easy_definition": "미래 세대",
+      "context_sentence": "후손에게 좋은 땅을 물려줘요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이어지는 생명",
+    "passage_text": "**자손(子孫)**에게 좋은 것을 물려주는 것이 어른의 역할이에요. **후손(後孫)**을 위해 환경을 지켜요.",
+    "quiz": {
+      "question": "'후손(後孫)'이란?",
+      "choices": [
+        "자손",
+        "손녀",
+        "미래 세대",
+        "외손"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'후손(後孫)'=뒤 후+손자 손, 뒤에 이어지는 미래 세대예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "미래 세대(후손)를 위해 내가 할 수 있는 것을 문장으로 써 보세요.",
+    "model_example": "자손과 후손에게 더 아름다운 세상을 물려주기 위해 지금부터 환경을 지켜요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'손자 — 손(孫)! 손자 — 손(孫)!' 열 번 외쳐요!"
+  }
+}

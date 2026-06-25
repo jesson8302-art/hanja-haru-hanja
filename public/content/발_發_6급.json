@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "발",
+    "hanja_meaning": "필",
+    "hanja_char": "發",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "화살을 쏘다 — 필 발(發)",
+    "etymology_story": "'필 발(發)'은 활(弓)과 발(癶), 손(殳)이 합쳐진 글자예요. 두 발을 딛고 활을 당겨 쏘는 것에서 '쏘다, 피어나다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "발전(發展)",
+      "etymology_dissection": "필 발(發)+펼 전(展)",
+      "easy_definition": "더 나아지는 것",
+      "context_sentence": "기술이 발전해요."
+    },
+    {
+      "word_korean": "발표(發表)",
+      "etymology_dissection": "필 발(發)+겉 표(表)",
+      "easy_definition": "여러 사람 앞에서 내놓는 것",
+      "context_sentence": "발표 준비를 해요."
+    },
+    {
+      "word_korean": "출발(出發)",
+      "etymology_dissection": "날 출(出)+필 발(發)",
+      "easy_definition": "떠나는 것",
+      "context_sentence": "내일 출발해요."
+    },
+    {
+      "word_korean": "발견(發見)",
+      "etymology_dissection": "필 발(發)+볼 견(見)",
+      "easy_definition": "새로 찾아내는 것",
+      "context_sentence": "새 별을 발견했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "꽃피는 시작",
+    "passage_text": "**출발(出發)**이 용감해야 **발전(發展)**이 있어요. **발표(發表)**는 연습이 필요해요. **발견(發見)**하는 눈을 키워요.",
+    "quiz": {
+      "question": "'발전(發展)'이란?",
+      "choices": [
+        "출발",
+        "발표",
+        "더 나아지는 것",
+        "발견"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'발전(發展)'=필 발+펼 전, 더 좋게 나아가고 발달하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "발전하거나 새로운 것을 발견한 경험을 문장으로 써 보세요.",
+    "model_example": "용감하게 출발하면 발전이 시작되고, 발견의 기쁨이 발표로 이어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'필 — 발(發)! 필 — 발(發)!' 열 번 외쳐요!"
+  }
+}

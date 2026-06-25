@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "석",
+    "hanja_meaning": "돌",
+    "hanja_char": "石",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "절벽에서 떨어지는 돌 — 돌 석(石)",
+    "etymology_story": "'돌 석(石)'은 절벽(厂)과 입(口) 모양의 돌이 합쳐진 글자예요. 절벽 아래에 떨어진 돌의 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "석탄(石炭)",
+      "etymology_dissection": "돌 석(石)+숯 탄(炭)",
+      "easy_definition": "지하에서 캐내는 연료",
+      "context_sentence": "석탄으로 에너지를 얻어요."
+    },
+    {
+      "word_korean": "화석(化石)",
+      "etymology_dissection": "될 화(化)+돌 석(石)",
+      "easy_definition": "오래전 생물이 돌이 된 것",
+      "context_sentence": "화석을 발굴했어요."
+    },
+    {
+      "word_korean": "석조(石造)",
+      "etymology_dissection": "돌 석(石)+만들 조(造)",
+      "easy_definition": "돌로 만든 것",
+      "context_sentence": "석조 건물이 웅장해요."
+    },
+    {
+      "word_korean": "금석(金石)",
+      "etymology_dissection": "쇠 금(金)+돌 석(石)",
+      "easy_definition": "쇠와 돌처럼 강한 것",
+      "context_sentence": "금석 같은 약속을 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "돌의 역사",
+    "passage_text": "**화석(化石)**은 지구의 역사책이에요. **석탄(石炭)**은 산업혁명을 이끌었어요. **금석(金石)** 같은 약속을 지켜요.",
+    "quiz": {
+      "question": "'화석(化石)'이란?",
+      "choices": [
+        "석탄",
+        "돌 석",
+        "오래전 생물이 돌이 된 것",
+        "석조"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'화석(化石)'=될 화+돌 석, 오래전 생물이 돌로 변해 남은 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "화석이나 돌에서 역사를 상상한 경험을 문장으로 써 보세요.",
+    "model_example": "화석 하나가 수억 년의 역사를 담듯, 작은 약속도 금석처럼 소중히 지켜요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'돌 — 석(石)! 돌 — 석(石)!' 열 번 외쳐요!"
+  }
+}

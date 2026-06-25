@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "宿",
+    "hanja_sound": "숙",
+    "hanja_meaning": "잘",
+    "full_reading": "잘 숙",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "宿",
+    "sound": "숙",
+    "meaning": "잘",
+    "stroke_count": 11,
+    "radical": "宀",
+    "etymology_story": "宿는 집(宀) 안에 사람(人)이 자리(百)에 앉아 있는 모습입니다. 집 안에서 쉬며 머무는 모습에서 '자다', '묵다'의 뜻이 생겼습니다.",
+    "memory_tip": "집(宀) 안에서 사람이 쉬는(人) 것이 '자다(宿)'입니다.",
+    "level_context": "5급 한자로, 잘을(를) 뜻하는 宿입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "숙박",
+      "word_hanja": "宿泊",
+      "reading": "숙박",
+      "easy_definition": "묵으며 잠",
+      "etymology_dissection": "잘 숙(宿)+묵을 박(泊): 잠자고 묵음",
+      "example_sentence": "호텔에서 숙박했습니다.",
+      "sentence_meaning": "호텔에서 묵으며 잠을 잤습니다."
+    },
+    {
+      "word_korean": "합숙",
+      "word_hanja": "合宿",
+      "reading": "합숙",
+      "easy_definition": "한데 모여 숙박함",
+      "etymology_dissection": "합할 합(合)+잘 숙(宿): 함께 묵음",
+      "example_sentence": "팀원들과 합숙 훈련을 했습니다.",
+      "sentence_meaning": "팀원들과 한데 모여 훈련하며 묵었습니다."
+    },
+    {
+      "word_korean": "숙소",
+      "word_hanja": "宿所",
+      "reading": "숙소",
+      "easy_definition": "묵는 곳",
+      "etymology_dissection": "잘 숙(宿)+곳 소(所): 자는 곳",
+      "example_sentence": "여행 중 숙소를 예약했습니다.",
+      "sentence_meaning": "여행 중 묵을 곳을 예약했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "여행할 때 숙소를 미리 예약해야 합니다. 선수들이 합숙 훈련으로 실력을 키웠습니다. 숙박 요금이 지역마다 다릅니다.",
+    "passage_meaning": "숙박, 합숙, 숙소 모두 '자다', '묵다'를 뜻하는 宿에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'합숙'의 뜻은?",
+        "options": [
+          "혼자 자는 것",
+          "한데 모여 숙박하는 것",
+          "비싼 곳에 자는 것",
+          "야외에서 자는 것"
+        ],
+        "correct_answer": "한데 모여 숙박하는 것",
+        "explanation": "합숙(合宿)은 한데 모여 숙박하는 것입니다."
+      },
+      {
+        "question": "'宿'의 뜻은?",
+        "options": [
+          "먹다",
+          "자다·묵다",
+          "달리다",
+          "공부하다"
+        ],
+        "correct_answer": "자다·묵다",
+        "explanation": "宿은 '자다', '묵다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'숙소'나 '합숙'을 사용하여 문장을 써 보세요.",
+    "hint": "여행이나 훈련에 관한 내용을 담아 보세요.",
+    "example_answer": "여행 전에 편안한 숙소를 예약했습니다.",
+    "key_vocabulary": [
+      "숙박",
+      "합숙"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "숙소를 예약하세요.",
+      "합숙 훈련을 시작합니다.",
+      "숙박 요금을 확인하세요."
+    ],
+    "pronunciation_tips": "'숙'을 명확하게 발음하며 읽어 보세요."
+  }
+}

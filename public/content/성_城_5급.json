@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "城",
+    "hanja_sound": "성",
+    "hanja_meaning": "재",
+    "full_reading": "재 성",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "城",
+    "sound": "성",
+    "meaning": "재",
+    "stroke_count": 10,
+    "radical": "土",
+    "etymology_story": "城은 흙(土)과 이룰 성(成)이 합쳐진 글자입니다. 흙으로 쌓아 이루어진 성벽의 모습에서 '재', '성', '도시'의 뜻이 생겼습니다.",
+    "memory_tip": "흙(土)으로 쌓아 이룬(成) 것이 '재(城)'입니다.",
+    "level_context": "5급 한자로, 재을(를) 뜻하는 城입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성곽",
+      "word_hanja": "城郭",
+      "reading": "성곽",
+      "easy_definition": "성과 외성",
+      "etymology_dissection": "재 성(城)+외성 곽(郭): 성과 외성",
+      "example_sentence": "수원 화성은 아름다운 성곽입니다.",
+      "sentence_meaning": "수원 화성은 아름다운 성벽과 외성입니다."
+    },
+    {
+      "word_korean": "입성",
+      "word_hanja": "入城",
+      "reading": "입성",
+      "easy_definition": "성안으로 들어감",
+      "etymology_dissection": "들 입(入)+재 성(城): 성에 들어감",
+      "example_sentence": "장군이 입성했습니다.",
+      "sentence_meaning": "장군이 성안으로 들어갔습니다."
+    },
+    {
+      "word_korean": "성벽",
+      "word_hanja": "城壁",
+      "reading": "성벽",
+      "easy_definition": "성의 담장",
+      "etymology_dissection": "재 성(城)+벽 벽(壁): 성의 벽",
+      "example_sentence": "견고한 성벽이 있습니다.",
+      "sentence_meaning": "튼튼한 성의 담장이 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "조선 시대 한양은 성곽으로 둘러싸여 있었습니다. 장군이 적의 성에 입성했습니다. 성벽은 적의 침입을 막았습니다.",
+    "passage_meaning": "성곽, 입성, 성벽 모두 '재', '성'을 뜻하는 城에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'입성'의 뜻은?",
+        "options": [
+          "성을 쌓는 것",
+          "성안으로 들어가는 것",
+          "성을 부수는 것",
+          "성에서 나오는 것"
+        ],
+        "correct_answer": "성안으로 들어가는 것",
+        "explanation": "입성(入城)은 성안으로 들어가는 것입니다."
+      },
+      {
+        "question": "'城'의 뜻은?",
+        "options": [
+          "산",
+          "재·성",
+          "바다",
+          "하늘"
+        ],
+        "correct_answer": "재·성",
+        "explanation": "城은 '재', '성'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'성곽'이나 '성벽'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 문화재에 관한 내용을 담아 보세요.",
+    "example_answer": "수원 화성은 아름다운 성곽으로 세계문화유산입니다.",
+    "key_vocabulary": [
+      "성곽",
+      "입성"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "성곽을 탐방했습니다.",
+      "성벽이 견고합니다.",
+      "장군이 입성했습니다."
+    ],
+    "pronunciation_tips": "'성'을 명확하게 발음하며 읽어 보세요."
+  }
+}

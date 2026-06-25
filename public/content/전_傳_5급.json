@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "전할",
+    "hanja_char": "傳",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "傳 — 사람이 두 손으로 전해주다",
+    "etymology_story": "人(사람 인)과 專(오로지 전)이 합쳐진 글자입니다. 사람이 정성스럽게 손으로 무언가를 전해주는 모습에서 '전하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "전달",
+      "word_hanja": "傳達",
+      "etymology_dissection": "傳(전할 전)+達(이를 달) = 전하여 이름",
+      "easy_definition": "내용이나 물건을 전하여 줌",
+      "context_sentence": "메시지를 정확히 **전달**하는 것이 중요합니다."
+    },
+    {
+      "word_korean": "전통",
+      "word_hanja": "傳統",
+      "etymology_dissection": "傳(전할 전)+統(거느릴 통) = 전하여 거느림",
+      "easy_definition": "대대로 전해 내려오는 풍속이나 기술",
+      "context_sentence": "**전통** 음식을 계승하고 있습니다."
+    },
+    {
+      "word_korean": "전설",
+      "word_hanja": "傳說",
+      "etymology_dissection": "傳(전할 전)+說(말씀 설) = 전해지는 말",
+      "easy_definition": "오래전부터 전해오는 이야기",
+      "context_sentence": "단군 신화는 우리 민족의 **전설**입니다."
+    },
+    {
+      "word_korean": "유전",
+      "word_hanja": "遺傳",
+      "etymology_dissection": "遺(남길 유)+傳(전할 전) = 남겨 전함",
+      "easy_definition": "생물의 특성이 자손에게 전해짐",
+      "context_sentence": "눈 색깔은 **유전**됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "문화의 전달",
+    "passage_text": "문화는 **전달**을 통해 이어집니다. 구전(口傳)으로 이야기가 세대를 넘어 전해졌고, 문자 발명 후에는 글로 지식이 **전달**되었습니다. 인쇄술이 발명되어 더 많은 사람에게 빠르게 **전달**되었습니다. 오늘날 인터넷은 실시간으로 전 세계에 정보를 **전달**합니다. **전통**과 **전설**도 이런 **전달** 과정을 거쳐 우리에게 남아있습니다. 우리도 다음 세대에게 무엇을 **전달**할지 생각해야 합니다.",
+    "quiz": {
+      "question": "문화가 전달되는 방식의 발전 순서로 옳은 것은?",
+      "choices": [
+        "문자→구전→인쇄술→인터넷",
+        "구전→문자→인쇄술→인터넷",
+        "인쇄술→문자→구전→인터넷",
+        "인터넷→인쇄술→구전→문자"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "구전 → 문자 → 인쇄술 → 인터넷의 순서로 문화 전달이 발전했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'전달'을 사용해서 중요한 것을 다른 사람에게 전달한 경험을 써보세요.",
+    "model_example": "할머니께서 어릴 때 쓰시던 김장 방법을 배워서 언젠가 제 자녀에게도 **전달**하고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "傳(전) — 전할 전! 전달·전통·전설·유전 모두 여기서! 잘 전달받았어요!"
+  }
+}

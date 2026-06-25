@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "공",
+    "hanja_meaning": "이바지할",
+    "hanja_char": "供",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "供 — 두 손으로 받들어 올리다",
+    "etymology_story": "人(사람 인)과 共(함께 공)이 합쳐진 글자입니다. 사람이 두 손으로 무언가를 받들어 올리는 모습에서 '공급하다', '이바지하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공급",
+      "word_hanja": "供給",
+      "etymology_dissection": "供(이바지할 공)+給(줄 급) = 제공하여 줌",
+      "easy_definition": "필요한 것을 갖추어 제공하는 것",
+      "context_sentence": "전력 **공급**이 원활해야 산업이 돌아갑니다."
+    },
+    {
+      "word_korean": "제공",
+      "word_hanja": "提供",
+      "etymology_dissection": "提(끌 제)+供(이바지할 공) = 내밀어 줌",
+      "easy_definition": "남에게 무언가를 내어주는 것",
+      "context_sentence": "학교에서 무료로 급식을 **제공**합니다."
+    },
+    {
+      "word_korean": "공물",
+      "word_hanja": "供物",
+      "etymology_dissection": "供(이바지할 공)+物(물건 물) = 바치는 물건",
+      "easy_definition": "제사나 의례에 바치는 음식과 물건",
+      "context_sentence": "제사상에 **공물**을 정성껏 차렸습니다."
+    },
+    {
+      "word_korean": "공양",
+      "word_hanja": "供養",
+      "etymology_dissection": "供(이바지할 공)+養(기를 양) = 봉양함",
+      "easy_definition": "음식을 드리며 웃어른이나 부처를 섬기는 일",
+      "context_sentence": "절에서 부처님께 **공양**을 올렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공급과 복지",
+    "passage_text": "국가는 국민에게 다양한 서비스를 **제공**합니다. 의료, 교육, 치안, 도로 등이 대표적입니다. 이런 공공서비스의 **공급**이 원활해야 국민의 삶의 질이 높아집니다. 특히 소외된 계층에게 더 많은 서비스를 **제공**하는 것이 복지 국가의 목표입니다. **공급**의 양과 질을 높이는 것이 정부의 중요한 역할입니다.",
+    "quiz": {
+      "question": "국가가 공공서비스를 제공하는 궁극적인 목적은?",
+      "choices": [
+        "정부 권력을 강화하기 위해",
+        "세금을 걷기 위해",
+        "국민의 삶의 질을 높이기 위해",
+        "기업의 이익을 늘리기 위해"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 공공서비스의 공급이 원활해야 국민의 삶의 질이 높아진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'공급'이나 '제공'을 사용해서 사회에서 제공받는 서비스를 설명해보세요.",
+    "model_example": "학교에서 **제공**하는 무상 급식은 모든 학생이 균등하게 영양을 **공급**받을 수 있게 해줍니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "供(공) — 이바지할 공! 공급·제공·공양 모두 여기서! 대단해요!"
+  }
+}

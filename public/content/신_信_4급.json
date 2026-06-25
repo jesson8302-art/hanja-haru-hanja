@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "신",
+    "hanja_meaning": "믿을",
+    "hanja_char": "信",
+    "hanja_level": "4급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람의 말이 곧 믿음 — 믿을 신(信)",
+    "etymology_story": "'믿을 신(信)'은 사람(人)과 말씀(言)이 합쳐진 글자예요. 사람이 한 말은 지켜야 한다는 뜻이에요. 약속을 지키고 거짓 없이 말하는 것이 신(信)이랍니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신뢰(信賴)",
+      "etymology_dissection": "믿을 신(信) + 의지할 뢰(賴)",
+      "easy_definition": "믿고 의지하는 것",
+      "context_sentence": "오랜 신뢰는 쉽게 무너지지 않아요."
+    },
+    {
+      "word_korean": "자신(自信)",
+      "etymology_dissection": "스스로 자(自) + 믿을 신(信)",
+      "easy_definition": "자기 자신의 능력을 믿는 것",
+      "context_sentence": "자신감을 가지고 발표에 임했어요."
+    },
+    {
+      "word_korean": "신용(信用)",
+      "etymology_dissection": "믿을 신(信) + 쓸 용(用)",
+      "easy_definition": "약속이 지켜지는 믿음직함",
+      "context_sentence": "신용 있는 사람은 어디서든 환영받아요."
+    },
+    {
+      "word_korean": "배신(背信)",
+      "etymology_dissection": "등 배(背) + 믿을 신(信)",
+      "easy_definition": "믿음이나 약속을 저버리는 것",
+      "context_sentence": "친구를 배신하면 관계가 깨져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "믿음의 힘",
+    "passage_text": "**신뢰(信賴)**는 관계의 기반이에요. **자신(自信)**감이 있어야 어떤 도전이든 할 수 있어요. **신용(信用)**은 한 번 잃으면 되찾기 어려워요. 절대 **배신(背信)**하지 않는 사람이 진정한 친구예요.",
+    "quiz": {
+      "question": "'신뢰(信賴)'의 뜻은?",
+      "choices": [
+        "믿음을 잃는 것",
+        "믿고 의지하는 것",
+        "거짓말하는 것",
+        "약속을 어기는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'신뢰(信賴)'는 '믿을 신 + 의지할 뢰' = 믿고 의지하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 신뢰를 쌓거나 지킨 경험을 구체적으로 써 보세요.",
+    "model_example": "친구와 한 약속을 힘들어도 지켰더니, 우리 사이의 신뢰가 더 두터워졌어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'믿을 — 신(信)! 믿을 — 신(信)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

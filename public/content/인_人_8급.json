@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "인",
+    "hanja_meaning": "사람",
+    "hanja_char": "人",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 발로 서 있는 사람의 모습 — 사람 인(人)",
+    "etymology_story": "'사람 인(人)'은 사람이 두 다리를 벌리고 서 있는 모습을 그린 글자예요. 두 획이 서로 기대어 있는 모양이 꼭 친구처럼 보이지 않나요? 사람은 혼자서는 살 수 없어, 서로 기대어 함께 살아간답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "인간(人間)",
+      "etymology_dissection": "사람 인(人) + 사이 간(間) = 사람들 사이에서 사는 존재",
+      "easy_definition": "이 세상에서 살아가는 사람",
+      "context_sentence": "인간은 서로 도우며 살아가요."
+    },
+    {
+      "word_korean": "인물(人物)",
+      "etymology_dissection": "사람 인(人) + 물건 물(物) = 사람으로서의 됨됨이",
+      "easy_definition": "소설이나 역사에 나오는 중요한 사람",
+      "context_sentence": "이순신은 우리 역사에서 가장 위대한 인물이에요."
+    },
+    {
+      "word_korean": "인심(人心)",
+      "etymology_dissection": "사람 인(人) + 마음 심(心) = 사람의 마음",
+      "easy_definition": "사람들이 가진 따뜻한 마음씨",
+      "context_sentence": "우리 동네는 인심이 좋아서 이웃끼리 잘 도와줘요."
+    },
+    {
+      "word_korean": "위인(偉人)",
+      "etymology_dissection": "클 위(偉) + 사람 인(人) = 크고 훌륭한 사람",
+      "easy_definition": "역사에 큰 업적을 남긴 훌륭한 사람",
+      "context_sentence": "우리는 책에서 위인의 이야기를 읽어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사람답게 산다는 것",
+    "passage_text": "훌륭한 **위인(偉人)**들은 **인간(人間)**으로서 어떻게 살아야 하는지 보여 주었어요. 좋은 **인물(人物)**이 되려면 따뜻한 **인심(人心)**을 가져야 해요. 사람은 혼자가 아니라 함께 살아갈 때 더 빛이 난답니다.",
+    "quiz": {
+      "question": "'위인(偉人)'은 어떤 사람을 뜻하나요?",
+      "choices": [
+        "키가 매우 큰 사람",
+        "역사에 큰 업적을 남긴 훌륭한 사람",
+        "돈이 많은 사람",
+        "우리 이웃에 사는 사람"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'위인(偉人)'은 '클 위 + 사람 인' = 크고 훌륭한 사람이에요! 이순신, 세종대왕 같은 분들이 위인이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 존경하는 사람을 소개하는 문장을 써 보세요.",
+    "model_example": "나는 어머니가 가장 위대한 위인이라고 생각해요. 항상 따뜻한 인심으로 우리를 돌봐 주시기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사람 — 인(人)! 사람 — 인(人)!' 열 번 크게 외쳐요! 보관함에 저장하고 내일 또 만나요!"
+  }
+}

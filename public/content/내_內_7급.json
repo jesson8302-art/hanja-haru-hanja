@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "내",
+    "hanja_meaning": "안",
+    "hanja_char": "內",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "집 안에 들어간 모습 — 안 내(內)",
+    "etymology_story": "'안 내(內)'는 테두리(冂) 안에 들어가는 것(入)이에요. 경계 안쪽에 있는 것이 바로 '안(內)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "내용(內容)",
+      "etymology_dissection": "안 내(內)+얼굴 용(容)",
+      "easy_definition": "내부에 담긴 것",
+      "context_sentence": "책의 내용이 정말 재미있어요."
+    },
+    {
+      "word_korean": "국내(國內)",
+      "etymology_dissection": "나라 국(國)+안 내(內)",
+      "easy_definition": "나라의 안쪽",
+      "context_sentence": "국내 여행도 즐거워요."
+    },
+    {
+      "word_korean": "실내(室內)",
+      "etymology_dissection": "집 실(室)+안 내(內)",
+      "easy_definition": "방이나 건물 안",
+      "context_sentence": "실내에서는 조용히 해요."
+    },
+    {
+      "word_korean": "내부(內部)",
+      "etymology_dissection": "안 내(內)+나눌 부(部)",
+      "easy_definition": "안쪽 부분",
+      "context_sentence": "기계 내부가 어떻게 되는지 궁금해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "안과 밖",
+    "passage_text": "**국내(國內)** 여행도 **실내(室內)** 활동도 즐거워요. 책의 **내용(內容)**이 풍성해야 좋은 책이에요. **내부(內部)**가 튼튼해야 밖에서도 빛나요.",
+    "quiz": {
+      "question": "'국내(國內)'란?",
+      "choices": [
+        "나라 밖",
+        "나라의 안쪽",
+        "실내",
+        "건물 내부"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'국내(國內)'=나라 국+안 내, 나라 안쪽을 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "국내 여행이나 실내 활동에서 즐거웠던 경험을 문장으로 써 보세요.",
+    "model_example": "국내 여행을 하다 보면 실내에서 보는 박물관 전시도 책 내용만큼 풍부하다는 걸 알아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'안 — 내(內)! 안 — 내(內)!' 열 번 외쳐요!"
+  }
+}

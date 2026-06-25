@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "흑",
+    "hanja_meaning": "검을",
+    "hanja_char": "黑",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "黑 — 굴뚝에 그을음이 쌓인 검은색",
+    "etymology_story": "炎(불꽃 염)과 囪(굴뚝 창)이 합쳐진 글자입니다. 굴뚝에 그을음이 쌓여 검게 된 모습에서 '검다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "흑백",
+      "word_hanja": "黑白",
+      "etymology_dissection": "黑(검을 흑)+白(흰 백) = 검음과 흼",
+      "easy_definition": "검은색과 흰색",
+      "context_sentence": "**흑백** 사진이 오히려 더 감성적으로 느껴집니다."
+    },
+    {
+      "word_korean": "흑자",
+      "word_hanja": "黑字",
+      "etymology_dissection": "黑(검을 흑)+字(글자 자) = 검은 글자",
+      "easy_definition": "수입이 지출보다 많아 이익이 나는 상태",
+      "context_sentence": "무역 **흑자**를 기록했습니다."
+    },
+    {
+      "word_korean": "흑막",
+      "word_hanja": "黑幕",
+      "etymology_dissection": "黑(검을 흑)+幕(장막 막) = 검은 장막",
+      "easy_definition": "숨겨진 나쁜 배경이나 음모",
+      "context_sentence": "사건의 **흑막**이 밝혀졌습니다."
+    },
+    {
+      "word_korean": "암흑",
+      "word_hanja": "暗黑",
+      "etymology_dissection": "暗(어두울 암)+黑(검을 흑) = 어둡고 검음",
+      "easy_definition": "완전히 어두운 상태 또는 희망이 없는 상황",
+      "context_sentence": "**암흑** 속에서도 희망을 찾아야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빛과 색",
+    "passage_text": "빛이 없으면 색도 없습니다. 검은색(黑)은 모든 빛을 흡수하는 색이고, 흰색(白)은 모든 빛을 반사하는 색입니다. 여름에 검은 옷이 더 더운 이유가 바로 이것입니다. **흑백** 사고는 세상을 '선 아니면 악', '맞다 아니면 틀리다'처럼 이분법으로 보는 방식입니다. 그러나 현실은 대부분 회색 지대, 즉 중간 어딘가에 있습니다. **흑백**이 아닌 다양한 색으로 세상을 바라보는 시각이 필요합니다.",
+    "quiz": {
+      "question": "여름에 검은 옷이 더 더운 이유는?",
+      "choices": [
+        "검은색이 세련돼 보여서",
+        "검은색이 모든 빛을 흡수하기 때문",
+        "검은색이 더 두꺼운 천이기 때문",
+        "검은색이 땀을 막기 때문"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "검은색은 모든 빛을 흡수하기 때문에 검은 옷이 더 덥습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'흑백'을 사용해서 이분법적 사고의 문제점에 대해 써보세요.",
+    "model_example": "**흑백** 논리로 사람을 완전히 좋은 사람 또는 나쁜 사람으로 나누면, 복잡한 인간을 이해하는 것이 불가능해집니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "黑(흑) — 검을 흑! 흑백·흑자·흑막·암흑 모두 여기서! 빛나게 잘했어요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "局",
+    "hanja_sound": "국",
+    "hanja_meaning": "판",
+    "full_reading": "판 국",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "局",
+    "sound": "국",
+    "meaning": "판",
+    "stroke_count": 7,
+    "radical": "尸",
+    "etymology_story": "局은 몸(尸)과 입(口)이 합쳐진 글자입니다. 판이나 국면을 나타내며, 일이 진행되는 상황이나 '판', '관청'의 뜻이 생겼습니다.",
+    "memory_tip": "일이 펼쳐지는 '판'이나 '국면'이 '局'입니다.",
+    "level_context": "5급 한자로, 판을(를) 뜻하는 局입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국면",
+      "word_hanja": "局面",
+      "reading": "국면",
+      "easy_definition": "일이 진행되는 상황",
+      "etymology_dissection": "판 국(局)+낯 면(面): 판의 모습",
+      "example_sentence": "상황이 새로운 국면에 접어들었습니다.",
+      "sentence_meaning": "일이 새로운 단계에 들어섰습니다."
+    },
+    {
+      "word_korean": "결국",
+      "word_hanja": "結局",
+      "reading": "결국",
+      "easy_definition": "일이 다 마무리된 끝에",
+      "etymology_dissection": "맺을 결(結)+판 국(局): 판이 맺어짐",
+      "example_sentence": "결국 좋은 결과가 나왔습니다.",
+      "sentence_meaning": "마지막에 결국 좋은 결과가 나왔습니다."
+    },
+    {
+      "word_korean": "우체국",
+      "word_hanja": "郵遞局",
+      "reading": "우체국",
+      "easy_definition": "우편물을 처리하는 관청",
+      "etymology_dissection": "우편 우(郵)+전달 체(遞)+판 국(局): 우편 관청",
+      "example_sentence": "우체국에서 편지를 보냈습니다.",
+      "sentence_meaning": "우편물을 처리하는 기관에서 편지를 보냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "결국 노력한 사람이 성공합니다. 우체국에서 소포를 보냈습니다. 협상이 새로운 국면에 접어들었습니다.",
+    "passage_meaning": "결국, 국면, 우체국 모두 '판'을 뜻하는 局에서 비롯된 단어들입니다.",
+    "questions": [
+      {
+        "question": "'결국'의 뜻으로 알맞은 것은?",
+        "options": [
+          "일의 시작에",
+          "중간쯤에",
+          "일이 다 마무리된 끝에",
+          "갑자기"
+        ],
+        "correct_answer": "일이 다 마무리된 끝에",
+        "explanation": "결국(結局)은 일이 다 마무리된 끝에라는 뜻입니다."
+      },
+      {
+        "question": "'국면'에서 '局'의 뜻은?",
+        "options": [
+          "사람",
+          "판·국면",
+          "물건",
+          "날씨"
+        ],
+        "correct_answer": "판·국면",
+        "explanation": "국면(局面)의 局은 '판', '국면'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'결국'이나 '국면'을 사용하여 문장을 써 보세요.",
+    "hint": "상황 변화나 결과에 관한 내용을 담아 보세요.",
+    "example_answer": "결국 어려운 문제를 해결했습니다.",
+    "key_vocabulary": [
+      "국면",
+      "결국"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "결국 진실이 밝혀졌습니다.",
+      "새로운 국면이 열렸습니다.",
+      "우체국에서 택배를 보냈습니다."
+    ],
+    "pronunciation_tips": "'국'을 명확하게 발음하며 읽어 보세요."
+  }
+}

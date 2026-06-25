@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "흥",
+    "hanja_meaning": "일어날",
+    "hanja_char": "興",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "興 — 여러 손이 힘을 합쳐 들어올리다",
+    "etymology_story": "여러 손(共)이 물건을 함께 들어올리는 모습을 본뜬 글자입니다. 함께 힘을 모아 일어서는 모습에서 '일어나다', '흥하다', '흥미'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "흥미",
+      "word_hanja": "興味",
+      "etymology_dissection": "興(일어날 흥)+味(맛 미) = 일어나는 맛",
+      "easy_definition": "어떤 것에 재미나 관심을 느끼는 마음",
+      "context_sentence": "책에 **흥미**를 느끼면 공부가 즐거워집니다."
+    },
+    {
+      "word_korean": "흥행",
+      "word_hanja": "興行",
+      "etymology_dissection": "興(일어날 흥)+行(행할 행) = 일어나 행함",
+      "easy_definition": "공연이나 영화 등이 크게 성공함",
+      "context_sentence": "그 영화는 대단한 **흥행**을 기록했습니다."
+    },
+    {
+      "word_korean": "흥겹다",
+      "word_hanja": "興-",
+      "etymology_dissection": "興(일어날 흥) = 흥이 일어남",
+      "easy_definition": "기분이 좋아져 신이 남",
+      "context_sentence": "**흥겨운** 음악에 맞춰 춤을 추었습니다."
+    },
+    {
+      "word_korean": "진흥",
+      "word_hanja": "振興",
+      "etymology_dissection": "振(떨칠 진)+興(일어날 흥) = 떨치고 일어남",
+      "easy_definition": "어떤 분야를 발전하도록 북돋움",
+      "context_sentence": "정부가 문화 **진흥**에 힘쓰고 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "흥미와 학습",
+    "passage_text": "교육학 연구에 따르면 **흥미**를 느끼는 분야에서 학습 효과가 월등히 높습니다. **흥미**는 뇌의 보상 체계를 활성화하여 더 오래, 더 깊이 배우게 만듭니다. 자신이 좋아하는 것을 발견하는 것이 학습의 출발점입니다. **흥겨운** 분위기에서 배우면 스트레스 없이 더 잘 기억됩니다. 다양한 경험을 통해 자신만의 **흥미**를 찾아가는 것이 중요합니다.",
+    "quiz": {
+      "question": "흥미가 학습에 미치는 영향은?",
+      "choices": [
+        "흥미는 학습에 별 영향이 없다",
+        "흥미를 느끼면 학습 효과가 월등히 높다",
+        "흥미는 놀이에만 해당된다",
+        "흥미가 없어야 더 열심히 한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "교육학 연구에 따르면 흥미를 느끼는 분야에서 학습 효과가 월등히 높다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'흥미'를 사용해서 자신이 특별히 흥미를 느끼는 분야에 대해 써보세요.",
+    "model_example": "저는 역사 속 인물들의 삶과 선택에 **흥미**를 느끼며, 그들의 이야기가 현재와 어떻게 연결되는지 탐구하는 것을 좋아합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "興(흥) — 일어날 흥! 흥미·흥행·진흥 모두 여기서! 흥겹게 수고했어요!"
+  }
+}

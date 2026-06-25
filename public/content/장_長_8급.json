@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "장",
+    "hanja_meaning": "길",
+    "hanja_char": "長",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "머리카락이 긴 어른 — 길 장(長)",
+    "etymology_story": "'길 장(長)'은 머리카락이 길게 늘어진 어른의 모습이에요. 오래 살아 머리카락이 긴 사람이 가장 어른이라는 뜻에서 '길다'와 '어른'이라는 두 가지 의미가 생겼어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교장(校長)",
+      "etymology_dissection": "학교 교(校) + 길 장(長) = 학교의 어른",
+      "easy_definition": "학교를 이끄는 최고 책임자",
+      "context_sentence": "교장 선생님이 조회 시간에 말씀하셨어요."
+    },
+    {
+      "word_korean": "장기(長技→長期)",
+      "etymology_dissection": "길 장(長) + 기간 기(期) = 긴 기간",
+      "easy_definition": "오랜 기간",
+      "context_sentence": "장기적인 계획을 세워야 해요."
+    },
+    {
+      "word_korean": "성장(成長)",
+      "etymology_dissection": "이룰 성(成) + 길 장(長) = 자라서 커지는 것",
+      "easy_definition": "몸이나 마음이 점점 크고 발전하는 것",
+      "context_sentence": "책을 읽으면 정신적으로 성장해요."
+    },
+    {
+      "word_korean": "장점(長點)",
+      "etymology_dissection": "길 장(長) + 점 점(點) = 긴(뛰어난) 점",
+      "easy_definition": "잘하거나 뛰어난 점",
+      "context_sentence": "자신의 장점을 살려야 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "성장의 시간",
+    "passage_text": "**성장(成長)**은 하루아침에 이루어지지 않아요. **장기(長期)** 목표를 세우고 꾸준히 노력해야 해요. 자신의 **장점(長點)**을 알고 키워가면 언젠가 **교장(校長)** 선생님처럼 다른 사람을 이끄는 사람이 될 수 있어요.",
+    "quiz": {
+      "question": "'성장(成長)'의 뜻은?",
+      "choices": [
+        "작아지는 것",
+        "몸이나 마음이 점점 크고 발전하는 것",
+        "변하지 않는 것",
+        "멈추는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'성장(成長)'은 '이룰 성 + 길 장' = 자라서 점점 더 커지고 발전하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 최근에 성장했다고 느끼는 경험을 구체적으로 써 보세요.",
+    "model_example": "한자 공부를 통해 어려운 단어의 뜻을 스스로 짐작할 수 있게 됐을 때, 내가 정말 성장했다는 걸 느꼈어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'길 — 장(長)! 길 — 장(長)!' 열 번 외쳐요!"
+  }
+}

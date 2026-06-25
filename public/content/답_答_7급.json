@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "답",
+    "hanja_meaning": "대답",
+    "hanja_char": "答",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "대나무 위에 적다 — 대답 답(答)",
+    "etymology_story": "'대답 답(答)'은 대나무(竹)와 합하다(合)가 합쳐진 글자예요. 질문에 맞게 대나무 쪽지(竹簡)에 답을 적어 맞추는 것에서 '대답'이라는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "대답(對答)",
+      "etymology_dissection": "대할 대(對)+대답 답(答)",
+      "easy_definition": "물음에 응하는 것",
+      "context_sentence": "선생님 물음에 큰 소리로 대답했어요."
+    },
+    {
+      "word_korean": "답변(答辯)",
+      "etymology_dissection": "대답 답(答)+말할 변(辯)",
+      "easy_definition": "질문에 답하는 것",
+      "context_sentence": "시험 답변을 잘 준비했어요."
+    },
+    {
+      "word_korean": "정답(正答)",
+      "etymology_dissection": "바를 정(正)+대답 답(答)",
+      "easy_definition": "올바른 답",
+      "context_sentence": "정답을 맞히면 기분이 좋아요."
+    },
+    {
+      "word_korean": "오답(誤答)",
+      "etymology_dissection": "그릇될 오(誤)+대답 답(答)",
+      "easy_definition": "틀린 답",
+      "context_sentence": "오답에서 더 많이 배울 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "정답과 오답",
+    "passage_text": "**정답(正答)**을 맞히는 것도 중요하지만, **오답(誤答)**에서 배우는 것이 더 중요해요. **대답(對答)**은 용기가 필요해요. 명확한 **답변(答辯)**이 좋은 소통의 시작이에요.",
+    "quiz": {
+      "question": "'오답(誤答)'이란?",
+      "choices": [
+        "올바른 답",
+        "틀린 답",
+        "대답하는 것",
+        "시험 문제"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'오답(誤答)'=그릇될 오+대답 답, 틀린 답이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "틀린 답(오답)에서 무언가를 배운 경험을 문장으로 써 보세요.",
+    "model_example": "오답을 분석했더니 정답을 맞히는 것보다 더 큰 깨달음을 얻었어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'대답 — 답(答)! 대답 — 답(答)!' 열 번 외쳐요!"
+  }
+}

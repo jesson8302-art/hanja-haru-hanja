@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "애",
+    "hanja_meaning": "사랑",
+    "hanja_char": "愛",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "마음이 멈추어 아끼다 — 사랑 애(愛)",
+    "etymology_story": "'사랑 애(愛)'는 발(夊), 마음(心), 받을 수(受)가 합쳐진 글자예요. 마음(心)이 멈추어 상대를 받아들이고(受) 아끼는 것이 '사랑(愛)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사랑(愛)",
+      "etymology_dissection": "사랑 애(愛)",
+      "easy_definition": "아끼고 소중히 여기는 마음",
+      "context_sentence": "사랑을 전해요."
+    },
+    {
+      "word_korean": "애국(愛國)",
+      "etymology_dissection": "사랑 애(愛)+나라 국(國)",
+      "easy_definition": "나라를 사랑하는 것",
+      "context_sentence": "애국심을 가져요."
+    },
+    {
+      "word_korean": "애정(愛情)",
+      "etymology_dissection": "사랑 애(愛)+뜻 정(情)",
+      "easy_definition": "사랑하는 마음",
+      "context_sentence": "애정 어린 눈빛이에요."
+    },
+    {
+      "word_korean": "박애(博愛)",
+      "etymology_dissection": "넓을 박(博)+사랑 애(愛)",
+      "easy_definition": "모든 이를 사랑하는 마음",
+      "context_sentence": "박애 정신을 실천해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사랑의 힘",
+    "passage_text": "**애국(愛國)**심이 나라를 지켜요. **애정(愛情)**이 있어야 관계가 깊어져요. **박애(博愛)** 정신으로 모두를 사랑해요.",
+    "quiz": {
+      "question": "'애국(愛國)'이란?",
+      "choices": [
+        "사랑",
+        "박애",
+        "나라를 사랑하는 것",
+        "애정"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'애국(愛國)'=사랑 애+나라 국, 자기 나라를 사랑하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나라나 주변 사람에 대한 사랑을 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "박애처럼 모든 것을 사랑하는 애정이 애국심의 시작이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사랑 — 애(愛)! 사랑 — 애(愛)!' 열 번 외쳐요!"
+  }
+}

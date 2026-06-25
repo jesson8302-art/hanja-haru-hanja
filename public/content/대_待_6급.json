@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "대",
+    "hanja_meaning": "기다릴",
+    "hanja_char": "待",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "발걸음 멈추고 기다리다 — 기다릴 대(待)",
+    "etymology_story": "'기다릴 대(待)'는 걸을 착(彳)과 절 사(寺)가 합쳐진 글자예요. 절(寺)처럼 조용히 걷다 멈추어 기다리는 것이 '기다리다(待)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기대(期待)",
+      "etymology_dissection": "기약 기(期)+기다릴 대(待)",
+      "easy_definition": "기다리며 바라는 것",
+      "context_sentence": "기대가 커요."
+    },
+    {
+      "word_korean": "대기(待機)",
+      "etymology_dissection": "기다릴 대(待)+기회 기(機)",
+      "easy_definition": "기회를 기다리는 것",
+      "context_sentence": "대기 중이에요."
+    },
+    {
+      "word_korean": "초대(招待)",
+      "etymology_dissection": "부를 초(招)+기다릴 대(待)",
+      "easy_definition": "불러서 맞이하는 것",
+      "context_sentence": "생일 파티에 초대했어요."
+    },
+    {
+      "word_korean": "우대(優待)",
+      "etymology_dissection": "넉넉할 우(優)+기다릴 대(待)",
+      "easy_definition": "특별히 잘 대접하는 것",
+      "context_sentence": "노인을 우대해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "기다림의 미학",
+    "passage_text": "**기대(期待)**하며 기다리는 것이 설레요. **초대(招待)**는 따뜻한 환영이에요. **우대(優待)**받을 자격은 노력으로 만들어요.",
+    "quiz": {
+      "question": "'초대(招待)'란?",
+      "choices": [
+        "기대",
+        "대기",
+        "불러서 맞이하는 것",
+        "우대"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'초대(招待)'=부를 초+기다릴 대, 불러서 따뜻하게 맞이하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "누군가를 초대하거나 기대하며 기다린 경험을 문장으로 써 보세요.",
+    "model_example": "초대를 받으면 기대를 안고 설레며 대기하는 그 순간이 가장 행복해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'기다릴 — 대(待)! 기다릴 — 대(待)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "영",
+    "hanja_meaning": "꽃부리",
+    "hanja_char": "英",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "꽃이 활짝 핀 모습 — 꽃부리 영(英)",
+    "etymology_story": "'꽃부리 영(英)'은 풀(艸)과 가운데 앙(央)이 합쳐진 글자예요. 풀(艸)의 가운데에 활짝 피어나는 꽃부리가 '영(英)'이에요. 뛰어난 인재를 비유해요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "영웅(英雄)",
+      "etymology_dissection": "꽃부리 영(英)+수컷 웅(雄)",
+      "easy_definition": "뛰어난 인물",
+      "context_sentence": "영웅이 나라를 구해요."
+    },
+    {
+      "word_korean": "영재(英才)",
+      "etymology_dissection": "꽃부리 영(英)+재주 재(才)",
+      "easy_definition": "뛰어난 재능",
+      "context_sentence": "영재 교육을 받아요."
+    },
+    {
+      "word_korean": "영어(英語)",
+      "etymology_dissection": "꽃부리 영(英)+말씀 어(語)",
+      "easy_definition": "영국의 언어",
+      "context_sentence": "영어를 배워요."
+    },
+    {
+      "word_korean": "英국(英國)",
+      "etymology_dissection": "꽃부리 영(英)+나라 국(國)",
+      "easy_definition": "영국",
+      "context_sentence": "영국을 방문했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "뛰어남의 꽃",
+    "passage_text": "**영웅(英雄)**처럼 용기 있게 행동해요. **영재(英才)**는 노력으로 만들어져요. **영어(英語)**를 배우면 세계와 소통해요.",
+    "quiz": {
+      "question": "'영웅(英雄)'이란?",
+      "choices": [
+        "영재",
+        "영어",
+        "뛰어난 인물",
+        "영국"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'영웅(英雄)'=꽃부리 영+수컷 웅, 꽃처럼 뛰어나게 빛나는 인물이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "영웅처럼 용기 있는 행동이나 뛰어난 재능을 발휘한 경험을 문장으로 써 보세요.",
+    "model_example": "영웅은 태어나는 것이 아니라 노력하는 영재처럼 만들어지는 것이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'꽃부리 — 영(英)! 꽃부리 — 영(英)!' 열 번 외쳐요!"
+  }
+}

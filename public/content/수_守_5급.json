@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "守",
+    "hanja_sound": "수",
+    "hanja_meaning": "지킬",
+    "full_reading": "지킬 수",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "守",
+    "sound": "수",
+    "meaning": "지킬",
+    "stroke_count": 6,
+    "radical": "宀",
+    "etymology_story": "守는 집(宀)과 마디 촌(寸)이 합쳐진 글자입니다. 손으로 집을 지키는 모습에서 '지키다', '보호하다'의 뜻이 생겼습니다.",
+    "memory_tip": "손(寸)으로 집(宀)을 지키는 것이 '지키다(守)'입니다.",
+    "level_context": "5급 한자로, 지킬을(를) 뜻하는 守입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수비",
+      "word_hanja": "守備",
+      "reading": "수비",
+      "easy_definition": "막아 지킴",
+      "etymology_dissection": "지킬 수(守)+갖출 비(備): 갖추어 지킴",
+      "example_sentence": "수비가 단단합니다.",
+      "sentence_meaning": "막아 지키는 것이 단단합니다."
+    },
+    {
+      "word_korean": "준수",
+      "word_hanja": "遵守",
+      "reading": "준수",
+      "easy_definition": "규칙을 따라 지킴",
+      "etymology_dissection": "따를 준(遵)+지킬 수(守): 따라 지킴",
+      "example_sentence": "규칙을 준수합니다.",
+      "sentence_meaning": "규칙을 따라 잘 지킵니다."
+    },
+    {
+      "word_korean": "고수",
+      "word_hanja": "固守",
+      "reading": "고수",
+      "easy_definition": "굳게 지킴",
+      "etymology_dissection": "굳을 고(固)+지킬 수(守): 굳게 지킴",
+      "example_sentence": "자리를 고수했습니다.",
+      "sentence_meaning": "자리를 굳게 지켰습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "축구에서 수비가 중요합니다. 교통 규칙을 준수하면 사고를 예방할 수 있습니다. 끝까지 입장을 고수했습니다.",
+    "passage_meaning": "수비, 준수, 고수 모두 '지키다'를 뜻하는 守에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'준수'의 뜻은?",
+        "options": [
+          "규칙을 어기는 것",
+          "규칙을 따라 지키는 것",
+          "규칙을 만드는 것",
+          "규칙을 없애는 것"
+        ],
+        "correct_answer": "규칙을 따라 지키는 것",
+        "explanation": "준수(遵守)는 규칙을 따라 지키는 것입니다."
+      },
+      {
+        "question": "'守'의 뜻은?",
+        "options": [
+          "공격하다",
+          "지키다",
+          "파괴하다",
+          "포기하다"
+        ],
+        "correct_answer": "지키다",
+        "explanation": "守는 '지키다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'준수'나 '수비'를 사용하여 문장을 써 보세요.",
+    "hint": "규칙이나 스포츠에 관한 내용을 담아 보세요.",
+    "example_answer": "교통 법규를 준수하면 안전한 길이 됩니다.",
+    "key_vocabulary": [
+      "수비",
+      "준수"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "규칙을 준수하세요.",
+      "수비가 중요합니다.",
+      "입장을 고수합니다."
+    ],
+    "pronunciation_tips": "'수'을 명확하게 발음하며 읽어 보세요."
+  }
+}

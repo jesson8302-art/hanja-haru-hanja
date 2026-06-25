@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "可",
+    "hanja_sound": "가",
+    "hanja_meaning": "옳을",
+    "full_reading": "옳을 가",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "可",
+    "sound": "가",
+    "meaning": "옳을",
+    "stroke_count": 5,
+    "radical": "口",
+    "etymology_story": "可는 구부러진 형태(丁)와 입(口)이 합쳐진 글자입니다. 입(口)으로 허락하고 인정하는 모습에서 '옳다', '허락하다'의 뜻이 생겼습니다. 긍정과 허락을 나타냅니다.",
+    "memory_tip": "입(口)으로 '응!'하고 허락하는 것이 '옳을 가'입니다.",
+    "level_context": "5급 한자로, 옳을을(를) 뜻하는 可입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "가능",
+      "word_hanja": "可能",
+      "reading": "가능",
+      "easy_definition": "할 수 있음",
+      "etymology_dissection": "옳을 가(可)+능할 능(能): 할 수 있음",
+      "example_sentence": "이 문제는 혼자서도 가능합니다.",
+      "sentence_meaning": "이 문제는 혼자서도 풀 수 있습니다."
+    },
+    {
+      "word_korean": "허가",
+      "word_hanja": "許可",
+      "reading": "허가",
+      "easy_definition": "허락하여 해도 좋다고 함",
+      "etymology_dissection": "허락할 허(許)+옳을 가(可): 허락함",
+      "example_sentence": "건물 공사에 허가가 필요합니다.",
+      "sentence_meaning": "건물 공사를 하려면 허락을 받아야 합니다."
+    },
+    {
+      "word_korean": "불가",
+      "word_hanja": "不可",
+      "reading": "불가",
+      "easy_definition": "옳지 않음, 안 됨",
+      "etymology_dissection": "아닐 불(不)+옳을 가(可): 허락 안 됨",
+      "example_sentence": "이곳은 출입 불가 구역입니다.",
+      "sentence_meaning": "이곳은 들어갈 수 없는 곳입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "공원에서 자전거를 타는 것이 가능한지 허가를 확인해야 합니다. 어떤 장소에서는 자전거 탑승이 불가한 경우도 있습니다. 규칙을 지키는 것이 모두에게 옳은 일입니다.",
+    "passage_meaning": "공원에서 자전거를 타기 전에 허가 여부를 확인하고, 불가한 곳에서는 규칙을 지켜야 합니다.",
+    "questions": [
+      {
+        "question": "'가능'의 반대말은?",
+        "options": [
+          "허가",
+          "불가",
+          "가입",
+          "추가"
+        ],
+        "correct_answer": "불가",
+        "explanation": "가능(可能)의 반대는 불가(不可)로, 할 수 없음을 뜻합니다."
+      },
+      {
+        "question": "'허가'에서 '可'의 뜻은?",
+        "options": [
+          "금지",
+          "허락",
+          "불가",
+          "반대"
+        ],
+        "correct_answer": "허락",
+        "explanation": "허가(許可)는 許(허락)+可(옳음)으로 '해도 좋다고 허락함'입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'가능' 또는 '불가'를 사용하여 규칙에 대한 문장을 써 보세요.",
+    "hint": "가능한 일과 불가한 일을 구별해 보세요.",
+    "example_answer": "공원에서 자전거 타기는 가능합니다.",
+    "key_vocabulary": [
+      "가능",
+      "허가"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "이것은 가능합니다.",
+      "여기는 출입 불가입니다.",
+      "허가를 받아야 합니다."
+    ],
+    "pronunciation_tips": "'가'을 명확하게 발음하며 읽어 보세요."
+  }
+}

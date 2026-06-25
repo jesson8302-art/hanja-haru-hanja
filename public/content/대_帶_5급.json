@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "帶",
+    "hanja_sound": "대",
+    "hanja_meaning": "띠",
+    "full_reading": "띠 대",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "帶",
+    "sound": "대",
+    "meaning": "띠",
+    "stroke_count": 11,
+    "radical": "巾",
+    "etymology_story": "帶는 허리에 두르는 천(巾)의 모양을 본뜬 글자입니다. 허리에 띠를 두르는 모습에서 '띠', '지대', '이끌다'의 뜻이 생겼습니다.",
+    "memory_tip": "허리에 두르는 천(巾)이 '띠(帶)'입니다.",
+    "level_context": "5급 한자로, 띠을(를) 뜻하는 帶입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "지대",
+      "word_hanja": "地帶",
+      "reading": "지대",
+      "easy_definition": "특정한 성질을 가진 지역",
+      "etymology_dissection": "땅 지(地)+띠 대(帶): 땅의 띠",
+      "example_sentence": "열대 지대는 덥습니다.",
+      "sentence_meaning": "열대 지역은 매우 덥습니다."
+    },
+    {
+      "word_korean": "열대",
+      "word_hanja": "熱帶",
+      "reading": "열대",
+      "easy_definition": "적도 근처의 더운 지역",
+      "etymology_dissection": "더울 열(熱)+띠 대(帶): 더운 지대",
+      "example_sentence": "열대 우림에 다양한 동식물이 삽니다.",
+      "sentence_meaning": "적도 근처 더운 숲에 다양한 생물이 삽니다."
+    },
+    {
+      "word_korean": "연대",
+      "word_hanja": "連帶",
+      "reading": "연대",
+      "easy_definition": "여럿이 함께 연결되어 책임짐",
+      "etymology_dissection": "이을 련(連)+띠 대(帶): 연결된 띠",
+      "example_sentence": "우리는 연대하여 문제를 해결합니다.",
+      "sentence_meaning": "우리는 함께 연결되어 문제를 해결합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "열대 지대는 일 년 내내 덥습니다. 열대 우림은 지구의 허파라고 불립니다. 연대하여 함께 문제를 해결하면 더 강해집니다.",
+    "passage_meaning": "지대, 열대, 연대 모두 '띠'를 뜻하는 帶에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'열대'의 뜻으로 알맞은 것은?",
+        "options": [
+          "추운 극지방",
+          "적도 근처의 더운 지역",
+          "바다 한가운데",
+          "높은 산 위"
+        ],
+        "correct_answer": "적도 근처의 더운 지역",
+        "explanation": "열대(熱帶)는 적도 근처의 더운 지역입니다."
+      },
+      {
+        "question": "'연대'에서 '帶'의 뜻은?",
+        "options": [
+          "끊어지다",
+          "띠·연결",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "띠·연결",
+        "explanation": "연대(連帶)의 帶는 '띠'로, 여럿이 연결되어 책임지는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'열대'나 '연대'를 사용하여 문장을 써 보세요.",
+    "hint": "지리나 협력에 관한 내용을 담아 보세요.",
+    "example_answer": "열대 우림을 보호하기 위해 연대해야 합니다.",
+    "key_vocabulary": [
+      "지대",
+      "열대"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "열대 우림에 다양한 생물이 삽니다.",
+      "우리 모두 연대합시다.",
+      "이 지대는 따뜻한 기후입니다."
+    ],
+    "pronunciation_tips": "'대'을 명확하게 발음하며 읽어 보세요."
+  }
+}

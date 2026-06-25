@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "연",
+    "hanja_meaning": "인연",
+    "hanja_char": "緣",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "緣 — 실처럼 이어진 인연",
+    "etymology_story": "糸(실 사)와 彖(판단할 단)이 합쳐진 글자입니다. 실이 이어지듯 사람과 사람이 이어지는 연결에서 '인연', '가장자리'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "인연",
+      "word_hanja": "因緣",
+      "etymology_dissection": "因(인할 인)+緣(인연 연) = 원인의 인연",
+      "easy_definition": "사람 사이에 맺어지는 관계나 연결",
+      "context_sentence": "좋은 **인연**을 소중히 여겨야 합니다."
+    },
+    {
+      "word_korean": "연분",
+      "word_hanja": "緣分",
+      "etymology_dissection": "緣(인연 연)+分(나눌 분) = 인연의 몫",
+      "easy_definition": "타고난 인연",
+      "context_sentence": "두 사람은 특별한 **연분**이 있는 것 같습니다."
+    },
+    {
+      "word_korean": "혈연",
+      "word_hanja": "血緣",
+      "etymology_dissection": "血(피 혈)+緣(인연 연) = 피로 맺은 인연",
+      "easy_definition": "피로 맺어진 가족 관계",
+      "context_sentence": "**혈연**으로 맺어진 가족의 정이 소중합니다."
+    },
+    {
+      "word_korean": "지연",
+      "word_hanja": "地緣",
+      "etymology_dissection": "地(땅 지)+緣(인연 연) = 땅으로 맺은 인연",
+      "easy_definition": "같은 지역 출신으로 맺어진 관계",
+      "context_sentence": "**지연**을 넘어 전국적인 네트워크를 만들었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "인연의 의미",
+    "passage_text": "불교에서 **인연**은 매우 중요한 개념입니다. 모든 존재는 수많은 **인연**으로 이어져 있습니다. 길 위에서 스치는 낯선 사람도 **인연**이고, 오랫동안 함께한 친구도 소중한 **인연**입니다. **혈연**, **지연** 같은 전통적 유대가 약해지는 현대 사회에서는 새로운 형태의 **인연**이 중요해집니다. 공통된 관심사나 가치관으로 맺어진 **인연**이 더 깊은 연결을 만들기도 합니다.",
+    "quiz": {
+      "question": "현대 사회에서 중요해지는 새로운 인연의 형태로 글에서 언급된 것은?",
+      "choices": [
+        "혈연과 지연",
+        "공통된 관심사나 가치관으로 맺어진 인연",
+        "직장 인연",
+        "출신 학교 인연"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 공통된 관심사나 가치관으로 맺어진 인연이 더 깊은 연결을 만들기도 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'인연'을 사용해서 소중한 만남이나 관계에 대해 써보세요.",
+    "model_example": "어떤 **인연**으로 한자를 공부하게 됐는지 모르지만, 오늘 배운 글자 하나가 평생 기억에 남는 소중한 **인연**이 됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "緣(연) — 인연 연! 인연·연분·혈연·지연 모두 여기서! 좋은 인연으로 잘했어요!"
+  }
+}

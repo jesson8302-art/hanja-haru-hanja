@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "피",
+    "hanja_meaning": "가죽",
+    "hanja_char": "皮",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "皮 — 손으로 짐승 가죽을 벗기다",
+    "etymology_story": "손으로 짐승의 가죽을 벗겨내는 모습을 나타낸 글자입니다. '가죽', '껍질'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "피부",
+      "word_hanja": "皮膚",
+      "etymology_dissection": "皮(가죽 피)+膚(살갗 부) = 가죽 살갗",
+      "easy_definition": "몸의 표면을 덮고 있는 조직",
+      "context_sentence": "자외선 차단제로 **피부**를 보호하세요."
+    },
+    {
+      "word_korean": "껍질",
+      "word_hanja": "皮",
+      "etymology_dissection": "皮(가죽 피)",
+      "easy_definition": "사물의 겉을 싸고 있는 것",
+      "context_sentence": "사과 **껍질**에도 영양분이 있습니다."
+    },
+    {
+      "word_korean": "피혁",
+      "word_hanja": "皮革",
+      "etymology_dissection": "皮(가죽 피)+革(가죽 혁) = 가죽",
+      "easy_definition": "동물의 가죽을 가공한 것",
+      "context_sentence": "**피혁** 제품은 내구성이 좋습니다."
+    },
+    {
+      "word_korean": "표피",
+      "word_hanja": "表皮",
+      "etymology_dissection": "表(겉 표)+皮(가죽 피) = 겉 가죽",
+      "easy_definition": "피부의 가장 바깥층",
+      "context_sentence": "**표피**는 외부로부터 몸을 보호합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "피부의 기능",
+    "passage_text": "**피부**는 단순한 겉면이 아닙니다. 외부 환경으로부터 몸을 보호하고, 체온을 조절하며, 감각을 느끼는 중요한 기관입니다. **표피**는 자외선, 세균, 화학 물질로부터 몸을 보호합니다. 땀샘을 통해 체온 조절도 합니다. **피부**의 감각 수용체는 온도, 압력, 통증을 느낍니다. 피부과학 기술의 발전으로 화상 환자의 **피부** 이식도 가능해졌습니다.",
+    "quiz": {
+      "question": "피부의 기능으로 글에서 언급되지 않은 것은?",
+      "choices": [
+        "외부 환경으로부터 몸 보호",
+        "체온 조절",
+        "감각을 느낌",
+        "소리를 듣는 것"
+      ],
+      "correct_answer_index": 3,
+      "detailed_explanation": "소리를 듣는 것은 피부의 기능이 아니라 귀의 기능입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'피부'를 사용해서 피부 건강을 지키기 위해 실천하는 것을 써보세요.",
+    "model_example": "햇빛이 강한 날에는 자외선 차단제를 바르고, 충분한 물을 마셔 **피부**가 촉촉함을 유지합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "皮(피) — 가죽 피! 피부·피혁·표피 모두 여기서! 수고했어요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "시",
+    "hanja_meaning": "보일",
+    "hanja_char": "示",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "示 — 하늘에서 신이 표시를 보내다",
+    "etymology_story": "上(위)와 小(작을 소, 三이 변형)가 합쳐진 글자입니다. 하늘에서 번개처럼 신이 표시를 내려 보내는 모습에서 '보이다', '신에게 제사하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "표시",
+      "word_hanja": "表示",
+      "etymology_dissection": "表(겉 표)+示(보일 시) = 겉으로 보임",
+      "easy_definition": "겉으로 드러내 보임",
+      "context_sentence": "감사를 **표시**하는 것이 중요합니다."
+    },
+    {
+      "word_korean": "암시",
+      "word_hanja": "暗示",
+      "etymology_dissection": "暗(어두울 암)+示(보일 시) = 어둡게 보임",
+      "easy_definition": "직접 말하지 않고 넌지시 알려줌",
+      "context_sentence": "그 소설의 결말은 처음부터 **암시**되어 있었습니다."
+    },
+    {
+      "word_korean": "계시",
+      "word_hanja": "啓示",
+      "etymology_dissection": "啓(열 계)+示(보일 시) = 열어서 보임",
+      "easy_definition": "신이 진리를 알려줌, 또는 새로운 깨달음",
+      "context_sentence": "그 사건이 저에게 하나의 **계시**가 되었습니다."
+    },
+    {
+      "word_korean": "시위",
+      "word_hanja": "示威",
+      "etymology_dissection": "示(보일 시)+威(위엄 위) = 위엄을 보임",
+      "easy_definition": "대중이 모여 의견이나 요구를 표현하는 행동",
+      "context_sentence": "평화적 **시위**는 민주주의의 표현 방식입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "평화적 시위와 민주주의",
+    "passage_text": "**시위**는 시민이 자신의 의견을 공개적으로 표현하는 방법입니다. 평화적 **시위**는 민주주의 사회에서 보장된 권리입니다. 1987년 한국의 민주화 운동도 시민들의 **시위**로 이루어졌습니다. 미국 독립운동, 인도 간디의 비폭력 운동도 **시위**의 역사적 사례입니다. 그러나 **시위**는 타인의 권리를 침해하지 않는 범위에서 이루어져야 합니다.",
+    "quiz": {
+      "question": "평화적 시위에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "모든 시위는 금지되어야 한다",
+        "민주주의 사회에서 보장된 권리이다",
+        "폭력을 동반해야 효과적이다",
+        "정부만 시위를 할 수 있다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "평화적 시위는 민주주의 사회에서 보장된 권리라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'표시'를 사용해서 감사나 마음을 표현하는 방법에 대해 써보세요.",
+    "model_example": "말로만 감사를 **표시**하기보다 작은 행동으로 직접 도움을 주거나 손편지를 쓰는 것이 더 깊은 마음을 전합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "示(시) — 보일 시! 표시·암시·계시·시위 모두 여기서! 잘했어요!"
+  }
+}

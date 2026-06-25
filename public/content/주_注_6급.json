@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "주",
+    "hanja_meaning": "물댈",
+    "hanja_char": "注",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "注 — 물을 한곳으로 쏟아붓다",
+    "etymology_story": "注(주)는 물 수(水/氵)와 주인 주(主)가 합쳐진 글자예요. 물을 한 곳에 집중하여 붓는 모양으로 '물 대다·주의하다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주의(注意)",
+      "etymology_dissection": "물댈 주(注)+뜻 의(意)",
+      "easy_definition": "조심하여 살핌",
+      "context_sentence": "계단에서 주의해서 걸어요."
+    },
+    {
+      "word_korean": "주목(注目)",
+      "etymology_dissection": "물댈 주(注)+눈 목(目)",
+      "easy_definition": "관심을 집중하여 봄",
+      "context_sentence": "선생님이 칠판에 주목하라고 하셨어요."
+    },
+    {
+      "word_korean": "주입(注入)",
+      "etymology_dissection": "물댈 주(注)+들 입(入)",
+      "easy_definition": "물을 넣듯 집어넣음",
+      "context_sentence": "지식을 주입하는 것보다 생각하는 것이 중요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "주의해서 주목해요",
+    "passage_text": "실험 시간에 선생님이 주의(注意) 사항을 말씀하셨어요. 모두 칠판에 주목(注目)했어요. 단순히 지식을 주입(注入)받는 것이 아니라, 스스로 생각하는 것이 진짜 배움이에요.",
+    "quiz": {
+      "question": "'주목'의 뜻은?",
+      "choices": [
+        "관심을 집중하여 봄",
+        "눈을 감는 것",
+        "귀를 기울이는 것",
+        "손을 드는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "주목(注目)은 '물댈 주(注)+눈 목(目)'으로, 시선과 관심을 한곳에 집중하는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가장 주목(注目)하고 싶은 것 혹은 관심이 가는 것을 써 보고, 왜 그것에 관심이 있는지 써 보세요.",
+    "model_example": "예) 저는 우주에 가장 주목해요. 별과 행성이 어떻게 생겨났는지 무척 궁금하기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "注(주)! 집중하면 무엇이든 잘할 수 있어요! 잘했어요! 🔍"
+  }
+}

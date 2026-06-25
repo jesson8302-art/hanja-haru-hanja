@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "양",
+    "hanja_meaning": "큰바다",
+    "hanja_char": "洋",
+    "hanja_level": "6급",
+    "linked_subject": "사회, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "넘실대는 큰 바다 — 큰바다 양(洋)",
+    "etymology_story": "'큰바다 양(洋)'은 물(水)과 양(羊)이 합쳐진 글자예요. 양처럼 넘실대는 큰 바다가 '양(洋)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "해양(海洋)",
+      "etymology_dissection": "바다 해(海)+큰바다 양(洋)",
+      "easy_definition": "넓은 바다 전체",
+      "context_sentence": "해양 자원을 보호해요."
+    },
+    {
+      "word_korean": "서양(西洋)",
+      "etymology_dissection": "서녘 서(西)+큰바다 양(洋)",
+      "easy_definition": "서쪽 큰 바다 건너의 세계",
+      "context_sentence": "서양 문화를 배워요."
+    },
+    {
+      "word_korean": "동양(東洋)",
+      "etymology_dissection": "동녘 동(東)+큰바다 양(洋)",
+      "easy_definition": "동쪽 큰 바다의 세계",
+      "context_sentence": "동양 철학을 공부해요."
+    },
+    {
+      "word_korean": "양식(洋式)",
+      "etymology_dissection": "큰바다 양(洋)+법 식(式)",
+      "easy_definition": "서양의 방식",
+      "context_sentence": "양식 요리를 만들었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "넓은 바다",
+    "passage_text": "**해양(海洋)**은 지구의 보물이에요. **동양(東洋)**과 **서양(西洋)**의 지혜를 함께 배워요.",
+    "quiz": {
+      "question": "'서양(西洋)'이란?",
+      "choices": [
+        "해양",
+        "동양",
+        "서쪽 큰 바다 건너의 세계",
+        "양식"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'서양(西洋)'=서녘 서+큰바다 양, 서쪽 큰 바다 건너편의 세계예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "동양과 서양에서 배운 지혜나 문화 경험을 문장으로 써 보세요.",
+    "model_example": "해양처럼 넓은 마음으로 동양과 서양의 지혜를 모두 받아들이면 세상이 넓어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'큰바다 — 양(洋)! 큰바다 — 양(洋)!' 열 번 외쳐요!"
+  }
+}

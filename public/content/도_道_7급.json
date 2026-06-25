@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "도",
+    "hanja_meaning": "길",
+    "hanja_char": "道",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "걸어가는 사람과 고개를 합친 '길 도(道)'",
+    "etymology_story": "'길 도(道)'는 머리(首)와 걷는 발(辵)을 합친 글자예요. 사람이 고개를 들고 어디로 갈지 생각하며 걷는 모습이죠. 그래서 단순한 길뿐 아니라 '사람이 가야 할 바른 방향'이라는 뜻도 가지게 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "도로(道路)",
+      "etymology_dissection": "길 도(道) + 길 로(路) = 길",
+      "easy_definition": "자동차와 사람이 다니는 큰 길",
+      "context_sentence": "도로에서는 신호를 잘 지켜야 해요."
+    },
+    {
+      "word_korean": "도덕(道德)",
+      "etymology_dissection": "길 도(道) + 큰 덕(德) = 사람이 가야 할 바른 길의 덕",
+      "easy_definition": "사람이 마땅히 지켜야 할 바른 행동의 기준",
+      "context_sentence": "도덕 시간에 올바른 행동을 배워요."
+    },
+    {
+      "word_korean": "철도(鐵道)",
+      "etymology_dissection": "쇠 철(鐵) + 길 도(道) = 쇠로 만든 길",
+      "easy_definition": "기차가 달리는 쇠로 만든 길",
+      "context_sentence": "철도는 많은 사람을 빨리 이동시켜요."
+    },
+    {
+      "word_korean": "보도(步道)",
+      "etymology_dissection": "걸을 보(步) + 길 도(道) = 걷는 길",
+      "easy_definition": "사람이 걸어다니는 길",
+      "context_sentence": "보도에서는 뛰면 위험해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "삶의 도(道)를 찾아서",
+    "passage_text": "**도로(道路)**에서는 **보도(步道)**를 걸어야 안전해요. **철도(鐵道)**가 생기면서 먼 곳도 빨리 갈 수 있게 됐어요. **도덕(道德)**은 우리가 살아가야 할 가장 중요한 삶의 길이에요.",
+    "quiz": {
+      "question": "'도덕(道德)'이란 무엇인가요?",
+      "choices": [
+        "자동차가 다니는 길",
+        "기차가 달리는 길",
+        "사람이 마땅히 지켜야 할 바른 행동의 기준",
+        "걸어다니는 좁은 길"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'도덕(道德)'은 '길 도 + 큰 덕' = 사람이 걸어야 할 바른 삶의 길이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 생각하는 '바른 길'에 대한 문장을 써 보세요.",
+    "model_example": "도덕을 지키는 것이 남들에게 보여주기 위해서가 아니라, 내 스스로를 위한 일이라는 걸 알게 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'길 — 도(道)! 길 — 도(道)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

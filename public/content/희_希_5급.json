@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "희",
+    "hanja_meaning": "바랄",
+    "hanja_char": "希",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "希 — 성긴 베를 통해 바라보다",
+    "etymology_story": "乂(벨 예)와 布(베 포)가 합쳐진 글자입니다. 성긴 베의 구멍으로 무언가를 바라보는 모습에서 '바라다', '드물다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "희망",
+      "word_hanja": "希望",
+      "etymology_dissection": "希(바랄 희)+望(바랄 망) = 바라고 바람",
+      "easy_definition": "앞일에 대한 좋은 기대",
+      "context_sentence": "**희망**은 어떤 어려움도 이겨내는 힘입니다."
+    },
+    {
+      "word_korean": "희귀",
+      "word_hanja": "希貴",
+      "etymology_dissection": "希(드물 희)+貴(귀할 귀) = 드물고 귀함",
+      "easy_definition": "매우 드물어 귀한",
+      "context_sentence": "**희귀** 동물을 보호해야 합니다."
+    },
+    {
+      "word_korean": "희소",
+      "word_hanja": "希少",
+      "etymology_dissection": "希(드물 희)+少(적을 소) = 드물고 적음",
+      "easy_definition": "매우 드물고 적음",
+      "context_sentence": "**희소** 자원은 경제적 가치가 높습니다."
+    },
+    {
+      "word_korean": "희박",
+      "word_hanja": "希薄",
+      "etymology_dissection": "希(드물 희)+薄(엷을 박) = 드물고 엷음",
+      "easy_definition": "아주 적거나 가능성이 낮음",
+      "context_sentence": "성공 가능성이 **희박**합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "희망의 힘",
+    "passage_text": "심리학자 빅터 프랭클은 나치 수용소에서 살아남은 경험을 바탕으로 '**희망**이 있는 사람이 살아남는다'고 했습니다. **희망**은 단순한 낙관이 아닙니다. 어떤 상황에서도 의미를 찾으려는 의지입니다. **희귀**한 성공 사례도 **희망**을 포기하지 않은 사람들이 만들었습니다. **희박**해 보이는 가능성도 **희망**을 가지면 현실이 될 수 있습니다. **희망**은 행동을 이끄는 가장 강력한 동기입니다.",
+    "quiz": {
+      "question": "빅터 프랭클이 말한 희망의 의미는?",
+      "choices": [
+        "성공을 보장하는 것",
+        "어떤 상황에서도 의미를 찾으려는 의지",
+        "행운을 바라는 것",
+        "과거를 잊는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "빅터 프랭클은 희망이 어떤 상황에서도 의미를 찾으려는 의지라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'희망'을 사용해서 미래에 이루고 싶은 꿈을 써보세요.",
+    "model_example": "저의 **희망**은 언젠가 세상에 없던 것을 만들어 많은 사람에게 도움이 되는 일을 하는 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "希(희) — 바랄 희! 희망·희귀·희소·희박 모두 여기서! 희망을 가지고 잘했어요!"
+  }
+}

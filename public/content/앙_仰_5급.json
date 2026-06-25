@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "仰",
+    "hanja_sound": "앙",
+    "hanja_meaning": "우러를",
+    "full_reading": "우러를 앙",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "仰",
+    "sound": "앙",
+    "meaning": "우러를",
+    "stroke_count": 6,
+    "radical": "人",
+    "etymology_story": "仰은 사람(人)과 절 앙(卬)이 합쳐진 글자입니다. 사람이 위를 향해 우러러보는 모습에서 '우러러보다', '바라다'의 뜻이 생겼습니다.",
+    "memory_tip": "사람(人)이 위를 향해 우러러보는 것이 '仰'입니다.",
+    "level_context": "5급 한자로, 우러를을(를) 뜻하는 仰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "앙망",
+      "word_hanja": "仰望",
+      "reading": "앙망",
+      "easy_definition": "우러러 바라봄",
+      "etymology_dissection": "우러를 앙(仰)+바랄 망(望): 우러러 바람",
+      "example_sentence": "선생님을 앙망합니다.",
+      "sentence_meaning": "선생님을 우러러 바라봅니다."
+    },
+    {
+      "word_korean": "신앙",
+      "word_hanja": "信仰",
+      "reading": "신앙",
+      "easy_definition": "종교를 믿고 따름",
+      "etymology_dissection": "믿을 신(信)+우러를 앙(仰): 믿고 우러름",
+      "example_sentence": "깊은 신앙을 가지고 있습니다.",
+      "sentence_meaning": "종교를 깊이 믿고 따릅니다."
+    },
+    {
+      "word_korean": "앙관",
+      "word_hanja": "仰觀",
+      "reading": "앙관",
+      "easy_definition": "위를 우러러봄",
+      "etymology_dissection": "우러를 앙(仰)+볼 관(觀): 우러러봄",
+      "example_sentence": "별을 앙관합니다.",
+      "sentence_meaning": "별을 위로 우러러봅니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "신앙은 사람에게 힘과 용기를 줍니다. 밤하늘의 별을 우러러봅니다. 훌륭한 인물을 앙망합니다.",
+    "passage_meaning": "앙망, 신앙 모두 '우러러보다'를 뜻하는 仰에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'신앙'의 뜻은?",
+        "options": [
+          "종교를 믿지 않음",
+          "종교를 믿고 따름",
+          "종교를 만드는 것",
+          "종교를 비판함"
+        ],
+        "correct_answer": "종교를 믿고 따름",
+        "explanation": "신앙(信仰)은 종교를 믿고 따르는 것입니다."
+      },
+      {
+        "question": "'仰'의 뜻은?",
+        "options": [
+          "내려다보다",
+          "우러러보다",
+          "옆을 보다",
+          "눈을 감다"
+        ],
+        "correct_answer": "우러러보다",
+        "explanation": "仰은 '우러러보다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'신앙'이나 '앙망'을 사용하여 문장을 써 보세요.",
+    "hint": "종교나 존경에 관한 내용을 담아 보세요.",
+    "example_answer": "깊은 신앙이 어려운 시기에 큰 힘이 되었습니다.",
+    "key_vocabulary": [
+      "앙망",
+      "신앙"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "훌륭한 분을 앙망합니다.",
+      "신앙이 큰 힘이 됩니다.",
+      "하늘을 우러러봅니다."
+    ],
+    "pronunciation_tips": "'앙'을 명확하게 발음하며 읽어 보세요."
+  }
+}

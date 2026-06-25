@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "橋",
+    "hanja_sound": "교",
+    "hanja_meaning": "다리",
+    "full_reading": "다리 교",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "橋",
+    "sound": "교",
+    "meaning": "다리",
+    "stroke_count": 16,
+    "radical": "木",
+    "etymology_story": "橋는 나무(木)와 높을 교(喬)가 합쳐진 글자입니다. 나무로 높게 세워 건너편으로 이어주는 구조물에서 '다리'의 뜻이 생겼습니다.",
+    "memory_tip": "나무(木)로 높게(喬) 세운 것이 '다리'입니다.",
+    "level_context": "5급 한자로, 다리을(를) 뜻하는 橋입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교량",
+      "word_hanja": "橋梁",
+      "reading": "교량",
+      "easy_definition": "강이나 길을 건너는 구조물",
+      "etymology_dissection": "다리 교(橋)+들보 량(梁): 다리 구조물",
+      "example_sentence": "새 교량이 완공되었습니다.",
+      "sentence_meaning": "새 다리가 다 지어졌습니다."
+    },
+    {
+      "word_korean": "현수교",
+      "word_hanja": "懸垂橋",
+      "reading": "현수교",
+      "easy_definition": "케이블로 매달아 만든 다리",
+      "etymology_dissection": "매달 현(懸)+드리울 수(垂)+다리 교(橋): 매달린 다리",
+      "example_sentence": "현수교는 아름답고 튼튼합니다.",
+      "sentence_meaning": "케이블로 매달아 만든 다리는 아름답고 강합니다."
+    },
+    {
+      "word_korean": "육교",
+      "word_hanja": "陸橋",
+      "reading": "육교",
+      "easy_definition": "도로 위에 놓인 다리",
+      "etymology_dissection": "땅 육(陸)+다리 교(橋): 땅 위의 다리",
+      "example_sentence": "육교를 건너 학교에 갑니다.",
+      "sentence_meaning": "도로 위에 놓인 다리를 건너 학교에 갑니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "강을 건너기 위해 교량을 만들었습니다. 도로를 안전하게 건너려면 육교를 이용합니다. 아름다운 현수교는 도시의 명소가 됩니다.",
+    "passage_meaning": "교량은 물이나 도로를 건너게 해 주는 다리이며, 육교와 현수교가 대표적입니다.",
+    "questions": [
+      {
+        "question": "'교량'의 뜻으로 알맞은 것은?",
+        "options": [
+          "높은 건물",
+          "강이나 길을 건너는 구조물",
+          "땅 속의 굴",
+          "넓은 도로"
+        ],
+        "correct_answer": "강이나 길을 건너는 구조물",
+        "explanation": "교량(橋梁)은 강이나 길을 건너는 구조물, 즉 다리입니다."
+      },
+      {
+        "question": "'육교'에서 '橋'의 뜻은?",
+        "options": [
+          "땅",
+          "다리",
+          "물",
+          "하늘"
+        ],
+        "correct_answer": "다리",
+        "explanation": "육교(陸橋)의 橋는 '다리'로, 도로 위에 놓인 다리를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'교량'이나 '육교'를 사용하여 문장을 만들어 보세요.",
+    "hint": "교통이나 건설과 관련된 내용을 담아 보세요.",
+    "example_answer": "강 위에 새 교량이 건설되었습니다.",
+    "key_vocabulary": [
+      "교량",
+      "현수교"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "교량을 건너 강 건너편으로 갔습니다.",
+      "육교를 이용해 안전하게 건넜습니다.",
+      "현수교의 모습이 장관입니다."
+    ],
+    "pronunciation_tips": "'교'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "색",
+    "hanja_meaning": "빛",
+    "hanja_char": "色",
+    "hanja_level": "7급",
+    "linked_subject": "미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "무릎 꿇은 사람이 내뿜는 기운 — 빛 색(色)",
+    "etymology_story": "'빛 색(色)'은 무릎 꿇고 앉은 사람(巴) 위에 또 다른 형태가 합쳐진 글자예요. 사람의 얼굴빛, 즉 표정이나 기색을 뜻하다가 '색깔'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "색깔(色깔)",
+      "etymology_dissection": "빛 색(色)+",
+      "easy_definition": "색의 종류",
+      "context_sentence": "무지개는 아름다운 색깔이에요."
+    },
+    {
+      "word_korean": "경색(景色)",
+      "etymology_dissection": "볕 경(景)+빛 색(色)",
+      "easy_definition": "자연의 빛깔이나 풍경",
+      "context_sentence": "가을 경색이 아름다워요."
+    },
+    {
+      "word_korean": "특색(特色)",
+      "etymology_dissection": "특별할 특(特)+빛 색(色)",
+      "easy_definition": "특별한 성질이나 특징",
+      "context_sentence": "이 지역만의 특색이 있어요."
+    },
+    {
+      "word_korean": "색채(色彩)",
+      "etymology_dissection": "빛 색(色)+채색할 채(彩)",
+      "easy_definition": "여러 가지 색의 조화",
+      "context_sentence": "그림의 색채가 화려해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빛깔의 세계",
+    "passage_text": "**경색(景色)**이 아름다운 계절에 그림을 그려요. **색채(色彩)**가 풍부한 그림은 눈을 즐겁게 해요. 각자의 **특색(特色)**이 세상을 다채롭게 만들어요.",
+    "quiz": {
+      "question": "'특색(特色)'이란?",
+      "choices": [
+        "색깔",
+        "자연 풍경",
+        "특별한 성질이나 특징",
+        "색의 조화"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'특색(特色)'=특별할 특+빛 색, 특별한 성질이나 특징이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가진 특색(특별한 점)을 문장으로 써 보세요.",
+    "model_example": "가을 경색처럼 나만의 특색이 세상을 더 다채롭게 만든다고 믿어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'빛 — 색(色)! 빛 — 색(色)!' 열 번 외쳐요!"
+  }
+}

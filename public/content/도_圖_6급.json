@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "도",
+    "hanja_meaning": "그림",
+    "hanja_char": "圖",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "계획된 그림 — 그림 도(圖)",
+    "etymology_story": "'그림 도(圖)'는 에울 위(囗, 경계)와 비도(啚, 계획)가 합쳐진 글자예요. 경계 안에 계획을 담은 것이 '그림, 도면(圖)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "지도(地圖)",
+      "etymology_dissection": "땅 지(地)+그림 도(圖)",
+      "easy_definition": "땅의 모양을 그린 것",
+      "context_sentence": "지도를 보며 길을 찾아요."
+    },
+    {
+      "word_korean": "도서관(圖書館)",
+      "etymology_dissection": "그림 도(圖)+글 서(書)+집 관(館)",
+      "easy_definition": "책을 모아둔 곳",
+      "context_sentence": "도서관에서 공부해요."
+    },
+    {
+      "word_korean": "도표(圖表)",
+      "etymology_dissection": "그림 도(圖)+겉 표(表)",
+      "easy_definition": "그림으로 나타낸 표",
+      "context_sentence": "도표로 정리해요."
+    },
+    {
+      "word_korean": "의도(意圖)",
+      "etymology_dissection": "뜻 의(意)+그림 도(圖)",
+      "easy_definition": "마음속 계획",
+      "context_sentence": "좋은 의도로 행동해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "그림의 힘",
+    "passage_text": "**지도(地圖)**는 세상을 한눈에 보여줘요. **도서관(圖書館)**은 지식의 보물창고예요. **도표(圖表)**로 정리하면 이해가 쉬워요.",
+    "quiz": {
+      "question": "'도서관(圖書館)'이란?",
+      "choices": [
+        "지도",
+        "도표",
+        "책을 모아둔 곳",
+        "의도"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'도서관(圖書館)'=그림 도+글 서+집 관, 그림과 글을 모아둔 지식의 집이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "도서관에서 배우거나 지도로 탐험한 경험을 문장으로 써 보세요.",
+    "model_example": "도서관에서 지도를 펼쳐보며 의도적으로 배움을 찾는 것이 진정한 공부예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'그림 — 도(圖)! 그림 — 도(圖)!' 열 번 외쳐요!"
+  }
+}

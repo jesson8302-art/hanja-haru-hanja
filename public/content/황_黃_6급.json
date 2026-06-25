@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "황",
+    "hanja_meaning": "누를",
+    "hanja_char": "黃",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "黃 — 불꽃에서 타오르는 황금빛",
+    "etymology_story": "黃(황)은 밭 전(田)과 빛 광(光)의 변형이 합쳐진 글자예요. 황금처럼 빛나는 '노란색'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "황금(黃金)",
+      "etymology_dissection": "누를 황(黃)+쇠 금(金)",
+      "easy_definition": "노란 빛의 귀한 금속",
+      "context_sentence": "황금처럼 소중한 시간이에요."
+    },
+    {
+      "word_korean": "황색(黃色)",
+      "etymology_dissection": "누를 황(黃)+빛 색(色)",
+      "easy_definition": "노란 색",
+      "context_sentence": "해바라기는 황색 꽃이에요."
+    },
+    {
+      "word_korean": "황사(黃沙)",
+      "etymology_dissection": "누를 황(黃)+모래 사(沙)",
+      "easy_definition": "누런 모래먼지",
+      "context_sentence": "봄에는 황사가 심해서 마스크를 써요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "노란 봄과 황사",
+    "passage_text": "봄이 되면 황색(黃色) 꽃들이 피어나요. 민들레와 개나리가 황금(黃金)빛으로 빛나요. 하지만 황사(黃沙)도 심해지는 계절이에요. 마스크를 쓰고 외출하는 것이 건강에 좋아요.",
+    "quiz": {
+      "question": "'황사'의 뜻은?",
+      "choices": [
+        "누런 모래먼지",
+        "노란 꽃가루",
+        "황금색 비",
+        "모래 폭풍"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "황사(黃沙)는 중국 등지에서 불어오는 누런 모래먼지예요. 봄철 건강을 위해 마스크가 필요해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "황색(노란색)을 보면 떠오르는 것들을 자유롭게 써 보세요. 왜 그것이 떠오르나요?",
+    "model_example": "예) 노란색 하면 레몬이 떠올라요. 새콤달콤한 맛이 생각나서 입에 침이 고여요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "黃(황)! 황금빛처럼 빛나는 어린이! 잘했어요! 🌻"
+  }
+}

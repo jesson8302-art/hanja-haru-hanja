@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "邊",
+    "hanja_sound": "변",
+    "hanja_meaning": "가",
+    "full_reading": "가 변",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "邊",
+    "sound": "변",
+    "meaning": "가",
+    "stroke_count": 18,
+    "radical": "辵",
+    "etymology_story": "邊은 갈 착(辵)과 그물 편(緶)이 합쳐진 글자입니다. 어떤 지역의 가장자리를 따라가는 모습에서 '가', '가장자리', '주변'의 뜻이 생겼습니다.",
+    "memory_tip": "가장자리(辵)를 따라가는(緶) 것이 '邊(가)'입니다.",
+    "level_context": "5급 한자로, 가을(를) 뜻하는 邊입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주변",
+      "word_hanja": "周邊",
+      "reading": "주변",
+      "easy_definition": "둘레의 가까운 곳",
+      "etymology_dissection": "두를 주(周)+가 변(邊): 두른 가장자리",
+      "example_sentence": "주변을 깨끗이 합시다.",
+      "sentence_meaning": "둘레의 가까운 곳을 깨끗이 합시다."
+    },
+    {
+      "word_korean": "해변",
+      "word_hanja": "海邊",
+      "reading": "해변",
+      "easy_definition": "바다의 가장자리",
+      "etymology_dissection": "바다 해(海)+가 변(邊): 바다의 가",
+      "example_sentence": "해변에서 수영했습니다.",
+      "sentence_meaning": "바다의 가장자리에서 수영했습니다."
+    },
+    {
+      "word_korean": "강변",
+      "word_hanja": "江邊",
+      "reading": "강변",
+      "easy_definition": "강의 가장자리",
+      "etymology_dissection": "강 강(江)+가 변(邊): 강의 가",
+      "example_sentence": "강변에서 자전거를 탔습니다.",
+      "sentence_meaning": "강의 가장자리에서 자전거를 탔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "주변을 항상 깨끗이 정리합니다. 여름에 해변에서 신나게 놀았습니다. 강변 공원에서 자전거를 탔습니다.",
+    "passage_meaning": "주변, 해변, 강변 모두 '가장자리'를 뜻하는 邊에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'해변'의 뜻으로 알맞은 것은?",
+        "options": [
+          "바다 한가운데",
+          "바다의 가장자리",
+          "산 정상",
+          "강 위"
+        ],
+        "correct_answer": "바다의 가장자리",
+        "explanation": "해변(海邊)은 바다의 가장자리입니다."
+      },
+      {
+        "question": "'주변'에서 '邊'의 뜻은?",
+        "options": [
+          "중심",
+          "가장자리·주변",
+          "멀리",
+          "높다"
+        ],
+        "correct_answer": "가장자리·주변",
+        "explanation": "주변(周邊)의 邊은 '가장자리', '주변'으로, 둘레의 가까운 곳을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'주변'이나 '해변'을 사용하여 문장을 써 보세요.",
+    "hint": "환경이나 여행과 관련된 내용을 담아 보세요.",
+    "example_answer": "아름다운 해변에서 가족과 즐거운 시간을 보냈습니다.",
+    "key_vocabulary": [
+      "주변",
+      "해변"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "주변을 항상 깨끗이 합시다.",
+      "해변이 정말 아름다웠습니다.",
+      "강변에서 산책했습니다."
+    ],
+    "pronunciation_tips": "'변'을 명확하게 발음하며 읽어 보세요."
+  }
+}

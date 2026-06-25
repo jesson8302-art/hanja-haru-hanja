@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "團",
+    "hanja_sound": "단",
+    "hanja_meaning": "모일",
+    "full_reading": "모일 단",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "團",
+    "sound": "단",
+    "meaning": "모일",
+    "stroke_count": 14,
+    "radical": "囗",
+    "etymology_story": "團은 에워쌀 위(囗)와 오로지 전(專)이 합쳐진 글자입니다. 하나의 목적으로 둥글게 에워싼 모습에서 '모이다', '단체', '단'의 뜻이 생겼습니다.",
+    "memory_tip": "둥글게(囗) 하나로 모인 것이 '단체(團)'입니다.",
+    "level_context": "5급 한자로, 모일을(를) 뜻하는 團입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "단체",
+      "word_hanja": "團體",
+      "reading": "단체",
+      "easy_definition": "같은 목적으로 모인 사람들",
+      "etymology_dissection": "모일 단(團)+몸 체(體): 모인 몸",
+      "example_sentence": "단체 여행을 갑니다.",
+      "sentence_meaning": "여러 사람이 함께 여행을 갑니다."
+    },
+    {
+      "word_korean": "집단",
+      "word_hanja": "集團",
+      "reading": "집단",
+      "easy_definition": "여러 사람이 모인 무리",
+      "etymology_dissection": "모일 집(集)+모일 단(團): 모여 이룸",
+      "example_sentence": "집단 생활이 시작됩니다.",
+      "sentence_meaning": "여러 사람이 함께 생활합니다."
+    },
+    {
+      "word_korean": "단결",
+      "word_hanja": "團結",
+      "reading": "단결",
+      "easy_definition": "여럿이 한 뜻으로 뭉침",
+      "etymology_dissection": "모일 단(團)+맺을 결(結): 모여 맺음",
+      "example_sentence": "단결력이 강한 팀이 이깁니다.",
+      "sentence_meaning": "뭉쳐서 한 뜻이 된 팀이 이깁니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "단결력이 있는 팀은 어떤 어려움도 이겨냅니다. 단체 여행은 혼자보다 더 즐겁습니다. 집단 생활에서 서로 배려하는 것이 중요합니다.",
+    "passage_meaning": "단체와 집단에서 단결하는 것이 함께 성장하는 비결입니다.",
+    "questions": [
+      {
+        "question": "'단체'의 뜻으로 알맞은 것은?",
+        "options": [
+          "혼자 하는 것",
+          "같은 목적으로 모인 사람들",
+          "적대적인 집단",
+          "경쟁하는 무리"
+        ],
+        "correct_answer": "같은 목적으로 모인 사람들",
+        "explanation": "단체(團體)는 같은 목적으로 모인 사람들입니다."
+      },
+      {
+        "question": "'단결'에서 '團'의 뜻은?",
+        "options": [
+          "끊다",
+          "모이다·단",
+          "달리다",
+          "싸우다"
+        ],
+        "correct_answer": "모이다·단",
+        "explanation": "단결(團結)의 團은 '모이다'로, 여럿이 한 뜻으로 뭉치는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'단체'나 '단결'을 사용하여 문장을 써 보세요.",
+    "hint": "협동이나 팀워크에 관한 내용을 담아 보세요.",
+    "example_answer": "우리 팀은 단결력으로 어려움을 이겼습니다.",
+    "key_vocabulary": [
+      "단체",
+      "집단"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "단체 여행이 더 즐겁습니다.",
+      "단결하면 못 이길 것이 없습니다.",
+      "집단 생활에서 배려가 중요합니다."
+    ],
+    "pronunciation_tips": "'단'을 명확하게 발음하며 읽어 보세요."
+  }
+}

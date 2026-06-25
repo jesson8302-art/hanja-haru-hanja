@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "忘",
+    "hanja_sound": "망",
+    "hanja_meaning": "잊을",
+    "full_reading": "잊을 망",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "忘",
+    "sound": "망",
+    "meaning": "잊을",
+    "stroke_count": 7,
+    "radical": "心",
+    "etymology_story": "忘은 마음(心)과 잃을 망(亡)이 합쳐진 글자입니다. 마음이 사라지거나 잃어버린 것처럼 '잊다'의 뜻이 생겼습니다.",
+    "memory_tip": "마음(心)이 사라지는(亡) 것이 '잊다'입니다.",
+    "level_context": "5급 한자로, 잊을을(를) 뜻하는 忘입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "망각",
+      "word_hanja": "忘却",
+      "reading": "망각",
+      "easy_definition": "잊어버림",
+      "etymology_dissection": "잊을 망(忘)+물리칠 각(却): 잊고 물리침",
+      "example_sentence": "중요한 것을 망각하면 안 됩니다.",
+      "sentence_meaning": "중요한 것을 잊어버리면 안 됩니다."
+    },
+    {
+      "word_korean": "건망증",
+      "word_hanja": "健忘症",
+      "reading": "건망증",
+      "easy_definition": "잘 잊어버리는 증상",
+      "etymology_dissection": "굳셀 건(健)+잊을 망(忘)+증세 증(症): 건강히 잘 잊음",
+      "example_sentence": "건망증이 심해지면 병원에 가야 합니다.",
+      "sentence_meaning": "잘 잊어버리는 증상이 심하면 병원에 가야 합니다."
+    },
+    {
+      "word_korean": "잊다",
+      "word_hanja": "忘",
+      "reading": "망",
+      "easy_definition": "기억에서 사라짐",
+      "etymology_dissection": "잊을 망(忘): 잊다",
+      "example_sentence": "중요한 약속을 잊으면 안 됩니다.",
+      "sentence_meaning": "중요한 약속을 기억에서 지우면 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "중요한 약속을 잊지 않도록 메모를 합니다. 건망증이 심하면 일상생활에 불편함이 생깁니다. 소중한 것을 망각하지 않도록 노력합니다.",
+    "passage_meaning": "망각, 건망증 모두 '잊다'는 뜻의 忘에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'망각'의 뜻으로 알맞은 것은?",
+        "options": [
+          "기억하는 것",
+          "잊어버리는 것",
+          "새로 배우는 것",
+          "생각하는 것"
+        ],
+        "correct_answer": "잊어버리는 것",
+        "explanation": "망각(忘却)은 잊어버리는 것입니다."
+      },
+      {
+        "question": "'忘'의 뜻은?",
+        "options": [
+          "기억하다",
+          "잊다",
+          "생각하다",
+          "배우다"
+        ],
+        "correct_answer": "잊다",
+        "explanation": "忘은 '잊다'의 뜻입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'망각'이나 '건망증'을 사용하여 문장을 써 보세요.",
+    "hint": "기억이나 일상생활에 관한 내용을 담아 보세요.",
+    "example_answer": "중요한 것을 망각하지 않기 위해 기록합니다.",
+    "key_vocabulary": [
+      "망각",
+      "건망증"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "망각은 자연스러운 현상입니다.",
+      "건망증을 줄이려면 메모를 하세요.",
+      "소중한 것을 잊지 않겠습니다."
+    ],
+    "pronunciation_tips": "'망'을 명확하게 발음하며 읽어 보세요."
+  }
+}

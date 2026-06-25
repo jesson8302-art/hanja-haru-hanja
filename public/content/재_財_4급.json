@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "재",
+    "hanja_meaning": "재물",
+    "hanja_char": "財",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "財 — 재주로 만들어낸 재물",
+    "etymology_story": "貝(조개 패, 재물 뜻)와 才(재주 재)가 합쳐진 글자입니다. 재주를 발휘해 쌓아올린 재물을 뜻합니다. 조개껍데기가 고대의 화폐였기 때문에 貝가 들어가면 재물이나 돈과 관련됩니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "재산",
+      "word_hanja": "財産",
+      "etymology_dissection": "財(재물 재)+産(낳을 산) = 낳아온 재물",
+      "easy_definition": "개인이나 단체가 가진 돈이나 물건",
+      "context_sentence": "열심히 일해서 **재산**을 모았습니다."
+    },
+    {
+      "word_korean": "재물",
+      "word_hanja": "財物",
+      "etymology_dissection": "財(재물 재)+物(물건 물) = 재물과 물건",
+      "easy_definition": "돈이나 값어치 있는 물건",
+      "context_sentence": "욕심 부려 남의 **재물**을 탐내면 안 됩니다."
+    },
+    {
+      "word_korean": "재정",
+      "word_hanja": "財政",
+      "etymology_dissection": "財(재물 재)+政(정치 정) = 재물을 다스림",
+      "easy_definition": "국가나 단체의 돈 살림",
+      "context_sentence": "나라의 **재정**이 튼튼해야 국민 복지를 실현할 수 있습니다."
+    },
+    {
+      "word_korean": "재벌",
+      "word_hanja": "財閥",
+      "etymology_dissection": "財(재물 재)+閥(문벌 벌) = 재물로 이룬 집단",
+      "easy_definition": "큰 자본을 바탕으로 여러 기업을 거느린 대기업 집단",
+      "context_sentence": "일부 **재벌** 기업은 우리나라 경제에서 큰 비중을 차지합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "돈보다 중요한 것",
+    "passage_text": "**재산**이 많으면 편리한 것은 사실입니다. 그러나 **재물**만을 추구하다 보면 소중한 것을 잃을 수 있습니다. 건강, 가족, 우정은 **재산**으로 살 수 없습니다. 나라도 마찬가지입니다. 국가 **재정**이 탄탄해야 국민을 돕는 복지 정책을 펼칠 수 있지만, 국민의 행복은 **재정**만으로 이루어지지 않습니다. 진정한 풍요는 물질적 **재산**과 정신적 가치가 함께 어우러질 때 만들어집니다.",
+    "quiz": {
+      "question": "이 글의 중심 내용으로 가장 알맞은 것은?",
+      "choices": [
+        "재산을 많이 모아야 한다",
+        "재정이 탄탄한 나라가 좋은 나라다",
+        "물질적 재산과 정신적 가치가 함께 중요하다",
+        "재벌이 나라 경제를 이끈다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 진정한 풍요는 물질적 재산과 정신적 가치가 함께 어우러질 때 만들어진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'재산'을 사용해서 돈으로 살 수 없는 소중한 것에 대한 자신의 생각을 써보세요.",
+    "model_example": "건강과 소중한 사람들과의 관계는 어떤 **재산**으로도 살 수 없는 가장 귀한 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "財(재) — 재물 재! 재산·재물·재정 모두 여기서! 멋져요!"
+  }
+}

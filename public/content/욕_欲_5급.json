@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "欲",
+    "hanja_sound": "욕",
+    "hanja_meaning": "하고자할",
+    "full_reading": "하고자할 욕",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "欲",
+    "sound": "욕",
+    "meaning": "하고자할",
+    "stroke_count": 11,
+    "radical": "欠",
+    "etymology_story": "欲은 하품(欠)과 골짜기 곡(谷)이 합쳐진 글자입니다. 빈 골짜기처럼 채우려는 욕구에서 '하고자 하다', '욕심', '바라다'의 뜻이 생겼습니다.",
+    "memory_tip": "빈 골짜기(谷)처럼 채우려는(欠) 것이 '욕심(欲)'입니다.",
+    "level_context": "5급 한자로, 하고자할을(를) 뜻하는 欲입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "욕구",
+      "word_hanja": "欲求",
+      "reading": "욕구",
+      "easy_definition": "원하고 구하는 것",
+      "etymology_dissection": "하고자할 욕(欲)+구할 구(求): 원하여 구함",
+      "example_sentence": "기본적인 욕구를 충족합니다.",
+      "sentence_meaning": "기본적으로 원하고 구하는 것을 충족합니다."
+    },
+    {
+      "word_korean": "욕심",
+      "word_hanja": "欲心",
+      "reading": "욕심",
+      "easy_definition": "지나치게 원하는 마음",
+      "etymology_dissection": "하고자할 욕(欲)+마음 심(心): 원하는 마음",
+      "example_sentence": "욕심을 버려야 합니다.",
+      "sentence_meaning": "지나치게 원하는 마음을 버려야 합니다."
+    },
+    {
+      "word_korean": "식욕",
+      "word_hanja": "食欲",
+      "reading": "식욕",
+      "easy_definition": "음식을 먹고 싶은 욕구",
+      "etymology_dissection": "먹을 식(食)+하고자할 욕(欲): 먹고자 함",
+      "example_sentence": "식욕이 없습니다.",
+      "sentence_meaning": "음식을 먹고 싶은 욕구가 없습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "기본적인 욕구를 충족해야 합니다. 지나친 욕심은 화를 부릅니다. 감기에 걸려 식욕이 없습니다.",
+    "passage_meaning": "욕구, 욕심, 식욕 모두 '하고자 하다', '바라다'를 뜻하는 欲에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'식욕'의 뜻은?",
+        "options": [
+          "잠 자고 싶은 욕구",
+          "음식을 먹고 싶은 욕구",
+          "공부하고 싶은 욕구",
+          "달리고 싶은 욕구"
+        ],
+        "correct_answer": "음식을 먹고 싶은 욕구",
+        "explanation": "식욕(食欲)은 음식을 먹고 싶은 욕구입니다."
+      },
+      {
+        "question": "'欲'의 뜻은?",
+        "options": [
+          "싫어하다",
+          "하고자 하다·바라다",
+          "피하다",
+          "무관심하다"
+        ],
+        "correct_answer": "하고자 하다·바라다",
+        "explanation": "欲은 '하고자 하다', '바라다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'욕구'나 '욕심'을 사용하여 문장을 써 보세요.",
+    "hint": "마음이나 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "지나친 욕심을 버리고 기본적인 욕구에 만족합니다.",
+    "key_vocabulary": [
+      "욕구",
+      "욕심"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "욕심을 버립니다.",
+      "기본 욕구를 충족합니다.",
+      "식욕이 돌아왔습니다."
+    ],
+    "pronunciation_tips": "'욕'을 명확하게 발음하며 읽어 보세요."
+  }
+}

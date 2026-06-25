@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "船",
+    "hanja_sound": "선",
+    "hanja_meaning": "배",
+    "full_reading": "배 선",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "船",
+    "sound": "선",
+    "meaning": "배",
+    "stroke_count": 11,
+    "radical": "舟",
+    "etymology_story": "船은 배(舟)와 여덟 팔(八)과 입 구(口)가 합쳐진 글자입니다. 여러 사람이 탈 수 있는 큰 배의 모습에서 '배'를 뜻하게 되었습니다.",
+    "memory_tip": "물(舟) 위에 여럿이 탄 것이 '배(船)'입니다.",
+    "level_context": "5급 한자로, 배을(를) 뜻하는 船입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선박",
+      "word_hanja": "船舶",
+      "reading": "선박",
+      "easy_definition": "배",
+      "etymology_dissection": "배 선(船)+배 박(舶): 배",
+      "example_sentence": "항구에 선박이 많습니다.",
+      "sentence_meaning": "항구에 배가 많습니다."
+    },
+    {
+      "word_korean": "승선",
+      "word_hanja": "乘船",
+      "reading": "승선",
+      "easy_definition": "배에 오름",
+      "etymology_dissection": "탈 승(乘)+배 선(船): 배에 탐",
+      "example_sentence": "승선하여 출발했습니다.",
+      "sentence_meaning": "배에 올라 출발했습니다."
+    },
+    {
+      "word_korean": "어선",
+      "word_hanja": "漁船",
+      "reading": "어선",
+      "easy_definition": "물고기 잡는 배",
+      "etymology_dissection": "고기 어(漁)+배 선(船): 고기잡이 배",
+      "example_sentence": "어선이 바다로 나갔습니다.",
+      "sentence_meaning": "고기잡이 배가 바다로 나갔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "어선이 새벽에 바다로 나갑니다. 항구에는 다양한 선박이 있습니다. 승선하기 전에 안전 확인이 필요합니다.",
+    "passage_meaning": "船은 '배'를 뜻하며 어선, 선박, 승선 등의 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'어선'의 뜻은?",
+        "options": [
+          "여행용 배",
+          "물고기 잡는 배",
+          "군사용 배",
+          "관광용 배"
+        ],
+        "correct_answer": "물고기 잡는 배",
+        "explanation": "어선(漁船)은 물고기를 잡는 배입니다."
+      },
+      {
+        "question": "'船'의 뜻은?",
+        "options": [
+          "물",
+          "배",
+          "바람",
+          "하늘"
+        ],
+        "correct_answer": "배",
+        "explanation": "船은 '배'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'선박'이나 '어선'을 사용하여 문장을 써 보세요.",
+    "hint": "바다나 항해에 관한 내용을 담아 보세요.",
+    "example_answer": "어선이 가득 잡은 물고기를 싣고 항구로 돌아왔습니다.",
+    "key_vocabulary": [
+      "선박",
+      "승선"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "어선이 바다로 나갑니다.",
+      "항구에 선박이 가득합니다.",
+      "배에 승선하여 여행합니다."
+    ],
+    "pronunciation_tips": "'선'을 명확하게 발음하며 읽어 보세요."
+  }
+}

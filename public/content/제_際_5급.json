@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "사이",
+    "hanja_char": "際",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "際 — 언덕 사이의 경계",
+    "etymology_story": "阜(언덕 부)와 祭(제사 제)가 합쳐진 글자입니다. 언덕들 사이의 경계를 나타내며 '사이', '즈음', '국제'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국제",
+      "word_hanja": "國際",
+      "etymology_dissection": "國(나라 국)+際(사이 제) = 나라 사이",
+      "easy_definition": "나라와 나라 사이에 관계되는",
+      "context_sentence": "**국제** 사회에서 협력이 중요합니다."
+    },
+    {
+      "word_korean": "제한",
+      "word_hanja": "際限",
+      "etymology_dissection": "際(사이 제)+限(한할 한) = 사이의 한계",
+      "easy_definition": "범위나 한도를 정함",
+      "context_sentence": "나이 **제한**이 있는 활동입니다."
+    },
+    {
+      "word_korean": "실제",
+      "word_hanja": "實際",
+      "etymology_dissection": "實(열매 실)+際(사이 제) = 실제 사이",
+      "easy_definition": "사실 그대로의 상태",
+      "context_sentence": "이론과 **실제**는 다를 수 있습니다."
+    },
+    {
+      "word_korean": "교제",
+      "word_hanja": "交際",
+      "etymology_dissection": "交(사귈 교)+際(사이 제) = 사귀는 사이",
+      "easy_definition": "서로 사귀어 왕래함",
+      "context_sentence": "다양한 사람들과의 **교제**는 시야를 넓혀줍니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "국제 사회",
+    "passage_text": "오늘날 어느 나라도 혼자 존재할 수 없습니다. **국제** 무역, **국제** 조약, **국제** 기구를 통해 모든 나라가 연결되어 있습니다. 유엔(UN)은 **국제** 평화와 협력을 위한 대표적인 기구입니다. 기후 변화, 전염병, 테러 같은 문제는 한 나라가 혼자 해결할 수 없습니다. **실제**로 코로나19는 전 세계가 **국제**적으로 협력해 백신을 개발했습니다.",
+    "quiz": {
+      "question": "오늘날 국제 협력이 필요한 이유로 글에서 언급된 것은?",
+      "choices": [
+        "무역 이익을 극대화하기 위해",
+        "기후 변화, 전염병 등 한 나라가 혼자 해결할 수 없는 문제들 때문에",
+        "군사력을 강화하기 위해",
+        "문화를 교류하기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "기후 변화, 전염병, 테러 같은 문제는 한 나라가 혼자 해결할 수 없기 때문에 국제 협력이 필요하다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'국제'를 사용해서 세계 시민으로서 중요하게 생각하는 것을 써보세요.",
+    "model_example": "**국제** 사회에서 책임 있는 시민이 되려면 다른 나라의 문화를 이해하고 존중하는 자세가 필요합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "際(제) — 사이 제! 국제·실제·교제 모두 여기서! 잘했어요!"
+  }
+}

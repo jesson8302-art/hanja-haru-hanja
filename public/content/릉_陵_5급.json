@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "陵",
+    "hanja_sound": "릉",
+    "hanja_meaning": "언덕",
+    "full_reading": "언덕 릉",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "陵",
+    "sound": "릉",
+    "meaning": "언덕",
+    "stroke_count": 11,
+    "radical": "阜",
+    "etymology_story": "陵은 언덕(阜)과 거릴 릉(夌)이 합쳐진 글자입니다. 크고 완만한 언덕, 즉 '능(왕릉)', '언덕'의 뜻이 생겼습니다.",
+    "memory_tip": "언덕(阜) 위에 있는 크고 완만한 것이 '陵'입니다.",
+    "level_context": "5급 한자로, 언덕을(를) 뜻하는 陵입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "왕릉",
+      "word_hanja": "王陵",
+      "reading": "왕릉",
+      "easy_definition": "왕의 무덤",
+      "etymology_dissection": "임금 왕(王)+언덕 릉(陵): 왕의 언덕 무덤",
+      "example_sentence": "경주에 신라 왕릉이 있습니다.",
+      "sentence_meaning": "경주에 신라 왕의 무덤이 있습니다."
+    },
+    {
+      "word_korean": "능선",
+      "word_hanja": "陵線",
+      "reading": "능선",
+      "easy_definition": "산등성이의 선",
+      "etymology_dissection": "언덕 릉(陵)+줄 선(線): 언덕의 선",
+      "example_sentence": "능선을 따라 등산했습니다.",
+      "sentence_meaning": "산등성이를 따라 등산했습니다."
+    },
+    {
+      "word_korean": "구릉",
+      "word_hanja": "丘陵",
+      "reading": "구릉",
+      "easy_definition": "낮고 완만한 언덕",
+      "etymology_dissection": "언덕 구(丘)+언덕 릉(陵): 언덕과 언덕",
+      "example_sentence": "구릉 지대에 마을이 있습니다.",
+      "sentence_meaning": "낮고 완만한 언덕 지역에 마을이 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "경주에는 신라 시대의 왕릉이 많습니다. 등산 중 능선을 따라 걸으면 경치가 좋습니다. 구릉 지대는 농사짓기 좋은 곳입니다.",
+    "passage_meaning": "왕릉, 능선, 구릉 모두 '언덕'을 뜻하는 陵에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'왕릉'의 뜻으로 알맞은 것은?",
+        "options": [
+          "왕이 사는 궁궐",
+          "왕의 무덤",
+          "왕이 쉬는 별장",
+          "왕의 창고"
+        ],
+        "correct_answer": "왕의 무덤",
+        "explanation": "왕릉(王陵)은 왕의 무덤입니다."
+      },
+      {
+        "question": "'능선'에서 '陵'의 뜻은?",
+        "options": [
+          "강",
+          "언덕·능",
+          "바다",
+          "평지"
+        ],
+        "correct_answer": "언덕·능",
+        "explanation": "능선(陵線)의 陵은 '언덕'으로, 산등성이의 선을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'왕릉'이나 '능선'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 자연에 관한 내용을 담아 보세요.",
+    "example_answer": "경주 왕릉을 답사하며 역사를 배웠습니다.",
+    "key_vocabulary": [
+      "왕릉",
+      "능선"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "신라 왕릉은 역사적 유산입니다.",
+      "능선을 따라 걷는 것이 좋습니다.",
+      "구릉 지대에서 농사를 짓습니다."
+    ],
+    "pronunciation_tips": "'릉'을 명확하게 발음하며 읽어 보세요."
+  }
+}

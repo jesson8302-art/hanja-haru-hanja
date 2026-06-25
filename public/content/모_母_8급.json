@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "모",
+    "hanja_meaning": "어머니",
+    "hanja_char": "母",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "아이에게 젖을 주는 어머니 — 어머니 모(母)",
+    "etymology_story": "'어머니 모(母)'는 여자를 뜻하는 글자에 두 개의 점이 추가된 모양이에요. 두 점은 아이에게 젖을 먹이는 어머니의 모습을 표현한 것이래요. 생명을 낳고 키우는 어머니의 사랑이 담긴 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "모국(母國)",
+      "etymology_dissection": "어머니 모(母) + 나라 국(國) = 어머니 같은 나라",
+      "easy_definition": "자기가 태어나고 자란 나라",
+      "context_sentence": "외국에 나가도 모국이 그리워요."
+    },
+    {
+      "word_korean": "모교(母校)",
+      "etymology_dissection": "어머니 모(母) + 학교 교(校) = 어머니 같은 학교",
+      "easy_definition": "자신이 다니거나 졸업한 학교",
+      "context_sentence": "졸업 후 모교를 방문했어요."
+    },
+    {
+      "word_korean": "모국어(母國語)",
+      "etymology_dissection": "어머니 모(母) + 나라 국(國) + 말씀 어(語) = 어머니 나라의 말",
+      "easy_definition": "태어나면서 자연스럽게 배운 첫 번째 언어",
+      "context_sentence": "한국어는 나의 모국어예요."
+    },
+    {
+      "word_korean": "부모(父母)",
+      "etymology_dissection": "아버지 부(父) + 어머니 모(母) = 아버지와 어머니",
+      "easy_definition": "아버지와 어머니",
+      "context_sentence": "부모님은 내가 가장 사랑하는 분들이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "어머니처럼 따뜻한 것들",
+    "passage_text": "**모국어(母國語)**는 어머니가 가르쳐 준 첫 번째 선물이에요. **모국(母國)**은 언제나 우리를 품어 주는 어머니 같은 존재죠. 훗날 어른이 되어 **모교(母校)**를 찾으면 어릴 적 **부모(父母)**님과 함께했던 기억이 떠오를 거예요.",
+    "quiz": {
+      "question": "'모국어(母國語)'란 무엇인가요?",
+      "choices": [
+        "외국에서 배운 말",
+        "태어나면서 자연스럽게 배운 첫 번째 언어",
+        "학교에서 가르쳐 주는 말",
+        "책에 적힌 말"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'모국어(母國語)'는 '어머니 모 + 나라 국 + 말씀 어' = 어머니 나라의 말, 즉 내가 태어나면서 배운 언어예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 어머니 혹은 어머니처럼 소중한 것에 대한 문장을 써 보세요.",
+    "model_example": "모국어인 한국어가 세계에서 가장 아름다운 말이라고 생각해요. 어머니가 처음 가르쳐 주신 말이기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'어머니 — 모(母)! 어머니 — 모(母)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

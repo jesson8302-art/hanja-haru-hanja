@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "悲",
+    "hanja_sound": "비",
+    "hanja_meaning": "슬플",
+    "full_reading": "슬플 비",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "悲",
+    "sound": "비",
+    "meaning": "슬플",
+    "stroke_count": 12,
+    "radical": "心",
+    "etymology_story": "悲는 마음(心)과 아닐 비(非)가 합쳐진 글자입니다. 마음이 뜻대로 되지 않아 슬픈 모습에서 '슬프다', '비통하다'의 뜻이 생겼습니다.",
+    "memory_tip": "마음(心)이 뜻대로(非) 안 될 때 '슬프다'입니다.",
+    "level_context": "5급 한자로, 슬플을(를) 뜻하는 悲입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "슬픔",
+      "word_hanja": "悲",
+      "reading": "비",
+      "easy_definition": "마음이 아프고 서글픈 것",
+      "etymology_dissection": "슬플 비(悲): 슬픔",
+      "example_sentence": "슬픔을 이겨냅니다.",
+      "sentence_meaning": "마음의 아픔을 이겨냅니다."
+    },
+    {
+      "word_korean": "비극",
+      "word_hanja": "悲劇",
+      "reading": "비극",
+      "easy_definition": "슬픈 내용의 연극이나 사건",
+      "etymology_dissection": "슬플 비(悲)+연극 극(劇): 슬픈 연극",
+      "example_sentence": "전쟁은 비극입니다.",
+      "sentence_meaning": "전쟁은 슬픈 사건입니다."
+    },
+    {
+      "word_korean": "비통",
+      "word_hanja": "悲痛",
+      "reading": "비통",
+      "easy_definition": "몹시 슬프고 아픔",
+      "etymology_dissection": "슬플 비(悲)+아플 통(痛): 슬프고 아픔",
+      "example_sentence": "비통한 소식을 들었습니다.",
+      "sentence_meaning": "몹시 슬프고 아픈 소식을 들었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "전쟁은 인류에게 큰 비극입니다. 비통한 소식에 모두가 슬퍼했습니다. 슬픔을 이겨내는 힘이 있어야 합니다.",
+    "passage_meaning": "비극, 비통 모두 '슬프다'는 뜻의 悲에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'비극'의 뜻으로 알맞은 것은?",
+        "options": [
+          "즐거운 연극",
+          "슬픈 내용의 연극이나 사건",
+          "웃음을 주는 사건",
+          "행복한 이야기"
+        ],
+        "correct_answer": "슬픈 내용의 연극이나 사건",
+        "explanation": "비극(悲劇)은 슬픈 내용의 연극이나 사건입니다."
+      },
+      {
+        "question": "'悲'의 뜻은?",
+        "options": [
+          "기쁘다",
+          "슬프다",
+          "화나다",
+          "무섭다"
+        ],
+        "correct_answer": "슬프다",
+        "explanation": "悲는 '슬프다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'비극'이나 '비통'을 사용하여 문장을 써 보세요.",
+    "hint": "감정이나 역사에 관한 내용을 담아 보세요.",
+    "example_answer": "전쟁의 비극을 되풀이하지 않아야 합니다.",
+    "key_vocabulary": [
+      "슬픔",
+      "비극"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "비극을 통해 교훈을 얻습니다.",
+      "비통한 소식에 위로를 전합니다.",
+      "슬픔을 함께 나눕시다."
+    ],
+    "pronunciation_tips": "'비'을 명확하게 발음하며 읽어 보세요."
+  }
+}

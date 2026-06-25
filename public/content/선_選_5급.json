@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "選",
+    "hanja_sound": "선",
+    "hanja_meaning": "가릴",
+    "full_reading": "가릴 선",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "選",
+    "sound": "선",
+    "meaning": "가릴",
+    "stroke_count": 15,
+    "radical": "辶",
+    "etymology_story": "選은 걷다(辶)와 이을 손(巽)이 합쳐진 글자입니다. 여러 가지 중 걷고 다니며 좋은 것을 골라 잇는 모습에서 '가리다', '선택하다'의 뜻이 생겼습니다.",
+    "memory_tip": "걸어다니며(辶) 좋은 것을 고르는 것이 '選'입니다.",
+    "level_context": "5급 한자로, 가릴을(를) 뜻하는 選입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선택",
+      "word_hanja": "選擇",
+      "reading": "선택",
+      "easy_definition": "여럿 중 하나를 고름",
+      "etymology_dissection": "가릴 선(選)+가릴 택(擇): 골라 가림",
+      "example_sentence": "자유롭게 선택하세요.",
+      "sentence_meaning": "여럿 중 하나를 자유롭게 고르세요."
+    },
+    {
+      "word_korean": "선거",
+      "word_hanja": "選擧",
+      "reading": "선거",
+      "easy_definition": "투표로 사람을 고름",
+      "etymology_dissection": "가릴 선(選)+들 거(擧): 골라 들어올림",
+      "example_sentence": "선거에 참여합시다.",
+      "sentence_meaning": "투표로 사람을 고르는 데 참여합시다."
+    },
+    {
+      "word_korean": "당선",
+      "word_hanja": "當選",
+      "reading": "당선",
+      "easy_definition": "선거에서 뽑힘",
+      "etymology_dissection": "마땅 당(當)+가릴 선(選): 마땅히 뽑힘",
+      "example_sentence": "후보가 당선됐습니다.",
+      "sentence_meaning": "후보가 선거에서 뽑혔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "민주주의에서 선거가 중요합니다. 자신의 선택에 책임을 져야 합니다. 많은 후보 중 당선자가 나왔습니다.",
+    "passage_meaning": "선택, 선거, 당선 모두 '가리다', '선택하다'를 뜻하는 選에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'당선'의 뜻은?",
+        "options": [
+          "선거에서 떨어짐",
+          "선거에서 뽑힘",
+          "투표를 하는 것",
+          "후보가 되는 것"
+        ],
+        "correct_answer": "선거에서 뽑힘",
+        "explanation": "당선(當選)은 선거에서 뽑히는 것입니다."
+      },
+      {
+        "question": "'選'의 뜻은?",
+        "options": [
+          "버리다",
+          "가리다·선택하다",
+          "만들다",
+          "쓰다"
+        ],
+        "correct_answer": "가리다·선택하다",
+        "explanation": "選은 '가리다', '선택하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'선택'이나 '선거'를 사용하여 문장을 써 보세요.",
+    "hint": "민주주의나 결정에 관한 내용을 담아 보세요.",
+    "example_answer": "선거는 민주주의의 꽃입니다.",
+    "key_vocabulary": [
+      "선택",
+      "선거"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "자유롭게 선택하세요.",
+      "선거에 꼭 참여합시다.",
+      "당선을 축하합니다."
+    ],
+    "pronunciation_tips": "'선'을 명확하게 발음하며 읽어 보세요."
+  }
+}

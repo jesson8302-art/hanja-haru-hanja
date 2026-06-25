@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "曲",
+    "hanja_sound": "곡",
+    "hanja_meaning": "굽을",
+    "full_reading": "굽을 곡",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "曲",
+    "sound": "곡",
+    "meaning": "굽을",
+    "stroke_count": 6,
+    "radical": "曰",
+    "etymology_story": "曲은 구부러진 곡선 모양을 본뜬 글자입니다. 물건이 휘어지고 굽은 모양에서 '굽다', '노래(음악의 곡조)'의 뜻이 생겼습니다.",
+    "memory_tip": "구불구불 휘어진 모양이 '曲'입니다.",
+    "level_context": "5급 한자로, 굽을을(를) 뜻하는 曲입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "노래",
+      "word_hanja": "곡",
+      "reading": "곡",
+      "easy_definition": "음악의 한 단위",
+      "etymology_dissection": "굽을 곡(曲): 굽이굽이 이어지는 음악",
+      "example_sentence": "이 곡이 정말 아름답습니다.",
+      "sentence_meaning": "이 노래가 정말 아름답습니다."
+    },
+    {
+      "word_korean": "곡선",
+      "word_hanja": "曲線",
+      "reading": "곡선",
+      "easy_definition": "구부러진 선",
+      "etymology_dissection": "굽을 곡(曲)+줄 선(線): 굽은 선",
+      "example_sentence": "곡선이 아름다운 건물입니다.",
+      "sentence_meaning": "구부러진 선이 아름다운 건물입니다."
+    },
+    {
+      "word_korean": "왜곡",
+      "word_hanja": "歪曲",
+      "reading": "왜곡",
+      "easy_definition": "사실을 비틀어 거짓되게 함",
+      "etymology_dissection": "비뚤어질 왜(歪)+굽을 곡(曲): 비뚤게 굽힘",
+      "example_sentence": "사실을 왜곡하면 안 됩니다.",
+      "sentence_meaning": "사실을 비틀어 거짓되게 만들면 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "음악에는 다양한 곡이 있습니다. 건축물에서 곡선은 아름다움을 더해 줍니다. 사실을 왜곡하면 오해가 생길 수 있습니다.",
+    "passage_meaning": "음악의 곡, 건물의 곡선, 그리고 사실의 왜곡 — 모두 '굽다'는 뜻에서 비롯되었습니다.",
+    "questions": [
+      {
+        "question": "'왜곡'의 뜻으로 알맞은 것은?",
+        "options": [
+          "사실을 그대로 전하는 것",
+          "사실을 비틀어 거짓되게 하는 것",
+          "사실을 축소하는 것",
+          "사실을 과장하는 것"
+        ],
+        "correct_answer": "사실을 비틀어 거짓되게 하는 것",
+        "explanation": "왜곡(歪曲)은 사실을 비틀어 거짓되게 만드는 것입니다."
+      },
+      {
+        "question": "'곡선'에서 '曲'의 뜻은?",
+        "options": [
+          "곧다",
+          "굽다",
+          "길다",
+          "짧다"
+        ],
+        "correct_answer": "굽다",
+        "explanation": "곡선(曲線)의 曲은 '굽다'로, 구부러진 선을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'곡선'이나 '왜곡'을 사용하여 문장을 써 보세요.",
+    "hint": "예술이나 정직함과 관련된 내용을 담아 보세요.",
+    "example_answer": "곡선으로 이루어진 건물이 아름다웠습니다.",
+    "key_vocabulary": [
+      "노래",
+      "곡선"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "아름다운 곡을 연주했습니다.",
+      "곡선이 부드럽고 아름답습니다.",
+      "사실을 왜곡하지 마세요."
+    ],
+    "pronunciation_tips": "'곡'을 명확하게 발음하며 읽어 보세요."
+  }
+}

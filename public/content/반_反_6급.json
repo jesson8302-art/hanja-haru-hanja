@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "반",
+    "hanja_meaning": "돌이킬",
+    "hanja_char": "反",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "손이 반대로 뒤집히다 — 돌이킬 반(反)",
+    "etymology_story": "'돌이킬 반(反)'은 언덕(厂)과 손(又)이 합쳐진 글자예요. 손(又)이 언덕을 뒤집어 반대쪽을 향하는 것이 '돌이키다, 반대(反)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "반대(反對)",
+      "etymology_dissection": "돌이킬 반(反)+대답할 대(對)",
+      "easy_definition": "맞서서 반하는 것",
+      "context_sentence": "의견에 반대해요."
+    },
+    {
+      "word_korean": "반성(反省)",
+      "etymology_dissection": "돌이킬 반(反)+살필 성(省)",
+      "easy_definition": "돌이켜 살피는 것",
+      "context_sentence": "반성하고 성장해요."
+    },
+    {
+      "word_korean": "반응(反應)",
+      "etymology_dissection": "돌이킬 반(反)+응할 응(應)",
+      "easy_definition": "자극에 응하는 것",
+      "context_sentence": "긍정적으로 반응해요."
+    },
+    {
+      "word_korean": "위반(違反)",
+      "etymology_dissection": "어길 위(違)+돌이킬 반(反)",
+      "easy_definition": "규칙을 어기는 것",
+      "context_sentence": "교통 위반을 하지 않아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "돌아보기",
+    "passage_text": "**반성(反省)**이 성장의 시작이에요. **반응(反應)**을 살피면 소통이 잘 돼요. **반대(反對)** 의견도 존중해요.",
+    "quiz": {
+      "question": "'반성(反省)'이란?",
+      "choices": [
+        "반대",
+        "반응",
+        "돌이켜 스스로 살피는 것",
+        "위반"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'반성(反省)'=돌이킬 반+살필 성, 지난 일을 돌이켜 살피는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "반성하고 달라진 경험을 문장으로 써 보세요.",
+    "model_example": "반성은 위반을 줄이고 반응을 개선하며 반대 의견도 수용하게 해줘요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'돌이킬 — 반(反)! 돌이킬 — 반(反)!' 열 번 외쳐요!"
+  }
+}

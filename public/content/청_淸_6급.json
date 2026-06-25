@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "청",
+    "hanja_meaning": "맑을",
+    "hanja_char": "淸",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "淸 — 물이 푸르고 맑게 흐르다",
+    "etymology_story": "淸(청)은 물 수(水/氵)와 푸를 청(靑)이 합쳐진 글자예요. 맑고 깨끗한 물처럼 '맑다·깨끗하다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "청소(淸掃)",
+      "etymology_dissection": "맑을 청(淸)+쓸 소(掃)",
+      "easy_definition": "더러운 것을 깨끗이 치움",
+      "context_sentence": "교실 청소를 열심히 했어요."
+    },
+    {
+      "word_korean": "청명(淸明)",
+      "etymology_dissection": "맑을 청(淸)+밝을 명(明)",
+      "easy_definition": "하늘이 맑고 밝음",
+      "context_sentence": "청명한 가을 하늘이 아름다워요."
+    },
+    {
+      "word_korean": "청결(淸潔)",
+      "etymology_dissection": "맑을 청(淸)+깨끗할 결(潔)",
+      "easy_definition": "깨끗하고 위생적임",
+      "context_sentence": "손을 깨끗이 씻어 청결을 유지해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "맑고 깨끗하게",
+    "passage_text": "청소(淸掃) 시간이에요. 모두 함께 교실을 깨끗이 치웠어요. 청명(淸明)한 날씨처럼 교실도 환해졌어요. 청결(淸潔)한 환경에서 공부하면 집중도 잘 돼요.",
+    "quiz": {
+      "question": "'청결'의 뜻은?",
+      "choices": [
+        "깨끗하고 위생적임",
+        "깨끗이 쓸어버리는 것",
+        "맑고 밝은 하늘",
+        "투명한 물"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "청결(淸潔)은 '맑을 청(淸)+깨끗할 결(潔)'로, 더럽지 않고 위생적으로 깨끗한 상태를 말해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 청결을 유지하기 위해 매일 하는 것을 세 가지 써 보세요.",
+    "model_example": "예) 아침저녁으로 이를 닦아요. 밥 먹기 전에 손을 씻어요. 잠자기 전에 세수해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "淸(청)! 맑고 깨끗한 생활! 오늘도 훌륭해요! 🌊"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "현",
+    "hanja_meaning": "나타날",
+    "hanja_char": "現",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "現 — 옥이 빛을 발하며 모습을 드러내다",
+    "etymology_story": "現(현)은 구슬 옥(王/玉)과 볼 견(見)이 합쳐진 글자예요. 아름다운 옥이 빛을 발하며 '나타나다·드러나다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "현재(現在)",
+      "etymology_dissection": "나타날 현(現)+있을 재(在)",
+      "easy_definition": "지금 이 순간",
+      "context_sentence": "현재가 가장 소중한 시간이에요."
+    },
+    {
+      "word_korean": "표현(表現)",
+      "etymology_dissection": "겉 표(表)+나타날 현(現)",
+      "easy_definition": "생각이나 감정을 드러냄",
+      "context_sentence": "자신의 생각을 표현해 보세요."
+    },
+    {
+      "word_korean": "현실(現實)",
+      "etymology_dissection": "나타날 현(現)+열매 실(實)",
+      "easy_definition": "실제로 존재하는 상황",
+      "context_sentence": "꿈을 현실로 만들어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "꿈을 현실로",
+    "passage_text": "현재(現在) 나의 모습이 미래를 만들어요. 표현(表現)을 잘하면 생각이 더 발전해요. 꿈은 현실(現實)이 될 수 있어요. 지금 이 순간 최선을 다하는 것이 꿈에 다가가는 방법이에요.",
+    "quiz": {
+      "question": "'현실'의 뜻은?",
+      "choices": [
+        "실제로 존재하는 상황",
+        "상상 속의 이야기",
+        "먼 미래의 일",
+        "이루어질 수 없는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "현실(現實)은 '나타날 현(現)+열매 실(實)'로, 상상이나 꿈이 아닌 실제로 존재하고 일어나는 상황이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 꿈을 현실(現實)로 만들기 위해 지금 당장 할 수 있는 것을 써 보세요.",
+    "model_example": "예) 저는 선생님이 꿈이에요. 지금은 공부를 열심히 하고, 친구들에게 배운 것을 설명해주는 연습을 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "現(현)! 꿈을 현실로 만드는 어린이! 훌륭해요! 🌟"
+  }
+}

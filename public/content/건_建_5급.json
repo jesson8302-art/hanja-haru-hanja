@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "建",
+    "hanja_sound": "건",
+    "hanja_meaning": "세울",
+    "full_reading": "세울 건",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "建",
+    "sound": "건",
+    "meaning": "세울",
+    "stroke_count": 9,
+    "radical": "廴",
+    "etymology_story": "建은 길게 걷는 모양(廴)과 붓(聿)이 합쳐진 글자입니다. 설계도를 그려 건물을 세우는 모습에서 '세우다', '건설하다'의 뜻이 생겼습니다.",
+    "memory_tip": "설계도(聿)를 따라 길게(廴) 세우는 것이 '건설'입니다.",
+    "level_context": "5급 한자로, 세울을(를) 뜻하는 建입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "건물",
+      "word_hanja": "建物",
+      "reading": "건물",
+      "easy_definition": "사람이 지어 세운 집이나 구조물",
+      "etymology_dissection": "세울 건(建)+물건 물(物): 세워 만든 것",
+      "example_sentence": "새 건물이 완공되었습니다.",
+      "sentence_meaning": "새 구조물이 다 지어졌습니다."
+    },
+    {
+      "word_korean": "건설",
+      "word_hanja": "建設",
+      "reading": "건설",
+      "easy_definition": "공사를 하여 만들어 세움",
+      "etymology_dissection": "세울 건(建)+베풀 설(設): 세워 만듦",
+      "example_sentence": "도로 건설 공사가 진행 중입니다.",
+      "sentence_meaning": "도로를 만드는 공사가 이루어지고 있습니다."
+    },
+    {
+      "word_korean": "창건",
+      "word_hanja": "創建",
+      "reading": "창건",
+      "easy_definition": "처음으로 세움",
+      "etymology_dissection": "처음 창(創)+세울 건(建): 처음 세움",
+      "example_sentence": "이 절은 고려 시대에 창건되었습니다.",
+      "sentence_meaning": "이 절은 고려 시대에 처음 세워졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "우리 학교 옆에 새 건물이 건설되고 있습니다. 이 건물이 완공되면 도서관으로 사용될 예정입니다. 건물 하나를 세우려면 많은 사람의 노력이 필요합니다.",
+    "passage_meaning": "학교 옆에 새 건물이 건설되고 있으며, 완공 후 도서관으로 사용될 예정입니다.",
+    "questions": [
+      {
+        "question": "'건설'의 뜻으로 알맞은 것은?",
+        "options": [
+          "건물을 허무는 것",
+          "공사를 하여 세우는 것",
+          "집에서 쉬는 것",
+          "공부를 하는 것"
+        ],
+        "correct_answer": "공사를 하여 세우는 것",
+        "explanation": "건설(建設)은 공사를 하여 만들어 세우는 것입니다."
+      },
+      {
+        "question": "'건물'에서 '建'의 뜻은?",
+        "options": [
+          "허물다",
+          "세우다",
+          "부수다",
+          "내리다"
+        ],
+        "correct_answer": "세우다",
+        "explanation": "건물(建物)의 建은 '세우다'입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'건물'이나 '건설'을 사용하여 문장을 써 보세요.",
+    "hint": "우리 주변의 건축물과 관련된 내용을 담아 보세요.",
+    "example_answer": "새 건물이 도심에 건설되고 있습니다.",
+    "key_vocabulary": [
+      "건물",
+      "건설"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "저 건물은 얼마나 높습니까?",
+      "도로 건설에 오랜 시간이 걸립니다.",
+      "이 절은 천 년 전에 창건되었습니다."
+    ],
+    "pronunciation_tips": "'건'을 명확하게 발음하며 읽어 보세요."
+  }
+}

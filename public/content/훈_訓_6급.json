@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "훈",
+    "hanja_meaning": "가르칠",
+    "hanja_char": "訓",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "訓 — 말로 올바른 길을 가르치다",
+    "etymology_story": "訓(훈)은 말씀 언(言)과 내 천(川)이 합쳐진 글자예요. 물이 흐르듯 말로 방향을 가르쳐 주는 '가르치다·훈계'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "훈련(訓練)",
+      "etymology_dissection": "가르칠 훈(訓)+익힐 련(練)",
+      "easy_definition": "반복하여 익숙하게 함",
+      "context_sentence": "매일 훈련하면 실력이 늘어요."
+    },
+    {
+      "word_korean": "교훈(敎訓)",
+      "etymology_dissection": "가르칠 교(敎)+가르칠 훈(訓)",
+      "easy_definition": "삶의 지혜가 담긴 가르침",
+      "context_sentence": "이솝 우화에는 좋은 교훈이 있어요."
+    },
+    {
+      "word_korean": "훈민정음(訓民正音)",
+      "etymology_dissection": "가르칠 훈(訓)+백성 민(民)+바를 정(正)+소리 음(音)",
+      "easy_definition": "백성을 가르치는 바른 소리",
+      "context_sentence": "훈민정음은 세종대왕이 창제했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "훈민정음의 정신",
+    "passage_text": "세종대왕은 백성이 글을 쉽게 배우길 바라 훈민정음(訓民正音)을 만들었어요. '백성을 가르치는 바른 소리'라는 뜻이에요. 교훈(敎訓)처럼 공부는 나를 위한 것이에요. 훈련(訓練)을 거듭하면 무엇이든 잘할 수 있어요.",
+    "quiz": {
+      "question": "'교훈'의 뜻은?",
+      "choices": [
+        "삶의 지혜가 담긴 가르침",
+        "어려운 훈련",
+        "학교에서 배우는 것",
+        "친구의 충고"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "교훈(敎訓)은 '가르칠 교(敎)+가르칠 훈(訓)'으로, 경험이나 이야기에서 얻는 삶의 지혜와 가르침이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 들은 교훈 중 가장 기억에 남는 것을 써 보고, 그 교훈이 왜 중요한지 써 보세요.",
+    "model_example": "예) '거짓말을 하지 말라'는 교훈이 기억나요. 거짓말은 결국 더 큰 문제를 만들기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "訓(훈)! 배움의 끝은 없어요! 오늘도 정말 잘했어요! 🎓"
+  }
+}

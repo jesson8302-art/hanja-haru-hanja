@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "장",
+    "hanja_meaning": "마당",
+    "hanja_char": "場",
+    "hanja_level": "7급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "햇볕이 내리쬐는 넓은 마당 — 마당 장(場)",
+    "etymology_story": "'마당 장(場)'은 흙(土)과 햇볕(昜)이 합쳐진 글자예요. 햇볕이 잘 드는 넓은 마당이나 공간을 뜻해요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "운동장(運動場)",
+      "etymology_dissection": "옮길 운(運)+움직일 동(動)+마당 장(場)",
+      "easy_definition": "운동하는 넓은 곳",
+      "context_sentence": "운동장에서 달리기해요."
+    },
+    {
+      "word_korean": "시장(市場)",
+      "etymology_dissection": "저자 시(市)+마당 장(場)",
+      "easy_definition": "물건을 사고 파는 곳",
+      "context_sentence": "시장에서 과일을 샀어요."
+    },
+    {
+      "word_korean": "공장(工場)",
+      "etymology_dissection": "장인 공(工)+마당 장(場)",
+      "easy_definition": "물건을 만드는 곳",
+      "context_sentence": "공장에서 자동차를 만들어요."
+    },
+    {
+      "word_korean": "현장(現場)",
+      "etymology_dissection": "나타날 현(現)+마당 장(場)",
+      "easy_definition": "일이 실제로 이루어지는 장소",
+      "context_sentence": "현장 학습을 갔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "마당의 역할",
+    "passage_text": "**운동장(運動場)**에서 몸을 키우고, **시장(市場)**에서 경제를 배우고, **현장(現場)**에서 진짜를 배워요. **공장(工場)**에서 일하는 분들 덕에 편리한 생활이 돼요.",
+    "quiz": {
+      "question": "'현장(現場)'이란?",
+      "choices": [
+        "운동하는 곳",
+        "물건 파는 곳",
+        "일이 실제로 이루어지는 장소",
+        "공장"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'현장(現場)'=나타날 현+마당 장, 일이 실제로 벌어지는 그 장소예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "현장 학습이나 직접 경험한 것을 문장으로 써 보세요.",
+    "model_example": "운동장이나 현장에서 직접 경험한 것이 책에서 배운 것보다 더 오래 기억돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'마당 — 장(場)! 마당 — 장(場)!' 열 번 외쳐요!"
+  }
+}

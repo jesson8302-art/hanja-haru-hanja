@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "불",
+    "hanja_meaning": "아닐",
+    "hanja_char": "不",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "새가 하늘 높이 올라 안 보이다 — 아닐 불(不)",
+    "etymology_story": "'아닐 불(不)'은 새가 날아올라 보이지 않는 모습이에요. 손에 잡히지 않고 없다는 것에서 '아니다'는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "불가능(不可能)",
+      "etymology_dissection": "아닐 불(不)+가할 가(可)+능할 능(能)",
+      "easy_definition": "할 수 없는 것",
+      "context_sentence": "불가능해 보여도 도전해요."
+    },
+    {
+      "word_korean": "불안(不安)",
+      "etymology_dissection": "아닐 불(不)+편안 안(安)",
+      "easy_definition": "편하지 않은 걱정",
+      "context_sentence": "발표 전에 불안했어요."
+    },
+    {
+      "word_korean": "불필요(不必要)",
+      "etymology_dissection": "아닐 불(不)+반드시 필(必)+요할 요(要)",
+      "easy_definition": "필요하지 않은 것",
+      "context_sentence": "불필요한 물건을 정리했어요."
+    },
+    {
+      "word_korean": "부족(不足)",
+      "etymology_dissection": "아닐 불(不)+발 족(足)",
+      "easy_definition": "충분하지 않은 것",
+      "context_sentence": "시간이 부족해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "부정을 넘어",
+    "passage_text": "**불가능(不可能)**이란 단어는 없어요. **불안(不安)**할 때 더 준비하면 돼요. **불필요(不必要)**한 것을 버리면 **부족(不足)**함이 채워져요.",
+    "quiz": {
+      "question": "'불안(不安)'이란?",
+      "choices": [
+        "편안한 것",
+        "할 수 없는 것",
+        "편하지 않은 걱정",
+        "필요 없는 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'불안(不安)'=아닐 불+편안 안, 편안하지 않은 걱정된 상태예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "불안을 이겨내거나 불가능을 가능으로 바꾼 경험을 문장으로 써 보세요.",
+    "model_example": "불안했던 발표를 준비하면서 불가능해 보이던 것이 가능해졌을 때 가장 뿌듯했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아닐 — 불(不)! 아닐 — 불(不)!' 열 번 외쳐요!"
+  }
+}

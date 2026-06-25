@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "급",
+    "hanja_meaning": "급할",
+    "hanja_char": "急",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "마음이 서두르다 — 급할 급(急)",
+    "etymology_story": "'급할 급(急)'은 잡을 급(及)과 마음 심(心)이 합쳐진 글자예요. 마음(心)이 무언가를 잡으려(及) 서두르는 것이 '급하다(急)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "급식(急食)",
+      "etymology_dissection": "급할 급(急)+밥 식(食)",
+      "easy_definition": "빨리 먹는 것, 또는 배급식",
+      "context_sentence": "급식이 맛있어요."
+    },
+    {
+      "word_korean": "긴급(緊急)",
+      "etymology_dissection": "긴할 긴(緊)+급할 급(急)",
+      "easy_definition": "매우 급한 것",
+      "context_sentence": "긴급 상황이 발생했어요."
+    },
+    {
+      "word_korean": "응급(應急)",
+      "etymology_dissection": "응할 응(應)+급할 급(急)",
+      "easy_definition": "급한 상황에 대응하는 것",
+      "context_sentence": "응급 처치를 배워요."
+    },
+    {
+      "word_korean": "급행(急行)",
+      "etymology_dissection": "급할 급(急)+다닐 행(行)",
+      "easy_definition": "빠르게 가는 것",
+      "context_sentence": "급행버스를 탔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "급함의 지혜",
+    "passage_text": "**긴급(緊急)** 상황에 침착해야 해요. **응급(應急)** 처치를 알면 생명을 구해요. **급행(急行)**처럼 빠르되, 방향은 바르게요.",
+    "quiz": {
+      "question": "'응급(應急)'이란?",
+      "choices": [
+        "급식",
+        "긴급",
+        "급한 상황에 대응하는 것",
+        "급행"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'응급(應急)'=응할 응+급할 급, 급한 상황에 즉시 대응하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "급한 상황에서 침착하게 대처한 경험을 문장으로 써 보세요.",
+    "model_example": "긴급 상황에서 응급 처치를 할 수 있으면 급행보다 빠르게 생명을 살릴 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'급할 — 급(急)! 급할 — 급(急)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "앞",
+    "hanja_char": "前",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "발로 걸어 나아가다 — 앞 전(前)",
+    "etymology_story": "'앞 전(前)'은 그치다(止)와 배(舟)가 합쳐진 글자예요. 배가 앞으로 나아가다 멈추는 것에서 '앞'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "전진(前進)",
+      "etymology_dissection": "앞 전(前)+나아갈 진(進)",
+      "easy_definition": "앞으로 나아가는 것",
+      "context_sentence": "어려움에도 전진해요."
+    },
+    {
+      "word_korean": "이전(以前)",
+      "etymology_dissection": "써 이(以)+앞 전(前)",
+      "easy_definition": "그것보다 앞서",
+      "context_sentence": "이전보다 더 성장했어요."
+    },
+    {
+      "word_korean": "오전(午前)",
+      "etymology_dissection": "낮 오(午)+앞 전(前)",
+      "easy_definition": "낮 12시 이전",
+      "context_sentence": "오전에 공부하면 집중이 잘 돼요."
+    },
+    {
+      "word_korean": "전방(前方)",
+      "etymology_dissection": "앞 전(前)+방향 방(方)",
+      "easy_definition": "앞쪽 방향",
+      "context_sentence": "전방을 주시해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "앞으로",
+    "passage_text": "**전진(前進)**하는 자만이 성공을 만나요. **이전(以前)**의 실수에서 배우고 앞으로 나아가요. **오전(午前)**의 집중된 시간을 소중히 써요.",
+    "quiz": {
+      "question": "'전진(前進)'이란?",
+      "choices": [
+        "뒤로 물러나는 것",
+        "멈추는 것",
+        "앞으로 나아가는 것",
+        "앞쪽 방향"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'전진(前進)'=앞 전+나아갈 진, 앞으로 계속 나아가는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어려움 앞에서도 전진한 경험을 문장으로 써 보세요.",
+    "model_example": "이전의 실패를 발판 삼아 전방을 바라보며 전진하면 반드시 목표에 다가가요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'앞 — 전(前)! 앞 — 전(前)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "宇",
+    "hanja_sound": "우",
+    "hanja_meaning": "집",
+    "full_reading": "집 우",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "宇",
+    "sound": "우",
+    "meaning": "집",
+    "stroke_count": 6,
+    "radical": "宀",
+    "etymology_story": "宇는 집(宀)과 어조사 우(于)가 합쳐진 글자입니다. 지붕처럼 넓게 덮인 공간에서 '집', '우주', '공간'의 뜻이 생겼습니다.",
+    "memory_tip": "지붕(宀)처럼 넓게 덮인 공간(于)이 '집·우주(宇)'입니다.",
+    "level_context": "5급 한자로, 집을(를) 뜻하는 宇입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "우주",
+      "word_hanja": "宇宙",
+      "reading": "우주",
+      "easy_definition": "무한한 공간",
+      "etymology_dissection": "집 우(宇)+집 주(宙): 공간과 시간",
+      "example_sentence": "우주를 탐험합니다.",
+      "sentence_meaning": "무한한 공간을 탐험합니다."
+    },
+    {
+      "word_korean": "우주선",
+      "word_hanja": "宇宙船",
+      "reading": "우주선",
+      "easy_definition": "우주를 나는 배",
+      "etymology_dissection": "집 우(宇)+집 주(宙)+배 선(船): 우주 배",
+      "example_sentence": "우주선이 발사됐습니다.",
+      "sentence_meaning": "우주를 나는 배가 발사됐습니다."
+    },
+    {
+      "word_korean": "기우",
+      "word_hanja": "氣宇",
+      "reading": "기우",
+      "easy_definition": "기질과 도량",
+      "etymology_dissection": "기운 기(氣)+집 우(宇): 기운의 집",
+      "example_sentence": "기우가 당당합니다.",
+      "sentence_meaning": "기질과 도량이 당당합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "우주는 무한히 넓고 신비로운 공간입니다. 우주선이 달을 향해 발사됐습니다. 당당한 기우가 인상적입니다.",
+    "passage_meaning": "우주, 우주선 모두 '집', '공간'을 뜻하는 宇에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'우주'의 뜻은?",
+        "options": [
+          "작은 방",
+          "무한한 공간",
+          "좁은 골목",
+          "작은 마을"
+        ],
+        "correct_answer": "무한한 공간",
+        "explanation": "우주(宇宙)는 무한한 공간입니다."
+      },
+      {
+        "question": "'宇'의 뜻은?",
+        "options": [
+          "땅",
+          "집·공간",
+          "물",
+          "바람"
+        ],
+        "correct_answer": "집·공간",
+        "explanation": "宇는 '집', '공간'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'우주'를 사용하여 문장을 써 보세요.",
+    "hint": "과학이나 탐험에 관한 내용을 담아 보세요.",
+    "example_answer": "우주는 아직 밝혀지지 않은 신비로운 곳입니다.",
+    "key_vocabulary": [
+      "우주",
+      "우주선"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "우주를 탐험합니다.",
+      "우주선이 발사됐습니다.",
+      "무한한 우주에 감탄합니다."
+    ],
+    "pronunciation_tips": "'우'을 명확하게 발음하며 읽어 보세요."
+  }
+}

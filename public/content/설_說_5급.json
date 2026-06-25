@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "說",
+    "hanja_sound": "설",
+    "hanja_meaning": "말씀",
+    "full_reading": "말씀 설",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "說",
+    "sound": "설",
+    "meaning": "말씀",
+    "stroke_count": 14,
+    "radical": "言",
+    "etymology_story": "說은 말(言)과 기쁠 열(兌)이 합쳐진 글자입니다. 기쁘게 말하여 사람들을 설득하는 모습에서 '말씀', '설명하다', '기쁘다'의 뜻이 생겼습니다.",
+    "memory_tip": "기쁘게(兌) 말하는(言) 것이 '說'입니다.",
+    "level_context": "5급 한자로, 말씀을(를) 뜻하는 說입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "설명",
+      "word_hanja": "說明",
+      "reading": "설명",
+      "easy_definition": "자세히 밝혀 말함",
+      "etymology_dissection": "말씀 설(說)+밝을 명(明): 밝혀 말함",
+      "example_sentence": "선생님이 설명했습니다.",
+      "sentence_meaning": "선생님이 자세히 밝혀 말했습니다."
+    },
+    {
+      "word_korean": "소설",
+      "word_hanja": "小說",
+      "reading": "소설",
+      "easy_definition": "꾸며낸 이야기",
+      "etymology_dissection": "작을 소(小)+말씀 설(說): 작은 이야기",
+      "example_sentence": "소설을 읽었습니다.",
+      "sentence_meaning": "꾸며낸 이야기를 읽었습니다."
+    },
+    {
+      "word_korean": "전설",
+      "word_hanja": "傳說",
+      "reading": "전설",
+      "easy_definition": "전해오는 이야기",
+      "etymology_dissection": "전할 전(傳)+말씀 설(說): 전해오는 말",
+      "example_sentence": "전설 속 영웅을 배웠습니다.",
+      "sentence_meaning": "전해오는 이야기 속 영웅을 배웠습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "선생님의 자세한 설명 덕분에 이해가 됐습니다. 재미있는 소설을 읽으면 시간이 빨리 갑니다. 이 마을에는 신기한 전설이 있습니다.",
+    "passage_meaning": "설명, 소설, 전설 모두 '말씀', '이야기'를 뜻하는 說에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'소설'의 뜻은?",
+        "options": [
+          "사실 기록",
+          "꾸며낸 이야기",
+          "역사 기록",
+          "일기"
+        ],
+        "correct_answer": "꾸며낸 이야기",
+        "explanation": "소설(小說)은 꾸며낸 이야기입니다."
+      },
+      {
+        "question": "'說'의 뜻은?",
+        "options": [
+          "침묵",
+          "말씀·설명",
+          "행동",
+          "생각"
+        ],
+        "correct_answer": "말씀·설명",
+        "explanation": "說은 '말씀', '설명'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'설명'이나 '소설'을 사용하여 문장을 써 보세요.",
+    "hint": "이야기나 언어에 관한 내용을 담아 보세요.",
+    "example_answer": "선생님의 친절한 설명으로 어려운 내용을 이해했습니다.",
+    "key_vocabulary": [
+      "설명",
+      "소설"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "자세히 설명해 주세요.",
+      "재미있는 소설을 읽었습니다.",
+      "이 마을에 전설이 있습니다."
+    ],
+    "pronunciation_tips": "'설'을 명확하게 발음하며 읽어 보세요."
+  }
+}

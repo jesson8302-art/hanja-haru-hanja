@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "강",
+    "hanja_meaning": "강할",
+    "hanja_char": "強",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "활처럼 강하게 — 강할 강(強)",
+    "etymology_story": "'강할 강(強)'은 활(弓)과 곤충(虫)이 합쳐진 글자예요. 활처럼 힘차게 튕기는 벌레처럼 '강하다'는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "강력(強力)",
+      "etymology_dissection": "강할 강(強)+힘 력(力)",
+      "easy_definition": "강한 힘",
+      "context_sentence": "강력한 의지가 필요해요."
+    },
+    {
+      "word_korean": "강조(強調)",
+      "etymology_dissection": "강할 강(強)+고를 조(調)",
+      "easy_definition": "특별히 중요하게 내세우는 것",
+      "context_sentence": "선생님이 강조해서 말씀하셨어요."
+    },
+    {
+      "word_korean": "강점(強點)",
+      "etymology_dissection": "강할 강(強)+점 점(點)",
+      "easy_definition": "강한 점",
+      "context_sentence": "자신의 강점을 알아요."
+    },
+    {
+      "word_korean": "보강(補強)",
+      "etymology_dissection": "도울 보(補)+강할 강(強)",
+      "easy_definition": "약한 부분을 더 강하게 하는 것",
+      "context_sentence": "보강 수업으로 실력을 높였어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "강함의 의미",
+    "passage_text": "**강점(強點)**을 살리고 약점은 **보강(補強)**해요. **강조(強調)**된 내용을 꼭 기억해요. **강력(強力)**한 의지가 목표를 이뤄요.",
+    "quiz": {
+      "question": "'강점(強點)'이란?",
+      "choices": [
+        "약한 점",
+        "강한 힘",
+        "강한 점",
+        "보강"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'강점(強點)'=강할 강+점 점, 잘하거나 유리한 강한 점이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 강점을 활용하거나 약점을 보강한 경험을 문장으로 써 보세요.",
+    "model_example": "강점을 살리고 부족한 부분을 보강하면 더욱 강력한 나만의 무기가 생겨요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'강할 — 강(強)! 강할 — 강(強)!' 열 번 외쳐요!"
+  }
+}

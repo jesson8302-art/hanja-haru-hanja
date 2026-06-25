@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "질",
+    "hanja_meaning": "바탕",
+    "hanja_char": "質",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "質 — 도끼 두 개와 조개, 진짜 가치를 묻다",
+    "etymology_story": "두 개의 斤(도끼 근)과 貝(조개 패, 재물)가 합쳐진 글자입니다. 재물의 진짜 가치를 따지고 묻는 모습에서 '바탕', '본질', '품질'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "품질",
+      "word_hanja": "品質",
+      "etymology_dissection": "品(물건 품)+質(바탕 질) = 물건의 바탕",
+      "easy_definition": "물건의 좋고 나쁜 정도",
+      "context_sentence": "이 가방은 **품질**이 매우 우수합니다."
+    },
+    {
+      "word_korean": "체질",
+      "word_hanja": "體質",
+      "etymology_dissection": "體(몸 체)+質(바탕 질) = 몸의 바탕",
+      "easy_definition": "타고난 몸의 성질과 특성",
+      "context_sentence": "**체질**에 따라 잘 맞는 음식이 다릅니다."
+    },
+    {
+      "word_korean": "질문",
+      "word_hanja": "質問",
+      "etymology_dissection": "質(바탕 질)+問(물을 문) = 본질을 물음",
+      "easy_definition": "모르는 것을 알기 위해 묻는 것",
+      "context_sentence": "수업 중에 **질문**을 잘 하면 더 잘 이해할 수 있습니다."
+    },
+    {
+      "word_korean": "본질",
+      "word_hanja": "本質",
+      "etymology_dissection": "本(근본 본)+質(바탕 질) = 근본 바탕",
+      "easy_definition": "사물의 가장 중요한 근본 특성",
+      "context_sentence": "문제의 **본질**을 파악해야 올바른 해결책을 찾을 수 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "질문하는 힘",
+    "passage_text": "**질문**은 배움의 시작입니다. 소크라테스는 **질문**을 통해 사람들이 스스로 진리를 발견하도록 이끌었습니다. 좋은 **질문**은 사물의 **본질**을 꿰뚫습니다. '왜?', '어떻게?'라는 **질문**이 과학적 발견을 이끌었습니다. 뉴턴은 사과가 떨어지는 것을 보고 '왜 아래로 떨어질까?'라는 **질문**을 던져 중력을 발견했습니다.",
+    "quiz": {
+      "question": "뉴턴이 중력을 발견하게 된 계기는?",
+      "choices": [
+        "책에서 읽었기 때문에",
+        "사과가 떨어지는 것을 보고 왜 아래로 떨어지는지 질문했기 때문에",
+        "선생님이 가르쳐줬기 때문에",
+        "꿈에서 답을 얻었기 때문에"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "뉴턴은 사과가 떨어지는 것을 보고 '왜 아래로 떨어질까?'라는 질문을 던져 중력을 발견했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'질문'을 사용해서 평소에 궁금했던 것을 질문하는 문장을 써보세요.",
+    "model_example": "**질문**을 두려워하지 않고 '왜 하늘은 파란색일까?'처럼 작은 것에도 호기심을 갖는 것이 과학적 사고의 시작입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "質(질) — 바탕 질! 품질·체질·질문·본질 모두 여기서! 대단해요!"
+  }
+}

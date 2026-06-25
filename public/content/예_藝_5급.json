@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "예",
+    "hanja_meaning": "재주",
+    "hanja_char": "藝",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "藝 — 나무를 심듯 재주를 심다",
+    "etymology_story": "土(흙 토), 木(나무 목), 丸(둥글 환)이 합쳐진 글자입니다. 땅에 나무를 심듯 재주와 기술을 갈고닦는 모습에서 '재주', '예술'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "예술",
+      "word_hanja": "藝術",
+      "etymology_dissection": "藝(재주 예)+術(재주 술) = 재주와 기술",
+      "easy_definition": "인간의 창의적 표현 활동과 그 산물",
+      "context_sentence": "**예술**은 감동을 줄 수 있는 표현 방식입니다."
+    },
+    {
+      "word_korean": "예능",
+      "word_hanja": "藝能",
+      "etymology_dissection": "藝(재주 예)+能(능할 능) = 재주와 능력",
+      "easy_definition": "음악, 미술, 연기 등 예술적 재능",
+      "context_sentence": "**예능** 프로그램은 많은 사람에게 웃음을 줍니다."
+    },
+    {
+      "word_korean": "무예",
+      "word_hanja": "武藝",
+      "etymology_dissection": "武(무사 무)+藝(재주 예) = 무사의 재주",
+      "easy_definition": "무술에 관한 기술이나 기예",
+      "context_sentence": "태권도는 한국의 전통 **무예**입니다."
+    },
+    {
+      "word_korean": "원예",
+      "word_hanja": "園藝",
+      "etymology_dissection": "園(동산 원)+藝(재주 예) = 동산의 재주",
+      "easy_definition": "꽃, 채소, 과수 등을 가꾸는 기술",
+      "context_sentence": "**원예** 치료는 마음의 안정에 도움이 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "예술의 힘",
+    "passage_text": "**예술**은 언어의 장벽을 넘어 마음과 마음을 잇는 다리입니다. 베토벤의 음악은 200년이 지나도 사람들을 감동시킵니다. **예술**은 사회적 메시지를 전달하기도 합니다. 고야의 그림은 전쟁의 잔혹함을, 뭉크의 '절규'는 현대인의 불안을 표현했습니다. **예술**적 감수성을 기르면 세상을 더 풍부하게 느낄 수 있습니다. 어떤 형태의 창의적 표현이든 **예술**의 씨앗이 될 수 있습니다.",
+    "quiz": {
+      "question": "예술이 가진 힘으로 글에서 언급된 것은?",
+      "choices": [
+        "돈을 많이 벌게 해준다",
+        "언어의 장벽을 넘어 마음과 마음을 잇는다",
+        "과학 기술을 발전시킨다",
+        "전쟁을 막아준다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 예술은 언어의 장벽을 넘어 마음과 마음을 잇는 다리라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'예술'을 사용해서 자신이 좋아하는 예술 분야와 그 이유를 써보세요.",
+    "model_example": "저는 음악이라는 **예술**을 좋아합니다. 말로 표현하기 어려운 감정을 선율로 전달할 수 있기 때문입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "藝(예) — 재주 예! 예술·예능·무예·원예 모두 여기서! 예술적으로 잘했어요!"
+  }
+}

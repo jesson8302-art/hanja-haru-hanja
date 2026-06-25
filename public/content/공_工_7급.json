@@ -1,0 +1,62 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "공",
+    "hanja_meaning": "장인",
+    "hanja_char": "工",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "연장 모양에서 나온 '장인 공(工)'",
+    "etymology_story": "'장인 공(工)'은 위에 가로선, 아래에 가로선, 중간에 세로선이 있는 모습이에요. 이것은 목수나 장인이 쓰는 연장의 모습으로, 무언가를 만드는 사람을 뜻해요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공부(工夫)",
+      "etymology_dissection": "장인 공(工)+지아비 부(夫)",
+      "easy_definition": "기술을 익히도록 노력하는 것",
+      "context_sentence": "매일 공부를 열심히 해요."
+    },
+    {
+      "word_korean": "공사(工事)",
+      "etymology_dissection": "장인 공(工)+일 사(事)",
+      "easy_definition": "건물을 짓거나 고치는 작업",
+      "context_sentence": "도로 공사 때문에 길이 막혔어요."
+    },
+    {
+      "word_korean": "공장(工場)",
+      "etymology_dissection": "장인 공(工)+마당 장(場)",
+      "easy_definition": "물건을 만드는 곳",
+      "context_sentence": "자동차 공장에서 차가 만들어져요."
+    },
+    {
+      "word_korean": "인공(人工)",
+      "etymology_dissection": "사람 인(人)+장인 공(工)",
+      "easy_definition": "사람이 만든 것",
+      "context_sentence": "인공위성이 지구 주위를 돌아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "만드는 힘",
+    "passage_text": "**공부(工夫)**는 지식을 만드는 것이에요. **공사(工事)** 현장에서 **공장(工場)**에서 많은 사람이 땀 흘려요. **인공(人工)** 지능은 사람이 만든 가장 놀라운 기술이에요.",
+    "quiz": {
+      "question": "'인공(人工)'이란?",
+      "choices": [
+        "자연",
+        "사람이 만든 것",
+        "공부하는 것",
+        "공장",
+        "자연에서 난 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'인공(人工)'=사람 인+장인 공, 사람의 손으로 만든 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "공부나 무언가를 만드는 과정에서 느낀 점을 문장으로 써 보세요.",
+    "model_example": "공부도 공사처럼 기초를 단단히 쌓아야 나중에 인공지능 같은 놀라운 것을 만들 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'장인 — 공(工)! 장인 — 공(工)!' 열 번 외쳐요!"
+  }
+}

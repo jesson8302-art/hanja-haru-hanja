@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "춘",
+    "hanja_meaning": "봄",
+    "hanja_char": "春",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "햇볕 아래 싹이 트다 — 봄 춘(春)",
+    "etymology_story": "'봄 춘(春)'은 풀(艸)과 사람(人), 해(日)가 합쳐진 글자예요. 따뜻한 햇볕(日) 아래 싹이 트고 사람이 활동하는 계절이 '봄(春)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "봄(春)",
+      "etymology_dissection": "봄 춘(春)",
+      "easy_definition": "겨울 다음의 따뜻한 계절",
+      "context_sentence": "봄에 꽃이 피어요."
+    },
+    {
+      "word_korean": "춘분(春分)",
+      "etymology_dissection": "봄 춘(春)+나눌 분(分)",
+      "easy_definition": "낮과 밤의 길이가 같은 봄날",
+      "context_sentence": "춘분은 3월 21일 전후예요."
+    },
+    {
+      "word_korean": "춘추(春秋)",
+      "etymology_dissection": "봄 춘(春)+가을 추(秋)",
+      "easy_definition": "봄과 가을, 또는 나이",
+      "context_sentence": "춘추 가절에 여행을 떠나요."
+    },
+    {
+      "word_korean": "청춘(靑春)",
+      "etymology_dissection": "푸를 청(靑)+봄 춘(春)",
+      "easy_definition": "젊음",
+      "context_sentence": "청춘은 다시 오지 않아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "봄과 청춘",
+    "passage_text": "**청춘(靑春)**은 인생의 봄이에요. **춘분(春分)**처럼 균형 잡힌 삶을 추구해요. **춘추(春秋)**의 변화처럼 성장해요.",
+    "quiz": {
+      "question": "'청춘(靑春)'이란?",
+      "choices": [
+        "봄 꽃",
+        "춘분",
+        "젊음",
+        "봄과 가을"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'청춘(靑春)'=푸를 청+봄 춘, 푸른 봄처럼 젊고 활기찬 시절이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 청춘(젊음, 지금)에 대한 다짐을 문장으로 써 보세요.",
+    "model_example": "청춘은 한 번뿐인 봄이니, 지금 이 순간을 춘분처럼 균형 있게 살겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'봄 — 춘(春)! 봄 — 춘(春)!' 열 번 외쳐요!"
+  }
+}

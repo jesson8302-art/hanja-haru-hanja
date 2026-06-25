@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "원",
+    "hanja_meaning": "동산",
+    "hanja_char": "園",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "園 — 울타리로 둘러싸인 꽃과 나무의 공간",
+    "etymology_story": "園(원)은 에워쌀 위(囗)와 원(袁, 옷이 길게 늘어진 모양)이 합쳐진 글자예요. 울타리 안에 식물이 자라는 '동산·공원'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공원(公園)",
+      "etymology_dissection": "공평할 공(公)+동산 원(園)",
+      "easy_definition": "누구나 이용할 수 있는 넓은 공간",
+      "context_sentence": "주말에 가족과 공원에서 산책했어요."
+    },
+    {
+      "word_korean": "동물원(動物園)",
+      "etymology_dissection": "움직일 동(動)+물건 물(物)+동산 원(園)",
+      "easy_definition": "동물을 기르고 전시하는 곳",
+      "context_sentence": "동물원에서 기린을 처음 봤어요."
+    },
+    {
+      "word_korean": "정원(庭園)",
+      "etymology_dissection": "뜰 정(庭)+동산 원(園)",
+      "easy_definition": "집 안에 꾸민 작은 정원",
+      "context_sentence": "할머니 집 정원에 장미꽃이 폈어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공원에서의 하루",
+    "passage_text": "지호는 엄마와 동네 공원(公園)에 갔어요. 공원 안에는 꽃밭도 있고 나무도 많았어요. 작은 정원(庭園) 같은 꽃밭 앞에서 사진을 찍었어요. 나중에 동물원(動物園)도 가고 싶다고 생각했어요.",
+    "quiz": {
+      "question": "'공원'에 대한 설명으로 알맞은 것은?",
+      "choices": [
+        "누구나 이용할 수 있는 넓은 공간",
+        "돈을 내야만 들어갈 수 있는 곳",
+        "동물만 사는 곳",
+        "학교 안에 있는 운동장"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "공원(公園)은 '공평할 공(公)+동산 원(園)'으로, 모두가 함께 쓸 수 있는 공공 녹지 공간이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 만들고 싶은 나만의 동산(園)을 상상해서 써 보세요. 어떤 꽃과 나무를 심을 건가요?",
+    "model_example": "예) 저는 딸기와 해바라기가 가득한 정원을 만들고 싶어요. 가운데에 벤치도 놓겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "園(원)! 아름다운 공간을 꿈꾸는 어린이! 잘했어요! 🌸"
+  }
+}

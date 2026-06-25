@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "움직일",
+    "hanja_char": "動",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "무거운 것을 힘으로 움직이다 — 움직일 동(動)",
+    "etymology_story": "'움직일 동(動)'은 무거울 중(重)과 힘 력(力)이 합쳐진 글자예요. 힘(力)으로 무거운 것(重)을 들어 움직이는 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "운동(運動)",
+      "etymology_dissection": "운반할 운(運)+움직일 동(動)",
+      "easy_definition": "몸을 움직이는 활동",
+      "context_sentence": "매일 운동을 하면 건강해져요."
+    },
+    {
+      "word_korean": "활동(活動)",
+      "etymology_dissection": "살 활(活)+움직일 동(動)",
+      "easy_definition": "활발하게 움직이는 것",
+      "context_sentence": "방과후 활동이 즐거워요."
+    },
+    {
+      "word_korean": "감동(感動)",
+      "etymology_dissection": "느낄 감(感)+움직일 동(動)",
+      "easy_definition": "마음이 깊이 움직이는 것",
+      "context_sentence": "그 영화를 보고 감동을 받았어요."
+    },
+    {
+      "word_korean": "자동(自動)",
+      "etymology_dissection": "스스로 자(自)+움직일 동(動)",
+      "easy_definition": "스스로 움직이는 것",
+      "context_sentence": "자동문이 열렸어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "움직임의 기쁨",
+    "passage_text": "**운동(運動)**은 몸을 건강하게 해요. 다양한 **활동(活動)**을 통해 성장해요. 아름다운 것을 볼 때 **감동(感動)**을 느껴요. **자동(自動)**으로 움직이는 기계가 편리함을 줘요.",
+    "quiz": {
+      "question": "'감동(感動)'이란?",
+      "choices": [
+        "몸을 움직이는 것",
+        "자동으로 움직이는 것",
+        "마음이 깊이 움직이는 것",
+        "활동하는 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'감동(感動)'=느낄 감+움직일 동, 마음이 깊이 움직이는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "감동을 받은 경험을 구체적으로 문장으로 써 보세요.",
+    "model_example": "운동회에서 친구가 포기하지 않고 달리는 모습을 보며 큰 감동을 받았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'움직일 — 동(動)! 움직일 — 동(動)!' 열 번 외쳐요!"
+  }
+}

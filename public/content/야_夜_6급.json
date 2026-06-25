@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "야",
+    "hanja_meaning": "밤",
+    "hanja_char": "夜",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "달이 뜨는 밤 — 밤 야(夜)",
+    "etymology_story": "'밤 야(夜)'는 저녁 석(夕)과 사람(人), 밤(亦)이 합쳐진 글자예요. 저녁이 깊어져 어두운 시간이 '밤(夜)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "야간(夜間)",
+      "etymology_dissection": "밤 야(夜)+사이 간(間)",
+      "easy_definition": "밤 시간",
+      "context_sentence": "야간 공부를 해요."
+    },
+    {
+      "word_korean": "야경(夜景)",
+      "etymology_dissection": "밤 야(夜)+볕 경(景)",
+      "easy_definition": "밤의 풍경",
+      "context_sentence": "야경이 아름다워요."
+    },
+    {
+      "word_korean": "야식(夜食)",
+      "etymology_dissection": "밤 야(夜)+밥 식(食)",
+      "easy_definition": "밤에 먹는 음식",
+      "context_sentence": "야식은 건강에 안 좋아요."
+    },
+    {
+      "word_korean": "심야(深夜)",
+      "etymology_dissection": "깊을 심(深)+밤 야(夜)",
+      "easy_definition": "깊은 밤",
+      "context_sentence": "심야에 공부했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "밤의 의미",
+    "passage_text": "**야경(夜景)**은 낮보다 아름다울 때가 있어요. **야간(夜間)** 학습을 꾸준히 해요. **심야(深夜)**까지 무리하지 말아요.",
+    "quiz": {
+      "question": "'야경(夜景)'이란?",
+      "choices": [
+        "야간",
+        "야식",
+        "밤의 풍경",
+        "심야"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'야경(夜景)'=밤 야+볕 경, 밤에 펼쳐지는 아름다운 풍경이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "밤하늘이나 야경의 아름다움을 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "야간 공부를 마치고 야경을 바라보면 심야의 고요함이 달콤하게 느껴져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'밤 — 야(夜)! 밤 — 야(夜)!' 열 번 외쳐요!"
+  }
+}

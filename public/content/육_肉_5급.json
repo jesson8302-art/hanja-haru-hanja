@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "肉",
+    "hanja_sound": "육",
+    "hanja_meaning": "고기",
+    "full_reading": "고기 육",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "肉",
+    "sound": "육",
+    "meaning": "고기",
+    "stroke_count": 6,
+    "radical": "肉",
+    "etymology_story": "肉는 고기의 결 모양을 본뜬 글자입니다. 잘라낸 고기의 줄기 모습에서 '고기', '살'의 뜻이 생겼습니다.",
+    "memory_tip": "고기의 결 모양을 본뜬 것이 '고기(肉)'입니다.",
+    "level_context": "5급 한자로, 고기을(를) 뜻하는 肉입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "육체",
+      "word_hanja": "肉體",
+      "reading": "육체",
+      "easy_definition": "고기와 몸",
+      "etymology_dissection": "고기 육(肉)+몸 체(體): 고기의 몸",
+      "example_sentence": "육체가 건강해야 합니다.",
+      "sentence_meaning": "몸이 건강해야 합니다."
+    },
+    {
+      "word_korean": "근육",
+      "word_hanja": "筋肉",
+      "reading": "근육",
+      "easy_definition": "힘줄과 살",
+      "etymology_dissection": "힘줄 근(筋)+고기 육(肉): 힘줄의 살",
+      "example_sentence": "근육을 키웁니다.",
+      "sentence_meaning": "힘줄과 살을 키웁니다."
+    },
+    {
+      "word_korean": "육식",
+      "word_hanja": "肉食",
+      "reading": "육식",
+      "easy_definition": "고기를 먹음",
+      "etymology_dissection": "고기 육(肉)+먹을 식(食): 고기를 먹음",
+      "example_sentence": "육식을 좋아합니다.",
+      "sentence_meaning": "고기를 먹는 것을 좋아합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "육체적 건강과 정신적 건강이 모두 중요합니다. 운동으로 근육을 키웁니다. 균형 잡힌 식사가 건강에 좋습니다.",
+    "passage_meaning": "육체, 근육, 육식 모두 '고기', '살'을 뜻하는 肉에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'근육'의 뜻은?",
+        "options": [
+          "뼈",
+          "힘줄과 살",
+          "피부",
+          "머리카락"
+        ],
+        "correct_answer": "힘줄과 살",
+        "explanation": "근육(筋肉)은 힘줄과 살입니다."
+      },
+      {
+        "question": "'肉'의 뜻은?",
+        "options": [
+          "뼈",
+          "고기·살",
+          "피",
+          "뇌"
+        ],
+        "correct_answer": "고기·살",
+        "explanation": "肉은 '고기', '살'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'육체'나 '근육'을 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 운동에 관한 내용을 담아 보세요.",
+    "example_answer": "운동으로 근육을 키워 건강한 육체를 만듭니다.",
+    "key_vocabulary": [
+      "육체",
+      "근육"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "육체를 건강하게 합니다.",
+      "근육을 키웁니다.",
+      "균형 있는 식사를 합니다."
+    ],
+    "pronunciation_tips": "'육'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "원",
+    "hanja_meaning": "멀",
+    "hanja_char": "遠",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "遠 — 저 멀리 끝없이 뻗어 나가다",
+    "etymology_story": "遠(원)은 쉬엄쉬엄 갈 착(辶)과 원(袁)이 합쳐진 글자예요. 길게 늘어진 옷처럼 끝이 보이지 않을 만큼 '멀다'는 뜻이에요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "원거리(遠距離)",
+      "etymology_dissection": "멀 원(遠)+거리 거(距)+거리 리(離)",
+      "easy_definition": "먼 거리",
+      "context_sentence": "원거리 통학은 시간이 많이 걸려요."
+    },
+    {
+      "word_korean": "원정(遠征)",
+      "etymology_dissection": "멀 원(遠)+칠 정(征)",
+      "easy_definition": "먼 곳까지 나아감",
+      "context_sentence": "우리 팀은 원정 경기를 위해 버스를 탔어요."
+    },
+    {
+      "word_korean": "영원(永遠)",
+      "etymology_dissection": "길 영(永)+멀 원(遠)",
+      "easy_definition": "끝없이 오래도록",
+      "context_sentence": "우리의 우정은 영원할 거예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "영원한 친구",
+    "passage_text": "수아와 민지는 유치원부터 친구였어요. 수아네 가족이 먼 도시로 이사를 가게 되었어요. 멀리 떨어져도 영원(永遠)한 친구가 되자고 약속했어요. 원거리(遠距離)여도 마음은 가깝다고 했어요.",
+    "quiz": {
+      "question": "'영원'의 뜻은?",
+      "choices": [
+        "끝없이 오래도록",
+        "잠깐 동안",
+        "이번 한 번만",
+        "먼 곳으로"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "영원(永遠)은 '길 영(永)+멀 원(遠)'으로, 시간이 끝없이 계속됨을 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "소중한 사람에게 '영원히 변하지 않는 것'에 대해 편지를 써 보세요.",
+    "model_example": "예) 민지에게. 우리가 멀리 떨어져도 내 마음속 우정은 영원할 거야. 보고 싶어."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "遠(원)! 멀어도 마음은 가깝게! 훌륭해요! 🌈"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "번개",
+    "hanja_char": "電",
+    "hanja_level": "7급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "비 속에서 치는 번개 — 번개 전(電)",
+    "etymology_story": "'번개 전(電)'은 비 우(雨) 아래 번개 모양이 있는 글자예요. 비가 올 때 하늘에서 번쩍이는 번개를 표현했어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "전기(電氣)",
+      "etymology_dissection": "번개 전(電)+기운 기(氣)",
+      "easy_definition": "전자가 흐르는 에너지",
+      "context_sentence": "전기가 없으면 생활이 불편해요."
+    },
+    {
+      "word_korean": "전화(電話)",
+      "etymology_dissection": "번개 전(電)+말씀 화(話)",
+      "easy_definition": "전기 신호로 말을 전하는 기기",
+      "context_sentence": "전화로 안부를 전해요."
+    },
+    {
+      "word_korean": "전철(電鐵)",
+      "etymology_dissection": "번개 전(電)+쇠 철(鐵)",
+      "easy_definition": "전기로 가는 기차",
+      "context_sentence": "전철을 타고 학교에 가요."
+    },
+    {
+      "word_korean": "정전(停電)",
+      "etymology_dissection": "멈출 정(停)+번개 전(電)",
+      "easy_definition": "전기가 끊기는 것",
+      "context_sentence": "정전이 되면 촛불을 켜요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "번개의 힘",
+    "passage_text": "**전기(電氣)**는 현대 생활의 기반이에요. **전화(電話)**로 언제든 소통하고, **전철(電鐵)**로 빠르게 이동해요. **정전(停電)**이 되어야 전기의 소중함을 알아요.",
+    "quiz": {
+      "question": "'정전(停電)'이란?",
+      "choices": [
+        "번개",
+        "전화",
+        "전기가 끊기는 것",
+        "전철"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'정전(停電)'=멈출 정+번개 전, 전기 공급이 멈추는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "전기가 없다면 어떨지 상상해서 문장으로 써 보세요.",
+    "model_example": "정전이 되면 전화도 전철도 멈추는 것을 보니 전기의 소중함이 새삼 느껴져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'번개 — 전(電)! 번개 — 전(電)!' 열 번 외쳐요!"
+  }
+}

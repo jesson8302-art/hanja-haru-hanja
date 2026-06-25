@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "防",
+    "hanja_sound": "방",
+    "hanja_meaning": "막을",
+    "full_reading": "막을 방",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "防",
+    "sound": "방",
+    "meaning": "막을",
+    "stroke_count": 7,
+    "radical": "阜",
+    "etymology_story": "防은 언덕(阜)과 방향 방(方)이 합쳐진 글자입니다. 언덕을 쌓아 막는 모습에서 '막다', '방어하다', '예방하다'의 뜻이 생겼습니다.",
+    "memory_tip": "언덕(阜)을 쌓아 막는(方) 것이 '防'입니다.",
+    "level_context": "5급 한자로, 막을을(를) 뜻하는 防입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "방어",
+      "word_hanja": "防禦",
+      "reading": "방어",
+      "easy_definition": "막아서 지킴",
+      "etymology_dissection": "막을 방(防)+막을 어(禦): 막아 지킴",
+      "example_sentence": "적의 공격을 방어했습니다.",
+      "sentence_meaning": "적이 공격하는 것을 막아서 지켰습니다."
+    },
+    {
+      "word_korean": "예방",
+      "word_hanja": "豫防",
+      "reading": "예방",
+      "easy_definition": "미리 막음",
+      "etymology_dissection": "미리 예(豫)+막을 방(防): 미리 막음",
+      "example_sentence": "감기 예방을 위해 손을 씻습니다.",
+      "sentence_meaning": "감기에 걸리지 않도록 미리 손을 씻습니다."
+    },
+    {
+      "word_korean": "방재",
+      "word_hanja": "防災",
+      "reading": "방재",
+      "easy_definition": "재해를 미리 막음",
+      "etymology_dissection": "막을 방(防)+재앙 재(災): 재해를 막음",
+      "example_sentence": "방재 훈련을 실시했습니다.",
+      "sentence_meaning": "재해에 대비한 훈련을 실시했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "감기 예방을 위해 손을 자주 씻습니다. 방어를 잘 하면 위험에서 몸을 지킬 수 있습니다. 방재 훈련은 실제 재난에 대비하는 중요한 활동입니다.",
+    "passage_meaning": "방어, 예방, 방재 모두 '막다'는 뜻의 防에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'예방'의 뜻으로 알맞은 것은?",
+        "options": [
+          "문제가 생긴 후 해결하는 것",
+          "미리 막는 것",
+          "포기하는 것",
+          "무시하는 것"
+        ],
+        "correct_answer": "미리 막는 것",
+        "explanation": "예방(豫防)은 미리 막는 것입니다."
+      },
+      {
+        "question": "'방어'에서 '防'의 뜻은?",
+        "options": [
+          "공격하다",
+          "막다",
+          "도망가다",
+          "싸우다"
+        ],
+        "correct_answer": "막다",
+        "explanation": "방어(防禦)의 防은 '막다'로, 막아서 지키는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'예방'이나 '방어'를 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 안전과 관련된 내용을 담아 보세요.",
+    "example_answer": "질병 예방을 위해 건강한 생활 습관을 유지합니다.",
+    "key_vocabulary": [
+      "방어",
+      "예방"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "예방이 치료보다 중요합니다.",
+      "방어 자세를 취합니다.",
+      "방재 훈련이 생명을 구합니다."
+    ],
+    "pronunciation_tips": "'방'을 명확하게 발음하며 읽어 보세요."
+  }
+}

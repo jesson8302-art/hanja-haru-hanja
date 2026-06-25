@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "문",
+    "hanja_meaning": "문",
+    "hanja_char": "門",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 짝으로 열리는 문 — 문 문(門)",
+    "etymology_story": "'문 문(門)'은 두 짝의 문이 나란히 달린 모습 그대로예요! 지금 봐도 문처럼 보이죠? 가장 직관적인 한자 중 하나랍니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "문화(門化→文化)",
+      "etymology_dissection": "글월 문(文) + 될 화(化) = 사람이 만든 것",
+      "easy_definition": "사람들이 함께 만들어 온 생활 방식과 가치",
+      "context_sentence": "한국 문화가 세계에서 사랑받고 있어요."
+    },
+    {
+      "word_korean": "전문(專門)",
+      "etymology_dissection": "오로지 전(專) + 문 문(門) = 하나의 문만 통하는 것",
+      "easy_definition": "한 분야를 깊이 파고드는 것",
+      "context_sentence": "전문 지식을 갖추면 취업에 유리해요."
+    },
+    {
+      "word_korean": "입문(入門)",
+      "etymology_dissection": "들 입(入) + 문 문(門) = 문을 들어가는 것",
+      "easy_definition": "어떤 분야를 처음 배우기 시작하는 것",
+      "context_sentence": "피아노에 입문한 지 일 년이 됐어요."
+    },
+    {
+      "word_korean": "문패(門牌)",
+      "etymology_dissection": "문 문(門) + 패 패(牌) = 문에 다는 표시",
+      "easy_definition": "집 문에 이름이나 번호를 적어 다는 것",
+      "context_sentence": "문패에 우리 집 이름이 적혀 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "새로운 문 열기",
+    "passage_text": "새로운 분야에 **입문(入門)**할 때는 설레고 두렵기도 해요. **전문(專門)** 지식을 쌓으려면 꾸준한 노력이 필요해요. 한국 **문화(文化)**의 문이 세계를 향해 활짝 열리고 있어요.",
+    "quiz": {
+      "question": "'입문(入門)'의 뜻은?",
+      "choices": [
+        "문을 닫는 것",
+        "어떤 분야를 처음 배우기 시작하는 것",
+        "전문가가 되는 것",
+        "문을 만드는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'입문(入門)'은 '들 입 + 문 문' = 문을 들어가는 것, 즉 처음 시작하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 새로 입문하고 싶은 분야와 그 이유를 문장으로 써 보세요.",
+    "model_example": "코딩에 입문한 지 얼마 안 됐지만, 전문 개발자의 문을 두드리는 꿈을 키우고 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'문 — 문(門)! 문 — 문(門)!' 열 번 외쳐요!"
+  }
+}

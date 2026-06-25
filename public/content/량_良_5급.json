@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "良",
+    "hanja_sound": "량",
+    "hanja_meaning": "어질",
+    "full_reading": "어질 량",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "良",
+    "sound": "량",
+    "meaning": "어질",
+    "stroke_count": 7,
+    "radical": "艮",
+    "etymology_story": "良은 곡식을 고르는 도구의 모양을 본뜬 글자입니다. 좋은 것과 나쁜 것을 골라내어 '좋다', '어질다', '훌륭하다'의 뜻이 생겼습니다.",
+    "memory_tip": "좋은 것을 골라내는 것이 '어질다(良)'입니다.",
+    "level_context": "5급 한자로, 어질을(를) 뜻하는 良입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "양심",
+      "word_hanja": "良心",
+      "reading": "양심",
+      "easy_definition": "선하고 바른 마음",
+      "etymology_dissection": "어질 량(良)+마음 심(心): 어진 마음",
+      "example_sentence": "양심에 따라 행동합니다.",
+      "sentence_meaning": "선하고 바른 마음에 따라 행동합니다."
+    },
+    {
+      "word_korean": "우량",
+      "word_hanja": "優良",
+      "reading": "우량",
+      "easy_definition": "뛰어나게 좋음",
+      "etymology_dissection": "뛰어날 우(優)+어질 량(良): 뛰어나게 좋음",
+      "example_sentence": "우량 기업에 취업했습니다.",
+      "sentence_meaning": "뛰어나게 좋은 기업에 취업했습니다."
+    },
+    {
+      "word_korean": "양질",
+      "word_hanja": "良質",
+      "reading": "양질",
+      "easy_definition": "좋은 품질",
+      "etymology_dissection": "어질 량(良)+바탕 질(質): 좋은 바탕",
+      "example_sentence": "양질의 교육이 중요합니다.",
+      "sentence_meaning": "좋은 품질의 교육이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "양심에 따라 행동하는 사람이 진정한 어른입니다. 양질의 교육을 받으면 미래가 밝아집니다. 우량한 기업은 사회에 기여합니다.",
+    "passage_meaning": "양심, 우량, 양질 모두 '어질다', '좋다'는 뜻의 良에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'양심'의 뜻으로 알맞은 것은?",
+        "options": [
+          "욕심 가득한 마음",
+          "선하고 바른 마음",
+          "게으른 마음",
+          "이기적인 마음"
+        ],
+        "correct_answer": "선하고 바른 마음",
+        "explanation": "양심(良心)은 선하고 바른 마음입니다."
+      },
+      {
+        "question": "'良'의 뜻은?",
+        "options": [
+          "나쁘다",
+          "어질다·좋다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "어질다·좋다",
+        "explanation": "良은 '어질다', '좋다'의 뜻입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'양심'이나 '양질'을 사용하여 문장을 써 보세요.",
+    "hint": "도덕이나 교육과 관련된 내용을 담아 보세요.",
+    "example_answer": "양심에 따라 행동하는 것이 중요합니다.",
+    "key_vocabulary": [
+      "양심",
+      "우량"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "양심 있는 사람이 되겠습니다.",
+      "양질의 교육을 제공합시다.",
+      "우량한 제품을 만듭니다."
+    ],
+    "pronunciation_tips": "'량'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "복",
+    "hanja_meaning": "옷",
+    "hanja_char": "服",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "몸에 맞게 입다 — 옷 복(服)",
+    "etymology_story": "'옷 복(服)'은 배(舟)와 무릎 꿇고(卩) 손으로 잡는(又) 모습이에요. 옷을 몸에 맞게 걸쳐 입는 것이 '옷(服)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "복장(服裝)",
+      "etymology_dissection": "옷 복(服)+꾸밀 장(裝)",
+      "easy_definition": "입은 옷",
+      "context_sentence": "복장을 단정히 해요."
+    },
+    {
+      "word_korean": "교복(校服)",
+      "etymology_dissection": "학교 교(校)+옷 복(服)",
+      "easy_definition": "학교 제복",
+      "context_sentence": "교복을 입어요."
+    },
+    {
+      "word_korean": "복종(服從)",
+      "etymology_dissection": "옷 복(服)+따를 종(從)",
+      "easy_definition": "따르고 복종하는 것",
+      "context_sentence": "규칙에 복종해요."
+    },
+    {
+      "word_korean": "극복(克服)",
+      "etymology_dissection": "이길 극(克)+옷 복(服)",
+      "easy_definition": "어려움을 이기는 것",
+      "context_sentence": "극복의 의지를 가져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "옷과 마음",
+    "passage_text": "**교복(校服)**은 소속감을 줘요. **극복(克服)**은 어려움을 이겨내는 힘이에요. **복장(服裝)**을 단정히 하면 마음도 바르게 돼요.",
+    "quiz": {
+      "question": "'극복(克服)'이란?",
+      "choices": [
+        "복장",
+        "교복",
+        "어려움을 이기는 것",
+        "복종"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'극복(克服)'=이길 극+옷 복, 어려움을 이겨내는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어려움을 극복한 경험을 문장으로 써 보세요.",
+    "model_example": "교복처럼 소속감을 느끼며, 극복의 의지로 어떤 어려움도 이겨낼 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'옷 — 복(服)! 옷 — 복(服)!' 열 번 외쳐요!"
+  }
+}

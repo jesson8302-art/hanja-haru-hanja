@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "종",
+    "hanja_meaning": "마루",
+    "hanja_char": "宗",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "宗 — 지붕 아래 신주를 모심",
+    "etymology_story": "宀(집 면)과 示(보일 시, 제사)가 합쳐진 글자입니다. 지붕 아래 신주를 모시고 제사를 지내는 모습에서 '종갓집', '근본', '종교'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "종교",
+      "word_hanja": "宗敎",
+      "etymology_dissection": "宗(마루 종)+敎(가르칠 교) = 근본을 가르침",
+      "easy_definition": "초월적 존재를 믿고 따르는 신앙 체계",
+      "context_sentence": "세계의 주요 **종교**에는 기독교, 이슬람교, 불교 등이 있습니다."
+    },
+    {
+      "word_korean": "종파",
+      "word_hanja": "宗派",
+      "etymology_dissection": "宗(마루 종)+派(갈래 파) = 근본의 갈래",
+      "easy_definition": "한 종교 안에서 갈라진 여러 분파",
+      "context_sentence": "같은 종교 안에도 여러 **종파**가 있습니다."
+    },
+    {
+      "word_korean": "조종",
+      "word_hanja": "祖宗",
+      "etymology_dissection": "祖(할아버지 조)+宗(마루 종) = 조상의 근본",
+      "easy_definition": "먼 조상, 시조",
+      "context_sentence": "우리 민족의 **조종**은 단군이라 전해집니다."
+    },
+    {
+      "word_korean": "종가",
+      "word_hanja": "宗家",
+      "etymology_dissection": "宗(마루 종)+家(집 가) = 근본 집",
+      "easy_definition": "한 집안에서 맏이로 이어온 본가",
+      "context_sentence": "**종가**에서 제사를 지냅니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "세계의 종교",
+    "passage_text": "오늘날 세계 인구의 84%가 어떤 형태의 **종교**를 믿습니다. 기독교, 이슬람교, 힌두교, 불교가 4대 **종교**입니다. 각 **종교**는 서로 다른 교리와 **종파**를 가지고 있지만, 대부분 '이웃을 사랑하라', '자비를 베풀라'는 공통된 가르침을 담고 있습니다. **종교**는 개인에게 삶의 의미와 위로를 주기도 하고, 공동체 의식을 형성하기도 합니다. **종교**의 자유는 인권의 중요한 부분입니다.",
+    "quiz": {
+      "question": "세계 4대 종교에 해당하지 않는 것은?",
+      "choices": [
+        "기독교",
+        "이슬람교",
+        "도교",
+        "불교"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "세계 4대 종교는 기독교, 이슬람교, 힌두교, 불교이며 도교는 해당하지 않습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'종교'를 사용해서 종교의 긍정적인 역할에 대한 생각을 써보세요.",
+    "model_example": "**종교**는 삶에서 방황할 때 방향을 잡아주고, 어려운 이웃을 돕는 봉사 정신을 길러주는 긍정적인 역할을 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "宗(종) — 마루 종! 종교·종파·조종·종가 모두 여기서! 수고했어요!"
+  }
+}

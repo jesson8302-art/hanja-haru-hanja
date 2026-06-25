@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "남",
+    "hanja_meaning": "사내",
+    "hanja_char": "男",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "밭에서 힘쓰는 사람 — 사내 남(男)",
+    "etymology_story": "'사내 남(男)'은 밭(田) 아래에 힘(力)이 있는 글자예요. 밭에서 힘써 일하는 사람이라는 뜻에서 '남자'를 나타내게 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "남자(男子)",
+      "etymology_dissection": "사내 남(男) + 아들 자(子) = 남성",
+      "easy_definition": "남성을 뜻하는 말",
+      "context_sentence": "남자와 여자 모두 소중한 사람이에요."
+    },
+    {
+      "word_korean": "남녀(男女)",
+      "etymology_dissection": "사내 남(男) + 여자 녀(女) = 남성과 여성",
+      "easy_definition": "남자와 여자를 함께 이르는 말",
+      "context_sentence": "남녀 모두 평등하게 기회를 가져야 해요."
+    },
+    {
+      "word_korean": "장남(長男)",
+      "etymology_dissection": "맏 장(長) + 사내 남(男) = 맏아들",
+      "easy_definition": "첫째 아들",
+      "context_sentence": "그는 삼 형제 중 장남이에요."
+    },
+    {
+      "word_korean": "남매(男妹)",
+      "etymology_dissection": "사내 남(男) + 누이 매(妹) = 오빠와 여동생",
+      "easy_definition": "오빠와 여동생 사이",
+      "context_sentence": "우리는 사이좋은 남매예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "평등한 세상",
+    "passage_text": "**남녀(男女)** 모두 각자의 역할이 있고, 모두 소중해요. **장남(長男)**이라는 이유만으로 짐을 더 지지 않아도 돼요. **남매(男妹)**가 서로 돕고 아끼는 것이 진정한 가족이에요.",
+    "quiz": {
+      "question": "'남녀(男女)'의 뜻은?",
+      "choices": [
+        "형과 아우",
+        "남자와 여자",
+        "아버지와 어머니",
+        "오빠와 누나"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'남녀(男女)'는 '사내 남 + 여자 녀' = 남자와 여자를 함께 이르는 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "남녀 평등이 왜 중요한지 내 생각을 문장으로 써 보세요.",
+    "model_example": "남녀가 서로 존중하고 남매처럼 배려할 때, 더 행복한 사회가 만들어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사내 — 남(男)! 사내 — 남(男)!' 열 번 외쳐요!"
+  }
+}

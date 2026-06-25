@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "勞",
+    "hanja_sound": "로",
+    "hanja_meaning": "일할",
+    "full_reading": "일할 로",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "勞",
+    "sound": "로",
+    "meaning": "일할",
+    "stroke_count": 12,
+    "radical": "力",
+    "etymology_story": "勞는 불꽃(火)과 힘(力)이 합쳐진 글자입니다. 불꽃처럼 열심히 힘을 다해 일하는 모습에서 '일하다', '수고하다', '노동'의 뜻이 생겼습니다.",
+    "memory_tip": "불꽃(火)처럼 힘(力)을 다해 일하는 것이 '勞'입니다.",
+    "level_context": "5급 한자로, 일할을(를) 뜻하는 勞입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "노동",
+      "word_hanja": "勞動",
+      "reading": "노동",
+      "easy_definition": "몸과 힘을 써서 일함",
+      "etymology_dissection": "일할 로(勞)+움직일 동(動): 일하며 움직임",
+      "example_sentence": "노동은 신성합니다.",
+      "sentence_meaning": "몸으로 힘써 일하는 것은 신성합니다."
+    },
+    {
+      "word_korean": "피로",
+      "word_hanja": "疲勞",
+      "reading": "피로",
+      "easy_definition": "몸과 마음이 지침",
+      "etymology_dissection": "지칠 피(疲)+일할 로(勞): 일하여 지침",
+      "example_sentence": "피로가 쌓이면 쉬어야 합니다.",
+      "sentence_meaning": "일하여 지친 것이 쌓이면 쉬어야 합니다."
+    },
+    {
+      "word_korean": "수고",
+      "word_hanja": "受苦",
+      "reading": "수고",
+      "easy_definition": "힘들게 애씀",
+      "etymology_dissection": "일할 로(勞): 수고로움",
+      "example_sentence": "수고가 많으십니다.",
+      "sentence_meaning": "힘들게 애써 주셨습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "열심히 일하는 노동이 사회를 움직입니다. 피로가 쌓이지 않도록 충분히 쉬는 것이 중요합니다. 수고한 사람에게 감사의 마음을 전합시다.",
+    "passage_meaning": "노동, 피로, 수고 모두 '일하다', '수고하다'는 뜻의 勞에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'노동'의 뜻으로 알맞은 것은?",
+        "options": [
+          "몸으로 일하지 않는 것",
+          "몸과 힘을 써서 일하는 것",
+          "쉬는 것",
+          "잠자는 것"
+        ],
+        "correct_answer": "몸과 힘을 써서 일하는 것",
+        "explanation": "노동(勞動)은 몸과 힘을 써서 일하는 것입니다."
+      },
+      {
+        "question": "'피로'에서 '勞'의 뜻은?",
+        "options": [
+          "빠르다",
+          "일하다·수고하다",
+          "쉬다",
+          "크다"
+        ],
+        "correct_answer": "일하다·수고하다",
+        "explanation": "피로(疲勞)의 勞는 '일하다', '수고하다'로, 일하여 지치는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'노동'이나 '피로'를 사용하여 문장을 써 보세요.",
+    "hint": "일과 건강에 관한 내용을 담아 보세요.",
+    "example_answer": "열심히 일한 후 피로를 풀어야 합니다.",
+    "key_vocabulary": [
+      "노동",
+      "피로"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "노동은 아름다운 것입니다.",
+      "피로가 쌓이면 건강이 나빠집니다.",
+      "수고하셨습니다, 감사합니다."
+    ],
+    "pronunciation_tips": "'로'을 명확하게 발음하며 읽어 보세요."
+  }
+}

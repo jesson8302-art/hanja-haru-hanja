@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "천",
+    "hanja_meaning": "내",
+    "hanja_char": "川",
+    "hanja_level": "7급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 흐르는 내 — 내 천(川)",
+    "etymology_story": "'내 천(川)'은 물이 좁고 길게 흘러가는 모양이에요. 강보다 작은 시냇물을 표현한 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "천변(川邊)",
+      "etymology_dissection": "내 천(川)+가 변(邊)",
+      "easy_definition": "냇가",
+      "context_sentence": "천변을 산책했어요."
+    },
+    {
+      "word_korean": "산천(山川)",
+      "etymology_dissection": "뫼 산(山)+내 천(川)",
+      "easy_definition": "산과 냇물",
+      "context_sentence": "아름다운 산천을 여행해요."
+    },
+    {
+      "word_korean": "하천(河川)",
+      "etymology_dissection": "강 하(河)+내 천(川)",
+      "easy_definition": "강과 내를 통틀어 이르는 말",
+      "context_sentence": "하천을 깨끗이 유지해요."
+    },
+    {
+      "word_korean": "천렵(川獵)",
+      "etymology_dissection": "내 천(川)+사냥 렵(獵)",
+      "easy_definition": "냇가에서 고기를 잡는 것",
+      "context_sentence": "여름에 천렵을 즐겨요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "흐르는 생명",
+    "passage_text": "**산천(山川)**이 아름다운 우리나라예요. **하천(河川)**을 오염시키지 말아요. **천변(川邊)**에서 자연을 즐겨요.",
+    "quiz": {
+      "question": "'하천(河川)'이란?",
+      "choices": [
+        "산과 내",
+        "냇가",
+        "강과 내를 통틀어 이르는 말",
+        "천렵"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'하천(河川)'=강 하+내 천, 강과 내를 합쳐 부르는 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "산천이나 하천의 아름다움을 묘사하는 문장을 써 보세요.",
+    "model_example": "산천을 흐르는 하천 물소리를 들으며 천변을 걸으면 마음이 맑아져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'내 — 천(川)! 내 — 천(川)!' 열 번 외쳐요!"
+  }
+}

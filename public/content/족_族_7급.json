@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "족",
+    "hanja_meaning": "겨레",
+    "hanja_char": "族",
+    "hanja_level": "7급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "깃발 아래 모인 사람들 — 겨레 족(族)",
+    "etymology_story": "'겨레 족(族)'은 깃발(旗)과 화살(矢)이 합쳐진 글자예요. 같은 깃발 아래 모여 함께 싸우는 사람들이 바로 '겨레(族)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "민족(民族)",
+      "etymology_dissection": "백성 민(民)+겨레 족(族)",
+      "easy_definition": "같은 문화를 가진 사람들",
+      "context_sentence": "우리 민족은 강해요."
+    },
+    {
+      "word_korean": "가족(家族)",
+      "etymology_dissection": "집 가(家)+겨레 족(族)",
+      "easy_definition": "함께 사는 가장 작은 공동체",
+      "context_sentence": "가족이 가장 소중해요."
+    },
+    {
+      "word_korean": "씨족(氏族)",
+      "etymology_dissection": "성씨 씨(氏)+겨레 족(族)",
+      "easy_definition": "같은 조상을 가진 집단",
+      "context_sentence": "씨족 사회가 마을을 이뤘어요."
+    },
+    {
+      "word_korean": "족보(族譜)",
+      "etymology_dissection": "겨레 족(族)+악보 보(譜)",
+      "easy_definition": "가족 관계를 적은 기록",
+      "context_sentence": "족보를 보면 조상을 알 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "함께함의 힘",
+    "passage_text": "**가족(家族)**이 가장 가까운 겨레예요. **민족(民族)**이 하나 될 때 강해요. **족보(族譜)**에는 우리 뿌리가 담겨있어요.",
+    "quiz": {
+      "question": "'민족(民族)'이란?",
+      "choices": [
+        "가족",
+        "씨족",
+        "같은 문화를 가진 사람들",
+        "족보"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'민족(民族)'=백성 민+겨레 족, 같은 언어와 문화를 가진 사람들이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "가족이나 공동체의 소중함을 문장으로 써 보세요.",
+    "model_example": "가족이라는 작은 겨레에서 시작해 민족이라는 큰 겨레로 이어지는 연결이 나를 있게 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'겨레 — 족(族)! 겨레 — 족(族)!' 열 번 외쳐요!"
+  }
+}

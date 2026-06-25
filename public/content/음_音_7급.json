@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "음",
+    "hanja_meaning": "소리",
+    "hanja_char": "音",
+    "hanja_level": "7급",
+    "linked_subject": "음악, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "입에서 나오는 소리 — 소리 음(音)",
+    "etymology_story": "'소리 음(音)'은 입(口) 위에 가로획이 더해진 글자예요. 입에서 나오는 소리가 공기를 타고 퍼지는 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "음악(音樂)",
+      "etymology_dissection": "소리 음(音)+즐길 악(樂)",
+      "easy_definition": "소리를 이용한 예술",
+      "context_sentence": "음악을 들으면 마음이 편해요."
+    },
+    {
+      "word_korean": "발음(發音)",
+      "etymology_dissection": "필 발(發)+소리 음(音)",
+      "easy_definition": "소리를 내는 것",
+      "context_sentence": "정확한 발음이 중요해요."
+    },
+    {
+      "word_korean": "음성(音聲)",
+      "etymology_dissection": "소리 음(音)+소리 성(聲)",
+      "easy_definition": "목소리",
+      "context_sentence": "음성 인식 기술이 발전했어요."
+    },
+    {
+      "word_korean": "소음(騷音)",
+      "etymology_dissection": "떠들 소(騷)+소리 음(音)",
+      "easy_definition": "시끄러운 소리",
+      "context_sentence": "소음이 심하면 집중이 안 돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "소리의 세계",
+    "passage_text": "**음악(音樂)**은 소리의 예술이에요. **발음(發音)**이 정확해야 말이 잘 전달돼요. **음성(音聲)** 기술이 일상을 바꾸고 있어요. **소음(騷音)**은 줄이고 아름다운 소리를 늘여요.",
+    "quiz": {
+      "question": "'소음(騷音)'이란?",
+      "choices": [
+        "아름다운 음악",
+        "발음",
+        "시끄럽고 불쾌한 소리",
+        "음성"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'소음(騷音)'=떠들 소+소리 음, 시끄럽고 듣기 싫은 소리예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "소리가 기억이나 감정에 영향을 준 경험을 문장으로 써 보세요.",
+    "model_example": "음악의 소리가 소음을 잠재우고 집중력을 높여줬어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'소리 — 음(音)! 소리 — 음(音)!' 열 번 외쳐요!"
+  }
+}

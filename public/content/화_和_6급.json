@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "화할",
+    "hanja_char": "和",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "和 — 곡식 향기로 평화롭게 어우러지다",
+    "etymology_story": "和(화)는 벼 화(禾)와 입 구(口)가 합쳐진 글자예요. 밥을 나눠 먹으며 사이좋게 어울리는 모습으로 '화목하다·어울리다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "화목(和睦)",
+      "etymology_dissection": "화할 화(和)+화목할 목(睦)",
+      "easy_definition": "사이좋게 지냄",
+      "context_sentence": "우리 가족은 화목하게 살아요."
+    },
+    {
+      "word_korean": "화해(和解)",
+      "etymology_dissection": "화할 화(和)+풀 해(解)",
+      "easy_definition": "다툼 후에 사이좋게 됨",
+      "context_sentence": "싸운 친구와 화해했어요."
+    },
+    {
+      "word_korean": "평화(平和)",
+      "etymology_dissection": "평평할 평(平)+화할 화(和)",
+      "easy_definition": "다툼 없이 평온한 상태",
+      "context_sentence": "세계 평화를 위해 노력해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "화해의 힘",
+    "passage_text": "친구와 말다툼을 했어요. 하지만 먼저 '미안해'라고 하니 화해(和解)가 됐어요. 화목(和睦)한 관계가 다시 이어졌어요. 평화(平和)로운 교실이 되려면 서로 양보하고 이해해야 해요.",
+    "quiz": {
+      "question": "'화해'의 뜻은?",
+      "choices": [
+        "다툼 후에 사이좋게 됨",
+        "새로운 친구를 사귐",
+        "경기에서 이기는 것",
+        "함께 공부하는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "화해(和解)는 '화할 화(和)+풀 해(解)'로, 다툼이나 갈등을 해소하고 다시 사이좋아지는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "친구나 가족과 다퉜을 때 화해한 경험을 써 보세요. 어떻게 해결했나요?",
+    "model_example": "예) 동생과 게임 때문에 다퉜어요. 제가 먼저 '미안해'라고 하니 동생도 '나도 미안해'라고 했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "和(화)! 화목한 관계가 행복의 시작! 잘했어요! 🕊️"
+  }
+}

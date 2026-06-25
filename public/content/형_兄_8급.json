@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "형",
+    "hanja_meaning": "맏",
+    "hanja_char": "兄",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "입 위에 사람이 있는 '맏 형(兄)'",
+    "etymology_story": "'맏 형(兄)'은 입(口) 위에 사람(儿)이 앉아 있는 모습이에요. 가족 중에서 먼저 태어나 말을 먼저 배우고 앞서 나가는 사람, 그것이 바로 형이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "형제(兄弟)",
+      "etymology_dissection": "맏 형(兄) + 아우 제(弟) = 형과 아우",
+      "easy_definition": "같은 부모에게서 태어난 남자 사이",
+      "context_sentence": "형제끼리 사이좋게 지내야 해요."
+    },
+    {
+      "word_korean": "형님(兄님)",
+      "etymology_dissection": "맏 형(兄) + 높임말 님 = 형을 높여 부르는 말",
+      "easy_definition": "형을 높여 부르는 말",
+      "context_sentence": "형님, 저도 데려가 주세요!"
+    },
+    {
+      "word_korean": "의형제(義兄弟)",
+      "etymology_dissection": "옳을 의(義) + 맏 형(兄) + 아우 제(弟)",
+      "easy_definition": "피는 아니지만 형제처럼 지내기로 한 사이",
+      "context_sentence": "그 두 사람은 의형제를 맺었어요."
+    },
+    {
+      "word_korean": "형수(兄嫂)",
+      "etymology_dissection": "맏 형(兄) + 형수 수(嫂) = 형의 아내",
+      "easy_definition": "형의 아내를 부르는 말",
+      "context_sentence": "형수님이 맛있는 음식을 만들어 주셨어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "형이란",
+    "passage_text": "**형제(兄弟)**는 세상에서 가장 오래된 친구예요. **형님(兄님)**이라고 부르는 말에는 존경의 마음이 담겨요. 친구끼리 **의형제(義兄弟)**를 맺을 만큼 우정이 깊어지기도 해요.",
+    "quiz": {
+      "question": "'형제(兄弟)'의 뜻은?",
+      "choices": [
+        "같은 부모의 남자 사이",
+        "친구 사이",
+        "선생님과 학생",
+        "이웃 사이"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'형제(兄弟)'는 '맏 형 + 아우 제' = 형과 아우, 같은 부모에게서 태어난 남자 사이예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "형제나 가족과 있었던 따뜻한 일을 떠올려 문장으로 써 보세요.",
+    "model_example": "형제가 함께 의형제처럼 서로를 아껴준다면 그보다 행복한 일이 없을 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'맏 — 형(兄)! 맏 — 형(兄)!' 열 번 외쳐요!"
+  }
+}

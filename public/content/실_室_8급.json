@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "실",
+    "hanja_meaning": "집",
+    "hanja_char": "室",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "지붕 아래 땅이 있는 '집 실(室)'",
+    "etymology_story": "'집 실(室)'은 지붕(宀) 아래에 땅에 닿는 것(至)이 있는 모습이에요. 지붕 아래 바닥까지 제대로 갖춰진 공간이 바로 방(室)이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교실(敎室)",
+      "etymology_dissection": "가르칠 교(敎) + 집 실(室) = 가르치는 방",
+      "easy_definition": "학교에서 수업이 이루어지는 방",
+      "context_sentence": "교실에서 선생님의 수업을 들어요."
+    },
+    {
+      "word_korean": "실내(室內)",
+      "etymology_dissection": "집 실(室) + 안 내(內) = 방 안",
+      "easy_definition": "건물이나 방의 안쪽",
+      "context_sentence": "실내에서는 조용히 해야 해요."
+    },
+    {
+      "word_korean": "침실(寢室)",
+      "etymology_dissection": "잠잘 침(寢) + 집 실(室) = 잠자는 방",
+      "easy_definition": "잠을 자는 방",
+      "context_sentence": "침실은 항상 깨끗하게 정리해요."
+    },
+    {
+      "word_korean": "온실(溫室)",
+      "etymology_dissection": "따뜻할 온(溫) + 집 실(室) = 따뜻한 방",
+      "easy_definition": "식물을 키우는 따뜻한 유리 건물",
+      "context_sentence": "온실에서 겨울에도 꽃을 키울 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "생활 속 방",
+    "passage_text": "**교실(敎室)**은 배움이 일어나는 소중한 공간이에요. **실내(室內)**에서 뛰면 다칠 수 있어요. **침실(寢室)**은 꿈을 꾸는 나만의 공간이에요. **온실(溫室)**처럼 서로를 따뜻하게 보살피는 교실을 만들고 싶어요.",
+    "quiz": {
+      "question": "'온실(溫室)'이란?",
+      "choices": [
+        "잠자는 방",
+        "식물을 키우는 따뜻한 유리 건물",
+        "교실",
+        "방 안"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'온실(溫室)'은 '따뜻할 온 + 집 실' = 식물이 따뜻하게 자랄 수 있는 유리 건물이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가장 좋아하는 나만의 공간(방, 교실 등)을 묘사하는 문장을 써 보세요.",
+    "model_example": "나의 침실은 온실처럼 따뜻하고, 교실처럼 배움이 넘치는 곳으로 꾸미고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'집 — 실(室)! 집 — 실(室)!' 열 번 외쳐요!"
+  }
+}

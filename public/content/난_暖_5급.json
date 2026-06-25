@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "暖",
+    "hanja_sound": "난",
+    "hanja_meaning": "따뜻할",
+    "full_reading": "따뜻할 난",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "暖",
+    "sound": "난",
+    "meaning": "따뜻할",
+    "stroke_count": 13,
+    "radical": "日",
+    "etymology_story": "暖은 해(日)와 도울 원(爰)이 합쳐진 글자입니다. 햇볕이 따뜻하게 비추어 도와주는 모습에서 '따뜻하다', '온난하다'의 뜻이 생겼습니다.",
+    "memory_tip": "해(日)가 따뜻하게(爰) 비추는 것이 '따뜻하다'입니다.",
+    "level_context": "5급 한자로, 따뜻할을(를) 뜻하는 暖입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "온난화",
+      "word_hanja": "溫暖化",
+      "reading": "온난화",
+      "easy_definition": "지구가 따뜻해지는 현상",
+      "etymology_dissection": "따뜻할 온(溫)+따뜻할 난(暖)+될 화(化): 따뜻해지는 것",
+      "example_sentence": "지구 온난화가 심각합니다.",
+      "sentence_meaning": "지구가 점점 따뜻해지는 현상이 심각합니다."
+    },
+    {
+      "word_korean": "난방",
+      "word_hanja": "暖房",
+      "reading": "난방",
+      "easy_definition": "방을 따뜻하게 함",
+      "etymology_dissection": "따뜻할 난(暖)+방 방(房): 방을 따뜻하게 함",
+      "example_sentence": "겨울에 난방을 켰습니다.",
+      "sentence_meaning": "겨울에 방을 따뜻하게 했습니다."
+    },
+    {
+      "word_korean": "난류",
+      "word_hanja": "暖流",
+      "reading": "난류",
+      "easy_definition": "따뜻한 바닷물의 흐름",
+      "etymology_dissection": "따뜻할 난(暖)+흐를 류(流): 따뜻한 물의 흐름",
+      "example_sentence": "난류가 흐르는 곳은 물고기가 많습니다.",
+      "sentence_meaning": "따뜻한 바닷물이 흐르는 곳에 물고기가 많습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "지구 온난화로 기후가 변하고 있습니다. 겨울에 난방을 효율적으로 사용하면 에너지를 절약할 수 있습니다. 난류가 흐르는 바다에는 다양한 물고기가 삽니다.",
+    "passage_meaning": "온난화로 기후가 변하고 있어, 난방 에너지를 절약하고 환경을 보호해야 합니다.",
+    "questions": [
+      {
+        "question": "'온난화'의 뜻으로 알맞은 것은?",
+        "options": [
+          "지구가 차가워지는 현상",
+          "지구가 따뜻해지는 현상",
+          "비가 많이 오는 현상",
+          "바람이 세지는 현상"
+        ],
+        "correct_answer": "지구가 따뜻해지는 현상",
+        "explanation": "온난화(溫暖化)는 지구가 따뜻해지는 현상입니다."
+      },
+      {
+        "question": "'난방'에서 '暖'의 뜻은?",
+        "options": [
+          "차갑다",
+          "따뜻하다",
+          "습하다",
+          "건조하다"
+        ],
+        "correct_answer": "따뜻하다",
+        "explanation": "난방(暖房)의 暖은 '따뜻하다'로, 방을 따뜻하게 하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'온난화'나 '난방'을 사용하여 문장을 써 보세요.",
+    "hint": "환경이나 계절에 관한 내용을 담아 보세요.",
+    "example_answer": "지구 온난화를 막기 위해 에너지를 절약합니다.",
+    "key_vocabulary": [
+      "온난화",
+      "난방"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "지구 온난화가 심각한 문제입니다.",
+      "겨울 난방비를 아껴야 합니다.",
+      "난류 덕분에 바다가 풍성합니다."
+    ],
+    "pronunciation_tips": "'난'을 명확하게 발음하며 읽어 보세요."
+  }
+}

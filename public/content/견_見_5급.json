@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "見",
+    "hanja_sound": "견",
+    "hanja_meaning": "볼",
+    "full_reading": "볼 견",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "見",
+    "sound": "견",
+    "meaning": "볼",
+    "stroke_count": 7,
+    "radical": "見",
+    "etymology_story": "見은 눈(目)과 사람(儿)이 합쳐진 글자입니다. 사람이 눈을 크게 뜨고 바라보는 모습에서 '보다', '만나다'의 뜻이 생겼습니다.",
+    "memory_tip": "사람(儿)이 눈(目)을 크게 뜨고 보는 것이 '見'입니다.",
+    "level_context": "5급 한자로, 볼을(를) 뜻하는 見입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의견",
+      "word_hanja": "意見",
+      "reading": "의견",
+      "easy_definition": "어떤 일에 대한 생각",
+      "etymology_dissection": "뜻 의(意)+볼 견(見): 마음으로 본 생각",
+      "example_sentence": "회의에서 의견을 발표했습니다.",
+      "sentence_meaning": "회의에서 생각을 발표했습니다."
+    },
+    {
+      "word_korean": "견학",
+      "word_hanja": "見學",
+      "reading": "견학",
+      "easy_definition": "직접 보며 배움",
+      "etymology_dissection": "볼 견(見)+배울 학(學): 보면서 배움",
+      "example_sentence": "공장 견학을 다녀왔습니다.",
+      "sentence_meaning": "공장을 직접 보고 배우러 갔습니다."
+    },
+    {
+      "word_korean": "발견",
+      "word_hanja": "發見",
+      "reading": "발견",
+      "easy_definition": "새로운 것을 처음 찾아냄",
+      "etymology_dissection": "나타날 발(發)+볼 견(見): 나타나 보임",
+      "example_sentence": "새로운 별을 발견했습니다.",
+      "sentence_meaning": "새로운 별을 처음으로 찾아냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "과학자들은 끊임없이 새로운 것을 발견합니다. 견학을 통해 직접 보고 배우면 의견을 더 잘 정리할 수 있습니다. 다양한 의견을 듣고 배우는 자세가 중요합니다.",
+    "passage_meaning": "견학을 통해 직접 보고 배우면 자신의 의견을 더 풍부하게 만들 수 있습니다.",
+    "questions": [
+      {
+        "question": "'견학'의 뜻으로 알맞은 것은?",
+        "options": [
+          "책으로 공부함",
+          "직접 보며 배움",
+          "인터넷으로 검색함",
+          "집에서 쉬는 것"
+        ],
+        "correct_answer": "직접 보며 배움",
+        "explanation": "견학(見學)은 직접 보며 배우는 것입니다."
+      },
+      {
+        "question": "'발견'에서 '見'의 뜻은?",
+        "options": [
+          "만들다",
+          "듣다",
+          "보다",
+          "생각하다"
+        ],
+        "correct_answer": "보다",
+        "explanation": "발견(發見)의 見은 '보다'로, 새로운 것을 찾아내는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'의견'이나 '발견'을 사용하여 문장을 만들어 보세요.",
+    "hint": "자신의 경험을 담아 보세요.",
+    "example_answer": "새로운 곤충을 발견하고 기뻤습니다.",
+    "key_vocabulary": [
+      "의견",
+      "견학"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "의견 있는 사람은 손을 드세요.",
+      "공장 견학이 정말 흥미로웠습니다.",
+      "과학자가 새 물질을 발견했습니다."
+    ],
+    "pronunciation_tips": "'견'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "명",
+    "hanja_meaning": "목숨",
+    "hanja_char": "命",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "명령을 받아 내려가는 '목숨 명(命)'",
+    "etymology_story": "'목숨 명(命)'은 위에서 내려오는 명령(令)과 입(口)이 합쳐진 글자예요. 하늘이 내린 명령처럼 주어진 것이 바로 '목숨(命)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "생명(生命)",
+      "etymology_dissection": "날 생(生)+목숨 명(命)",
+      "easy_definition": "살아있는 것의 목숨",
+      "context_sentence": "모든 생명은 소중해요."
+    },
+    {
+      "word_korean": "운명(運命)",
+      "etymology_dissection": "운반할 운(運)+목숨 명(命)",
+      "easy_definition": "타고난 삶의 흐름",
+      "context_sentence": "운명을 바꾸는 건 노력이에요."
+    },
+    {
+      "word_korean": "명령(命令)",
+      "etymology_dissection": "목숨 명(命)+시킬 령(令)",
+      "easy_definition": "윗사람이 아랫사람에게 하는 지시",
+      "context_sentence": "선생님의 명령을 따랐어요."
+    },
+    {
+      "word_korean": "사명(使命)",
+      "etymology_dissection": "부릴 사(使)+목숨 명(命)",
+      "easy_definition": "맡겨진 중요한 임무",
+      "context_sentence": "선생님은 교육의 사명을 가져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "주어진 삶",
+    "passage_text": "**생명(生命)**은 한 번뿐인 소중한 선물이에요. **운명(運命)**은 노력으로 바꿀 수 있어요. **명령(命令)**보다 **사명(使命)**으로 행동하는 사람이 더 위대해요.",
+    "quiz": {
+      "question": "'사명(使命)'이란?",
+      "choices": [
+        "명령하는 것",
+        "운명",
+        "맡겨진 중요한 임무",
+        "목숨"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'사명(使命)'=부릴 사+목숨 명, 목숨 걸고 맡겨진 중요한 임무예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 사명이나 꿈을 목숨처럼 소중하게 여기는 다짐을 문장으로 써 보세요.",
+    "model_example": "사명감을 가지고 공부하면 단순한 명령이 아닌 생명처럼 소중한 목표가 생겨요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'목숨 — 명(命)! 목숨 — 명(命)!' 열 번 외쳐요!"
+  }
+}

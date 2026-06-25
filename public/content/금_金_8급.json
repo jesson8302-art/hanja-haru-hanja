@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "금",
+    "hanja_meaning": "쇠",
+    "hanja_char": "金",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "땅속 금덩이에서 태어난 '쇠 금(金)'",
+    "etymology_story": "'쇠 금(金)'은 땅속에 금이 묻혀 있는 모습을 나타낸 글자예요. 위의 뾰족한 부분은 금의 반짝임, 아래의 부분은 땅을 뜻해요. '김'씨 성(姓)도 이 한자에서 왔답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "금요일(金曜日)",
+      "etymology_dissection": "쇠 금(金) + 빛날 요(曜) + 날 일(日) = 금의 날",
+      "easy_definition": "한 주의 여섯 번째 날",
+      "context_sentence": "금요일엔 학교가 일찍 끝나서 좋아요."
+    },
+    {
+      "word_korean": "금메달(金medal)",
+      "etymology_dissection": "쇠 금(金) + 메달 = 금으로 만든 메달",
+      "easy_definition": "경기에서 1등을 한 사람에게 주는 상",
+      "context_sentence": "올림픽에서 금메달을 받으면 꿈이 이루어진 느낌이에요."
+    },
+    {
+      "word_korean": "황금(黃金)",
+      "etymology_dissection": "누를 황(黃) + 쇠 금(金) = 노란 금",
+      "easy_definition": "귀하고 값비싼 금속, 또는 매우 소중한 것",
+      "context_sentence": "황금 같은 시간을 낭비하지 말아요."
+    },
+    {
+      "word_korean": "현금(現金)",
+      "etymology_dissection": "나타날 현(現) + 쇠 금(金) = 바로 있는 돈",
+      "easy_definition": "카드가 아닌 실제 지폐나 동전",
+      "context_sentence": "시장에서는 현금으로 사면 더 싸게 살 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "금처럼 소중한 것",
+    "passage_text": "**황금(黃金)** 같은 아침 시간을 소중하게 써야 해요. **금요일(金曜日)**마다 이번 주 공부를 점검해 보세요. 올림픽 선수들은 **금메달(金medal)**을 위해 황금 같은 노력을 기울인답니다.",
+    "quiz": {
+      "question": "'황금(黃金) 같은 시간'이라는 표현의 뜻은?",
+      "choices": [
+        "노란색인 시간",
+        "매우 소중한 시간",
+        "빠르게 지나가는 시간",
+        "비싼 시간"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'황금(黃金)'은 귀하고 소중한 것을 비유할 때 써요. '황금 같은 시간'은 매우 소중한 시간이라는 뜻이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 황금처럼 소중하게 생각하는 것에 대해 써 보세요.",
+    "model_example": "나에게 황금 같은 시간은 가족과 함께하는 저녁 시간이에요. 그 시간만큼은 현금보다 소중하거든요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'쇠 — 금(金)! 쇠 — 금(金)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

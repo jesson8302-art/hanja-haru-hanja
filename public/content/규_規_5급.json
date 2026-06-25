@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "規",
+    "hanja_sound": "규",
+    "hanja_meaning": "법",
+    "full_reading": "법 규",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "規",
+    "sound": "규",
+    "meaning": "법",
+    "stroke_count": 11,
+    "radical": "見",
+    "etymology_story": "規는 볼 견(見)과 남자 부(夫)가 합쳐진 글자입니다. 사람이 기준을 보고 따르는 모습에서 '법', '규칙', '규정'의 뜻이 생겼습니다.",
+    "memory_tip": "사람(夫)이 기준을 보고(見) 따르는 것이 '규칙'입니다.",
+    "level_context": "5급 한자로, 법을(를) 뜻하는 規입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "규칙",
+      "word_hanja": "規則",
+      "reading": "규칙",
+      "easy_definition": "정해진 법도와 원칙",
+      "etymology_dissection": "법 규(規)+법칙 칙(則): 정해진 법",
+      "example_sentence": "규칙을 잘 지켜야 합니다.",
+      "sentence_meaning": "정해진 약속을 잘 따라야 합니다."
+    },
+    {
+      "word_korean": "규정",
+      "word_hanja": "規定",
+      "reading": "규정",
+      "easy_definition": "어떤 것을 정하여 놓은 것",
+      "etymology_dissection": "법 규(規)+정할 정(定): 정해진 규",
+      "example_sentence": "교통 규정을 준수해야 합니다.",
+      "sentence_meaning": "교통에 관해 정해진 규칙을 지켜야 합니다."
+    },
+    {
+      "word_korean": "정규",
+      "word_hanja": "正規",
+      "reading": "정규",
+      "easy_definition": "정식으로 정해진 것",
+      "etymology_dissection": "바를 정(正)+법 규(規): 바르게 정함",
+      "example_sentence": "정규 수업이 시작되었습니다.",
+      "sentence_meaning": "정식으로 정해진 수업이 시작되었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "규칙을 잘 지키면 모두가 편안해집니다. 교통 규정을 어기면 사고가 납니다. 정규 수업 외에도 많은 공부를 합니다.",
+    "passage_meaning": "규칙과 규정을 지키는 것이 사회 질서의 기본이며, 정규 과정을 통해 체계적으로 배우는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'규칙'의 뜻으로 알맞은 것은?",
+        "options": [
+          "개인의 습관",
+          "정해진 법도와 원칙",
+          "아무 때나 바뀌는 것",
+          "하고 싶은 대로 하는 것"
+        ],
+        "correct_answer": "정해진 법도와 원칙",
+        "explanation": "규칙(規則)은 정해진 법도와 원칙입니다."
+      },
+      {
+        "question": "'규정'에서 '規'의 뜻은?",
+        "options": [
+          "만들다",
+          "법·기준",
+          "크다",
+          "넓다"
+        ],
+        "correct_answer": "법·기준",
+        "explanation": "규정(規定)의 規는 '법', '기준'으로, 정해진 규칙을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'규칙'이나 '규정'을 사용하여 문장을 써 보세요.",
+    "hint": "학교나 사회 규칙과 관련된 내용을 담아 보세요.",
+    "example_answer": "학교 규칙을 잘 지키면 모두가 행복합니다.",
+    "key_vocabulary": [
+      "규칙",
+      "규정"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "규칙을 지키는 것이 기본입니다.",
+      "교통 규정을 꼭 준수하세요.",
+      "정규 수업에 열심히 참여합니다."
+    ],
+    "pronunciation_tips": "'규'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "부",
+    "hanja_meaning": "지아비",
+    "hanja_char": "夫",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "머리에 비녀를 꽂은 어른 — 지아비 부(夫)",
+    "etymology_story": "'지아비 부(夫)'는 큰 대(大, 사람)의 머리 위에 가로획을 더한 글자예요. 성인식 때 머리에 비녀를 꽂은 어른(남성)의 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "남편(男便)",
+      "etymology_dissection": "사내 남(男)+편할 편(便)",
+      "easy_definition": "아내의 짝",
+      "context_sentence": "남편이 요리를 도와줘요."
+    },
+    {
+      "word_korean": "농부(農夫)",
+      "etymology_dissection": "농사 농(農)+지아비 부(夫)",
+      "easy_definition": "농사짓는 사람",
+      "context_sentence": "농부의 땀이 식탁을 채워요."
+    },
+    {
+      "word_korean": "공부(工夫)",
+      "etymology_dissection": "장인 공(工)+지아비 부(夫)",
+      "easy_definition": "기술 익히듯 배우는 것",
+      "context_sentence": "매일 공부를 열심히 해요."
+    },
+    {
+      "word_korean": "부부(夫婦)",
+      "etymology_dissection": "지아비 부(夫)+아내 부(婦)",
+      "easy_definition": "남편과 아내",
+      "context_sentence": "부부가 함께 행복하게 살아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "어른의 역할",
+    "passage_text": "**농부(農夫)**의 수고로 우리가 먹을 수 있어요. **공부(工夫)**는 기술을 갈고닦는 것이에요. **부부(夫婦)**가 서로 아끼면 행복한 가정이 돼요.",
+    "quiz": {
+      "question": "'공부(工夫)'의 원래 뜻은?",
+      "choices": [
+        "시험 보는 것",
+        "기술을 익히도록 노력하는 것",
+        "책 읽는 것",
+        "선생님 말 듣기"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'공부(工夫)'=장인 공+지아비 부, 장인처럼 기술을 갈고닦는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "공부나 노력이 가져다 준 결과를 문장으로 써 보세요.",
+    "model_example": "농부가 매일 땅을 갈듯 공부도 매일 조금씩 하면 반드시 결실이 맺혀요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'지아비 — 부(夫)! 지아비 — 부(夫)!' 열 번 외쳐요!"
+  }
+}

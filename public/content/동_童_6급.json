@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "아이",
+    "hanja_char": "童",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "무거운 짐을 지는 어린이 — 아이 동(童)",
+    "etymology_story": "'아이 동(童)'은 설 립(立)과 마을 리(里)가 합쳐진 글자예요. 마을에서 일하며 뛰어다니는 어린 아이의 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동화(童話)",
+      "etymology_dissection": "아이 동(童)+말씀 화(話)",
+      "easy_definition": "어린이를 위한 이야기",
+      "context_sentence": "동화책이 재밌어요."
+    },
+    {
+      "word_korean": "아동(兒童)",
+      "etymology_dissection": "아이 아(兒)+아이 동(童)",
+      "easy_definition": "어린이",
+      "context_sentence": "아동 권리가 중요해요."
+    },
+    {
+      "word_korean": "동요(童謠)",
+      "etymology_dissection": "아이 동(童)+노래 요(謠)",
+      "easy_definition": "어린이 노래",
+      "context_sentence": "동요를 함께 불러요."
+    },
+    {
+      "word_korean": "신동(神童)",
+      "etymology_dissection": "귀신 신(神)+아이 동(童)",
+      "easy_definition": "타고난 재주가 뛰어난 아이",
+      "context_sentence": "그 아이는 신동이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "어린이의 세상",
+    "passage_text": "**동화(童話)**는 꿈과 상상을 키워요. **아동(兒童)**의 권리를 지켜야 해요. **동요(童謠)**는 순수한 어린 시절의 노래예요.",
+    "quiz": {
+      "question": "'아동(兒童)'이란?",
+      "choices": [
+        "신동",
+        "동요",
+        "어린이",
+        "동화"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'아동(兒童)'=아이 아+아이 동, 어린이를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어린 시절 좋아했던 동화나 동요에 대한 추억을 문장으로 써 보세요.",
+    "model_example": "동화와 동요로 자란 아동이 세상을 신동처럼 밝게 바꾸는 어른이 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아이 — 동(童)! 아이 — 동(童)!' 열 번 외쳐요!"
+  }
+}

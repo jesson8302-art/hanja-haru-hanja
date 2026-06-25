@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "相",
+    "hanja_sound": "상",
+    "hanja_meaning": "서로",
+    "full_reading": "서로 상",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "相",
+    "sound": "상",
+    "meaning": "서로",
+    "stroke_count": 9,
+    "radical": "目",
+    "etymology_story": "相은 나무(木)와 눈(目)이 합쳐진 글자입니다. 눈으로 나무를 자세히 살펴보는 모습에서 '서로', '모습', '살피다'의 뜻이 생겼습니다.",
+    "memory_tip": "눈(目)으로 나무(木)를 살피는 것이 '相'입니다.",
+    "level_context": "5급 한자로, 서로을(를) 뜻하는 相입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "서로",
+      "word_hanja": "相",
+      "reading": "상",
+      "easy_definition": "두 대상 간의 관계",
+      "etymology_dissection": "서로 상(相): 서로",
+      "example_sentence": "서로 도우며 살아갑니다.",
+      "sentence_meaning": "두 사람이 서로 도우며 살아갑니다."
+    },
+    {
+      "word_korean": "상호",
+      "word_hanja": "相互",
+      "reading": "상호",
+      "easy_definition": "서로 교대로",
+      "etymology_dissection": "서로 상(相)+서로 호(互): 서로서로",
+      "example_sentence": "상호 협력합니다.",
+      "sentence_meaning": "서로서로 협력합니다."
+    },
+    {
+      "word_korean": "재상",
+      "word_hanja": "宰相",
+      "reading": "재상",
+      "easy_definition": "나라의 최고 관리",
+      "etymology_dissection": "재상 재(宰)+서로 상(相): 다스리는 관리",
+      "example_sentence": "조선 시대 재상이 중요했습니다.",
+      "sentence_meaning": "조선 시대 나라의 최고 관리가 중요했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "서로 도우며 사는 것이 아름다운 삶입니다. 상호 협력이 팀의 성과를 높입니다. 조선 시대 재상들이 나라를 이끌었습니다.",
+    "passage_meaning": "相은 '서로', '살피다'를 뜻하며 상호, 재상 등의 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'상호'의 뜻은?",
+        "options": [
+          "혼자",
+          "서로 교대로",
+          "함께가 아닌",
+          "반대로"
+        ],
+        "correct_answer": "서로 교대로",
+        "explanation": "상호(相互)는 서로 교대로라는 뜻입니다."
+      },
+      {
+        "question": "'相'의 뜻은?",
+        "options": [
+          "혼자",
+          "서로·살피다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "서로·살피다",
+        "explanation": "相은 '서로', '살피다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'상호'를 사용하여 문장을 써 보세요.",
+    "hint": "협력이나 관계에 관한 내용을 담아 보세요.",
+    "example_answer": "상호 존중이 좋은 관계의 기본입니다.",
+    "key_vocabulary": [
+      "서로",
+      "상호"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "서로 도우며 살아갑시다.",
+      "상호 협력이 중요합니다.",
+      "재상의 역할이 막중했습니다."
+    ],
+    "pronunciation_tips": "'상'을 명확하게 발음하며 읽어 보세요."
+  }
+}

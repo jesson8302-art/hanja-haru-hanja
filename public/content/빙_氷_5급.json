@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "氷",
+    "hanja_sound": "빙",
+    "hanja_meaning": "얼음",
+    "full_reading": "얼음 빙",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "氷",
+    "sound": "빙",
+    "meaning": "얼음",
+    "stroke_count": 5,
+    "radical": "水",
+    "etymology_story": "氷은 물(水)에서 파생된 글자로, 물이 얼어 딱딱하게 굳은 모습에서 '얼음'의 뜻입니다.",
+    "memory_tip": "물(水)이 얼어 굳은 것이 '얼음(氷)'입니다.",
+    "level_context": "5급 한자로, 얼음을(를) 뜻하는 氷입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "빙하",
+      "word_hanja": "氷河",
+      "reading": "빙하",
+      "easy_definition": "아주 큰 얼음 덩어리",
+      "etymology_dissection": "얼음 빙(氷)+강 하(河): 얼음 강",
+      "example_sentence": "빙하가 녹고 있습니다.",
+      "sentence_meaning": "거대한 얼음 덩어리가 녹고 있습니다."
+    },
+    {
+      "word_korean": "결빙",
+      "word_hanja": "結氷",
+      "reading": "결빙",
+      "easy_definition": "물이 얼어붙음",
+      "etymology_dissection": "맺을 결(結)+얼음 빙(氷): 얼음을 맺음",
+      "example_sentence": "도로가 결빙되었습니다.",
+      "sentence_meaning": "도로가 물이 얼어 얼음이 생겼습니다."
+    },
+    {
+      "word_korean": "빙판",
+      "word_hanja": "氷板",
+      "reading": "빙판",
+      "easy_definition": "얼음이 된 판",
+      "etymology_dissection": "얼음 빙(氷)+판 판(板): 얼음 판",
+      "example_sentence": "빙판 위에서 스케이트를 탔습니다.",
+      "sentence_meaning": "얼음이 된 판 위에서 스케이트를 탔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "지구 온난화로 빙하가 빠르게 녹고 있습니다. 겨울에 결빙된 도로는 미끄럽습니다. 빙판 위에서 스케이트를 타면 즐겁습니다.",
+    "passage_meaning": "빙하, 결빙, 빙판 모두 '얼음'을 뜻하는 氷에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'빙하'의 뜻으로 알맞은 것은?",
+        "options": [
+          "작은 얼음",
+          "아주 큰 얼음 덩어리",
+          "눈",
+          "비"
+        ],
+        "correct_answer": "아주 큰 얼음 덩어리",
+        "explanation": "빙하(氷河)는 아주 큰 얼음 덩어리입니다."
+      },
+      {
+        "question": "'결빙'에서 '氷'의 뜻은?",
+        "options": [
+          "물",
+          "얼음",
+          "눈",
+          "비"
+        ],
+        "correct_answer": "얼음",
+        "explanation": "결빙(結氷)의 氷는 '얼음'으로, 물이 얼어붙는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'빙하'나 '결빙'을 사용하여 문장을 써 보세요.",
+    "hint": "환경이나 계절과 관련된 내용을 담아 보세요.",
+    "example_answer": "지구 온난화로 빙하가 녹는 것이 걱정됩니다.",
+    "key_vocabulary": [
+      "빙하",
+      "결빙"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "빙하가 녹으면 해수면이 올라갑니다.",
+      "결빙 도로에서 조심하세요.",
+      "빙판 위 스케이트가 재미있습니다."
+    ],
+    "pronunciation_tips": "'빙'을 명확하게 발음하며 읽어 보세요."
+  }
+}

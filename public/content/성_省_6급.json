@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "성",
+    "hanja_meaning": "살필",
+    "hanja_char": "省",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "눈이 밝게 살피다 — 살필 성(省)",
+    "etymology_story": "'살필 성(省)'은 적을 소(少)와 눈 목(目)이 합쳐진 글자예요. 작은 것도 놓치지 않는 밝은 눈으로 살피는 것이 '살피다(省)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "반성(反省)",
+      "etymology_dissection": "돌이킬 반(反)+살필 성(省)",
+      "easy_definition": "스스로를 돌아보는 것",
+      "context_sentence": "반성하고 성장해요."
+    },
+    {
+      "word_korean": "성찰(省察)",
+      "etymology_dissection": "살필 성(省)+살필 찰(察)",
+      "easy_definition": "깊이 살피고 돌아보는 것",
+      "context_sentence": "성찰의 시간을 가져요."
+    },
+    {
+      "word_korean": "절약(節約)",
+      "etymology_dissection": "마디 절(節)+묶을 약(約)",
+      "easy_definition": "아껴 쓰는 것",
+      "context_sentence": "전기를 절약해요."
+    },
+    {
+      "word_korean": "성묘(省墓)",
+      "etymology_dissection": "살필 성(省)+무덤 묘(墓)",
+      "easy_definition": "조상 묘를 돌아보는 것",
+      "context_sentence": "추석에 성묘해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "살핌의 지혜",
+    "passage_text": "**반성(反省)**과 **성찰(省察)**이 성장을 만들어요. **성묘(省墓)**로 조상을 기억해요. 스스로를 자주 살펴요.",
+    "quiz": {
+      "question": "'성찰(省察)'이란?",
+      "choices": [
+        "반성",
+        "성묘",
+        "깊이 살피고 돌아보는 것",
+        "절약"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'성찰(省察)'=살필 성+살필 찰, 깊이 자신을 돌아보고 살피는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "성찰이나 반성으로 달라진 경험을 문장으로 써 보세요.",
+    "model_example": "성찰의 시간을 통해 반성하고 성묘처럼 뿌리를 돌아보면 더 단단해져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'살필 — 성(省)! 살필 — 성(省)!' 열 번 외쳐요!"
+  }
+}

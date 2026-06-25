@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "음",
+    "hanja_meaning": "마실",
+    "hanja_char": "飮",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "飮 — 입을 열어 꿀꺽 삼키다",
+    "etymology_story": "飮(음)은 먹을 식(食)과 하품 흠(欠)이 합쳐진 글자예요. 입을 벌려 삼키는 모양으로, '마시다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "음료(飮料)",
+      "etymology_dissection": "마실 음(飮)+헤아릴 료(料)",
+      "easy_definition": "마실 수 있는 액체",
+      "context_sentence": "더운 날에는 차가운 음료가 최고예요."
+    },
+    {
+      "word_korean": "음수대(飮水臺)",
+      "etymology_dissection": "마실 음(飮)+물 수(水)+대 대(臺)",
+      "easy_definition": "물을 마실 수 있도록 설치한 시설",
+      "context_sentence": "학교 복도 음수대에서 물을 마셨어요."
+    },
+    {
+      "word_korean": "과음(過飮)",
+      "etymology_dissection": "지날 과(過)+마실 음(飮)",
+      "easy_definition": "지나치게 많이 마심",
+      "context_sentence": "물도 과음하면 좋지 않아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "수분 보충이 중요해요",
+    "passage_text": "운동 후에는 땀이 많이 나요. 음수대(飮水臺)에서 시원한 물을 마셨어요. 선생님은 하루에 음료(飮料)보다 물을 여러 잔 마시라고 하셨어요. 몸에 수분이 충분해야 건강하대요.",
+    "quiz": {
+      "question": "'음료'의 뜻은?",
+      "choices": [
+        "마실 수 있는 액체",
+        "먹을 수 있는 고체",
+        "피부에 바르는 것",
+        "냄새를 맡는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "음료(飮料)는 '마실 음(飮)+재료 료(料)'로, 마실 수 있는 모든 액체를 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 하루 동안 마신 것을 떠올려 보고, 건강에 좋은 음료와 그렇지 않은 음료를 구분해서 써 보세요.",
+    "model_example": "예) 건강에 좋은 것: 물, 우유. 건강에 좋지 않은 것: 탄산음료, 단 주스."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "飮(음)! 물 한 잔의 소중함! 오늘도 최고예요! 💧"
+  }
+}

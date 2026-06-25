@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "조",
+    "hanja_meaning": "지을",
+    "hanja_char": "造",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "造 — 집을 짓기 위해 나아가다",
+    "etymology_story": "辶(갈 착)과 告(고할 고)가 합쳐진 글자입니다. 선언하며 앞으로 나아가 물건을 만드는 모습에서 '짓다', '만들다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "제조",
+      "word_hanja": "製造",
+      "etymology_dissection": "製(만들 제)+造(지을 조) = 만들고 지음",
+      "easy_definition": "원료로 물건을 만듦",
+      "context_sentence": "이 공장에서 자동차를 **제조**합니다."
+    },
+    {
+      "word_korean": "창조",
+      "word_hanja": "創造",
+      "etymology_dissection": "創(비롯할 창)+造(지을 조) = 처음으로 지음",
+      "easy_definition": "새로운 것을 처음으로 만들어냄",
+      "context_sentence": "예술은 **창조**의 행위입니다."
+    },
+    {
+      "word_korean": "조작",
+      "word_hanja": "造作",
+      "etymology_dissection": "造(지을 조)+作(지을 작) = 만들어 지음",
+      "easy_definition": "사실이 아닌 것을 꾸며 만듦",
+      "context_sentence": "증거를 **조작**하는 것은 범죄입니다."
+    },
+    {
+      "word_korean": "건조",
+      "word_hanja": "建造",
+      "etymology_dissection": "建(세울 건)+造(지을 조) = 세워 지음",
+      "easy_definition": "건물이나 배 등을 만듦",
+      "context_sentence": "대형 선박을 **건조**하는 데 수개월이 걸립니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "창조의 의미",
+    "passage_text": "**창조**는 없던 것을 새롭게 만들어내는 행위입니다. 인류는 끊임없이 **창조**를 통해 문명을 발전시켜왔습니다. 발명가는 새로운 도구를 **창조**하고, 예술가는 새로운 작품을 **창조**합니다. **제조**는 기존의 설계에 따라 물건을 만드는 것이지만, **창조**는 설계 자체를 새로 만드는 것입니다. 창의적 사고는 **창조**의 출발점입니다.",
+    "quiz": {
+      "question": "창조와 제조의 차이로 글에서 설명한 것은?",
+      "choices": [
+        "둘은 같은 의미이다",
+        "제조는 기존 설계로 만드는 것, 창조는 설계 자체를 새로 만드는 것",
+        "창조가 제조보다 어렵다",
+        "제조는 예술에만 사용된다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 제조는 기존 설계에 따라 만드는 것, 창조는 설계 자체를 새로 만드는 것이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'창조'를 사용해서 자신이 만들어보고 싶은 것에 대해 써보세요.",
+    "model_example": "모든 사람이 자신만의 속도에 맞게 배울 수 있는 교육 앱을 **창조**하고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "造(조) — 지을 조! 제조·창조·조작·건조 모두 여기서! 잘했어요!"
+  }
+}

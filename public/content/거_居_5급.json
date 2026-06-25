@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "居",
+    "hanja_sound": "거",
+    "hanja_meaning": "살",
+    "full_reading": "살 거",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "居",
+    "sound": "거",
+    "meaning": "살",
+    "stroke_count": 8,
+    "radical": "尸",
+    "etymology_story": "居는 몸(尸)과 옛날을 뜻하는 古(고)가 합쳐진 글자입니다. 오래도록 한곳에 머물며 사는 모습에서 '살다', '거주하다'의 뜻이 생겼습니다.",
+    "memory_tip": "몸(尸)이 오래(古) 머무는 것이 '살다'입니다.",
+    "level_context": "5급 한자로, 살을(를) 뜻하는 居입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "거주",
+      "word_hanja": "居住",
+      "reading": "거주",
+      "easy_definition": "일정한 곳에 머물러 삶",
+      "etymology_dissection": "살 거(居)+살 주(住): 살며 머뭄",
+      "example_sentence": "서울에 거주하고 있습니다.",
+      "sentence_meaning": "서울에 살고 있습니다."
+    },
+    {
+      "word_korean": "거실",
+      "word_hanja": "居室",
+      "reading": "거실",
+      "easy_definition": "집에서 생활하는 공간",
+      "etymology_dissection": "살 거(居)+방 실(室): 생활하는 방",
+      "example_sentence": "가족이 거실에 모여 TV를 봤습니다.",
+      "sentence_meaning": "가족이 생활 공간에 모여 TV를 봤습니다."
+    },
+    {
+      "word_korean": "거처",
+      "word_hanja": "居處",
+      "reading": "거처",
+      "easy_definition": "사는 곳",
+      "etymology_dissection": "살 거(居)+곳 처(處): 사는 곳",
+      "example_sentence": "새 거처를 구하고 있습니다.",
+      "sentence_meaning": "새로 살 곳을 찾고 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "우리 가족은 서울에 거주합니다. 저녁에는 거실에서 온 가족이 모여 이야기를 나눕니다. 편안한 거처가 있어 행복합니다.",
+    "passage_meaning": "우리 가족은 서울에 살며, 저녁에 거실에서 함께 시간을 보냅니다.",
+    "questions": [
+      {
+        "question": "'거주'의 뜻으로 알맞은 것은?",
+        "options": [
+          "여행하는 것",
+          "일정한 곳에 머물러 사는 것",
+          "공부하는 것",
+          "일하는 것"
+        ],
+        "correct_answer": "일정한 곳에 머물러 사는 것",
+        "explanation": "거주(居住)는 일정한 곳에 머물러 사는 것입니다."
+      },
+      {
+        "question": "'거실'에서 '居'의 뜻은?",
+        "options": [
+          "방",
+          "살다",
+          "쉬다",
+          "먹다"
+        ],
+        "correct_answer": "살다",
+        "explanation": "거실(居室)의 居는 '살다'로, 생활하는 방을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'거주'나 '거실'을 사용하여 가정생활에 대한 문장을 써 보세요.",
+    "hint": "집과 관련된 경험을 담아 보세요.",
+    "example_answer": "우리 가족은 이 도시에 거주합니다.",
+    "key_vocabulary": [
+      "거주",
+      "거실"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "어디에 거주하고 계십니까?",
+      "거실에서 TV를 봅니다.",
+      "편안한 거처가 있어 행복합니다."
+    ],
+    "pronunciation_tips": "'거'을 명확하게 발음하며 읽어 보세요."
+  }
+}

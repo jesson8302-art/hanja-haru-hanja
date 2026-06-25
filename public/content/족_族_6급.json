@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "족",
+    "hanja_meaning": "겨레",
+    "hanja_char": "族",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "族 — 깃발 아래 모인 같은 혈통",
+    "etymology_story": "族(족)은 깃발 방(方)과 화살 시(矢)가 합쳐진 글자예요. 같은 깃발(조상) 아래 모인 사람들, 즉 '겨레·집단'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "민족(民族)",
+      "etymology_dissection": "백성 민(民)+겨레 족(族)",
+      "easy_definition": "같은 문화와 역사를 나누는 큰 집단",
+      "context_sentence": "우리 민족은 예로부터 한글을 써왔어요."
+    },
+    {
+      "word_korean": "가족(家族)",
+      "etymology_dissection": "집 가(家)+겨레 족(族)",
+      "easy_definition": "함께 사는 가족",
+      "context_sentence": "가족과 함께하는 저녁이 행복해요."
+    },
+    {
+      "word_korean": "부족(部族)",
+      "etymology_dissection": "떼 부(部)+겨레 족(族)",
+      "easy_definition": "같은 지역에 사는 작은 집단",
+      "context_sentence": "아프리카에는 다양한 부족이 살아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "다양한 겨레",
+    "passage_text": "세계에는 여러 민족(民族)이 살아요. 우리나라 사람들은 한(韓)민족이에요. 작은 단위로는 가족(家族)이 있고, 전통 사회에는 부족(部族)이 있었어요. 모두 함께 어울려 살아가는 것이 중요해요.",
+    "quiz": {
+      "question": "'민족'의 뜻은?",
+      "choices": [
+        "같은 문화와 역사를 나누는 큰 집단",
+        "한 가정의 구성원",
+        "학교 친구들",
+        "동네 이웃들"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "민족(民族)은 '백성 민(民)+겨레 족(族)'으로, 언어·문화·역사를 함께하는 큰 인간 집단이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "우리 민족(한민족)의 자랑스러운 문화나 전통을 하나 써 보고, 왜 자랑스러운지 써 보세요.",
+    "model_example": "예) 한글은 우리 민족이 만든 위대한 문자예요. 배우기 쉽고 과학적이라 전 세계가 놀라워해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "族(족)! 우리 민족을 사랑해요! 훌륭해요! 🇰🇷"
+  }
+}

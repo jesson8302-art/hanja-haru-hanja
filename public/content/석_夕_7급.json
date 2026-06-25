@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "석",
+    "hanja_meaning": "저녁",
+    "hanja_char": "夕",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "초승달이 뜨는 저녁 — 저녁 석(夕)",
+    "etymology_story": "'저녁 석(夕)'은 초승달이 반쪽 보이는 모습이에요. 해가 지고 달이 뜨기 시작하는 저녁 무렵을 담은 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "석양(夕陽)",
+      "etymology_dissection": "저녁 석(夕)+볕 양(陽)",
+      "easy_definition": "저녁 해",
+      "context_sentence": "석양이 아름다워요."
+    },
+    {
+      "word_korean": "조석(朝夕)",
+      "etymology_dissection": "아침 조(朝)+저녁 석(夕)",
+      "easy_definition": "아침과 저녁",
+      "context_sentence": "조석으로 인사해요."
+    },
+    {
+      "word_korean": "칠석(七夕)",
+      "etymology_dissection": "일곱 칠(七)+저녁 석(夕)",
+      "easy_definition": "음력 7월 7일 밤",
+      "context_sentence": "칠석에 견우와 직녀가 만난대요."
+    },
+    {
+      "word_korean": "석식(夕食)",
+      "etymology_dissection": "저녁 석(夕)+밥 식(食)",
+      "easy_definition": "저녁밥",
+      "context_sentence": "온 가족이 모여 석식을 먹었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "저녁의 선물",
+    "passage_text": "**석양(夕陽)**이 물드는 하늘은 하루의 마지막 선물이에요. **조석(朝夕)**으로 가족에게 인사해요. **칠석(七夕)** 전설처럼 기다림 끝에 만남이 있어요. **석식(夕食)** 시간이 가족과 함께하는 소중한 시간이에요.",
+    "quiz": {
+      "question": "'석양(夕陽)'이란?",
+      "choices": [
+        "아침 해",
+        "저녁 해",
+        "달",
+        "별"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'석양(夕陽)'=저녁 석+볕 양, 저녁에 지는 해예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "저녁이나 하루의 마무리에 대한 느낌을 문장으로 써 보세요.",
+    "model_example": "석양이 질 때 조석으로 감사하며 하루를 마무리하는 습관이 생겼어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'저녁 — 석(夕)! 저녁 — 석(夕)!' 열 번 외쳐요!"
+  }
+}

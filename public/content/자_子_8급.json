@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "자",
+    "hanja_meaning": "아들",
+    "hanja_char": "子",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 팔 벌린 아기 — 아들 자(子)",
+    "etymology_story": "'아들 자(子)'는 두 팔을 활짝 벌린 아기의 모습이에요. 포대기에 싸인 채 두 팔을 흔드는 귀여운 아기의 모습에서 자녀를 나타내게 됐어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자녀(子女)",
+      "etymology_dissection": "아들 자(子) + 여자 녀(女) = 아들과 딸",
+      "easy_definition": "아들과 딸을 함께 이르는 말",
+      "context_sentence": "부모님은 자녀를 위해 열심히 일하세요."
+    },
+    {
+      "word_korean": "제자(弟子)",
+      "etymology_dissection": "아우 제(弟) + 아들 자(子) = 배우는 사람",
+      "easy_definition": "스승에게 배우는 사람",
+      "context_sentence": "선생님의 제자로서 열심히 배울게요."
+    },
+    {
+      "word_korean": "왕자(王子)",
+      "etymology_dissection": "임금 왕(王) + 아들 자(子) = 왕의 아들",
+      "easy_definition": "왕의 아들",
+      "context_sentence": "동화 속 왕자는 용감하고 착해요."
+    },
+    {
+      "word_korean": "자음(子音)",
+      "etymology_dissection": "아들 자(子) + 소리 음(音) = 홀소리에 딸린 소리",
+      "easy_definition": "ㄱ ㄴ ㄷ처럼 모음 없이는 발음이 안 되는 소리",
+      "context_sentence": "한글의 자음은 14개예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "배움의 씨앗",
+    "passage_text": "**자녀(子女)**는 부모의 가장 큰 보물이에요. 좋은 스승의 **제자(弟子)**가 되면 큰 배움을 얻을 수 있어요. 옛날 이야기 속 **왕자(王子)**처럼 용감하게 도전하는 마음이 중요해요.",
+    "quiz": {
+      "question": "'자녀(子女)'의 뜻은?",
+      "choices": [
+        "아들과 딸",
+        "형과 아우",
+        "아버지와 어머니",
+        "할아버지와 할머니"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'자녀(子女)'는 '아들 자 + 여자 녀' = 아들과 딸을 함께 이르는 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 부모님이나 선생님께 배운 가장 소중한 것을 문장으로 써 보세요.",
+    "model_example": "부모님의 사랑과 선생님의 가르침 덕분에 나는 더 좋은 제자, 더 좋은 자녀가 될 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아들 — 자(子)! 아들 — 자(子)!' 열 번 외쳐요!"
+  }
+}

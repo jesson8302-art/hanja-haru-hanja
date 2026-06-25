@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "미",
+    "hanja_meaning": "아름다울",
+    "hanja_char": "美",
+    "hanja_level": "6급",
+    "linked_subject": "미술, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "큰 양이 아름답다 — 아름다울 미(美)",
+    "etymology_story": "'아름다울 미(美)'는 큰 대(大)와 양 양(羊)이 합쳐진 글자예요. 크고 살진 양처럼 풍성하고 아름다운 것이 '아름답다(美)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "미술(美術)",
+      "etymology_dissection": "아름다울 미(美)+재주 술(術)",
+      "easy_definition": "아름다움을 표현하는 예술",
+      "context_sentence": "미술 시간이 좋아요."
+    },
+    {
+      "word_korean": "미용(美容)",
+      "etymology_dissection": "아름다울 미(美)+얼굴 용(容)",
+      "easy_definition": "아름답게 꾸미는 것",
+      "context_sentence": "미용실에 갔어요."
+    },
+    {
+      "word_korean": "심미(審美)",
+      "etymology_dissection": "살필 심(審)+아름다울 미(美)",
+      "easy_definition": "아름다움을 알아보는 것",
+      "context_sentence": "심미안을 길러요."
+    },
+    {
+      "word_korean": "미화(美化)",
+      "etymology_dissection": "아름다울 미(美)+될 화(化)",
+      "easy_definition": "아름답게 꾸미는 것",
+      "context_sentence": "환경을 미화해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "아름다움을 찾아서",
+    "passage_text": "**미술(美術)**로 감성을 키워요. **심미(審美)**안이 있으면 일상이 아름다워요. 내면의 아름다움이 진정한 **미(美)**예요.",
+    "quiz": {
+      "question": "'심미(審美)'란?",
+      "choices": [
+        "미술",
+        "미용",
+        "아름다움을 알아보는 눈",
+        "미화"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'심미(審美)'=살필 심+아름다울 미, 아름다움을 알아보는 안목이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "일상에서 발견한 아름다운 것을 문장으로 써 보세요.",
+    "model_example": "미술을 통해 심미안이 길러지면 세상 모든 것이 아름답게 보여요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아름다울 — 미(美)! 아름다울 — 미(美)!' 열 번 외쳐요!"
+  }
+}

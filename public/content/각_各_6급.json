@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "각",
+    "hanja_meaning": "각각",
+    "hanja_char": "各",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "각자 자기 길로 — 각각 각(各)",
+    "etymology_story": "'각각 각(各)'은 발(夂)이 입(口, 굴) 위에 있는 모습이에요. 각자 자기 동굴(집)로 걸어 들어가는 것에서 '저마다, 각각'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "각자(各自)",
+      "etymology_dissection": "각각 각(各)+스스로 자(自)",
+      "easy_definition": "저마다 스스로",
+      "context_sentence": "각자 역할을 맡아요."
+    },
+    {
+      "word_korean": "각국(各國)",
+      "etymology_dissection": "각각 각(各)+나라 국(國)",
+      "easy_definition": "여러 나라",
+      "context_sentence": "각국 선수들이 모였어요."
+    },
+    {
+      "word_korean": "각종(各種)",
+      "etymology_dissection": "각각 각(各)+씨 종(種)",
+      "easy_definition": "여러 가지 종류",
+      "context_sentence": "각종 체험 행사가 열려요."
+    },
+    {
+      "word_korean": "각자도생(各自圖生)",
+      "etymology_dissection": "각각 각(各)+스스로 자(自)+꾀할 도(圖)+날 생(生)",
+      "easy_definition": "각자 스스로 살아가는 것",
+      "context_sentence": "어려울 때 각자도생하는 것이 씁쓸해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "저마다 다른 빛",
+    "passage_text": "**각자(各自)**의 재능이 모이면 팀이 강해져요. **각국(各國)**이 협력하면 세계가 평화로워요. **각종(各種)** 경험을 쌓아 나만의 길을 만들어요.",
+    "quiz": {
+      "question": "'각자(各自)'란?",
+      "choices": [
+        "각국",
+        "여러 가지",
+        "저마다 스스로",
+        "각종"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'각자(各自)'=각각 각+스스로 자, 저마다 스스로를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 맡은 역할(각자의 몫)을 잘 해낸 경험을 문장으로 써 보세요.",
+    "model_example": "각자의 역할을 성실히 하면 각종 어려움도 각국이 협력하듯 함께 해결할 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'각각 — 각(各)! 각각 — 각(各)!' 열 번 외쳐요!"
+  }
+}

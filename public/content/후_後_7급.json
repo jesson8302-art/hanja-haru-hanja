@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "후",
+    "hanja_meaning": "뒤",
+    "hanja_char": "後",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "뒤처진 사람 — 뒤 후(後)",
+    "etymology_story": "'뒤 후(後)'는 작을 유(幺)와 발(夂)이 합쳐진 글자예요. 발걸음이 작아서 뒤처진 모습에서 '뒤'라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "후배(後輩)",
+      "etymology_dissection": "뒤 후(後)+무리 배(輩)",
+      "easy_definition": "나보다 나중에 온 사람",
+      "context_sentence": "후배를 잘 이끌어요."
+    },
+    {
+      "word_korean": "오후(午後)",
+      "etymology_dissection": "낮 오(午)+뒤 후(後)",
+      "easy_definition": "낮 12시 이후",
+      "context_sentence": "오후에 수업이 있어요."
+    },
+    {
+      "word_korean": "사후(事後)",
+      "etymology_dissection": "일 사(事)+뒤 후(後)",
+      "easy_definition": "일이 끝난 다음",
+      "context_sentence": "사후 처리가 중요해요."
+    },
+    {
+      "word_korean": "후회(後悔)",
+      "etymology_dissection": "뒤 후(後)+뉘우칠 회(悔)",
+      "easy_definition": "지나간 일을 뉘우치는 것",
+      "context_sentence": "후회 없는 삶을 살아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "뒤를 돌아보며",
+    "passage_text": "**후회(後悔)** 없는 오늘을 살아요. **후배(後輩)**에게 좋은 길을 보여줘요. **오후(午後)**를 알차게 보내요.",
+    "quiz": {
+      "question": "'후회(後悔)'란?",
+      "choices": [
+        "오후",
+        "후배",
+        "지나간 일을 뉘우치는 것",
+        "사후"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'후회(後悔)'=뒤 후+뉘우칠 회, 지나간 일에 대해 뉘우치는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "후회 없이 최선을 다한 경험을 문장으로 써 보세요.",
+    "model_example": "오늘 후배에게 좋은 모습을 보여주면 훗날 사후에도 후회가 없어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'뒤 — 후(後)! 뒤 — 후(後)!' 열 번 외쳐요!"
+  }
+}

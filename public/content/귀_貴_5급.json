@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "貴",
+    "hanja_sound": "귀",
+    "hanja_meaning": "귀할",
+    "full_reading": "귀할 귀",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "貴",
+    "sound": "귀",
+    "meaning": "귀할",
+    "stroke_count": 12,
+    "radical": "貝",
+    "etymology_story": "貴는 조개(貝)와 두 손으로 받들다의 뜻이 합쳐진 글자입니다. 소중한 조개를 두 손으로 받드는 모습에서 '귀하다', '소중하다'의 뜻이 생겼습니다.",
+    "memory_tip": "두 손으로 소중한 조개(貝)를 받드는 것이 '귀하다'입니다.",
+    "level_context": "5급 한자로, 귀할을(를) 뜻하는 貴입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "귀중",
+      "word_hanja": "貴重",
+      "reading": "귀중",
+      "easy_definition": "귀하고 소중함",
+      "etymology_dissection": "귀할 귀(貴)+무거울 중(重): 귀하고 무거움",
+      "example_sentence": "귀중한 자료를 보관합니다.",
+      "sentence_meaning": "소중하고 귀한 자료를 보관합니다."
+    },
+    {
+      "word_korean": "귀빈",
+      "word_hanja": "貴賓",
+      "reading": "귀빈",
+      "easy_definition": "귀한 손님",
+      "etymology_dissection": "귀할 귀(貴)+손님 빈(賓): 귀한 손님",
+      "example_sentence": "귀빈석에 앉았습니다.",
+      "sentence_meaning": "귀한 손님 자리에 앉았습니다."
+    },
+    {
+      "word_korean": "귀족",
+      "word_hanja": "貴族",
+      "reading": "귀족",
+      "easy_definition": "신분이 높고 귀한 집안",
+      "etymology_dissection": "귀할 귀(貴)+겨레 족(族): 귀한 집안",
+      "example_sentence": "귀족은 역사 속에 많이 등장합니다.",
+      "sentence_meaning": "신분이 높고 귀한 집안이 역사에 많이 나옵니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "시간은 귀중한 자원입니다. 행사에 귀빈들이 초대되었습니다. 귀족 사회는 과거 역사에서 중요한 역할을 했습니다.",
+    "passage_meaning": "귀중한 시간과 자원을 소중히 여기고, 모든 사람을 귀빈처럼 예우하는 자세가 중요합니다.",
+    "questions": [
+      {
+        "question": "'귀중'의 뜻으로 알맞은 것은?",
+        "options": [
+          "값싸고 흔한 것",
+          "귀하고 소중한 것",
+          "빠르고 가벼운 것",
+          "크고 무거운 것"
+        ],
+        "correct_answer": "귀하고 소중한 것",
+        "explanation": "귀중(貴重)은 귀하고 소중한 것입니다."
+      },
+      {
+        "question": "'귀빈'에서 '貴'의 뜻은?",
+        "options": [
+          "많다",
+          "귀하다",
+          "빠르다",
+          "작다"
+        ],
+        "correct_answer": "귀하다",
+        "explanation": "귀빈(貴賓)의 貴는 '귀하다'로, 귀한 손님을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'귀중'이나 '귀빈'을 사용하여 문장을 만들어 보세요.",
+    "hint": "소중한 것이나 특별한 손님에 관한 내용을 담아 보세요.",
+    "example_answer": "시간은 정말 귀중한 것입니다.",
+    "key_vocabulary": [
+      "귀중",
+      "귀빈"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "귀중한 물건을 잘 보관하세요.",
+      "오늘 귀빈을 맞이했습니다.",
+      "역사 속 귀족들의 생활이 궁금합니다."
+    ],
+    "pronunciation_tips": "'귀'을 명확하게 발음하며 읽어 보세요."
+  }
+}

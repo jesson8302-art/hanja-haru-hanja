@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "사",
+    "hanja_meaning": "일",
+    "hanja_char": "事",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "손으로 깃발을 잡고 지시하는 '일 사(事)'",
+    "etymology_story": "'일 사(事)'는 손(又)에 깃발을 든 모습이에요. 무언가를 지시하고 처리하는 것이 바로 '일(事)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사건(事件)",
+      "etymology_dissection": "일 사(事)+물건 건(件)",
+      "easy_definition": "어떤 일이 생긴 것",
+      "context_sentence": "사건이 생기면 침착해야 해요."
+    },
+    {
+      "word_korean": "사실(事實)",
+      "etymology_dissection": "일 사(事)+실제 실(實)",
+      "easy_definition": "실제로 있었던 것",
+      "context_sentence": "사실만 말해야 해요."
+    },
+    {
+      "word_korean": "행사(行事)",
+      "etymology_dissection": "다닐 행(行)+일 사(事)",
+      "easy_definition": "공식적인 활동이나 행사",
+      "context_sentence": "학교 행사에서 공연을 했어요."
+    },
+    {
+      "word_korean": "사정(事情)",
+      "etymology_dissection": "일 사(事)+뜻 정(情)",
+      "easy_definition": "일의 사연이나 형편",
+      "context_sentence": "사정을 듣고 이해했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "일의 의미",
+    "passage_text": "**사실(事實)**을 바탕으로 말하는 것이 신뢰예요. **사건(事件)**이 생겨도 침착하게 대처해요. **행사(行事)**에서 협력하면 더 즐거워요. **사정(事情)**을 이해하면 갈등이 줄어요.",
+    "quiz": {
+      "question": "'사실(事實)'이란?",
+      "choices": [
+        "상상한 것",
+        "실제로 있었던 것",
+        "일의 사연",
+        "행사"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'사실(事實)'=일 사+실제 실, 실제로 있었던 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "사실을 솔직하게 말한 경험이나 그 중요성을 문장으로 써 보세요.",
+    "model_example": "사실대로 말했더니 사정을 이해받고 사건이 평화롭게 해결됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'일 — 사(事)! 일 — 사(事)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "분",
+    "hanja_meaning": "나눌",
+    "hanja_char": "分",
+    "hanja_level": "6급",
+    "linked_subject": "수학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "칼로 나누다 — 나눌 분(分)",
+    "etymology_story": "'나눌 분(分)'은 여덟 팔(八)과 칼(刀)이 합쳐진 글자예요. 칼(刀)로 반으로 나누는(八) 것이 '나누다(分)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "분리(分離)",
+      "etymology_dissection": "나눌 분(分)+떠날 리(離)",
+      "easy_definition": "나누어 떼어놓는 것",
+      "context_sentence": "쓰레기 분리수거를 해요."
+    },
+    {
+      "word_korean": "구분(區分)",
+      "etymology_dissection": "구분할 구(區)+나눌 분(分)",
+      "easy_definition": "나누어 구별하는 것",
+      "context_sentence": "종류를 구분해요."
+    },
+    {
+      "word_korean": "분수(分數)",
+      "etymology_dissection": "나눌 분(分)+셈 수(數)",
+      "easy_definition": "나눔을 나타내는 수",
+      "context_sentence": "분수를 배워요."
+    },
+    {
+      "word_korean": "분위기(分圍氣)",
+      "etymology_dissection": "나눌 분(分)+둘러쌀 위(圍)+기운 기(氣)",
+      "easy_definition": "그 자리의 기운",
+      "context_sentence": "분위기가 좋아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나눔의 지혜",
+    "passage_text": "**분리(分離)**수거로 환경을 지켜요. **구분(區分)**을 잘하면 정리가 돼요. **분위기(分圍氣)**를 읽는 사람이 인기 있어요.",
+    "quiz": {
+      "question": "'분위기(分圍氣)'란?",
+      "choices": [
+        "분리",
+        "구분",
+        "그 자리의 기운과 느낌",
+        "분수"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'분위기(分圍氣)'=나눌 분+둘러쌀 위+기운 기, 그 자리를 둘러싼 기운이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "분위기를 잘 파악해서 도움이 된 경험을 문장으로 써 보세요.",
+    "model_example": "분리수거처럼 구분하고 분위기를 읽는 능력이 일상을 더 스마트하게 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'나눌 — 분(分)! 나눌 — 분(分)!' 열 번 외쳐요!"
+  }
+}

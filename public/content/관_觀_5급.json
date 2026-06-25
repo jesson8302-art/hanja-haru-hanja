@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "觀",
+    "hanja_sound": "관",
+    "hanja_meaning": "볼",
+    "full_reading": "볼 관",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "觀",
+    "sound": "관",
+    "meaning": "볼",
+    "stroke_count": 25,
+    "radical": "見",
+    "etymology_story": "觀은 볼 견(見)과 황새 관(雚)이 합쳐진 글자입니다. 황새가 눈을 크게 뜨고 주변을 살피는 모습에서 '보다', '관찰하다', '경치'의 뜻이 생겼습니다.",
+    "memory_tip": "황새(雚)처럼 눈(見)을 크게 뜨고 보는 것이 '觀'입니다.",
+    "level_context": "5급 한자로, 볼을(를) 뜻하는 觀입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "관찰",
+      "word_hanja": "觀察",
+      "reading": "관찰",
+      "easy_definition": "자세히 살펴봄",
+      "etymology_dissection": "볼 관(觀)+살필 찰(察): 자세히 살펴봄",
+      "example_sentence": "식물 성장을 관찰했습니다.",
+      "sentence_meaning": "식물이 자라는 것을 자세히 살펴봤습니다."
+    },
+    {
+      "word_korean": "관광",
+      "word_hanja": "觀光",
+      "reading": "관광",
+      "easy_definition": "다른 곳의 풍경과 문화를 구경함",
+      "etymology_dissection": "볼 관(觀)+빛 광(光): 빛나는 것을 봄",
+      "example_sentence": "제주도로 관광을 갔습니다.",
+      "sentence_meaning": "제주도에 구경하러 갔습니다."
+    },
+    {
+      "word_korean": "관객",
+      "word_hanja": "觀客",
+      "reading": "관객",
+      "easy_definition": "공연이나 경기를 보는 사람",
+      "etymology_dissection": "볼 관(觀)+손 객(客): 보러 온 손님",
+      "example_sentence": "관객이 공연에 집중했습니다.",
+      "sentence_meaning": "공연을 보는 사람들이 집중했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "제주도로 관광을 가서 아름다운 경치를 관찰했습니다. 공연장에는 수많은 관객이 모여 있었습니다. 자연을 관찰하는 것은 흥미로운 경험입니다.",
+    "passage_meaning": "관광지에서 자연을 관찰하고, 공연의 관객이 되는 것은 모두 '보는' 활동입니다.",
+    "questions": [
+      {
+        "question": "'관찰'의 뜻으로 알맞은 것은?",
+        "options": [
+          "빠르게 지나침",
+          "자세히 살펴봄",
+          "소리를 듣는 것",
+          "냄새를 맡는 것"
+        ],
+        "correct_answer": "자세히 살펴봄",
+        "explanation": "관찰(觀察)은 자세히 살펴보는 것입니다."
+      },
+      {
+        "question": "'관광'에서 '觀'의 뜻은?",
+        "options": [
+          "듣다",
+          "보다",
+          "먹다",
+          "만들다"
+        ],
+        "correct_answer": "보다",
+        "explanation": "관광(觀光)의 觀은 '보다'로, 다른 곳의 풍경을 보러 다니는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'관찰'이나 '관광'을 사용하여 문장을 써 보세요.",
+    "hint": "탐구나 여행과 관련된 내용을 담아 보세요.",
+    "example_answer": "개미의 생활을 관찰하는 것이 재미있었습니다.",
+    "key_vocabulary": [
+      "관찰",
+      "관광"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "곤충을 자세히 관찰했습니다.",
+      "한국 관광을 즐겁게 했습니다.",
+      "관객들이 열렬히 박수를 쳤습니다."
+    ],
+    "pronunciation_tips": "'관'을 명확하게 발음하며 읽어 보세요."
+  }
+}

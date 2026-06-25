@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "촌",
+    "hanja_meaning": "마을",
+    "hanja_char": "村",
+    "hanja_level": "7급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무 사이에 사람이 사는 곳 — 마을 촌(村)",
+    "etymology_story": "'마을 촌(村)'은 나무(木)와 마디 촌(寸)이 합쳐진 글자예요. 나무들이 자라는 가까운 거리(寸)에 사람들이 모여 사는 곳이 '마을(村)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "농촌(農村)",
+      "etymology_dissection": "농사 농(農)+마을 촌(村)",
+      "easy_definition": "농사짓는 마을",
+      "context_sentence": "농촌 체험이 즐거웠어요."
+    },
+    {
+      "word_korean": "어촌(漁村)",
+      "etymology_dissection": "고기잡을 어(漁)+마을 촌(村)",
+      "easy_definition": "고기잡이하는 마을",
+      "context_sentence": "어촌에서 신선한 해산물을 먹어요."
+    },
+    {
+      "word_korean": "산촌(山村)",
+      "etymology_dissection": "뫼 산(山)+마을 촌(村)",
+      "easy_definition": "산속에 있는 마을",
+      "context_sentence": "산촌의 공기가 맑아요."
+    },
+    {
+      "word_korean": "촌락(村落)",
+      "etymology_dissection": "마을 촌(村)+떨어질 락(落)",
+      "easy_definition": "여러 집이 모여 이루는 마을",
+      "context_sentence": "촌락에 따뜻한 정이 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "마을의 정",
+    "passage_text": "**농촌(農村)**, **어촌(漁村)**, **산촌(山村)** 모두 소중한 삶의 터전이에요. **촌락(村落)**의 이웃 사랑이 도시보다 따뜻할 때가 많아요.",
+    "quiz": {
+      "question": "'어촌(漁村)'이란?",
+      "choices": [
+        "농사짓는 마을",
+        "산속 마을",
+        "고기잡이하는 마을",
+        "촌락"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'어촌(漁村)'=고기잡을 어+마을 촌, 고기잡이를 하는 마을이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "농촌, 어촌, 산촌 중 가고 싶은 마을을 골라 이유를 문장으로 써 보세요.",
+    "model_example": "어촌에 가면 신선한 바다 냄새와 함께 촌락의 따뜻한 정을 느낄 수 있을 것 같아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'마을 — 촌(村)! 마을 — 촌(村)!' 열 번 외쳐요!"
+  }
+}

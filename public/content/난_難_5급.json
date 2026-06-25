@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "難",
+    "hanja_sound": "난",
+    "hanja_meaning": "어려울",
+    "full_reading": "어려울 난",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "難",
+    "sound": "난",
+    "meaning": "어려울",
+    "stroke_count": 19,
+    "radical": "隹",
+    "etymology_story": "難은 새(隹)와 불(炎)이 합쳐진 글자입니다. 불에 둘러싸인 새처럼 어려운 상황을 나타내며 '어렵다', '재난'의 뜻이 생겼습니다.",
+    "memory_tip": "불(炎) 속에 갇힌 새(隹)처럼 어려운 것이 '難'입니다.",
+    "level_context": "5급 한자로, 어려울을(를) 뜻하는 難입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "어려움",
+      "word_hanja": "難",
+      "reading": "난",
+      "easy_definition": "어려운 상황",
+      "etymology_dissection": "어려울 난(難): 어려운 것",
+      "example_sentence": "어려움을 이겨냈습니다.",
+      "sentence_meaning": "힘든 상황을 극복했습니다."
+    },
+    {
+      "word_korean": "재난",
+      "word_hanja": "災難",
+      "reading": "재난",
+      "easy_definition": "자연이나 사람이 일으킨 큰 어려움",
+      "etymology_dissection": "재앙 재(災)+어려울 난(難): 재앙의 어려움",
+      "example_sentence": "태풍으로 큰 재난이 발생했습니다.",
+      "sentence_meaning": "태풍으로 큰 피해가 생겼습니다."
+    },
+    {
+      "word_korean": "난관",
+      "word_hanja": "難關",
+      "reading": "난관",
+      "easy_definition": "어려운 고비나 장애물",
+      "etymology_dissection": "어려울 난(難)+관문 관(關): 어려운 관문",
+      "example_sentence": "난관을 극복했습니다.",
+      "sentence_meaning": "어려운 고비를 이겨냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "재난은 갑자기 찾아옵니다. 인생에서 난관을 만나도 포기하지 않는 것이 중요합니다. 어려움을 함께 이겨내면 더 단단해집니다.",
+    "passage_meaning": "재난과 난관 같은 어려움을 함께 이겨내는 것이 성장의 기회입니다.",
+    "questions": [
+      {
+        "question": "'재난'의 뜻으로 알맞은 것은?",
+        "options": [
+          "즐거운 축제",
+          "자연이나 사람이 일으킨 큰 어려움",
+          "작은 실수",
+          "일상적인 문제"
+        ],
+        "correct_answer": "자연이나 사람이 일으킨 큰 어려움",
+        "explanation": "재난(災難)은 자연이나 사람이 일으킨 큰 어려움입니다."
+      },
+      {
+        "question": "'난관'에서 '難'의 뜻은?",
+        "options": [
+          "쉽다",
+          "어렵다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "어렵다",
+        "explanation": "난관(難關)의 難은 '어렵다'로, 어려운 고비를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'재난'이나 '난관'을 사용하여 문장을 써 보세요.",
+    "hint": "어려움을 이겨내는 상황을 담아 보세요.",
+    "example_answer": "재난을 대비하여 미리 준비하는 것이 중요합니다.",
+    "key_vocabulary": [
+      "어려움",
+      "재난"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "재난 대비 훈련을 했습니다.",
+      "난관을 극복하면 더 강해집니다.",
+      "어려움 앞에서 포기하지 않습니다."
+    ],
+    "pronunciation_tips": "'난'을 명확하게 발음하며 읽어 보세요."
+  }
+}

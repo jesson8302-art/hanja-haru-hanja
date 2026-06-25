@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "의",
+    "hanja_meaning": "뜻",
+    "hanja_char": "意",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "意 — 마음속에서 소리가 울리는 생각",
+    "etymology_story": "意(의)는 소리 음(音)과 마음 심(心)이 합쳐진 글자예요. 마음속에서 울리는 소리, 즉 '생각·뜻'을 나타내요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의미(意味)",
+      "etymology_dissection": "뜻 의(意)+맛 미(味)",
+      "easy_definition": "말이나 글이 담고 있는 뜻",
+      "context_sentence": "이 그림의 의미를 생각해 봐요."
+    },
+    {
+      "word_korean": "의견(意見)",
+      "etymology_dissection": "뜻 의(意)+볼 견(見)",
+      "easy_definition": "어떤 일에 대해 자기 생각을 말함",
+      "context_sentence": "발표 시간에 자신의 의견을 말했어요."
+    },
+    {
+      "word_korean": "주의(注意)",
+      "etymology_dissection": "물댈 주(注)+뜻 의(意)",
+      "easy_definition": "조심하여 살핌",
+      "context_sentence": "길을 건널 때 주의해야 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "의견을 나눠요",
+    "passage_text": "토론 시간에 선생님이 각자 의견(意見)을 말해 보라고 하셨어요. 지수는 용기를 내어 손을 들었어요. 제 의견의 의미(意味)가 잘 전달되길 바랐어요. 주의(注意)해서 듣는 친구들이 고마웠어요.",
+    "quiz": {
+      "question": "'의견'의 뜻은?",
+      "choices": [
+        "어떤 일에 대해 자기 생각을 말함",
+        "남의 말을 듣는 것",
+        "선생님의 지시를 따르는 것",
+        "책을 읽는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "의견(意見)은 '뜻 의(意)+볼 견(見)'으로, 어떤 문제에 대한 자신의 생각을 말하는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "학교생활에서 개선하고 싶은 점에 대한 자신의 의견을 써 보세요. 이유도 함께 적어 주세요.",
+    "model_example": "예) 저는 점심시간을 10분 더 늘렸으면 해요. 왜냐하면 밥을 천천히 먹을 시간이 필요하기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "意(의)! 자신의 뜻을 당당하게 표현해요! 훌륭해요! 💬"
+  }
+}

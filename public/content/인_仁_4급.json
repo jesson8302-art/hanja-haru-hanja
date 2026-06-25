@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "인",
+    "hanja_meaning": "어질",
+    "hanja_char": "仁",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "仁 — 사람과 사람 사이의 따뜻한 마음",
+    "etymology_story": "人(사람 인)과 二(두 이)가 합쳐진 글자입니다. 두 사람 사이에 흐르는 따뜻한 마음을 뜻합니다. 공자는 仁을 모든 덕의 근본으로 여겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "인자",
+      "word_hanja": "仁者",
+      "etymology_dissection": "仁(어질 인)+者(사람 자) = 어진 사람",
+      "easy_definition": "너그럽고 자애로운 사람",
+      "context_sentence": "**인자**한 선생님은 학생들에게 사랑받습니다."
+    },
+    {
+      "word_korean": "인류",
+      "word_hanja": "人類",
+      "etymology_dissection": "人(사람 인)+類(무리 류) = 사람의 무리",
+      "easy_definition": "지구상의 모든 사람",
+      "context_sentence": "**인류**는 서로 도우며 문명을 발전시켰습니다."
+    },
+    {
+      "word_korean": "인격",
+      "word_hanja": "人格",
+      "etymology_dissection": "人(사람 인)+格(격식 격) = 사람의 됨됨이",
+      "easy_definition": "한 사람이 가진 도덕적 품성과 성품",
+      "context_sentence": "올바른 **인격**을 갖추는 것이 교육의 목표입니다."
+    },
+    {
+      "word_korean": "인도주의",
+      "word_hanja": "人道主義",
+      "etymology_dissection": "人道(사람의 도리)+主義(주의) = 사람의 도리를 중시함",
+      "easy_definition": "인간의 존엄성과 권리를 최우선으로 여기는 사상",
+      "context_sentence": "전쟁 중에도 **인도주의**적 원칙을 지켜야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공자의 인(仁)",
+    "passage_text": "고대 중국의 철학자 공자는 仁(**인**)을 가장 중요한 덕목으로 강조했습니다. **인**이란 사람을 사랑하고 따뜻하게 대하는 마음입니다. 공자는 '자기가 원하지 않는 것을 남에게 하지 말라'고 가르쳤습니다. 이 황금률은 오늘날에도 **인류** 보편의 도덕 원칙으로 통합니다. **인격**을 갖춘 사람이 되려면 仁의 정신을 실천해야 합니다.",
+    "quiz": {
+      "question": "공자가 말한 仁(인)의 의미로 알맞은 것은?",
+      "choices": [
+        "강함과 용기",
+        "지식과 지혜",
+        "사람을 사랑하고 따뜻하게 대하는 마음",
+        "재물과 명예"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "공자는 仁을 사람을 사랑하고 따뜻하게 대하는 마음으로 설명했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'인격'이나 '인류'를 사용해서 사람답게 사는 것에 대한 생각을 써보세요.",
+    "model_example": "훌륭한 **인격**을 갖추는 것은 자신뿐 아니라 **인류** 전체를 위한 일이기도 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "仁(인) — 어질 인! 인격·인류·인자 모두 여기서! 잘했어요!"
+  }
+}

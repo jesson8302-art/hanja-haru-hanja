@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "대",
+    "hanja_meaning": "대답할",
+    "hanja_char": "對",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "마주보며 대답하다 — 대답할 대(對)",
+    "etymology_story": "'대답할 대(對)'는 마주 볼 대(丵)와 마디 촌(寸)이 합쳐진 글자예요. 마주 보며 손짓(寸)으로 대답하는 것이 '대하다(對)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "대화(對話)",
+      "etymology_dissection": "대답할 대(對)+말씀 화(話)",
+      "easy_definition": "마주보며 이야기하는 것",
+      "context_sentence": "대화로 풀어요."
+    },
+    {
+      "word_korean": "대립(對立)",
+      "etymology_dissection": "대답할 대(對)+설 립(立)",
+      "easy_definition": "서로 맞서는 것",
+      "context_sentence": "대립을 줄여요."
+    },
+    {
+      "word_korean": "절대(絶對)",
+      "etymology_dissection": "끊을 절(絶)+대답할 대(對)",
+      "easy_definition": "비교 없이 완전한 것",
+      "context_sentence": "절대적 신뢰예요."
+    },
+    {
+      "word_korean": "대응(對應)",
+      "etymology_dissection": "대답할 대(對)+응할 응(應)",
+      "easy_definition": "맞서 응하는 것",
+      "context_sentence": "위기에 대응해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "마주봄의 힘",
+    "passage_text": "**대화(對話)**가 최선의 해결책이에요. **대립(對立)**보다 협력을 선택해요. **절대(絶對)**적인 믿음이 관계를 강화해요.",
+    "quiz": {
+      "question": "'대화(對話)'란?",
+      "choices": [
+        "대립",
+        "절대",
+        "마주보며 이야기하는 것",
+        "대응"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'대화(對話)'=대답할 대+말씀 화, 마주 보고 말을 주고받는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "대화로 오해를 풀거나 문제를 해결한 경험을 문장으로 써 보세요.",
+    "model_example": "대립을 대화로 바꾸면 절대적인 신뢰가 쌓이고 위기에도 잘 대응할 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'대답할 — 대(對)! 대답할 — 대(對)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "술",
+    "hanja_meaning": "재주",
+    "hanja_char": "術",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 예술"
+  },
+  "step_1_etymology": {
+    "visual_title": "길에서 배우는 기술 — 재주 술(術)",
+    "etymology_story": "'재주 술(術)'은 행할 행(行)과 찰 출(朮)이 합쳐진 글자예요. 길(行)을 걸으며 익히는 기술이 '재주(術)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기술(技術)",
+      "etymology_dissection": "재주 기(技)+재주 술(術)",
+      "easy_definition": "특정한 능력이나 방법",
+      "context_sentence": "기술을 익혀요."
+    },
+    {
+      "word_korean": "예술(藝術)",
+      "etymology_dissection": "재주 예(藝)+재주 술(術)",
+      "easy_definition": "아름다움을 표현하는 활동",
+      "context_sentence": "예술을 사랑해요."
+    },
+    {
+      "word_korean": "미술(美術)",
+      "etymology_dissection": "아름다울 미(美)+재주 술(術)",
+      "easy_definition": "시각적 예술",
+      "context_sentence": "미술 대회에 나갔어요."
+    },
+    {
+      "word_korean": "수술(手術)",
+      "etymology_dissection": "손 수(手)+재주 술(術)",
+      "easy_definition": "의학적으로 몸을 고치는 것",
+      "context_sentence": "수술이 성공했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "재주를 갈다",
+    "passage_text": "**기술(技術)**은 꾸준히 익혀야 늘어요. **예술(藝術)**은 마음을 풍요롭게 해요. **미술(美術)**로 세상을 아름답게 표현해요.",
+    "quiz": {
+      "question": "'예술(藝術)'이란?",
+      "choices": [
+        "기술",
+        "수술",
+        "아름다움을 표현하는 활동",
+        "미술"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'예술(藝術)'=재주 예+재주 술, 아름다움을 표현하고 창조하는 활동이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "기술이나 예술로 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "기술은 반복으로, 예술은 감성으로 쌓여 미술처럼 아름다운 삶을 만들어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'재주 — 술(術)! 재주 — 술(術)!' 열 번 외쳐요!"
+  }
+}

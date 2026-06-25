@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "論",
+    "hanja_sound": "론",
+    "hanja_meaning": "논할",
+    "full_reading": "논할 론",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "論",
+    "sound": "론",
+    "meaning": "논할",
+    "stroke_count": 15,
+    "radical": "言",
+    "etymology_story": "論은 말(言)과 윤(侖)이 합쳐진 글자입니다. 조리 있게 말을 늘어놓아 논의하는 모습에서 '논하다', '의논하다', '이론'의 뜻이 생겼습니다.",
+    "memory_tip": "조리 있게(侖) 말(言)을 늘어놓는 것이 '論'입니다.",
+    "level_context": "5급 한자로, 논할을(를) 뜻하는 論입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "토론",
+      "word_hanja": "討論",
+      "reading": "토론",
+      "easy_definition": "서로 의견을 내어 논의함",
+      "etymology_dissection": "칠 토(討)+논할 론(論): 두드려 논의함",
+      "example_sentence": "토론 대회에 참가했습니다.",
+      "sentence_meaning": "서로 의견을 내어 논의하는 대회에 참가했습니다."
+    },
+    {
+      "word_korean": "이론",
+      "word_hanja": "理論",
+      "reading": "이론",
+      "easy_definition": "사실을 바탕으로 한 논리",
+      "etymology_dissection": "다스릴 리(理)+논할 론(論): 이치로 논함",
+      "example_sentence": "이론과 실습 모두 중요합니다.",
+      "sentence_meaning": "논리와 실제 연습 모두 중요합니다."
+    },
+    {
+      "word_korean": "결론",
+      "word_hanja": "結論",
+      "reading": "결론",
+      "easy_definition": "논의의 끝에 내린 판단",
+      "etymology_dissection": "맺을 결(結)+논할 론(論): 맺어진 논의",
+      "example_sentence": "회의 결론을 발표했습니다.",
+      "sentence_meaning": "회의 논의의 최종 판단을 발표했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "토론을 통해 더 나은 결론을 찾을 수 있습니다. 이론을 배우고 실습으로 익히는 것이 중요합니다. 회의의 결론은 모두가 납득할 수 있어야 합니다.",
+    "passage_meaning": "토론, 이론, 결론 모두 '논하다'는 뜻의 論에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'토론'의 뜻으로 알맞은 것은?",
+        "options": [
+          "혼자 생각하는 것",
+          "서로 의견을 내어 논의하는 것",
+          "혼자 결정하는 것",
+          "침묵하는 것"
+        ],
+        "correct_answer": "서로 의견을 내어 논의하는 것",
+        "explanation": "토론(討論)은 서로 의견을 내어 논의하는 것입니다."
+      },
+      {
+        "question": "'결론'에서 '論'의 뜻은?",
+        "options": [
+          "맺다",
+          "논하다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "논하다",
+        "explanation": "결론(結論)의 論은 '논하다'로, 논의의 끝에 내린 판단입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'토론'이나 '결론'을 사용하여 문장을 써 보세요.",
+    "hint": "의견이나 토의와 관련된 내용을 담아 보세요.",
+    "example_answer": "토론 끝에 좋은 결론을 얻었습니다.",
+    "key_vocabulary": [
+      "토론",
+      "이론"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "토론에서 다양한 의견이 나왔습니다.",
+      "이론을 실습으로 확인합시다.",
+      "결론을 모두가 납득했습니다."
+    ],
+    "pronunciation_tips": "'론'을 명확하게 발음하며 읽어 보세요."
+  }
+}

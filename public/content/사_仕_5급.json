@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "仕",
+    "hanja_sound": "사",
+    "hanja_meaning": "섬길",
+    "full_reading": "섬길 사",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "仕",
+    "sound": "사",
+    "meaning": "섬길",
+    "stroke_count": 5,
+    "radical": "人",
+    "etymology_story": "仕는 사람(人)과 선비 사(士)가 합쳐진 글자입니다. 선비처럼 윗사람을 섬기며 일하는 모습에서 '섬기다', '벼슬하다'의 뜻이 생겼습니다.",
+    "memory_tip": "선비(士)처럼 사람(人)을 섬기는 것이 '仕'입니다.",
+    "level_context": "5급 한자로, 섬길을(를) 뜻하는 仕입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "봉사",
+      "word_hanja": "奉仕",
+      "reading": "봉사",
+      "easy_definition": "남을 위해 힘을 다함",
+      "etymology_dissection": "받들 봉(奉)+섬길 사(仕): 받들어 섬김",
+      "example_sentence": "봉사 활동을 했습니다.",
+      "sentence_meaning": "남을 위해 힘을 다하는 활동을 했습니다."
+    },
+    {
+      "word_korean": "출사",
+      "word_hanja": "出仕",
+      "reading": "출사",
+      "easy_definition": "벼슬에 나아감",
+      "etymology_dissection": "날 출(出)+섬길 사(仕): 나가 섬김",
+      "example_sentence": "관직에 출사했습니다.",
+      "sentence_meaning": "벼슬자리에 나아갔습니다."
+    },
+    {
+      "word_korean": "사환",
+      "word_hanja": "仕宦",
+      "reading": "사환",
+      "easy_definition": "관직에 있음",
+      "etymology_dissection": "섬길 사(仕)+벼슬 환(宦): 섬기며 벼슬",
+      "example_sentence": "사환 생활을 했습니다.",
+      "sentence_meaning": "관직 생활을 했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "봉사 활동은 타인을 위해 힘을 다하는 아름다운 행동입니다. 관직에 출사하여 나라를 위해 일합니다. 봉사하는 마음이 세상을 따뜻하게 합니다.",
+    "passage_meaning": "봉사, 출사 모두 '섬기다'는 뜻의 仕에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'봉사'의 뜻은?",
+        "options": [
+          "자신만을 위함",
+          "남을 위해 힘을 다함",
+          "이익을 위해 일함",
+          "쉬는 것"
+        ],
+        "correct_answer": "남을 위해 힘을 다함",
+        "explanation": "봉사(奉仕)는 남을 위해 힘을 다하는 것입니다."
+      },
+      {
+        "question": "'仕'의 뜻은?",
+        "options": [
+          "공부하다",
+          "섬기다·벼슬하다",
+          "쉬다",
+          "놀다"
+        ],
+        "correct_answer": "섬기다·벼슬하다",
+        "explanation": "仕는 '섬기다', '벼슬하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'봉사'를 사용하여 문장을 써 보세요.",
+    "hint": "나눔이나 사회와 관련된 내용을 담아 보세요.",
+    "example_answer": "봉사 활동으로 이웃을 도왔습니다.",
+    "key_vocabulary": [
+      "봉사",
+      "출사"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "봉사 활동에 참여합시다.",
+      "남을 섬기는 마음이 소중합니다.",
+      "봉사는 세상을 따뜻하게 합니다."
+    ],
+    "pronunciation_tips": "'사'을 명확하게 발음하며 읽어 보세요."
+  }
+}

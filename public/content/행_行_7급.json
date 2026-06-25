@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "행",
+    "hanja_meaning": "다닐",
+    "hanja_char": "行",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "네거리 길 — 다닐 행(行)",
+    "etymology_story": "'다닐 행(行)'은 사람들이 사방팔방으로 다니는 네거리 모양이에요. 여러 방향으로 길이 나 있는 곳에서 '다니다, 행하다'는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "행동(行動)",
+      "etymology_dissection": "다닐 행(行)+움직일 동(動)",
+      "easy_definition": "직접 움직이는 것",
+      "context_sentence": "생각보다 행동이 먼저예요."
+    },
+    {
+      "word_korean": "여행(旅行)",
+      "etymology_dissection": "나그네 려(旅)+다닐 행(行)",
+      "easy_definition": "어딘가로 떠나는 것",
+      "context_sentence": "여행은 배움의 연속이에요."
+    },
+    {
+      "word_korean": "행복(幸福)",
+      "etymology_dissection": "다행 행(幸)+복 복(福)",
+      "easy_definition": "기쁘고 만족스러운 상태",
+      "context_sentence": "지금이 행복해요."
+    },
+    {
+      "word_korean": "행사(行事)",
+      "etymology_dissection": "다닐 행(行)+일 사(事)",
+      "easy_definition": "공식적인 모임이나 활동",
+      "context_sentence": "학교 행사가 재밌어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "행복한 여행",
+    "passage_text": "**행동(行動)**이 꿈을 현실로 만들어요. **여행(旅行)**은 새로운 나를 발견해요. **행복(幸福)**은 지금 이 순간에 있어요. **행사(行事)**를 통해 공동체가 하나 돼요.",
+    "quiz": {
+      "question": "'여행(旅行)'이란?",
+      "choices": [
+        "행동",
+        "행복",
+        "어딘가로 떠나는 것",
+        "행사"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'여행(旅行)'=나그네 려+다닐 행, 어딘가로 떠나 다니는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "가고 싶은 여행지와 그 이유를 문장으로 써 보세요.",
+    "model_example": "행동으로 여행을 떠나야만 책에서 배울 수 없는 행복을 만날 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'다닐 — 행(行)! 다닐 — 행(行)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "공",
+    "hanja_meaning": "공",
+    "hanja_char": "功",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "힘써 이룬 결과 — 공 공(功)",
+    "etymology_story": "'공 공(功)'은 장인 공(工)과 힘 력(力)이 합쳐진 글자예요. 힘(力)을 들여 무언가를 만들어(工) 이룬 성과가 '공(功)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공부(功夫)",
+      "etymology_dissection": "공 공(功)+지아비 부(夫)",
+      "easy_definition": "열심히 익히는 것",
+      "context_sentence": "매일 공부해요."
+    },
+    {
+      "word_korean": "성공(成功)",
+      "etymology_dissection": "이룰 성(成)+공 공(功)",
+      "easy_definition": "목표를 이루는 것",
+      "context_sentence": "성공을 향해 나아가요."
+    },
+    {
+      "word_korean": "공로(功勞)",
+      "etymology_dissection": "공 공(功)+수고 로(勞)",
+      "easy_definition": "수고로이 이룬 공",
+      "context_sentence": "공로를 인정받아요."
+    },
+    {
+      "word_korean": "입공(立功)",
+      "etymology_dissection": "설 립(立)+공 공(功)",
+      "easy_definition": "공을 세우는 것",
+      "context_sentence": "입공하여 표창을 받았어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공을 쌓다",
+    "passage_text": "**성공(成功)**은 작은 **공(功)**들이 쌓인 것이에요. **공로(功勞)**를 인정하는 문화가 아름다워요. 매일의 **공부(功夫)**가 미래를 바꿔요.",
+    "quiz": {
+      "question": "'성공(成功)'이란?",
+      "choices": [
+        "공로",
+        "공부",
+        "목표를 이루는 것",
+        "입공"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'성공(成功)'=이룰 성+공 공, 목표한 것을 이루어내는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "작은 공들이 쌓여 성공한 경험을 문장으로 써 보세요.",
+    "model_example": "매일 공부라는 작은 공을 쌓아가면 성공이라는 큰 공로가 됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'공 — 공(功)! 공 — 공(功)!' 열 번 외쳐요!"
+  }
+}

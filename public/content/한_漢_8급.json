@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "한",
+    "hanja_meaning": "한나라",
+    "hanja_char": "漢",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 역사"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 많은 강의 이름 — 한나라 한(漢)",
+    "etymology_story": "'한나라 한(漢)'은 물(水→氵)과 넓고 많다는 뜻의 글자가 합쳐진 거예요. 중국의 한나라(漢)를 거쳐 한자(漢字)·한문(漢文) 등의 말이 생겼어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "한자(漢字)",
+      "etymology_dissection": "한나라 한(漢) + 글자 자(字) = 한나라의 글자",
+      "easy_definition": "중국에서 만들어진 동아시아 공통 문자",
+      "context_sentence": "한자를 알면 어려운 단어도 뜻을 짐작할 수 있어요."
+    },
+    {
+      "word_korean": "한문(漢文)",
+      "etymology_dissection": "한나라 한(漢) + 글 문(文) = 한나라 글",
+      "easy_definition": "한자로 쓴 옛날 글",
+      "context_sentence": "한문을 배우면 우리 고전 문학을 읽을 수 있어요."
+    },
+    {
+      "word_korean": "한강(漢江)",
+      "etymology_dissection": "한나라 한(漢) + 강 강(江) = 한나라처럼 큰 강",
+      "easy_definition": "서울을 흐르는 큰 강",
+      "context_sentence": "한강 공원은 서울 시민들의 쉼터예요."
+    },
+    {
+      "word_korean": "한의학(漢醫學)",
+      "etymology_dissection": "한나라 한(漢) + 의술 의(醫) + 배울 학(學)",
+      "easy_definition": "동양 전통 의학",
+      "context_sentence": "한의학은 수천 년의 역사를 가진 의술이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "한자와 우리말",
+    "passage_text": "**한자(漢字)**를 알면 우리말 어휘의 70%를 이해하는 데 도움이 돼요. **한문(漢文)**으로 쓰인 우리 선조들의 기록이 많아요. **한강(漢江)** 변을 걷다 보면 서울의 역사가 느껴져요. **한의학(漢醫學)**은 자연의 힘으로 몸을 고치는 지혜예요.",
+    "quiz": {
+      "question": "'한자(漢字)'란?",
+      "choices": [
+        "한국이 만든 글자",
+        "한글의 다른 이름",
+        "중국에서 만들어진 동아시아 공통 문자",
+        "우리나라 고유 문자"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'한자(漢字)'는 '한나라 한 + 글자 자' = 중국 한나라에서 만들어진 문자예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "한자 공부가 내 국어 실력에 어떤 도움이 될지 생각하며 문장으로 써 보세요.",
+    "model_example": "한자를 배우면 어려운 낱말도 한자(漢字)로 나눠 생각하면 뜻을 짐작할 수 있어서, 국어 공부가 훨씬 즐거워질 것 같아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'한나라 — 한(漢)! 한나라 — 한(漢)!' 열 번 외쳐요!"
+  }
+}

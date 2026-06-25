@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "행",
+    "hanja_meaning": "다닐",
+    "hanja_char": "行",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "行 — 네거리에서 어느 방향으로든 걷다",
+    "etymology_story": "行(행)은 네거리 모양을 본뜬 글자예요. 어느 방향으로든 걸어 나아가는 '가다·다니다·행동'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "행동(行動)",
+      "etymology_dissection": "다닐 행(行)+움직일 동(動)",
+      "easy_definition": "몸을 움직여 하는 일",
+      "context_sentence": "말보다 행동으로 보여줘요."
+    },
+    {
+      "word_korean": "여행(旅行)",
+      "etymology_dissection": "나그네 여(旅)+다닐 행(行)",
+      "easy_definition": "다른 곳으로 떠나는 것",
+      "context_sentence": "방학에 가족 여행을 갔어요."
+    },
+    {
+      "word_korean": "보행(步行)",
+      "etymology_dissection": "걸음 보(步)+다닐 행(行)",
+      "easy_definition": "걸어서 감",
+      "context_sentence": "신호등이 초록불일 때 보행해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "말보다 행동",
+    "passage_text": "선생님은 '말보다 행동(行動)이 중요하다'고 하셨어요. 친구를 돕겠다고 말만 하지 말고 직접 도와줘야 해요. 여행(旅行)도 계획만 세우면 안 되고 실제로 가야 해요. 보행(步行)도 신호를 지켜야 안전해요.",
+    "quiz": {
+      "question": "'여행'의 뜻은?",
+      "choices": [
+        "다른 곳으로 떠나는 것",
+        "매일 하는 운동",
+        "학교 가는 것",
+        "집에서 쉬는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "여행(旅行)은 '나그네 여(旅)+다닐 행(行)'으로, 집을 떠나 새로운 곳을 돌아다니는 활동이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가보고 싶은 여행지와 그곳에서 하고 싶은 것을 써 보세요.",
+    "model_example": "예) 저는 제주도에 가고 싶어요. 한라산을 오르고 맛있는 해산물을 먹고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "行(행)! 생각을 행동으로 옮기는 어린이! 잘했어요! ✈️"
+  }
+}

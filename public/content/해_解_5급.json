@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "해",
+    "hanja_meaning": "풀",
+    "hanja_char": "解",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "解 — 칼로 소를 풀어 나누다",
+    "etymology_story": "角(뿔 각)과 刀(칼 도)와 牛(소 우)가 합쳐진 글자입니다. 칼로 소를 부위별로 잘라 나누는 모습에서 '풀다', '해결하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이해",
+      "word_hanja": "理解",
+      "etymology_dissection": "理(다스릴 리)+解(풀 해) = 다스려 풀어냄",
+      "easy_definition": "뜻이나 의미를 알아서 깨달음",
+      "context_sentence": "이 책은 **이해**하기 쉽게 쓰여 있습니다."
+    },
+    {
+      "word_korean": "해결",
+      "word_hanja": "解決",
+      "etymology_dissection": "解(풀 해)+決(결단 결) = 풀어서 결정",
+      "easy_definition": "문제나 어려움을 풀어냄",
+      "context_sentence": "모든 문제에는 반드시 **해결**책이 있습니다."
+    },
+    {
+      "word_korean": "해석",
+      "word_hanja": "解釋",
+      "etymology_dissection": "解(풀 해)+釋(풀 석) = 풀어 설명함",
+      "easy_definition": "어떤 것의 뜻을 풀어 설명함",
+      "context_sentence": "시의 의미를 여러 가지로 **해석**할 수 있습니다."
+    },
+    {
+      "word_korean": "분해",
+      "word_hanja": "分解",
+      "etymology_dissection": "分(나눌 분)+解(풀 해) = 나누어 풀어냄",
+      "easy_definition": "복잡한 것을 구성 요소로 나눔",
+      "context_sentence": "물은 수소와 산소로 **분해**됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이해의 단계",
+    "passage_text": "진정한 **이해**는 단순히 외우는 것이 아닙니다. 수학 공식을 외우기만 하면 응용 문제를 **해결**할 수 없습니다. 공식이 왜 그렇게 되는지 원리를 **이해**해야 합니다. 마찬가지로 역사 사건도 날짜만 암기하기보다 왜 그 사건이 일어났는지 **해석**할 수 있어야 진짜 아는 것입니다. **분해**하듯 내용을 조각내어 각각의 의미를 파악하는 것이 깊은 **이해**의 방법입니다.",
+    "quiz": {
+      "question": "진정한 이해의 의미로 글에서 설명한 것은?",
+      "choices": [
+        "내용을 외우는 것",
+        "원리를 파악하고 해석할 수 있는 것",
+        "선생님 말씀을 잘 듣는 것",
+        "시험에서 높은 점수를 받는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 진정한 이해는 단순히 외우는 것이 아니라 원리를 파악하고 해석할 수 있는 것이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'이해'를 사용해서 무언가를 깊이 이해하게 된 경험을 써보세요.",
+    "model_example": "분수 계산이 왜 그렇게 되는지 그림으로 그려보고 나서야 진짜로 **이해**가 됐습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "解(해) — 풀 해! 이해·해결·해석·분해 모두 여기서! 잘했어요!"
+  }
+}

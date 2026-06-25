@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "列",
+    "hanja_sound": "렬",
+    "hanja_meaning": "벌일",
+    "full_reading": "벌일 렬",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "列",
+    "sound": "렬",
+    "meaning": "벌일",
+    "stroke_count": 6,
+    "radical": "刀",
+    "etymology_story": "列은 뼈(歹)와 칼(刀)이 합쳐진 글자입니다. 칼로 뼈를 잘라 늘어놓는 모습에서 '벌이다', '줄 세우다', '열'의 뜻이 생겼습니다.",
+    "memory_tip": "칼(刀)로 잘라(歹) 늘어놓는 것이 '列'입니다.",
+    "level_context": "5급 한자로, 벌일을(를) 뜻하는 列입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "열거",
+      "word_hanja": "列擧",
+      "reading": "열거",
+      "easy_definition": "하나씩 늘어놓아 들음",
+      "etymology_dissection": "벌일 렬(列)+들 거(擧): 늘어놓아 들음",
+      "example_sentence": "예시를 열거했습니다.",
+      "sentence_meaning": "예를 하나씩 들어 늘어놓았습니다."
+    },
+    {
+      "word_korean": "행렬",
+      "word_hanja": "行列",
+      "reading": "행렬",
+      "easy_definition": "줄지어 가는 행진",
+      "etymology_dissection": "행할 행(行)+벌일 렬(列): 줄지어 행함",
+      "example_sentence": "군악대가 행렬을 했습니다.",
+      "sentence_meaning": "군악대가 줄지어 행진했습니다."
+    },
+    {
+      "word_korean": "분열",
+      "word_hanja": "分裂",
+      "reading": "분열",
+      "easy_definition": "나뉘어 갈라짐",
+      "etymology_dissection": "나눌 분(分)+벌일 렬(列): 나뉘어 벌어짐",
+      "example_sentence": "세포가 분열합니다.",
+      "sentence_meaning": "세포가 나뉘어 갈라집니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "운동회에서 화려한 행렬이 펼쳐졌습니다. 세포 분열을 통해 생물이 성장합니다. 이유를 열거하면 더 설득력이 있습니다.",
+    "passage_meaning": "열거, 행렬, 분열 모두 '벌이다', '늘어놓다'는 뜻의 列에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'행렬'의 뜻으로 알맞은 것은?",
+        "options": [
+          "줄지어 가는 행진",
+          "무질서한 이동",
+          "뛰어가는 것",
+          "멈춰 서 있는 것"
+        ],
+        "correct_answer": "줄지어 가는 행진",
+        "explanation": "행렬(行列)은 줄지어 가는 행진입니다."
+      },
+      {
+        "question": "'열거'에서 '列'의 뜻은?",
+        "options": [
+          "숨기다",
+          "벌이다·늘어놓다",
+          "쌓다",
+          "버리다"
+        ],
+        "correct_answer": "벌이다·늘어놓다",
+        "explanation": "열거(列擧)의 列은 '벌이다'로, 하나씩 늘어놓아 드는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'행렬'이나 '열거'를 사용하여 문장을 써 보세요.",
+    "hint": "행사나 발표와 관련된 내용을 담아 보세요.",
+    "example_answer": "자신의 장점을 열거해 보았습니다.",
+    "key_vocabulary": [
+      "열거",
+      "행렬"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "행렬이 아름답게 펼쳐졌습니다.",
+      "이유를 열거해 보세요.",
+      "세포가 분열하여 성장합니다."
+    ],
+    "pronunciation_tips": "'렬'을 명확하게 발음하며 읽어 보세요."
+  }
+}

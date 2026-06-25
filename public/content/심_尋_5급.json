@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "尋",
+    "hanja_sound": "심",
+    "hanja_meaning": "찾을",
+    "full_reading": "찾을 심",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "尋",
+    "sound": "심",
+    "meaning": "찾을",
+    "stroke_count": 12,
+    "radical": "寸",
+    "etymology_story": "尋은 손(彐)과 장인 공(工) 그리고 마디 촌(寸)이 합쳐진 글자입니다. 손으로 재고 찾는 모습에서 '찾다', '길이 단위'의 뜻이 생겼습니다.",
+    "memory_tip": "손(彐)으로 재며(工) 찾는(寸) 것이 '찾다(尋)'입니다.",
+    "level_context": "5급 한자로, 찾을을(를) 뜻하는 尋입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "탐문",
+      "word_hanja": "探尋",
+      "reading": "탐문",
+      "easy_definition": "찾아 물음",
+      "etymology_dissection": "찾을 탐(探)+찾을 심(尋): 찾아 물음",
+      "example_sentence": "사건을 탐문했습니다.",
+      "sentence_meaning": "사건을 찾아 물었습니다."
+    },
+    {
+      "word_korean": "심문",
+      "word_hanja": "尋問",
+      "reading": "심문",
+      "easy_definition": "찾아 물어봄",
+      "etymology_dissection": "찾을 심(尋)+물을 문(問): 찾아 물음",
+      "example_sentence": "경찰이 심문합니다.",
+      "sentence_meaning": "경찰이 찾아 물어봅니다."
+    },
+    {
+      "word_korean": "심방",
+      "word_hanja": "尋訪",
+      "reading": "심방",
+      "easy_definition": "찾아서 방문함",
+      "etymology_dissection": "찾을 심(尋)+방문할 방(訪): 찾아 방문",
+      "example_sentence": "어른을 심방했습니다.",
+      "sentence_meaning": "어른을 찾아서 방문했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "경찰이 용의자를 심문했습니다. 선생님을 심방하여 감사 인사를 드렸습니다. 사건을 탐문하며 진실을 밝혔습니다.",
+    "passage_meaning": "탐문, 심문, 심방 모두 '찾다'를 뜻하는 尋에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'심문'의 뜻은?",
+        "options": [
+          "문을 잠그는 것",
+          "찾아 물어보는 것",
+          "문을 여는 것",
+          "문을 닫는 것"
+        ],
+        "correct_answer": "찾아 물어보는 것",
+        "explanation": "심문(尋問)은 찾아 물어보는 것입니다."
+      },
+      {
+        "question": "'尋'의 뜻은?",
+        "options": [
+          "숨다",
+          "찾다",
+          "달리다",
+          "먹다"
+        ],
+        "correct_answer": "찾다",
+        "explanation": "尋은 '찾다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'심문'이나 '심방'을 사용하여 문장을 써 보세요.",
+    "hint": "탐구나 방문에 관한 내용을 담아 보세요.",
+    "example_answer": "경찰이 용의자를 심문하여 사건의 진실을 밝혔습니다.",
+    "key_vocabulary": [
+      "탐문",
+      "심문"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "경찰이 심문합니다.",
+      "어른을 심방했습니다.",
+      "사건을 탐문합니다."
+    ],
+    "pronunciation_tips": "'심'을 명확하게 발음하며 읽어 보세요."
+  }
+}

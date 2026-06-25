@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "약",
+    "hanja_meaning": "약",
+    "hanja_char": "藥",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "풀로 만든 약 — 약 약(藥)",
+    "etymology_story": "'약 약(藥)'은 풀(艸)과 즐길 락(樂)이 합쳐진 글자예요. 쓴 풀로 만들어 먹으면 즐거울 만큼 나아지는 것이 '약(藥)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의약품(醫藥品)",
+      "etymology_dissection": "의원 의(醫)+약 약(藥)+물건 품(品)",
+      "easy_definition": "치료를 위한 약품",
+      "context_sentence": "의약품을 올바르게 사용해요."
+    },
+    {
+      "word_korean": "약국(藥局)",
+      "etymology_dissection": "약 약(藥)+판 국(局)",
+      "easy_definition": "약을 파는 가게",
+      "context_sentence": "약국에서 약을 샀어요."
+    },
+    {
+      "word_korean": "한약(韓藥)",
+      "etymology_dissection": "한국 한(韓)+약 약(藥)",
+      "easy_definition": "한방 약재로 만든 약",
+      "context_sentence": "한약을 달여요."
+    },
+    {
+      "word_korean": "농약(農藥)",
+      "etymology_dissection": "농사 농(農)+약 약(藥)",
+      "easy_definition": "농사에 쓰는 약품",
+      "context_sentence": "농약을 적절히 써요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "약의 역할",
+    "passage_text": "**약국(藥局)**에서 올바른 약을 사요. **한약(韓藥)**은 전통 의학의 지혜예요. **농약(農藥)**은 적절하게 써야 해요.",
+    "quiz": {
+      "question": "'약국(藥局)'이란?",
+      "choices": [
+        "한약",
+        "의약품",
+        "약을 파는 가게",
+        "농약"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'약국(藥局)'=약 약+판 국, 약을 판매하는 가게예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "약을 올바르게 사용하거나 건강을 지킨 경험을 문장으로 써 보세요.",
+    "model_example": "한약의 지혜처럼 약국의 의약품도 올바르게 사용하는 것이 건강의 첫걸음이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'약 — 약(藥)! 약 — 약(藥)!' 열 번 외쳐요!"
+  }
+}

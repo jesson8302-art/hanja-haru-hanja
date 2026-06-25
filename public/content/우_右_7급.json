@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "우",
+    "hanja_meaning": "오른",
+    "hanja_char": "右",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "입으로 돕다, 오른 우(右)",
+    "etymology_story": "'오른 우(右)'는 손(又)과 입(口)이 합쳐진 글자예요. 오른손으로 도구를 들고 입으로 기도하며 신을 돕는다는 의미에서 '오른쪽'을 뜻하게 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "우측(右側)",
+      "etymology_dissection": "오른 우(右)+곁 측(側)",
+      "easy_definition": "오른쪽",
+      "context_sentence": "우측 통행을 지켜요."
+    },
+    {
+      "word_korean": "우회전(右回轉)",
+      "etymology_dissection": "오른 우(右)+돌 회(回)+구를 전(轉)",
+      "easy_definition": "오른쪽으로 도는 것",
+      "context_sentence": "우회전 신호를 확인해요."
+    },
+    {
+      "word_korean": "좌우(左右)",
+      "etymology_dissection": "왼 좌(左)+오른 우(右)",
+      "easy_definition": "왼쪽과 오른쪽",
+      "context_sentence": "좌우를 살피고 건넌도로를 건너요."
+    },
+    {
+      "word_korean": "우뇌(右腦)",
+      "etymology_dissection": "오른 우(右)+골 뇌(腦)",
+      "easy_definition": "오른쪽 뇌",
+      "context_sentence": "우뇌는 창의적 사고를 담당해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "방향 감각",
+    "passage_text": "**좌우(左右)**를 살피는 것이 안전의 기본이에요. **우측(右側)** 통행 규칙을 지켜요. **우뇌(右腦)**는 창의력을, 왼쪽 뇌는 논리를 담당해요.",
+    "quiz": {
+      "question": "'좌우(左右)'란?",
+      "choices": [
+        "앞뒤",
+        "왼쪽과 오른쪽",
+        "위아래",
+        "안팎"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'좌우(左右)'=왼 좌+오른 우, 왼쪽과 오른쪽이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "좌우를 살피는 것이 중요한 상황을 문장으로 써 보세요.",
+    "model_example": "횡단보도에서 좌우를 먼저 살피고 우측 통행을 지키는 것이 안전의 기본이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'오른 — 우(右)! 오른 — 우(右)!' 열 번 외쳐요!"
+  }
+}

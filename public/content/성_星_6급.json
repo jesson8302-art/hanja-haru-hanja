@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "성",
+    "hanja_meaning": "별",
+    "hanja_char": "星",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "星 — 하늘에서 빛나는 별",
+    "etymology_story": "日(해 일)과 生(날 생)이 합쳐진 글자입니다. 하늘에서 스스로 빛을 내며 태어난 것처럼 빛나는 별을 나타냅니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "별",
+      "word_hanja": "星",
+      "etymology_dissection": "星(별 성)",
+      "easy_definition": "하늘에 보이는 천체",
+      "context_sentence": "밤하늘에 **별**이 수없이 많습니다."
+    },
+    {
+      "word_korean": "행성",
+      "word_hanja": "行星",
+      "etymology_dissection": "行(갈 행)+星(별 성) = 움직이는 별",
+      "easy_definition": "태양 주위를 도는 천체",
+      "context_sentence": "지구는 태양계의 **행성**입니다."
+    },
+    {
+      "word_korean": "위성",
+      "word_hanja": "衛星",
+      "etymology_dissection": "衛(지킬 위)+星(별 성) = 지키는 별",
+      "easy_definition": "행성 주위를 도는 천체",
+      "context_sentence": "달은 지구의 **위성**입니다."
+    },
+    {
+      "word_korean": "항성",
+      "word_hanja": "恒星",
+      "etymology_dissection": "恒(항상 항)+星(별 성) = 항상 있는 별",
+      "easy_definition": "스스로 빛을 내는 별, 태양처럼",
+      "context_sentence": "태양은 **항성**이고 지구는 행성입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "별의 종류",
+    "passage_text": "밤하늘에 보이는 빛나는 점들은 모두 다른 종류입니다. **항성**은 태양처럼 스스로 빛을 내는 별입니다. **행성**은 항성 주위를 돌며 스스로 빛을 내지 못하고 반사된 빛만 냅니다. 지구는 태양이라는 **항성** 주위를 도는 **행성**입니다. **위성**은 행성 주위를 도는 작은 천체로, 달은 지구의 **위성**입니다. 밤하늘에서 반짝이는 대부분은 **항성**이고, 행성은 반짝이지 않고 일정한 빛을 냅니다.",
+    "quiz": {
+      "question": "스스로 빛을 내는 별의 종류는?",
+      "choices": [
+        "행성",
+        "위성",
+        "항성",
+        "혜성"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "항성은 태양처럼 스스로 빛을 내는 별입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'행성'이나 '위성'을 사용해서 태양계에 대한 내용을 써보세요.",
+    "model_example": "태양계의 **행성** 중 가장 큰 것은 목성이며, 목성에는 수십 개의 **위성**이 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "星(성) — 별 성! 행성·위성·항성 모두 여기서! 별처럼 빛났어요!"
+  }
+}

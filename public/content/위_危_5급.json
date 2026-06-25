@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "危",
+    "hanja_sound": "위",
+    "hanja_meaning": "위태할",
+    "full_reading": "위태할 위",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "危",
+    "sound": "위",
+    "meaning": "위태할",
+    "stroke_count": 6,
+    "radical": "卩",
+    "etymology_story": "危는 절벽(厂) 위에 사람(人)이 꿇어앉아 있는 모습입니다. 높은 절벽 위의 위험한 상황에서 '위태하다', '위험하다'의 뜻이 생겼습니다.",
+    "memory_tip": "절벽(厂) 위에 사람(人)이 있는 위험한 모습이 '危'입니다.",
+    "level_context": "5급 한자로, 위태할을(를) 뜻하는 危입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "위험",
+      "word_hanja": "危險",
+      "reading": "위험",
+      "easy_definition": "위태롭고 험함",
+      "etymology_dissection": "위태 위(危)+험할 험(險): 위태하고 험함",
+      "example_sentence": "위험한 행동을 하지 마세요.",
+      "sentence_meaning": "위태롭고 험한 행동을 하지 마세요."
+    },
+    {
+      "word_korean": "위기",
+      "word_hanja": "危機",
+      "reading": "위기",
+      "easy_definition": "위태로운 때",
+      "etymology_dissection": "위태 위(危)+기회 기(機): 위태로운 기회",
+      "example_sentence": "위기를 기회로 바꿉니다.",
+      "sentence_meaning": "위태로운 때를 기회로 바꿉니다."
+    },
+    {
+      "word_korean": "위급",
+      "word_hanja": "危急",
+      "reading": "위급",
+      "easy_definition": "위태하고 급함",
+      "etymology_dissection": "위태 위(危)+급할 급(急): 위태하고 급함",
+      "example_sentence": "위급 상황이 발생했습니다.",
+      "sentence_meaning": "위태하고 급한 상황이 발생했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "위험한 장소에 가지 않아야 합니다. 위기를 기회로 바꾸는 지혜가 필요합니다. 위급 상황에서 침착하게 행동합니다.",
+    "passage_meaning": "위험, 위기, 위급 모두 '위태하다', '위험하다'를 뜻하는 危에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'위기'의 뜻은?",
+        "options": [
+          "안전한 때",
+          "위태로운 때",
+          "행복한 때",
+          "기쁜 때"
+        ],
+        "correct_answer": "위태로운 때",
+        "explanation": "위기(危機)는 위태로운 때입니다."
+      },
+      {
+        "question": "'危'의 뜻은?",
+        "options": [
+          "안전하다",
+          "위태하다·위험하다",
+          "편안하다",
+          "안심하다"
+        ],
+        "correct_answer": "위태하다·위험하다",
+        "explanation": "危는 '위태하다', '위험하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'위험'이나 '위기'를 사용하여 문장을 써 보세요.",
+    "hint": "안전이나 도전에 관한 내용을 담아 보세요.",
+    "example_answer": "위기를 기회로 바꾸는 사람이 성공합니다.",
+    "key_vocabulary": [
+      "위험",
+      "위기"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "위험을 조심합니다.",
+      "위기를 기회로 바꿉니다.",
+      "위급 상황에 침착합니다."
+    ],
+    "pronunciation_tips": "'위'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "여",
+    "hanja_meaning": "더불",
+    "hanja_char": "與",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "與 — 네 손이 함께 물건을 주다",
+    "etymology_story": "여러 손이 함께 물건을 들어주는 모습을 본뜬 글자입니다. '주다', '함께하다', '~와'의 뜻으로 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "참여",
+      "word_hanja": "參與",
+      "etymology_dissection": "參(참여할 참)+與(더불 여) = 함께 참가",
+      "easy_definition": "어떤 일에 관계하여 함께함",
+      "context_sentence": "학생들이 봉사 활동에 **참여**했습니다."
+    },
+    {
+      "word_korean": "관여",
+      "word_hanja": "關與",
+      "etymology_dissection": "關(관계할 관)+與(더불 여) = 관계하여 함께",
+      "easy_definition": "어떤 일에 관계하여 영향을 줌",
+      "context_sentence": "정치에 적극적으로 **관여**하는 시민이 민주주의를 지킵니다."
+    },
+    {
+      "word_korean": "여부",
+      "word_hanja": "與否",
+      "etymology_dissection": "與(더불 여)+否(아닐 부) = 함께함과 아님",
+      "easy_definition": "그러한지 그렇지 않은지의 여부",
+      "context_sentence": "참석 **여부**를 알려주세요."
+    },
+    {
+      "word_korean": "급여",
+      "word_hanja": "給與",
+      "etymology_dissection": "給(줄 급)+與(더불 여) = 주어 줌",
+      "easy_definition": "일한 대가로 받는 돈",
+      "context_sentence": "매달 **급여**를 받아 생활비로 씁니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "참여 민주주의",
+    "passage_text": "민주주의는 국민의 **참여**로 유지됩니다. 선거 **참여**는 가장 기본적인 시민의 권리입니다. 그러나 **참여**는 선거만이 아닙니다. 지역 사회 문제에 **관여**하고, 의견을 표현하고, 토론에 **참여**하는 것도 민주주의입니다. 투표율이 낮으면 일부의 의견만 반영되어 진정한 민주주의가 이루어지지 않습니다. 모든 시민이 적극적으로 **참여**해야 민주주의가 건강해집니다.",
+    "quiz": {
+      "question": "민주주의가 건강해지려면 무엇이 필요하다고 했는가?",
+      "choices": [
+        "강한 지도자",
+        "모든 시민의 적극적인 참여",
+        "경제적 성장",
+        "군사력 강화"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 모든 시민이 적극적으로 참여해야 민주주의가 건강해진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'참여'를 사용해서 자신이 참여했던 활동과 그 경험을 써보세요.",
+    "model_example": "학교 학생자치회 활동에 **참여**하면서 의사소통하고 협력하는 방법을 배울 수 있었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "與(여) — 더불 여! 참여·관여·여부·급여 모두 여기서! 멋져요!"
+  }
+}

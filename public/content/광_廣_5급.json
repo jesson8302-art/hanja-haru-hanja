@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "廣",
+    "hanja_sound": "광",
+    "hanja_meaning": "넓을",
+    "full_reading": "넓을 광",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "廣",
+    "sound": "광",
+    "meaning": "넓을",
+    "stroke_count": 15,
+    "radical": "广",
+    "etymology_story": "廣은 집(广)과 넓을 광(廣)이 합쳐진 글자입니다. 지붕이 넓게 펼쳐진 건물의 모습에서 '넓다', '광대하다'의 뜻이 생겼습니다.",
+    "memory_tip": "넓게 펼쳐진 지붕(广) 아래가 '廣'입니다.",
+    "level_context": "5급 한자로, 넓을을(를) 뜻하는 廣입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "광장",
+      "word_hanja": "廣場",
+      "reading": "광장",
+      "easy_definition": "넓고 탁 트인 빈터",
+      "etymology_dissection": "넓을 광(廣)+마당 장(場): 넓은 마당",
+      "example_sentence": "시청 앞 광장에 사람들이 모였습니다.",
+      "sentence_meaning": "시청 앞 넓은 터에 사람들이 모였습니다."
+    },
+    {
+      "word_korean": "광대",
+      "word_hanja": "廣大",
+      "reading": "광대",
+      "easy_definition": "넓고 크다",
+      "etymology_dissection": "넓을 광(廣)+클 대(大): 넓고 큼",
+      "example_sentence": "광대한 우주에 감탄했습니다.",
+      "sentence_meaning": "넓고 큰 우주에 감탄했습니다."
+    },
+    {
+      "word_korean": "광고",
+      "word_hanja": "廣告",
+      "reading": "광고",
+      "easy_definition": "많은 사람에게 널리 알림",
+      "etymology_dissection": "넓을 광(廣)+알릴 고(告): 넓게 알림",
+      "example_sentence": "새 상품 광고가 나왔습니다.",
+      "sentence_meaning": "새 상품 홍보 내용이 나왔습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "광대한 우주는 인간의 상상을 초월합니다. 광장에서 다양한 행사가 열립니다. 광고를 통해 많은 사람에게 정보를 전달합니다.",
+    "passage_meaning": "넓다는 뜻의 廣은 광장, 광대한 우주, 광고 등 다양한 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'광대'의 뜻으로 알맞은 것은?",
+        "options": [
+          "좁고 작다",
+          "넓고 크다",
+          "빠르고 강하다",
+          "높고 가파르다"
+        ],
+        "correct_answer": "넓고 크다",
+        "explanation": "광대(廣大)는 넓고 크다는 뜻입니다."
+      },
+      {
+        "question": "'광장'에서 '廣'의 뜻은?",
+        "options": [
+          "작다",
+          "넓다",
+          "높다",
+          "깊다"
+        ],
+        "correct_answer": "넓다",
+        "explanation": "광장(廣場)의 廣는 '넓다'로, 넓고 탁 트인 공간을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'광장'이나 '광대'를 사용하여 문장을 써 보세요.",
+    "hint": "공간이나 자연과 관련된 내용을 담아 보세요.",
+    "example_answer": "광대한 바다를 보며 자유를 느꼈습니다.",
+    "key_vocabulary": [
+      "광장",
+      "광대"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "광장에 많은 사람이 모였습니다.",
+      "우주는 정말 광대합니다.",
+      "광고를 통해 행사를 알렸습니다."
+    ],
+    "pronunciation_tips": "'광'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "아우",
+    "hanja_char": "弟",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "차례차례 묶인 모습 — 아우 제(弟)",
+    "etymology_story": "'아우 제(弟)'는 창을 두른 끈이 차례차례 묶인 모습이에요. 위에서부터 아래로 순서가 정해져 있는 것처럼, 형 다음에 오는 사람이 '아우'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "형제(兄弟)",
+      "etymology_dissection": "맏 형(兄) + 아우 제(弟) = 형과 아우",
+      "easy_definition": "같은 부모에게서 태어난 남자 사이",
+      "context_sentence": "형제가 힘을 합치면 무엇이든 할 수 있어요."
+    },
+    {
+      "word_korean": "제자(弟子)",
+      "etymology_dissection": "아우 제(弟) + 아들 자(子) = 아랫사람이 배우는 것",
+      "easy_definition": "스승에게 가르침을 받는 사람",
+      "context_sentence": "공자에게는 수많은 제자들이 있었어요."
+    },
+    {
+      "word_korean": "사제(師弟)",
+      "etymology_dissection": "스승 사(師) + 아우 제(弟) = 스승과 제자",
+      "easy_definition": "스승과 제자의 관계",
+      "context_sentence": "사제 관계는 부모 자식만큼 소중해요."
+    },
+    {
+      "word_korean": "자제(子弟)",
+      "etymology_dissection": "아들 자(子) + 아우 제(弟) = 자녀들",
+      "easy_definition": "남의 자녀를 높여 부르는 말",
+      "context_sentence": "훌륭한 자제분을 두셨군요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "배움의 길",
+    "passage_text": "**제자(弟子)**가 되어 스승을 따르는 것은 오랜 전통이에요. 좋은 **사제(師弟)** 관계에서 큰 배움이 이루어져요. **형제(兄弟)**처럼 함께 배우고 자라는 친구를 만나면 행운이랍니다.",
+    "quiz": {
+      "question": "'제자(弟子)'의 뜻은?",
+      "choices": [
+        "스승",
+        "배우는 사람",
+        "형",
+        "친구"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'제자(弟子)'는 '아우 제 + 아들 자' = 스승에게 배우는 사람이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나에게 배움을 준 사람(선생님, 가족 등)에 대한 감사 문장을 써 보세요.",
+    "model_example": "스승과 제자의 사제 관계처럼, 선생님의 가르침이 내 삶을 바꾸고 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아우 — 제(弟)! 아우 — 제(弟)!' 열 번 외쳐요!"
+  }
+}

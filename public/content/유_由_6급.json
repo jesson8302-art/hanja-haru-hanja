@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "유",
+    "hanja_meaning": "말미암을",
+    "hanja_char": "由",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "由 — 씨앗에서 싹이 돋아나는 이유",
+    "etymology_story": "由(유)는 씨앗에서 싹이 트는 모양이에요. 무언가가 시작되는 근원, 즉 '말미암다·원인·이유'를 뜻하게 되었어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이유(理由)",
+      "etymology_dissection": "다스릴 리(理)+말미암을 유(由)",
+      "easy_definition": "어떤 일이 생긴 까닭",
+      "context_sentence": "지각한 이유를 선생님께 말씀드렸어요."
+    },
+    {
+      "word_korean": "자유(自由)",
+      "etymology_dissection": "스스로 자(自)+말미암을 유(由)",
+      "easy_definition": "스스로의 뜻에 따라 행동할 수 있음",
+      "context_sentence": "방학에는 자유롭게 놀 수 있어요."
+    },
+    {
+      "word_korean": "유래(由來)",
+      "etymology_dissection": "말미암을 유(由)+올 래(來)",
+      "easy_definition": "어디서 비롯되어 왔는지",
+      "context_sentence": "설날의 유래를 알고 있나요?"
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자유로운 방학",
+    "passage_text": "방학이 되었어요. 규칙에 얽매이지 않고 자유(自由)롭게 지낼 수 있어요. 하지만 자유에는 이유(理由)와 책임이 따른다고 엄마가 말씀하셨어요. 자유롭게 행동할 때도 남을 배려해야 해요.",
+    "quiz": {
+      "question": "'자유'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "스스로의 뜻에 따라 행동할 수 있음",
+        "남이 시키는 대로 따르는 것",
+        "모든 것을 포기하는 것",
+        "무조건 혼자 행동하는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "자유(自由)는 '스스로 자(自)+말미암을 유(由)'로, 자기 뜻대로 행동할 수 있는 상태예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 자유를 누릴 때 지켜야 할 것들을 이유와 함께 써 보세요.",
+    "model_example": "예) 자유롭게 놀더라도 친구를 다치게 하면 안 돼요. 왜냐하면 자유는 남에게 피해를 주지 않아야 하기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "由(유)! 이유 있는 자유가 진짜 자유! 멋있어요! ✨"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "절",
+    "hanja_meaning": "마디",
+    "hanja_char": "節",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "節 — 대나무의 마디",
+    "etymology_story": "竹(대나무 죽)과 卩(무릎 꿇을 절)이 합쳐진 글자입니다. 대나무의 규칙적인 마디처럼 '절도', '절약', '계절'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "절약",
+      "word_hanja": "節約",
+      "etymology_dissection": "節(마디 절)+約(맺을 약) = 마디마디 아낌",
+      "easy_definition": "낭비하지 않고 아껴 씀",
+      "context_sentence": "물을 **절약**하는 것은 지구를 지키는 일입니다."
+    },
+    {
+      "word_korean": "계절",
+      "word_hanja": "季節",
+      "etymology_dissection": "季(계절 계)+節(마디 절) = 때의 마디",
+      "easy_definition": "일 년을 나눈 봄·여름·가을·겨울",
+      "context_sentence": "**계절**마다 다른 자연의 아름다움이 있습니다."
+    },
+    {
+      "word_korean": "예절",
+      "word_hanja": "禮節",
+      "etymology_dissection": "禮(예도 례)+節(마디 절) = 예의의 마디",
+      "easy_definition": "사람이 지켜야 할 행동의 기준",
+      "context_sentence": "**예절**을 지키는 사람은 어디서나 환영받습니다."
+    },
+    {
+      "word_korean": "절기",
+      "word_hanja": "節氣",
+      "etymology_dissection": "節(마디 절)+氣(기운 기) = 마디의 기운",
+      "easy_definition": "태양의 운행에 따라 나눈 24개의 시점",
+      "context_sentence": "입춘은 봄을 알리는 **절기**입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "절기의 지혜",
+    "passage_text": "선조들은 태양의 움직임을 관찰하여 24**절기**를 만들었습니다. 입춘, 하지, 동지처럼 **계절**의 변화를 정확히 구분했습니다. 농부들은 **절기**에 맞춰 씨를 뿌리고 추수했습니다. 이 지혜는 **절약**의 정신과도 연결됩니다. 자연의 흐름에 맞게 살면서 낭비 없이 사는 것이 **예절** 있는 삶이었습니다. 현대에도 **절기**를 알면 자연과 더 가까이 살 수 있습니다.",
+    "quiz": {
+      "question": "선조들이 24절기를 만든 이유는?",
+      "choices": [
+        "달의 움직임을 기록하기 위해",
+        "태양의 운행에 따라 계절 변화를 정확히 구분하기 위해",
+        "신에게 제사를 지내기 위해",
+        "기후 변화를 막기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "선조들은 태양의 움직임을 관찰하여 계절의 변화를 정확히 구분하기 위해 24절기를 만들었습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'절약'이나 '예절'을 사용해서 일상에서 실천하는 것을 써보세요.",
+    "model_example": "양치질할 때 컵을 사용해 물을 **절약**하고, 어른을 만나면 먼저 인사하는 **예절**을 지킵니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "節(절) — 마디 절! 절약·계절·예절·절기 모두 여기서! 수고했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "소",
+    "hanja_meaning": "적을",
+    "hanja_char": "少",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "작은 것을 더 나눈 '적을 소(少)'",
+    "etymology_story": "'적을 소(少)'는 작을 소(小)에 점 하나를 더 찍은 글자예요. 이미 작은 것을 더 나누었으니 더 적다는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "소년(少年)",
+      "etymology_dissection": "적을 소(少)+해 년(年)",
+      "easy_definition": "어린 나이의 남자아이",
+      "context_sentence": "소년의 꿈은 무한해요."
+    },
+    {
+      "word_korean": "소녀(少女)",
+      "etymology_dissection": "적을 소(少)+여자 녀(女)",
+      "easy_definition": "어린 나이의 여자아이",
+      "context_sentence": "소녀가 책 읽는 모습이 예뻐요."
+    },
+    {
+      "word_korean": "감소(減少)",
+      "etymology_dissection": "덜 감(減)+적을 소(少)",
+      "easy_definition": "줄어드는 것",
+      "context_sentence": "미세먼지가 감소했어요."
+    },
+    {
+      "word_korean": "최소(最少)",
+      "etymology_dissection": "가장 최(最)+적을 소(少)",
+      "easy_definition": "가장 적은 것",
+      "context_sentence": "최소한의 노력은 해야 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "적음의 가치",
+    "passage_text": "**소년(少年)** **소녀(少女)**는 작은 씨앗이에요. 낭비를 **감소(減少)**시키는 습관이 중요해요. **최소(最少)**의 것으로도 충분히 행복할 수 있어요.",
+    "quiz": {
+      "question": "'감소(減少)'란?",
+      "choices": [
+        "늘어나는 것",
+        "줄어드는 것",
+        "가장 적은 것",
+        "어린아이"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'감소(減少)'=덜 감+적을 소, 줄어드는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "최소한의 것으로 최대의 행복을 얻은 경험을 문장으로 써 보세요.",
+    "model_example": "소년 소녀의 순수한 마음처럼, 최소한의 것으로도 감소하지 않는 행복을 찾을 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'적을 — 소(少)! 적을 — 소(少)!' 열 번 외쳐요!"
+  }
+}

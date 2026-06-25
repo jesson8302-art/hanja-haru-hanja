@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "錄",
+    "hanja_sound": "록",
+    "hanja_meaning": "기록할",
+    "full_reading": "기록할 록",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "錄",
+    "sound": "록",
+    "meaning": "기록할",
+    "stroke_count": 16,
+    "radical": "金",
+    "etymology_story": "錄은 쇠(金)와 새길 록(彔)이 합쳐진 글자입니다. 쇠로 새겨 기록하는 모습에서 '기록하다', '적다', '목록'의 뜻이 생겼습니다.",
+    "memory_tip": "쇠(金)로 새겨(彔) 기록하는 것이 '錄'입니다.",
+    "level_context": "5급 한자로, 기록할을(를) 뜻하는 錄입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기록",
+      "word_hanja": "記錄",
+      "reading": "기록",
+      "easy_definition": "적어서 남겨 두는 것",
+      "etymology_dissection": "기억할 기(記)+기록할 록(錄): 기억하여 기록",
+      "example_sentence": "세계 기록을 세웠습니다.",
+      "sentence_meaning": "세계에서 가장 뛰어난 성적을 냈습니다."
+    },
+    {
+      "word_korean": "목록",
+      "word_hanja": "目錄",
+      "reading": "목록",
+      "easy_definition": "여러 항목을 나열한 것",
+      "etymology_dissection": "눈 목(目)+기록할 록(錄): 눈으로 보는 기록",
+      "example_sentence": "도서 목록을 확인했습니다.",
+      "sentence_meaning": "책들의 항목 목록을 확인했습니다."
+    },
+    {
+      "word_korean": "녹음",
+      "word_hanja": "錄音",
+      "reading": "녹음",
+      "easy_definition": "소리를 기록함",
+      "etymology_dissection": "기록할 록(錄)+소리 음(音): 소리를 기록",
+      "example_sentence": "수업을 녹음했습니다.",
+      "sentence_meaning": "수업 소리를 기계로 기록했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "세계 기록을 세운 선수에게 박수를 보냅니다. 도서 목록을 보고 읽고 싶은 책을 골랐습니다. 중요한 내용은 녹음해 두면 좋습니다.",
+    "passage_meaning": "기록, 목록, 녹음 모두 '기록하다'는 뜻의 錄에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'기록'의 뜻으로 알맞은 것은?",
+        "options": [
+          "잊어버리는 것",
+          "적어서 남겨 두는 것",
+          "말하는 것",
+          "사진 찍는 것"
+        ],
+        "correct_answer": "적어서 남겨 두는 것",
+        "explanation": "기록(記錄)은 적어서 남겨 두는 것입니다."
+      },
+      {
+        "question": "'녹음'에서 '錄'의 뜻은?",
+        "options": [
+          "소리",
+          "기록하다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "기록하다",
+        "explanation": "녹음(錄音)의 錄은 '기록하다'로, 소리를 기록하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'기록'이나 '목록'을 사용하여 문장을 써 보세요.",
+    "hint": "학습이나 일상과 관련된 내용을 담아 보세요.",
+    "example_answer": "읽고 싶은 책을 목록으로 만들었습니다.",
+    "key_vocabulary": [
+      "기록",
+      "목록"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "세계 기록을 경신했습니다.",
+      "도서 목록을 살펴봤습니다.",
+      "수업 내용을 녹음했습니다."
+    ],
+    "pronunciation_tips": "'록'을 명확하게 발음하며 읽어 보세요."
+  }
+}

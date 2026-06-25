@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "官",
+    "hanja_sound": "관",
+    "hanja_meaning": "벼슬",
+    "full_reading": "벼슬 관",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "官",
+    "sound": "관",
+    "meaning": "벼슬",
+    "stroke_count": 8,
+    "radical": "宀",
+    "etymology_story": "官은 집(宀)과 언덕(阜)의 변형이 합쳐진 글자입니다. 높은 곳에 세워진 관청을 나타내며 '벼슬', '관리', '기관'의 뜻이 생겼습니다.",
+    "memory_tip": "높은 집(宀)에서 일하는 것이 '벼슬'입니다.",
+    "level_context": "5급 한자로, 벼슬을(를) 뜻하는 官입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "관리",
+      "word_hanja": "官吏",
+      "reading": "관리",
+      "easy_definition": "나라 일을 맡아 하는 사람",
+      "etymology_dissection": "벼슬 관(官)+벼슬아치 리(吏): 관의 사람",
+      "example_sentence": "관리가 서류를 검토했습니다.",
+      "sentence_meaning": "나라 일을 맡은 사람이 서류를 살펴봤습니다."
+    },
+    {
+      "word_korean": "기관",
+      "word_hanja": "機關",
+      "reading": "기관",
+      "easy_definition": "특정 목적을 위해 조직된 단체",
+      "etymology_dissection": "기틀 기(機)+관계할 관(關): 목적 있는 조직",
+      "example_sentence": "정부 기관에서 일합니다.",
+      "sentence_meaning": "정부가 만든 조직에서 일합니다."
+    },
+    {
+      "word_korean": "관청",
+      "word_hanja": "官廳",
+      "reading": "관청",
+      "easy_definition": "나라 일을 보는 곳",
+      "etymology_dissection": "벼슬 관(官)+관청 청(廳): 관의 청사",
+      "example_sentence": "관청에 서류를 제출했습니다.",
+      "sentence_meaning": "나라 일을 보는 건물에 서류를 냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "정부 기관에서 일하는 관리들은 국민을 위해 봉사합니다. 관청에는 다양한 민원 서비스가 있습니다. 공정한 관리가 좋은 나라를 만듭니다.",
+    "passage_meaning": "정부 기관의 관리들은 관청에서 국민을 위해 봉사합니다.",
+    "questions": [
+      {
+        "question": "'관리'의 뜻으로 알맞은 것은?",
+        "options": [
+          "물건을 파는 사람",
+          "나라 일을 맡아 하는 사람",
+          "음식을 만드는 사람",
+          "집을 짓는 사람"
+        ],
+        "correct_answer": "나라 일을 맡아 하는 사람",
+        "explanation": "관리(官吏)는 나라 일을 맡아 하는 사람입니다."
+      },
+      {
+        "question": "'기관'에서 '官'과 관련된 뜻은?",
+        "options": [
+          "기계",
+          "조직·관청",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "조직·관청",
+        "explanation": "기관(機關)의 官 관련 의미는 목적 있는 조직이나 관청입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'관리'나 '기관'을 사용하여 문장을 써 보세요.",
+    "hint": "사회나 국가와 관련된 내용을 담아 보세요.",
+    "example_answer": "정부 기관에서 열심히 일하는 관리가 되고 싶습니다.",
+    "key_vocabulary": [
+      "관리",
+      "기관"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "관리는 공정해야 합니다.",
+      "이 기관은 어떤 일을 하나요?",
+      "관청에 민원을 접수했습니다."
+    ],
+    "pronunciation_tips": "'관'을 명확하게 발음하며 읽어 보세요."
+  }
+}

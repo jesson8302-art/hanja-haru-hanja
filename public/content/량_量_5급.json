@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "量",
+    "hanja_sound": "량",
+    "hanja_meaning": "헤아릴",
+    "full_reading": "헤아릴 량",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "量",
+    "sound": "량",
+    "meaning": "헤아릴",
+    "stroke_count": 12,
+    "radical": "里",
+    "etymology_story": "量은 무거울 중(重)과 해 일(日)이 합쳐진 글자입니다. 무게를 재어 헤아리는 모습에서 '헤아리다', '양', '분량'의 뜻이 생겼습니다.",
+    "memory_tip": "무게를(重) 재어(日) 헤아리는 것이 '量'입니다.",
+    "level_context": "5급 한자로, 헤아릴을(를) 뜻하는 量입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "분량",
+      "word_hanja": "分量",
+      "reading": "분량",
+      "easy_definition": "나누어진 양",
+      "etymology_dissection": "나눌 분(分)+헤아릴 량(量): 나누어진 양",
+      "example_sentence": "숙제 분량이 많습니다.",
+      "sentence_meaning": "숙제의 양이 많습니다."
+    },
+    {
+      "word_korean": "측량",
+      "word_hanja": "測量",
+      "reading": "측량",
+      "easy_definition": "길이나 면적을 재어 헤아림",
+      "etymology_dissection": "잴 측(測)+헤아릴 량(量): 재어 헤아림",
+      "example_sentence": "토지를 측량했습니다.",
+      "sentence_meaning": "토지의 크기를 재어 측정했습니다."
+    },
+    {
+      "word_korean": "역량",
+      "word_hanja": "力量",
+      "reading": "역량",
+      "easy_definition": "힘이나 능력의 양",
+      "etymology_dissection": "힘 력(力)+헤아릴 량(量): 힘의 양",
+      "example_sentence": "역량을 발휘했습니다.",
+      "sentence_meaning": "능력을 충분히 발휘했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "숙제 분량이 많을 때는 미리 계획을 세웁니다. 토지를 팔 때는 측량을 합니다. 자신의 역량을 파악하고 키우는 것이 중요합니다.",
+    "passage_meaning": "分量, 測量, 力量 모두 '헤아린다'는 뜻의 量에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'분량'의 뜻으로 알맞은 것은?",
+        "options": [
+          "나누어진 양",
+          "한꺼번에 많은 양",
+          "없는 것",
+          "측정할 수 없는 것"
+        ],
+        "correct_answer": "나누어진 양",
+        "explanation": "분량(分量)은 나누어진 양입니다."
+      },
+      {
+        "question": "'역량'에서 '量'의 뜻은?",
+        "options": [
+          "힘",
+          "헤아리다·양",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "헤아리다·양",
+        "explanation": "역량(力量)의 量은 '헤아리다', '양'으로, 힘이나 능력의 양을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'분량'이나 '역량'을 사용하여 문장을 써 보세요.",
+    "hint": "공부나 능력과 관련된 내용을 담아 보세요.",
+    "example_answer": "자신의 역량을 키우기 위해 노력합니다.",
+    "key_vocabulary": [
+      "분량",
+      "측량"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "숙제 분량을 확인하세요.",
+      "역량을 키워나갑시다.",
+      "토지 측량이 완료되었습니다."
+    ],
+    "pronunciation_tips": "'량'을 명확하게 발음하며 읽어 보세요."
+  }
+}

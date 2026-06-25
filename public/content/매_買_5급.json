@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "買",
+    "hanja_sound": "매",
+    "hanja_meaning": "살",
+    "full_reading": "살 매",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "買",
+    "sound": "매",
+    "meaning": "살",
+    "stroke_count": 12,
+    "radical": "貝",
+    "etymology_story": "買는 그물(罒)과 조개(貝)가 합쳐진 글자입니다. 그물처럼 돈(조개)을 모아 물건을 사는 모습에서 '사다'의 뜻이 생겼습니다.",
+    "memory_tip": "그물(罒)로 돈(貝)을 모아 '사는' 것이 '買'입니다.",
+    "level_context": "5급 한자로, 살을(를) 뜻하는 買입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "구매",
+      "word_hanja": "購買",
+      "reading": "구매",
+      "easy_definition": "물건을 사들임",
+      "etymology_dissection": "살 구(購)+살 매(買): 사고 삼",
+      "example_sentence": "온라인으로 구매했습니다.",
+      "sentence_meaning": "인터넷으로 물건을 샀습니다."
+    },
+    {
+      "word_korean": "매입",
+      "word_hanja": "買入",
+      "reading": "매입",
+      "easy_definition": "사들임",
+      "etymology_dissection": "살 매(買)+들 입(入): 사서 들임",
+      "example_sentence": "토지를 매입했습니다.",
+      "sentence_meaning": "토지를 사서 들였습니다."
+    },
+    {
+      "word_korean": "구입",
+      "word_hanja": "購入",
+      "reading": "구입",
+      "easy_definition": "사서 들임",
+      "etymology_dissection": "살 구(購)+들 입(入): 사서 들임",
+      "example_sentence": "새 책을 구입했습니다.",
+      "sentence_meaning": "새 책을 사서 들였습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "온라인으로 물건을 구매하는 것이 편리합니다. 토지를 매입하여 건물을 지었습니다. 새 학기에 필요한 책을 구입했습니다.",
+    "passage_meaning": "구매, 매입, 구입 모두 '사다'는 뜻의 買에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'구매'의 뜻으로 알맞은 것은?",
+        "options": [
+          "물건을 파는 것",
+          "물건을 사들이는 것",
+          "물건을 만드는 것",
+          "물건을 버리는 것"
+        ],
+        "correct_answer": "물건을 사들이는 것",
+        "explanation": "구매(購買)는 물건을 사들이는 것입니다."
+      },
+      {
+        "question": "'매입'에서 '買'의 뜻은?",
+        "options": [
+          "팔다",
+          "사다",
+          "만들다",
+          "빌리다"
+        ],
+        "correct_answer": "사다",
+        "explanation": "매입(買入)의 買는 '사다'로, 사서 들이는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'구매'나 '구입'을 사용하여 문장을 써 보세요.",
+    "hint": "쇼핑이나 경제와 관련된 내용을 담아 보세요.",
+    "example_answer": "필요한 물건을 구매하기 전에 가격을 비교합니다.",
+    "key_vocabulary": [
+      "구매",
+      "매입"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "온라인 구매가 편리합니다.",
+      "새 교과서를 구입했습니다.",
+      "토지를 매입하여 집을 지었습니다."
+    ],
+    "pronunciation_tips": "'매'을 명확하게 발음하며 읽어 보세요."
+  }
+}

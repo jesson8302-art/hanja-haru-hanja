@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "하",
+    "hanja_meaning": "여름",
+    "hanja_char": "夏",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "춤추는 사람 — 여름 하(夏)",
+    "etymology_story": "'여름 하(夏)'는 손(臼)과 발(夂)을 벌리고 춤추는 사람 모습이에요. 무더운 여름날 활짝 몸을 펼치는 동작에서 '여름'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "하절기(夏節期)",
+      "etymology_dissection": "여름 하(夏)+마디 절(節)+기약 기(期)",
+      "easy_definition": "여름 계절",
+      "context_sentence": "하절기에 에너지가 많이 써요."
+    },
+    {
+      "word_korean": "하지(夏至)",
+      "etymology_dissection": "여름 하(夏)+이를 지(至)",
+      "easy_definition": "낮이 가장 긴 날",
+      "context_sentence": "하지는 6월 21일 전후예요."
+    },
+    {
+      "word_korean": "춘하추동(春夏秋冬)",
+      "etymology_dissection": "봄춘(春)+여름 하(夏)+가을 추(秋)+겨울 동(冬)",
+      "easy_definition": "사계절",
+      "context_sentence": "춘하추동이 모두 아름다워요."
+    },
+    {
+      "word_korean": "혹서(酷暑)",
+      "etymology_dissection": "혹독할 혹(酷)+더울 서(暑)",
+      "easy_definition": "몹시 더운 여름",
+      "context_sentence": "혹서에는 더위를 조심해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "여름의 에너지",
+    "passage_text": "**하지(夏至)**에 낮이 가장 길어요. **혹서(酷暑)**에는 수분 보충이 중요해요. **춘하추동(春夏秋冬)** 모두 소중하지만 여름의 에너지는 특별해요.",
+    "quiz": {
+      "question": "'하지(夏至)'란?",
+      "choices": [
+        "여름 축제",
+        "낮이 가장 긴 날",
+        "여름 절기",
+        "혹서"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'하지(夏至)'=여름 하+이를 지, 여름 중 낮이 가장 긴 날이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "여름의 좋은 점이나 여름 추억을 문장으로 써 보세요.",
+    "model_example": "하지를 지나며 춘하추동 중 여름에만 느낄 수 있는 강렬한 에너지를 느껴요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'여름 — 하(夏)! 여름 — 하(夏)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "惡",
+    "hanja_sound": "악",
+    "hanja_meaning": "악할",
+    "full_reading": "악할 악",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "惡",
+    "sound": "악",
+    "meaning": "악할",
+    "stroke_count": 12,
+    "radical": "心",
+    "etymology_story": "惡은 마음(心)과 버금 아(亞)가 합쳐진 글자입니다. 마음이 버금가게 나쁜 모습에서 '악하다', '나쁘다', '미워하다'의 뜻이 생겼습니다.",
+    "memory_tip": "마음(心)이 나쁘게(亞) 변한 것이 '악하다(惡)'입니다.",
+    "level_context": "5급 한자로, 악할을(를) 뜻하는 惡입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선악",
+      "word_hanja": "善惡",
+      "reading": "선악",
+      "easy_definition": "착함과 나쁨",
+      "etymology_dissection": "착할 선(善)+악할 악(惡): 착하고 나쁨",
+      "example_sentence": "선악을 구별해야 합니다.",
+      "sentence_meaning": "착한 것과 나쁜 것을 구별해야 합니다."
+    },
+    {
+      "word_korean": "악인",
+      "word_hanja": "惡人",
+      "reading": "악인",
+      "easy_definition": "나쁜 사람",
+      "etymology_dissection": "악할 악(惡)+사람 인(人): 나쁜 사람",
+      "example_sentence": "악인을 벌해야 합니다.",
+      "sentence_meaning": "나쁜 사람을 벌해야 합니다."
+    },
+    {
+      "word_korean": "최악",
+      "word_hanja": "最惡",
+      "reading": "최악",
+      "easy_definition": "가장 나쁜 것",
+      "etymology_dissection": "가장 최(最)+악할 악(惡): 가장 나쁨",
+      "example_sentence": "최악의 상황을 피해야 합니다.",
+      "sentence_meaning": "가장 나쁜 상황을 피해야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "선악을 올바르게 구별하는 것이 중요합니다. 악인이라도 뉘우치면 새로운 시작을 할 수 있습니다. 최악의 상황에서도 희망을 잃지 않습니다.",
+    "passage_meaning": "선악, 악인, 최악 모두 '악하다', '나쁘다'를 뜻하는 惡에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'최악'의 뜻은?",
+        "options": [
+          "가장 좋은 것",
+          "가장 나쁜 것",
+          "보통인 것",
+          "나쁘지 않은 것"
+        ],
+        "correct_answer": "가장 나쁜 것",
+        "explanation": "최악(最惡)은 가장 나쁜 것입니다."
+      },
+      {
+        "question": "'惡'의 뜻은?",
+        "options": [
+          "착하다",
+          "악하다·나쁘다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "악하다·나쁘다",
+        "explanation": "惡은 '악하다', '나쁘다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'선악'이나 '최악'을 사용하여 문장을 써 보세요.",
+    "hint": "판단이나 윤리에 관한 내용을 담아 보세요.",
+    "example_answer": "선악을 구별하고 항상 선한 길을 선택해야 합니다.",
+    "key_vocabulary": [
+      "선악",
+      "악인"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "선악을 구별합니다.",
+      "최악의 상황을 피합니다.",
+      "악인도 뉘우칠 수 있습니다."
+    ],
+    "pronunciation_tips": "'악'을 명확하게 발음하며 읽어 보세요."
+  }
+}

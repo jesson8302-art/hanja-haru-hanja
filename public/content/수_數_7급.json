@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "수",
+    "hanja_meaning": "셈",
+    "hanja_char": "數",
+    "hanja_level": "7급",
+    "linked_subject": "수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "여러 개를 세고 두드리다 — 셈 수(數)",
+    "etymology_story": "'셈 수(數)'는 묶음(婁)과 두드릴 복(攴)이 합쳐진 글자예요. 여러 개를 묶어 두드리며 세는 것이 '수(數)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수학(數學)",
+      "etymology_dissection": "셈 수(數)+배울 학(學)",
+      "easy_definition": "수를 다루는 학문",
+      "context_sentence": "수학은 논리력을 키워요."
+    },
+    {
+      "word_korean": "수치(數値)",
+      "etymology_dissection": "셈 수(數)+값 치(値)",
+      "easy_definition": "수로 나타낸 값",
+      "context_sentence": "온도 수치가 높아요."
+    },
+    {
+      "word_korean": "숫자(數字)",
+      "etymology_dissection": "셈 수(數)+글자 자(字)",
+      "easy_definition": "수를 나타내는 기호",
+      "context_sentence": "숫자를 바르게 써요."
+    },
+    {
+      "word_korean": "다수(多數)",
+      "etymology_dissection": "많을 다(多)+셈 수(數)",
+      "easy_definition": "많은 수",
+      "context_sentence": "다수의 의견을 따라요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "수의 세계",
+    "passage_text": "**수학(數學)**은 세상을 이해하는 언어예요. **숫자(數字)**로 모든 것을 나타낼 수 있어요. **수치(數値)**를 분석하면 사실이 보여요. **다수(多數)**의 의견도 중요해요.",
+    "quiz": {
+      "question": "'다수(多數)'란?",
+      "choices": [
+        "적은 수",
+        "많은 수",
+        "숫자",
+        "수학"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'다수(多數)'=많을 다+셈 수, 많은 수를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "수학이나 숫자가 실생활에 도움이 된 경험을 문장으로 써 보세요.",
+    "model_example": "수학 수치를 분석해서 다수가 좋아하는 메뉴를 골랐더니 파티가 성공했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'셈 — 수(數)! 셈 — 수(數)!' 열 번 외쳐요!"
+  }
+}

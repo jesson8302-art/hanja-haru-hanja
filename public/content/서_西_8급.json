@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "서",
+    "hanja_meaning": "서녘",
+    "hanja_char": "西",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "둥지 위에 새가 앉은 '서녘 서(西)'",
+    "etymology_story": "'서녘 서(西)'는 새가 둥지 위에 앉아 있는 모습이에요. 새는 해가 질 때 둥지로 돌아오죠. 해가 지는 방향인 서쪽을 이렇게 표현했답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "서양(西洋)",
+      "etymology_dissection": "서녘 서(西) + 바다 양(洋) = 서쪽 바다 너머",
+      "easy_definition": "유럽과 아메리카 지역을 이르는 말",
+      "context_sentence": "서양 음악과 동양 음악이 어우러져요."
+    },
+    {
+      "word_korean": "서울(西울)",
+      "etymology_dissection": "서(西)에서 온 말과 관련",
+      "easy_definition": "우리나라의 수도",
+      "context_sentence": "서울은 활기차고 아름다운 도시예요."
+    },
+    {
+      "word_korean": "서쪽(西쪽)",
+      "etymology_dissection": "서녘 서(西) = 해가 지는 방향",
+      "easy_definition": "나침반에서 해가 지는 방향",
+      "context_sentence": "저녁 노을은 서쪽 하늘을 물들여요."
+    },
+    {
+      "word_korean": "서해(西海)",
+      "etymology_dissection": "서녘 서(西) + 바다 해(海) = 서쪽 바다",
+      "easy_definition": "우리나라 서쪽에 있는 바다",
+      "context_sentence": "서해에서 갯벌 체험을 했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "해가 지는 곳",
+    "passage_text": "저녁이면 **서쪽(西쪽)** 하늘이 붉게 물들어요. **서해(西海)** 갯벌에는 다양한 생물이 살아요. **서양(西洋)** 문화와 우리 문화가 만나는 지금, 동서가 함께 발전하고 있어요.",
+    "quiz": {
+      "question": "'서양(西洋)'이란?",
+      "choices": [
+        "아시아 지역",
+        "유럽과 아메리카 지역",
+        "아프리카 지역",
+        "바다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'서양(西洋)'은 '서녘 서 + 바다 양' = 서쪽 바다 너머, 유럽과 아메리카 지역이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "서쪽 하늘의 노을이나 서해에 대한 느낌을 문장으로 써 보세요.",
+    "model_example": "서해의 노을이 서쪽 하늘을 가득 채울 때, 서양의 어떤 풍경보다 아름답다고 느껴요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'서녘 — 서(西)! 서녘 — 서(西)!' 열 번 외쳐요!"
+  }
+}

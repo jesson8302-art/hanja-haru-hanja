@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "己",
+    "hanja_sound": "기",
+    "hanja_meaning": "몸",
+    "full_reading": "몸 기",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "己",
+    "sound": "기",
+    "meaning": "몸",
+    "stroke_count": 3,
+    "radical": "己",
+    "etymology_story": "己는 실을 감는 실패의 모양을 본뜬 글자입니다. 자신의 것을 감고 있는 모습에서 '자기', '자신'의 뜻이 생겼습니다.",
+    "memory_tip": "실패처럼 자신을 감고 있는 것이 '자기', '몸(己)'입니다.",
+    "level_context": "5급 한자로, 몸을(를) 뜻하는 己입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자기",
+      "word_hanja": "自己",
+      "reading": "자기",
+      "easy_definition": "자기 자신",
+      "etymology_dissection": "스스로 자(自)+몸 기(己): 자기 자신",
+      "example_sentence": "자기 일은 스스로 합니다.",
+      "sentence_meaning": "자신의 일은 자신이 합니다."
+    },
+    {
+      "word_korean": "지기",
+      "word_hanja": "知己",
+      "reading": "지기",
+      "easy_definition": "자신을 잘 아는 친구",
+      "etymology_dissection": "알 지(知)+몸 기(己): 자신을 아는 이",
+      "example_sentence": "그는 나의 오랜 지기입니다.",
+      "sentence_meaning": "그는 나를 잘 아는 오랜 친구입니다."
+    },
+    {
+      "word_korean": "이기심",
+      "word_hanja": "利己心",
+      "reading": "이기심",
+      "easy_definition": "자기 이익만 생각하는 마음",
+      "etymology_dissection": "이로울 이(利)+몸 기(己)+마음 심(心): 자기 이익의 마음",
+      "example_sentence": "이기심을 버려야 합니다.",
+      "sentence_meaning": "자기 이익만 생각하는 마음을 버려야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "자기 일은 스스로 하는 것이 중요합니다. 이기심을 버리고 함께 나누면 더 행복해집니다. 나를 잘 아는 지기가 있다는 것은 큰 행복입니다.",
+    "passage_meaning": "자기 자신을 알고, 이기심을 버리며, 나를 이해하는 지기를 곁에 두는 것이 행복한 삶입니다.",
+    "questions": [
+      {
+        "question": "'이기심'의 뜻으로 알맞은 것은?",
+        "options": [
+          "남을 위하는 마음",
+          "자기 이익만 생각하는 마음",
+          "노력하는 마음",
+          "공부하려는 마음"
+        ],
+        "correct_answer": "자기 이익만 생각하는 마음",
+        "explanation": "이기심(利己心)은 자기 이익만 생각하는 마음입니다."
+      },
+      {
+        "question": "'자기'에서 '己'의 뜻은?",
+        "options": [
+          "남",
+          "몸·자기",
+          "친구",
+          "적"
+        ],
+        "correct_answer": "몸·자기",
+        "explanation": "자기(自己)의 己는 '몸', '자기'로, 자기 자신을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'자기'나 '이기심'을 사용하여 문장을 써 보세요.",
+    "hint": "자신과 타인에 관한 내용을 담아 보세요.",
+    "example_answer": "이기심을 버리고 친구를 먼저 생각했습니다.",
+    "key_vocabulary": [
+      "자기",
+      "지기"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "자기 일은 자기가 합니다.",
+      "이기심을 버리면 행복해집니다.",
+      "나를 아는 지기가 있어 행복합니다."
+    ],
+    "pronunciation_tips": "'기'을 명확하게 발음하며 읽어 보세요."
+  }
+}

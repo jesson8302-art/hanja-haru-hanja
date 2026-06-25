@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "작",
+    "hanja_meaning": "어제",
+    "hanja_char": "昨",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "昨 — 해가 지나 하루 전이 되다",
+    "etymology_story": "昨(작)은 날 일(日)과 비롯할 乍(사)가 합쳐진 글자예요. 해가 하루 지나 '어제'가 됨을 나타내요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "작일(昨日)",
+      "etymology_dissection": "어제 작(昨)+날 일(日)",
+      "easy_definition": "어제 (글말)",
+      "context_sentence": "작일(昨日) 날씨는 매우 맑았어요."
+    },
+    {
+      "word_korean": "작년(昨年)",
+      "etymology_dissection": "어제 작(昨)+해 년(年)",
+      "easy_definition": "지난해",
+      "context_sentence": "작년에 제주도 여행을 다녀왔어요."
+    },
+    {
+      "word_korean": "작금(昨今)",
+      "etymology_dissection": "어제 작(昨)+이제 금(今)",
+      "easy_definition": "어제와 오늘, 요즘",
+      "context_sentence": "작금의 상황을 살펴봐야 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "작년의 나와 지금의 나",
+    "passage_text": "작년(昨年)에 찍은 사진을 봤어요. 키가 부쩍 자랐어요. 어제(昨日)보다 오늘, 오늘보다 내일 더 성장하고 싶어요. 작금(昨今)처럼 열심히 공부하면 꿈에 가까워질 거예요.",
+    "quiz": {
+      "question": "'작년'의 뜻은?",
+      "choices": [
+        "지난해",
+        "내년",
+        "올해",
+        "먼 옛날"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "작년(昨年)은 '어제 작(昨)+해 년(年)'으로, 지금보다 한 해 전을 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "작년의 나와 지금의 나를 비교해서 달라진 점을 써 보세요. (키, 할 수 있게 된 것 등)",
+    "model_example": "예) 작년에는 자전거를 못 탔는데, 지금은 잘 탈 수 있어요. 키도 5cm 자랐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "昨(작)! 어제보다 나아진 오늘! 정말 잘하고 있어요! 📅"
+  }
+}

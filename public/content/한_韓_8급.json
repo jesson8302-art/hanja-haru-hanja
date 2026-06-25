@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "한",
+    "hanja_meaning": "한국",
+    "hanja_char": "韓",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회, 역사"
+  },
+  "step_1_etymology": {
+    "visual_title": "우물가의 사람들이 모인 '한국 한(韓)'",
+    "etymology_story": "'한국 한(韓)'은 크고 넓다는 뜻의 옛말에서 왔어요. 우물 주변에 모인 사람들처럼 함께 모여 사는 우리 민족의 이름이 됐답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "한국(韓國)",
+      "etymology_dissection": "한국 한(韓) + 나라 국(國) = 우리나라",
+      "easy_definition": "우리가 사는 나라 대한민국",
+      "context_sentence": "한국은 아름다운 문화를 가진 나라예요."
+    },
+    {
+      "word_korean": "한글(韓글)",
+      "etymology_dissection": "한국 한(韓) + 글 = 한국 글자",
+      "easy_definition": "세종대왕이 만든 우리나라 고유의 글자",
+      "context_sentence": "한글은 세계에서 가장 과학적인 글자예요."
+    },
+    {
+      "word_korean": "한식(韓食)",
+      "etymology_dissection": "한국 한(韓) + 먹을 식(食) = 한국 음식",
+      "easy_definition": "김치, 불고기처럼 우리나라 전통 음식",
+      "context_sentence": "한식은 세계인들에게 인기가 있어요."
+    },
+    {
+      "word_korean": "한류(韓流)",
+      "etymology_dissection": "한국 한(韓) + 흐를 류(流) = 한국 문화의 흐름",
+      "easy_definition": "K-pop, 드라마 등 한국 문화의 세계적 인기",
+      "context_sentence": "한류 덕분에 한국어를 배우는 외국인이 늘었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리나라 대한민국",
+    "passage_text": "**한국(韓國)**은 수천 년의 역사를 가진 아름다운 나라예요. 세종대왕이 만든 **한글(韓글)**은 우리의 자랑이에요. **한식(韓食)**과 **한류(韓流)**가 세계인의 마음을 사로잡고 있어요.",
+    "quiz": {
+      "question": "'한류(韓流)'란?",
+      "choices": [
+        "한국의 강",
+        "한국의 전통 음식",
+        "K-pop 등 한국 문화의 세계적 인기",
+        "한국 글자"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'한류(韓流)'는 '한국 한 + 흐를 류' = 한국 문화가 세계로 흘러가는 것, K-pop·드라마 등의 인기예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가장 자랑스럽게 생각하는 한국의 것을 골라 문장으로 써 보세요.",
+    "model_example": "한글, 한식, 한류 모두 자랑스럽지만, 그 중에서도 한글이 세계에서 가장 과학적인 글자라는 사실이 가장 뿌듯해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'한국 — 한(韓)! 한국 — 한(韓)!' 열 번 외쳐요!"
+  }
+}

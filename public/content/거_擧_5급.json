@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "擧",
+    "hanja_sound": "거",
+    "hanja_meaning": "들",
+    "full_reading": "들 거",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "擧",
+    "sound": "거",
+    "meaning": "들",
+    "stroke_count": 17,
+    "radical": "手",
+    "etymology_story": "擧는 손(手)과 함께 들어 올리다는 뜻을 가진 글자입니다. 여러 손이 함께 물건을 들어 올리는 모습에서 '들다', '올리다'의 뜻이 생겼습니다. 또한 '일을 일으키다'는 뜻도 있습니다.",
+    "memory_tip": "많은 손(手)이 힘을 합쳐 들어 올리는 것이 '擧'입니다.",
+    "level_context": "5급 한자로, 들을(를) 뜻하는 擧입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선거",
+      "word_hanja": "選擧",
+      "reading": "선거",
+      "easy_definition": "투표로 대표를 뽑음",
+      "etymology_dissection": "가릴 선(選)+들 거(擧): 들어 올려 선택함",
+      "example_sentence": "오늘은 반장 선거가 있는 날입니다.",
+      "sentence_meaning": "오늘은 투표로 반장을 뽑는 날입니다."
+    },
+    {
+      "word_korean": "거수",
+      "word_hanja": "擧手",
+      "reading": "거수",
+      "easy_definition": "손을 듦",
+      "etymology_dissection": "들 거(擧)+손 수(手): 손을 들어 올림",
+      "example_sentence": "찬성하는 사람은 거수해 주세요.",
+      "sentence_meaning": "찬성하는 사람은 손을 들어 주세요."
+    },
+    {
+      "word_korean": "거행",
+      "word_hanja": "擧行",
+      "reading": "거행",
+      "easy_definition": "의식이나 행사를 치름",
+      "etymology_dissection": "들 거(擧)+행할 행(行): 일을 들어 행함",
+      "example_sentence": "졸업식이 내일 거행됩니다.",
+      "sentence_meaning": "졸업식이 내일 열립니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "학교에서 선거를 거행할 때는 손을 들어 거수 투표를 하기도 합니다. 민주주의에서 선거는 매우 중요한 행사입니다. 모든 학생이 참여하여 공정하게 뽑아야 합니다.",
+    "passage_meaning": "선거는 손을 들어 대표를 뽑는 중요한 민주주의 행사입니다.",
+    "questions": [
+      {
+        "question": "'선거'의 뜻으로 알맞은 것은?",
+        "options": [
+          "물건을 파는 것",
+          "투표로 대표를 뽑는 것",
+          "공부를 잘하는 것",
+          "운동을 하는 것"
+        ],
+        "correct_answer": "투표로 대표를 뽑는 것",
+        "explanation": "선거(選擧)는 뽑을 선(選)+들 거(擧)로 투표로 대표를 선출하는 것입니다."
+      },
+      {
+        "question": "'거수'에서 '擧'의 뜻은?",
+        "options": [
+          "앉다",
+          "손",
+          "들다",
+          "달리다"
+        ],
+        "correct_answer": "들다",
+        "explanation": "거수(擧手)의 擧는 '들다'로, 손을 들어 올리는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'선거'나 '거행'을 사용하여 문장을 만들어 보세요.",
+    "hint": "학교나 사회에서 경험한 상황을 써 보세요.",
+    "example_answer": "반장 선거가 내일 거행됩니다.",
+    "key_vocabulary": [
+      "선거",
+      "거수"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "선거에 꼭 참여합시다.",
+      "찬성하면 거수하세요.",
+      "졸업식이 성대히 거행되었습니다."
+    ],
+    "pronunciation_tips": "'거'을 명확하게 발음하며 읽어 보세요."
+  }
+}

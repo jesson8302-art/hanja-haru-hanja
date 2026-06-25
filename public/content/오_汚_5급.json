@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "오",
+    "hanja_meaning": "더러울",
+    "hanja_char": "汚",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "汚 — 물이 고여 더러워지다",
+    "etymology_story": "水(물 수)와 于(어조사 우)가 합쳐진 글자입니다. 물이 흐르지 않고 고여 더러워지는 모습에서 '더럽다', '오염'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "오염",
+      "word_hanja": "汚染",
+      "etymology_dissection": "汚(더러울 오)+染(물들 염) = 더럽게 물듦",
+      "easy_definition": "환경이나 사물이 더럽게 되는 것",
+      "context_sentence": "공장 폐수가 강을 **오염**시킵니다."
+    },
+    {
+      "word_korean": "부패",
+      "word_hanja": "腐敗",
+      "etymology_dissection": "腐(썩을 부)+敗(패할 패) = 썩어 패함",
+      "easy_definition": "도덕적으로 타락하거나 썩음 (汚와 같이 쓰임)",
+      "context_sentence": "**부패**한 정치인은 국민의 신뢰를 잃습니다."
+    },
+    {
+      "word_korean": "오탁",
+      "word_hanja": "汚濁",
+      "etymology_dissection": "汚(더러울 오)+濁(흐릴 탁) = 더럽고 흐림",
+      "easy_definition": "더럽고 탁한 상태",
+      "context_sentence": "강물이 **오탁**되어 물고기가 살 수 없습니다."
+    },
+    {
+      "word_korean": "오명",
+      "word_hanja": "汚名",
+      "etymology_dissection": "汚(더러울 오)+名(이름 명) = 더러운 이름",
+      "easy_definition": "나쁜 평판이나 치욕스러운 이름",
+      "context_sentence": "그 **오명**을 씻기 위해 오랫동안 노력했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "환경 오염의 심각성",
+    "passage_text": "현대 산업화는 심각한 환경 **오염**을 만들었습니다. 대기 **오염**은 호흡기 질환을 유발하고, 수질 **오염**은 생태계를 파괴합니다. 플라스틱으로 인한 해양 **오염**은 이제 심해까지 퍼졌습니다. 인간이 만든 **오탁**한 환경은 결국 인간 자신에게 돌아옵니다. **오염**은 국경을 넘어 지구 전체에 영향을 주므로 국제적 협력으로 해결해야 합니다.",
+    "quiz": {
+      "question": "환경 오염 문제 해결에 필요한 것으로 글에서 언급된 것은?",
+      "choices": [
+        "개인의 노력만",
+        "한 국가의 노력만",
+        "국제적 협력",
+        "기술 발전만"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "오염은 국경을 넘어 지구 전체에 영향을 주므로 국제적 협력으로 해결해야 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'오염'을 사용해서 환경을 보호하기 위해 일상에서 실천하는 것을 써보세요.",
+    "model_example": "바다 **오염**을 줄이기 위해 플라스틱 빨대 대신 종이 빨대를 사용하고, 분리수거를 철저히 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "汚(오) — 더러울 오! 오염·오탁·오명 모두 여기서! 깨끗하게 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "리",
+    "hanja_meaning": "마을",
+    "hanja_char": "里",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "밭이 있는 땅 위의 마을 — 마을 리(里)",
+    "etymology_story": "'마을 리(里)'는 밭(田)과 땅(土)이 합쳐진 글자예요. 밭을 갈며 사는 사람들이 모인 곳이 마을이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "마을(里)",
+      "etymology_dissection": "마을 리(里)에서 온 말",
+      "easy_definition": "사람들이 모여 사는 작은 공동체",
+      "context_sentence": "마을 사람들이 힘을 합쳤어요."
+    },
+    {
+      "word_korean": "이웃(里웃)",
+      "etymology_dissection": "마을 리(里)+",
+      "easy_definition": "가까이 사는 사람",
+      "context_sentence": "이웃과 사이좋게 지내야 해요."
+    },
+    {
+      "word_korean": "천리(千里)",
+      "etymology_dissection": "일천 천(千)+마을 리(里)",
+      "easy_definition": "매우 먼 거리",
+      "context_sentence": "천리 길도 한 걸음부터예요."
+    },
+    {
+      "word_korean": "거리(距里)",
+      "etymology_dissection": "거리 거(距)+마을 리(里)",
+      "easy_definition": "두 지점 사이의 길이",
+      "context_sentence": "학교까지 거리가 얼마나 돼요?"
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "마을의 따뜻함",
+    "passage_text": "**마을** 사람들이 서로 도우면 더 살기 좋아요. **이웃**과의 따뜻한 관계가 행복의 근거예요. **천리(千里)** 길도 한 걸음부터이듯 꾸준히 나아가요.",
+    "quiz": {
+      "question": "'천리(千里)'란?",
+      "choices": [
+        "하나의 마을",
+        "이웃 동네",
+        "매우 먼 거리",
+        "작은 거리"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'천리(千里)'=일천 천+마을 리, 수천 개의 마을만큼 먼 거리예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "마을이나 이웃과의 따뜻한 경험을 문장으로 써 보세요.",
+    "model_example": "마을 사람들이 함께 청소하는 날, 이웃이 얼마나 소중한지 천리 밖에서도 느껴질 것 같아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'마을 — 리(里)! 마을 — 리(里)!' 열 번 외쳐요!"
+  }
+}

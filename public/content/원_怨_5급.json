@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "怨",
+    "hanja_sound": "원",
+    "hanja_meaning": "원망할",
+    "full_reading": "원망할 원",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "怨",
+    "sound": "원",
+    "meaning": "원망할",
+    "stroke_count": 9,
+    "radical": "心",
+    "etymology_story": "怨은 마음(心)과 그릇 완(夗)이 합쳐진 글자입니다. 마음이 굽어 꺾인 것처럼 원망하는 모습에서 '원망하다', '한'의 뜻이 생겼습니다.",
+    "memory_tip": "마음(心)이 굽어 꺾인(夗) 것이 '원망(怨)'입니다.",
+    "level_context": "5급 한자로, 원망할을(를) 뜻하는 怨입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "원망",
+      "word_hanja": "怨望",
+      "reading": "원망",
+      "easy_definition": "억울하게 여기어 미워함",
+      "etymology_dissection": "원망할 원(怨)+바랄 망(望): 원하며 바람",
+      "example_sentence": "아무도 원망하지 않습니다.",
+      "sentence_meaning": "아무도 억울하게 여기어 미워하지 않습니다."
+    },
+    {
+      "word_korean": "원한",
+      "word_hanja": "怨恨",
+      "reading": "원한",
+      "easy_definition": "원망하는 한",
+      "etymology_dissection": "원망할 원(怨)+한 한(恨): 원망의 한",
+      "example_sentence": "원한을 품지 맙시다.",
+      "sentence_meaning": "원망하는 마음을 품지 맙시다."
+    },
+    {
+      "word_korean": "원성",
+      "word_hanja": "怨聲",
+      "reading": "원성",
+      "easy_definition": "원망하는 소리",
+      "etymology_dissection": "원망할 원(怨)+소리 성(聲): 원망 소리",
+      "example_sentence": "원성이 자자합니다.",
+      "sentence_meaning": "원망하는 소리가 자자합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "어려운 일이 있어도 아무도 원망하지 않습니다. 원한을 품으면 자신이 더 괴롭습니다. 잘못된 정책에 원성이 높아졌습니다.",
+    "passage_meaning": "원망, 원한, 원성 모두 '원망하다'를 뜻하는 怨에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'원한'의 뜻은?",
+        "options": [
+          "감사하는 마음",
+          "원망하는 한",
+          "기쁜 마음",
+          "좋은 기억"
+        ],
+        "correct_answer": "원망하는 한",
+        "explanation": "원한(怨恨)은 원망하는 한입니다."
+      },
+      {
+        "question": "'怨'의 뜻은?",
+        "options": [
+          "감사하다",
+          "원망하다",
+          "사랑하다",
+          "기뻐하다"
+        ],
+        "correct_answer": "원망하다",
+        "explanation": "怨은 '원망하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'원망'을 사용하여 문장을 써 보세요.",
+    "hint": "마음이나 감정에 관한 내용을 담아 보세요.",
+    "example_answer": "힘든 상황에서도 남을 원망하지 않고 노력했습니다.",
+    "key_vocabulary": [
+      "원망",
+      "원한"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "아무도 원망하지 않습니다.",
+      "원한을 풉시다.",
+      "원성이 높아졌습니다."
+    ],
+    "pronunciation_tips": "'원'을 명확하게 발음하며 읽어 보세요."
+  }
+}

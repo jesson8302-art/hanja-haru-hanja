@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "확",
+    "hanja_meaning": "확실",
+    "hanja_char": "確",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "確 — 단단한 돌처럼 확실하다",
+    "etymology_story": "石(돌 석)과 隺(두루미 학, 소리)이 합쳐진 글자입니다. 돌처럼 굳고 단단하게 확실하다는 뜻입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "확인",
+      "word_hanja": "確認",
+      "etymology_dissection": "確(확실 확)+認(알 인) = 확실히 알아봄",
+      "easy_definition": "틀림없이 알아보거나 인정함",
+      "context_sentence": "출발 전에 짐을 **확인**해주세요."
+    },
+    {
+      "word_korean": "확실",
+      "word_hanja": "確實",
+      "etymology_dissection": "確(확실 확)+實(열매 실) = 확실하고 실제적",
+      "easy_definition": "의심할 여지가 없이 분명함",
+      "context_sentence": "이것은 **확실**한 사실입니다."
+    },
+    {
+      "word_korean": "명확",
+      "word_hanja": "明確",
+      "etymology_dissection": "明(밝을 명)+確(확실 확) = 밝고 확실함",
+      "easy_definition": "뚜렷하고 확실함",
+      "context_sentence": "목표를 **명확**하게 정해야 달성할 수 있습니다."
+    },
+    {
+      "word_korean": "확립",
+      "word_hanja": "確立",
+      "etymology_dissection": "確(확실 확)+立(설 립) = 확실하게 세움",
+      "easy_definition": "굳게 세워 흔들리지 않게 함",
+      "context_sentence": "바른 가치관을 **확립**하는 것이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "확인의 중요성",
+    "passage_text": "중요한 일에서 **확인**을 빠뜨리면 큰 실수로 이어질 수 있습니다. 비행기 조종사는 이륙 전에 모든 계기를 **확인**합니다. 의사는 수술 전에 환자와 수술 부위를 **확인**합니다. 이처럼 철저한 **확인**이 사고를 예방합니다. 일상에서도 시험 답안을 다시 검토하거나, 문자를 보내기 전에 내용을 **확인**하는 습관이 실수를 줄여줍니다.",
+    "quiz": {
+      "question": "확인이 중요한 이유로 글에서 언급된 것은?",
+      "choices": [
+        "시간을 절약하기 위해",
+        "사고를 예방하기 위해",
+        "빨리 일을 끝내기 위해",
+        "남에게 잘 보이기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 철저한 확인이 사고를 예방한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'확인'을 사용해서 중요한 일을 하기 전에 확인하는 자신의 습관을 써보세요.",
+    "model_example": "시험지를 제출하기 전에 빠진 문제가 없는지 꼼꼼히 **확인**하는 습관이 실수를 줄여줍니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "確(확) — 확실 확! 확인·확실·명확·확립 모두 여기서! 멋져요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "년",
+    "hanja_meaning": "해",
+    "hanja_char": "年",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "곡식이 익어 한 해가 완성되는 '해 년(年)'",
+    "etymology_story": "'해 년(年)'은 벼 이삭이 가득 매달린 모습에서 나왔어요. 곡식을 한 번 거두는 것이 '일 년'이었기 때문이죠. 봄에 씨앗을 심고 가을에 수확할 때까지, 그 한 바퀴가 바로 일 년(一年)이랍니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신년(新年)",
+      "etymology_dissection": "새 신(新) + 해 년(年) = 새로운 해",
+      "easy_definition": "새로 시작하는 한 해",
+      "context_sentence": "신년이 되면 새 다이어리를 사요."
+    },
+    {
+      "word_korean": "연도(年度)",
+      "etymology_dissection": "해 년(年) + 법도 도(度) = 해를 나타내는 단위",
+      "easy_definition": "몇 년도인지 나타내는 단위",
+      "context_sentence": "이 책의 출판 연도는 2024년이에요."
+    },
+    {
+      "word_korean": "청년(靑年)",
+      "etymology_dissection": "푸를 청(靑) + 해 년(年) = 푸릇푸릇한 나이",
+      "easy_definition": "10~20대의 젊은 사람",
+      "context_sentence": "청년들이 나라의 미래를 만들어 가요."
+    },
+    {
+      "word_korean": "연간(年間)",
+      "etymology_dissection": "해 년(年) + 사이 간(間) = 일 년 사이",
+      "easy_definition": "일 년 동안의 기간",
+      "context_sentence": "연간 독서량 목표를 세웠어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "새해를 맞이하며",
+    "passage_text": "**신년(新年)**이 되면 사람들은 새 목표를 세워요. **청년(靑年)**들은 **연간(年間)** 계획을 꼼꼼히 짜기도 해요. 올해 **연도(年度)**가 적힌 달력을 벽에 걸며 새 출발을 다짐해요.",
+    "quiz": {
+      "question": "'청년(靑年)'은 누구를 가리키나요?",
+      "choices": [
+        "어린 아이",
+        "10~20대의 젊은 사람",
+        "나이 든 어른",
+        "학교 선생님"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'청년(靑年)'은 '푸를 청 + 해 년' = 푸릇푸릇하게 젊은 나이의 사람이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 새해 목표나 올해 이루고 싶은 일에 대해 써 보세요.",
+    "model_example": "신년이 되면 나는 연간 목표를 세우고, 청년이 될 때쯤엔 그 목표를 이루고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'해 — 년(年)! 해 — 년(年)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

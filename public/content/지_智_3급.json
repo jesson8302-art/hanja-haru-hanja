@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "지",
+    "hanja_meaning": "슬기",
+    "hanja_char": "智",
+    "hanja_level": "3급",
+    "linked_subject": "국어, 도덕, 철학"
+  },
+  "step_1_etymology": {
+    "visual_title": "알고 있는 것을 활용하는 능력 — 슬기 지(智)",
+    "etymology_story": "'슬기 지(智)'는 알 지(知)와 날 일(日)이 합쳐진 글자예요. 밝은 해처럼 밝게 알고, 그 앎을 삶에 적용하는 능력이 바로 지혜(智慧)예요. 단순히 아는 것을 넘어, 옳고 그름을 판단하고 문제를 해결하는 능력을 뜻한답니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "지혜(智慧)",
+      "etymology_dissection": "슬기 지(智) + 슬기로울 혜(慧) = 밝고 슬기로운 판단력",
+      "easy_definition": "옳고 그름을 분별하고 문제를 잘 해결하는 능력",
+      "context_sentence": "경험에서 얻은 지혜가 책에서 얻은 지식보다 깊을 수 있어요."
+    },
+    {
+      "word_korean": "지식(智識)",
+      "etymology_dissection": "슬기 지(智) + 알 식(識) = 슬기롭게 아는 것",
+      "easy_definition": "배우거나 경험하여 알게 된 내용",
+      "context_sentence": "독서는 지식을 쌓는 가장 좋은 방법 중 하나예요."
+    },
+    {
+      "word_korean": "지능(智能)",
+      "etymology_dissection": "슬기 지(智) + 능할 능(能) = 슬기롭게 할 수 있는 능력",
+      "easy_definition": "복잡한 문제를 이해하고 해결하는 정신적 능력",
+      "context_sentence": "인공지능(AI)은 사람의 지능을 모방한 기술이에요."
+    },
+    {
+      "word_korean": "지략(智略)",
+      "etymology_dissection": "슬기 지(智) + 꾀 략(略) = 슬기로운 전략",
+      "easy_definition": "상황을 꿰뚫어 보는 뛰어난 계략이나 전략",
+      "context_sentence": "이순신 장군의 지략이 임진왜란을 승리로 이끌었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "지혜와 지식의 차이",
+    "passage_text": "**지식(智識)**은 배워서 얻을 수 있지만, **지혜(智慧)**는 삶의 경험을 통해 깊어져요. **지능(智能)**이 뛰어나도 바른 인성이 없으면 진정한 인재가 되기 어려워요. 역사 속 위인들은 **지략(智略)**으로 위기를 기회로 바꾸었고, 그 지혜는 오늘날까지 우리에게 교훈을 줍니다.",
+    "quiz": {
+      "question": "'지혜(智慧)'와 '지식(智識)'의 차이를 가장 잘 설명한 것은?",
+      "choices": [
+        "지혜는 빠른 것이고 지식은 느린 것이다",
+        "지식은 배워서 얻고, 지혜는 경험을 통해 깊어진다",
+        "지혜는 어린이의 것이고 지식은 어른의 것이다",
+        "두 단어는 같은 의미다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'지식(智識)'은 배움으로 얻지만, '지혜(智慧)'는 그 지식을 삶에 올바르게 적용하는 더 깊은 능력이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 지식을 지혜로 발전시키고 싶은 경험에 대해 논리적으로 써 보세요.",
+    "model_example": "단순한 지식의 축적을 넘어, 그것을 타인을 위해 쓸 줄 아는 지혜야말로 진정한 지능의 완성이라고 생각해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'슬기 — 지(智)! 슬기 — 지(智)!' 열 번 크게 외쳐요! 오늘의 학습을 보관함에 저장하세요!"
+  }
+}

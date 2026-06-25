@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "能",
+    "hanja_sound": "능",
+    "hanja_meaning": "능할",
+    "full_reading": "능할 능",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "能",
+    "sound": "능",
+    "meaning": "능할",
+    "stroke_count": 10,
+    "radical": "肉",
+    "etymology_story": "能은 곰의 모습을 본뜬 글자로, 곰처럼 여러 가지를 잘할 수 있는 능력에서 '능하다', '할 수 있다'의 뜻이 생겼습니다.",
+    "memory_tip": "곰처럼 다양하게 능숙한 것이 '能(능할)'입니다.",
+    "level_context": "5급 한자로, 능할을(를) 뜻하는 能입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "능력",
+      "word_hanja": "能力",
+      "reading": "능력",
+      "easy_definition": "어떤 것을 할 수 있는 힘",
+      "etymology_dissection": "능할 능(能)+힘 력(力): 능한 힘",
+      "example_sentence": "그는 뛰어난 능력이 있습니다.",
+      "sentence_meaning": "그는 어떤 것을 잘할 수 있는 힘이 뛰어납니다."
+    },
+    {
+      "word_korean": "가능",
+      "word_hanja": "可能",
+      "reading": "가능",
+      "easy_definition": "할 수 있음",
+      "etymology_dissection": "옳을 가(可)+능할 능(能): 할 수 있음",
+      "example_sentence": "이것은 가능한 일입니다.",
+      "sentence_meaning": "이것은 할 수 있는 일입니다."
+    },
+    {
+      "word_korean": "재능",
+      "word_hanja": "才能",
+      "reading": "재능",
+      "easy_definition": "타고난 능력",
+      "etymology_dissection": "재주 재(才)+능할 능(能): 재주와 능력",
+      "example_sentence": "음악에 재능이 있습니다.",
+      "sentence_meaning": "음악을 잘하는 타고난 능력이 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "누구나 자신만의 재능을 가지고 있습니다. 노력하면 가능한 일이 더 많아집니다. 다양한 능력을 계발하면 미래가 더 밝아집니다.",
+    "passage_meaning": "재능을 발견하고 능력을 키우면 더 많은 것이 가능해집니다.",
+    "questions": [
+      {
+        "question": "'재능'의 뜻으로 알맞은 것은?",
+        "options": [
+          "노력해서 얻은 것",
+          "타고난 능력",
+          "배워서 익힌 것",
+          "돈으로 산 것"
+        ],
+        "correct_answer": "타고난 능력",
+        "explanation": "재능(才能)은 타고난 능력입니다."
+      },
+      {
+        "question": "'능력'에서 '能'의 뜻은?",
+        "options": [
+          "힘들다",
+          "능하다·할 수 있다",
+          "느리다",
+          "작다"
+        ],
+        "correct_answer": "능하다·할 수 있다",
+        "explanation": "능력(能力)의 能은 '능하다', '할 수 있다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'능력'이나 '재능'을 사용하여 문장을 써 보세요.",
+    "hint": "자신의 장점이나 능력에 관한 내용을 담아 보세요.",
+    "example_answer": "음악에 재능이 있어 더 열심히 연습합니다.",
+    "key_vocabulary": [
+      "능력",
+      "가능"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "모두 각자의 재능이 있습니다.",
+      "능력을 키우면 더 많은 기회가 옵니다.",
+      "가능한 일을 찾아 도전합시다."
+    ],
+    "pronunciation_tips": "'능'을 명확하게 발음하며 읽어 보세요."
+  }
+}

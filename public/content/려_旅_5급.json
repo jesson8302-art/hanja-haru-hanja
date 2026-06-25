@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "旅",
+    "hanja_sound": "려",
+    "hanja_meaning": "나그네",
+    "full_reading": "나그네 려",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "旅",
+    "sound": "려",
+    "meaning": "나그네",
+    "stroke_count": 10,
+    "radical": "方",
+    "etymology_story": "旅는 깃발(方)과 사람들(从)이 합쳐진 글자입니다. 깃발 아래 줄지어 이동하는 나그네 무리의 모습에서 '나그네', '여행하다'의 뜻이 생겼습니다.",
+    "memory_tip": "깃발(方) 아래 이동하는 사람들이 '나그네(旅)'입니다.",
+    "level_context": "5급 한자로, 나그네을(를) 뜻하는 旅입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "여행",
+      "word_hanja": "旅行",
+      "reading": "여행",
+      "easy_definition": "다른 곳을 돌아다님",
+      "etymology_dissection": "나그네 려(旅)+행할 행(行): 나그네처럼 다님",
+      "example_sentence": "가족과 여행을 갔습니다.",
+      "sentence_meaning": "가족과 함께 다른 곳을 돌아다녔습니다."
+    },
+    {
+      "word_korean": "여관",
+      "word_hanja": "旅館",
+      "reading": "여관",
+      "easy_definition": "나그네가 묵는 숙박 시설",
+      "etymology_dissection": "나그네 려(旅)+집 관(館): 나그네의 집",
+      "example_sentence": "여관에서 하룻밤을 묵었습니다.",
+      "sentence_meaning": "나그네가 쉬는 숙박 시설에서 하룻밤 잤습니다."
+    },
+    {
+      "word_korean": "여정",
+      "word_hanja": "旅程",
+      "reading": "여정",
+      "easy_definition": "여행의 일정과 과정",
+      "etymology_dissection": "나그네 려(旅)+길 정(程): 나그네의 길",
+      "example_sentence": "여정을 계획했습니다.",
+      "sentence_meaning": "여행의 일정을 미리 짰습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "가족과 제주도로 여행을 갔습니다. 여정을 미리 계획하면 더 즐거운 여행이 됩니다. 여관에서 하룻밤을 묵으며 쉬었습니다.",
+    "passage_meaning": "여행, 여관, 여정 모두 '나그네'를 뜻하는 旅에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'여행'의 뜻으로 알맞은 것은?",
+        "options": [
+          "집 안에 있는 것",
+          "다른 곳을 돌아다니는 것",
+          "공부만 하는 것",
+          "일만 하는 것"
+        ],
+        "correct_answer": "다른 곳을 돌아다니는 것",
+        "explanation": "여행(旅行)은 다른 곳을 돌아다니는 것입니다."
+      },
+      {
+        "question": "'여정'에서 '旅'의 뜻은?",
+        "options": [
+          "빠르다",
+          "나그네",
+          "멈추다",
+          "집"
+        ],
+        "correct_answer": "나그네",
+        "explanation": "여정(旅程)의 旅는 '나그네'로, 여행의 일정을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'여행'이나 '여정'을 사용하여 문장을 써 보세요.",
+    "hint": "여행이나 일상생활과 관련된 내용을 담아 보세요.",
+    "example_answer": "여행 여정을 미리 짜 두면 더 즐겁습니다.",
+    "key_vocabulary": [
+      "여행",
+      "여관"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "가족 여행이 행복한 추억이 됩니다.",
+      "여정을 계획하세요.",
+      "여관에서 편히 쉬었습니다."
+    ],
+    "pronunciation_tips": "'려'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "공",
+    "hanja_meaning": "빌",
+    "hanja_char": "空",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "구멍을 뚫어 빈 공간을 만들다 — 빌 공(空)",
+    "etymology_story": "'빌 공(空)'은 구멍(穴)과 장인(工)이 합쳐진 글자예요. 장인이 구멍을 뚫어 만든 빈 공간이 바로 '空(공)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공기(空氣)",
+      "etymology_dissection": "빌 공(空)+기운 기(氣)",
+      "easy_definition": "지구를 감싸는 투명한 기체",
+      "context_sentence": "맑은 공기를 마시면 건강해요."
+    },
+    {
+      "word_korean": "공중(空中)",
+      "etymology_dissection": "빌 공(空)+가운데 중(中)",
+      "easy_definition": "하늘 위 허공",
+      "context_sentence": "새가 공중을 날아요."
+    },
+    {
+      "word_korean": "공간(空間)",
+      "etymology_dissection": "빌 공(空)+사이 간(間)",
+      "easy_definition": "비어 있는 장소",
+      "context_sentence": "독서할 공간을 만들었어요."
+    },
+    {
+      "word_korean": "진공(眞空)",
+      "etymology_dissection": "참 진(眞)+빌 공(空)",
+      "easy_definition": "아무것도 없는 완전히 빈 공간",
+      "context_sentence": "우주는 진공 상태예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빈 공간의 가치",
+    "passage_text": "**공기(空氣)**가 없으면 숨을 쉴 수 없어요. **공중(空中)**을 나는 새처럼 자유롭고 싶어요. **공간(空間)**이 있어야 쉴 수 있고, **진공(眞空)**은 우주의 신비예요.",
+    "quiz": {
+      "question": "'공기(空氣)'란?",
+      "choices": [
+        "빈 방",
+        "지구를 감싸는 투명한 기체",
+        "하늘",
+        "우주 공간"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'공기(空氣)'=빌 공+기운 기, 우리가 숨 쉬는 지구의 기체예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "공기나 공간의 소중함에 대해 문장으로 써 보세요.",
+    "model_example": "공기가 있고 공간이 있기에 우리가 살 수 있어요. 공중을 나는 새처럼 자유롭게 꿈꿔요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'빌 — 공(空)! 빌 — 공(空)!' 열 번 외쳐요!"
+  }
+}

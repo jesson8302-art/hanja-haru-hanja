@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "완",
+    "hanja_meaning": "느릴",
+    "hanja_char": "緩",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "緩 — 실이 느슨하게 풀리다",
+    "etymology_story": "糸(실 사)와 爰(당길 원)이 합쳐진 글자입니다. 팽팽하게 당겨진 실이 느슨해지는 모습에서 '느리다', '완화하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "완화",
+      "word_hanja": "緩和",
+      "etymology_dissection": "緩(느릴 완)+和(화할 화) = 느리게 화합",
+      "easy_definition": "긴장이나 강도를 부드럽게 낮춤",
+      "context_sentence": "규제를 **완화**하여 기업 활동을 돕습니다."
+    },
+    {
+      "word_korean": "완만",
+      "word_hanja": "緩慢",
+      "etymology_dissection": "緩(느릴 완)+慢(게으를 만) = 느리고 느림",
+      "easy_definition": "기울기나 변화가 급하지 않고 느림",
+      "context_sentence": "**완만**한 경사의 산길이라 걷기 좋습니다."
+    },
+    {
+      "word_korean": "완충",
+      "word_hanja": "緩衝",
+      "etymology_dissection": "緩(느릴 완)+衝(찌를 충) = 느리게 충격을 받음",
+      "easy_definition": "충격이나 갈등을 부드럽게 흡수함",
+      "context_sentence": "**완충** 지대가 두 나라 사이의 갈등을 줄입니다."
+    },
+    {
+      "word_korean": "지연",
+      "word_hanja": "遲緩",
+      "etymology_dissection": "遲(더딜 지)+緩(느릴 완) = 더디고 느림",
+      "easy_definition": "느리거나 늦어짐",
+      "context_sentence": "업무가 **지완**되어 일정이 미뤄졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "완화의 기술",
+    "passage_text": "긴장을 **완화**하는 능력은 현대인에게 중요한 기술입니다. 심호흡, 명상, 운동은 스트레스를 **완화**하는 효과적인 방법입니다. 외교에서도 **완화**가 중요합니다. 미국과 소련이 냉전 중 긴장을 **완화**한 '데탕트' 정책이 대표적입니다. **완충** 지대는 대립하는 세력 사이에서 직접적 충돌을 막아줍니다. 갈등이 있을 때 **완만**하게 대화로 풀어가는 것이 지혜입니다.",
+    "quiz": {
+      "question": "데탕트 정책의 핵심은?",
+      "choices": [
+        "군사력 강화",
+        "냉전 중 긴장 완화",
+        "영토 확장",
+        "경제 봉쇄"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "미국과 소련이 냉전 중 긴장을 완화한 데탕트 정책을 언급했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'완화'를 사용해서 스트레스나 긴장을 풀어주는 자신만의 방법을 써보세요.",
+    "model_example": "시험 전 긴장을 **완화**하기 위해 좋아하는 음악을 듣고 복식 호흡을 하면 집중력이 회복됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "緩(완) — 느릴 완! 완화·완만·완충 모두 여기서! 여유 있게 잘했어요!"
+  }
+}

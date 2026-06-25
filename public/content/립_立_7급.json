@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "립",
+    "hanja_meaning": "설",
+    "hanja_char": "立",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "땅 위에 서 있는 사람 — 설 립(立)",
+    "etymology_story": "'설 립(立)'은 땅(一) 위에 사람이 두 다리를 벌리고 서 있는 모습이에요. 땅을 딛고 올바로 서는 것, 그것이 '립(立)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "독립(獨立)",
+      "etymology_dissection": "홀로 독(獨)+설 립(立)",
+      "easy_definition": "스스로 서는 것",
+      "context_sentence": "독립심이 강한 사람이 성공해요."
+    },
+    {
+      "word_korean": "성립(成立)",
+      "etymology_dissection": "이룰 성(成)+설 립(立)",
+      "easy_definition": "이루어져 성립되는 것",
+      "context_sentence": "조건이 맞아야 계약이 성립해요."
+    },
+    {
+      "word_korean": "설립(設立)",
+      "etymology_dissection": "베풀 설(設)+설 립(立)",
+      "easy_definition": "기관이나 단체를 새로 세우는 것",
+      "context_sentence": "학교가 설립된 날을 기념해요."
+    },
+    {
+      "word_korean": "입장(立場)",
+      "etymology_dissection": "설 립(立)+마당 장(場)",
+      "easy_definition": "어떤 처지나 관점",
+      "context_sentence": "상대방의 입장을 이해해야 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "스스로 서기",
+    "passage_text": "**독립(獨立)**심을 키우는 것이 성장이에요. 어떤 일이 **성립(成立)**되려면 노력이 필요해요. **설립(設立)**된 기관은 많은 사람의 꿈을 이어줘요. 상대방의 **입장(立場)**을 먼저 생각해요.",
+    "quiz": {
+      "question": "'독립(獨立)'이란?",
+      "choices": [
+        "도움받는 것",
+        "스스로 서는 것",
+        "이루어지는 것",
+        "새로 세우는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'독립(獨立)'=홀로 독+설 립, 스스로 우뚝 서는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "스스로 무언가를 해낸 독립적인 경험을 문장으로 써 보세요.",
+    "model_example": "처음으로 혼자 도서관을 찾아가 책을 빌렸을 때, 그 독립심이 자랑스러웠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'설 — 립(立)! 설 — 립(立)!' 열 번 외쳐요!"
+  }
+}

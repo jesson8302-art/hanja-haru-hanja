@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "백",
+    "hanja_meaning": "흰",
+    "hanja_char": "白",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "햇빛이 쏟아지는 모습 — 흰 백(白)",
+    "etymology_story": "'흰 백(白)'은 해(日) 위에 빛 한 줄기를 더한 모습이에요. 태양 빛이 쏟아지면 모든 것이 하얗게 보이는 데서 '희다'는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "백색(白色)",
+      "etymology_dissection": "흰 백(白)+빛 색(色)",
+      "easy_definition": "하얀색",
+      "context_sentence": "눈이 오면 세상이 백색으로 변해요."
+    },
+    {
+      "word_korean": "백지(白紙)",
+      "etymology_dissection": "흰 백(白)+종이 지(紙)",
+      "easy_definition": "아무것도 쓰지 않은 빈 종이",
+      "context_sentence": "백지에 새 그림을 그렸어요."
+    },
+    {
+      "word_korean": "고백(告白)",
+      "etymology_dissection": "고할 고(告)+흰 백(白)",
+      "easy_definition": "솔직하게 마음을 밝히는 것",
+      "context_sentence": "잘못을 고백하면 마음이 가벼워져요."
+    },
+    {
+      "word_korean": "명백(明白)",
+      "etymology_dissection": "밝을 명(明)+흰 백(白)",
+      "easy_definition": "누가 봐도 분명하고 확실한 것",
+      "context_sentence": "그 사실은 명백한 진실이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "하얀 마음",
+    "passage_text": "**백지(白紙)**에 무엇을 그릴지 생각하는 순간이 설레요. **고백(告白)**은 용기가 필요하지만 마음을 가볍게 해요. **명백(明白)**한 진실처럼 **백색(白色)**은 깨끗함의 상징이에요.",
+    "quiz": {
+      "question": "'고백(告白)'의 뜻은?",
+      "choices": [
+        "하얀 색",
+        "빈 종이",
+        "솔직하게 마음을 밝히는 것",
+        "밝고 환한 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'고백(告白)'=고할 고+흰 백, 마음을 환히 드러내는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "흰색이 주는 느낌이나 고백한 경험을 담은 문장을 써 보세요.",
+    "model_example": "백지처럼 깨끗한 마음으로 솔직하게 고백했더니 명백히 더 좋은 관계가 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'흰 — 백(白)! 흰 — 백(白)!' 열 번 외쳐요!"
+  }
+}

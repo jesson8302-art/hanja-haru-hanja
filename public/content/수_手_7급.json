@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "수",
+    "hanja_meaning": "손",
+    "hanja_char": "手",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "손가락 다섯 개가 달린 '손 수(手)'",
+    "etymology_story": "'손 수(手)'는 손가락 다섯 개가 달린 손바닥 모습이에요. 사람이 무언가를 하는 데 가장 중요한 도구가 바로 손이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수화(手話)",
+      "etymology_dissection": "손 수(手)+말씀 화(話)",
+      "easy_definition": "손으로 하는 언어",
+      "context_sentence": "수화로 청각 장애인과 대화해요."
+    },
+    {
+      "word_korean": "수단(手段)",
+      "etymology_dissection": "손 수(手)+계단 단(段)",
+      "easy_definition": "어떤 일을 이루는 방법",
+      "context_sentence": "목적보다 수단이 중요해요."
+    },
+    {
+      "word_korean": "선수(選手)",
+      "etymology_dissection": "고를 선(選)+손 수(手)",
+      "easy_definition": "대표로 뽑힌 사람",
+      "context_sentence": "우리 팀 선수가 골을 넣었어요."
+    },
+    {
+      "word_korean": "박수(拍手)",
+      "etymology_dissection": "칠 박(拍)+손 수(手)",
+      "easy_definition": "손뼉 치는 것",
+      "context_sentence": "공연 후 박수를 쳤어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "손의 언어",
+    "passage_text": "**선수(選手)**들의 활약에 **박수(拍手)**를 보내요. **수화(手話)**는 또 다른 아름다운 언어예요. 올바른 **수단(手段)**으로 목표를 이뤄요.",
+    "quiz": {
+      "question": "'수화(手話)'란?",
+      "choices": [
+        "박수",
+        "손으로 하는 언어",
+        "선수",
+        "방법"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'수화(手話)'=손 수+말씀 화, 손으로 하는 언어예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "손으로 무언가를 만들거나 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "수화를 배우면서 손이 단순한 도구가 아니라 또 다른 언어의 수단이 될 수 있음을 알았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'손 — 수(手)! 손 — 수(手)!' 열 번 외쳐요!"
+  }
+}

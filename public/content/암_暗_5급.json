@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "암",
+    "hanja_meaning": "어두울",
+    "hanja_char": "暗",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "暗 — 해가 숨어버린 어두운 음",
+    "etymology_story": "日(해 일)과 音(소리 음)이 합쳐진 글자입니다. 해가 소리도 없이 숨어버려 어두워진 모습에서 '어둡다', '암기하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "암기",
+      "word_hanja": "暗記",
+      "etymology_dissection": "暗(어두울 암)+記(기록할 기) = 어둠 속에서도 기억",
+      "easy_definition": "소리 내지 않고 마음속으로 외워 기억",
+      "context_sentence": "단어를 **암기**하면 표현력이 늘어납니다."
+    },
+    {
+      "word_korean": "어암",
+      "word_hanja": "語暗",
+      "etymology_dissection": "語(말씀 어)+暗(어두울 암) = 말이 어두움",
+      "easy_definition": "언어의 어두운 면, 함축적 의미",
+      "context_sentence": "시는 종종 **어암**적인 표현을 사용합니다."
+    },
+    {
+      "word_korean": "암흑",
+      "word_hanja": "暗黑",
+      "etymology_dissection": "暗(어두울 암)+黑(검을 흑) = 어둡고 검음",
+      "easy_definition": "완전히 어두운 상태",
+      "context_sentence": "**암흑** 속에서도 희망을 잃지 않았습니다."
+    },
+    {
+      "word_korean": "암시",
+      "word_hanja": "暗示",
+      "etymology_dissection": "暗(어두울 암)+示(보일 시) = 어둡게 보여줌",
+      "easy_definition": "직접 말하지 않고 넌지시 알려줌",
+      "context_sentence": "그의 말에는 중요한 **암시**가 담겨 있었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "암기와 이해",
+    "passage_text": "학습에서 **암기**와 이해는 모두 중요합니다. **암기**만 하면 응용하기 어렵고, 이해만 하면 기초 지식이 부족합니다. 수학 구구단처럼 **암기**해야 하는 것이 있고, 원리를 이해해야 하는 것이 있습니다. 뇌과학에 따르면 **암기**한 내용은 반복 복습을 통해 장기 기억으로 넘어갑니다. 스토리를 만들거나 **암시**적인 연상법을 활용하면 **암기** 효과가 높아집니다.",
+    "quiz": {
+      "question": "암기 효과를 높이는 방법으로 글에서 언급된 것은?",
+      "choices": [
+        "한 번만 집중해서 읽기",
+        "스토리를 만들거나 연상법을 활용하기",
+        "잠을 줄이고 더 많이 공부하기",
+        "어두운 곳에서 공부하기"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 스토리를 만들거나 암시적인 연상법을 활용하면 암기 효과가 높아진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'암기'를 사용해서 자신의 암기 방법이나 경험을 써보세요.",
+    "model_example": "영어 단어를 **암기**할 때 단어와 관련된 재미있는 이야기를 만들면 훨씬 오래 기억됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "暗(암) — 어두울 암! 암기·암흑·암시 모두 여기서! 잘했어요!"
+  }
+}

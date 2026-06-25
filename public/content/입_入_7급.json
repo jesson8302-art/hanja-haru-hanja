@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "입",
+    "hanja_meaning": "들",
+    "hanja_char": "入",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "안으로 들어가는 모양 — 들 입(入)",
+    "etymology_story": "'들 입(入)'은 안쪽으로 향하는 두 획이 교차하는 모습이에요. 밖에서 안으로 들어가는 동작을 나타낸 가장 기본적인 글자 중 하나예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "입구(入口)",
+      "etymology_dissection": "들 입(入)+입 구(口)",
+      "easy_definition": "들어가는 문",
+      "context_sentence": "입구에서 표를 받아요."
+    },
+    {
+      "word_korean": "입학(入學)",
+      "etymology_dissection": "들 입(入)+배울 학(學)",
+      "easy_definition": "학교에 들어가는 것",
+      "context_sentence": "입학식이 설레요."
+    },
+    {
+      "word_korean": "수입(收入)",
+      "etymology_dissection": "거둘 수(收)+들 입(入)",
+      "easy_definition": "돈이 들어오는 것",
+      "context_sentence": "수입을 알뜰하게 써요."
+    },
+    {
+      "word_korean": "입장(入場)",
+      "etymology_dissection": "들 입(入)+마당 장(場)",
+      "easy_definition": "장소에 들어가는 것",
+      "context_sentence": "입장권을 미리 예매했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "들어감의 시작",
+    "passage_text": "새로운 시작은 **입학(入學)**처럼 설레요. **입구(入口)**를 찾으면 무엇이든 시작할 수 있어요. **입장(入場)**은 새로운 세계에 발을 들이는 것이에요.",
+    "quiz": {
+      "question": "'입학(入學)'이란?",
+      "choices": [
+        "학교를 나오는 것",
+        "학교에 들어가는 것",
+        "입구",
+        "돈이 들어오는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'입학(入學)'=들 입+배울 학, 학교에 들어가 공부를 시작하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "새로운 시작이나 입학에 대한 설렘을 문장으로 써 보세요.",
+    "model_example": "입학식 날 입구에 들어서는 그 순간, 새로운 세계에 입장하는 설렘을 느꼈어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'들 — 입(入)! 들 — 입(入)!' 열 번 외쳐요!"
+  }
+}

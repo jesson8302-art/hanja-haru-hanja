@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "강",
+    "hanja_meaning": "강",
+    "hanja_char": "江",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 흘러 만나는 '강 강(江)'",
+    "etymology_story": "'강 강(江)'은 물(水→氵)과 '공(工)'이 합쳐진 글자예요. 공(工)은 위아래로 흐르는 물길을 표시한 것으로, 큰 강의 모습을 담았어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "강물(江물)",
+      "etymology_dissection": "강 강(江)+물 수",
+      "easy_definition": "강에 흐르는 물",
+      "context_sentence": "강물에 발을 담그면 시원해요."
+    },
+    {
+      "word_korean": "강산(江山)",
+      "etymology_dissection": "강 강(江)+메 산(山)",
+      "easy_definition": "강과 산, 즉 자연 전체",
+      "context_sentence": "우리나라 강산이 정말 아름다워요."
+    },
+    {
+      "word_korean": "한강(漢江)",
+      "etymology_dissection": "한나라 한(漢)+강 강(江)",
+      "easy_definition": "서울을 흐르는 큰 강",
+      "context_sentence": "한강 공원에서 자전거를 탔어요."
+    },
+    {
+      "word_korean": "강변(江邊)",
+      "etymology_dissection": "강 강(江)+가 변(邊)",
+      "easy_definition": "강의 주변, 강가",
+      "context_sentence": "강변에 앉아 노을을 바라봤어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "강의 노래",
+    "passage_text": "**한강(漢江)** 주변은 서울 시민의 쉼터예요. **강산(江山)**이 아름다운 우리나라가 자랑스러워요. **강변(江邊)**을 걷다 보면 **강물(江물)** 소리가 마음을 편안하게 해요.",
+    "quiz": {
+      "question": "'강산(江山)'이란?",
+      "choices": [
+        "강물",
+        "강의 주변",
+        "강과 산, 자연 전체",
+        "한강"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'강산(江山)'=강 강+메 산, 강과 산 즉 자연 전체를 이르는 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "강이나 자연에 대한 소감을 문장으로 써 보세요.",
+    "model_example": "강변을 걸으며 강물 소리를 들으면 우리나라 강산이 얼마나 아름다운지 새삼 느껴요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'강 — 강(江)! 강 — 강(江)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "過",
+    "hanja_sound": "과",
+    "hanja_meaning": "지날",
+    "full_reading": "지날 과",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "過",
+    "sound": "과",
+    "meaning": "지날",
+    "stroke_count": 12,
+    "radical": "辵",
+    "etymology_story": "過는 갈 착(辵)과 뼈 과(咼)가 합쳐진 글자입니다. 어떤 곳을 지나쳐 가는 모습에서 '지나다', '지나치다', '잘못'의 뜻이 생겼습니다.",
+    "memory_tip": "길(辵)을 지나쳐(咼) 가는 것이 '過'입니다.",
+    "level_context": "5급 한자로, 지날을(를) 뜻하는 過입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "과거",
+      "word_hanja": "過去",
+      "reading": "과거",
+      "easy_definition": "지나간 때",
+      "etymology_dissection": "지날 과(過)+갈 거(去): 지나가 버린 때",
+      "example_sentence": "과거를 돌아보며 배웁니다.",
+      "sentence_meaning": "지나간 시간을 돌아보며 교훈을 얻습니다."
+    },
+    {
+      "word_korean": "과정",
+      "word_hanja": "過程",
+      "reading": "과정",
+      "easy_definition": "일이 진행되는 단계와 절차",
+      "etymology_dissection": "지날 과(過)+길 정(程): 지나가는 길",
+      "example_sentence": "과정을 즐기는 것도 중요합니다.",
+      "sentence_meaning": "일이 이루어지는 단계를 즐기는 것이 중요합니다."
+    },
+    {
+      "word_korean": "과실",
+      "word_hanja": "過失",
+      "reading": "과실",
+      "easy_definition": "실수로 저지른 잘못",
+      "etymology_dissection": "지날 과(過)+잃을 실(失): 지나쳐 잃음",
+      "example_sentence": "과실을 인정하고 사과했습니다.",
+      "sentence_meaning": "실수를 인정하고 사과했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "과거의 실수에서 배워 더 나은 사람이 됩니다. 결과보다 과정을 즐기는 자세가 중요합니다. 과실을 저질렀을 때는 솔직하게 인정해야 합니다.",
+    "passage_meaning": "과거의 과실을 인정하고, 결과보다 과정을 소중히 여기는 자세가 성장의 비결입니다.",
+    "questions": [
+      {
+        "question": "'과정'의 뜻으로 알맞은 것은?",
+        "options": [
+          "일의 결과",
+          "일이 진행되는 단계와 절차",
+          "일의 시작",
+          "일의 평가"
+        ],
+        "correct_answer": "일이 진행되는 단계와 절차",
+        "explanation": "과정(過程)은 일이 진행되는 단계와 절차입니다."
+      },
+      {
+        "question": "'과실'에서 '過'의 뜻은?",
+        "options": [
+          "크다",
+          "지나다·잘못",
+          "작다",
+          "멈추다"
+        ],
+        "correct_answer": "지나다·잘못",
+        "explanation": "과실(過失)의 過는 '지나다', '잘못'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'과거'나 '과정'을 사용하여 문장을 만들어 보세요.",
+    "hint": "경험이나 성장에 관한 내용을 담아 보세요.",
+    "example_answer": "과거의 경험이 지금의 나를 만들었습니다.",
+    "key_vocabulary": [
+      "과거",
+      "과정"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "과거를 통해 배웁시다.",
+      "과정을 즐기는 것이 중요합니다.",
+      "과실을 인정하면 성장합니다."
+    ],
+    "pronunciation_tips": "'과'을 명확하게 발음하며 읽어 보세요."
+  }
+}

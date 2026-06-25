@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "舞",
+    "hanja_sound": "무",
+    "hanja_meaning": "춤출",
+    "full_reading": "춤출 무",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "舞",
+    "sound": "무",
+    "meaning": "춤출",
+    "stroke_count": 14,
+    "radical": "舛",
+    "etymology_story": "舞는 춤추는 사람의 모양을 본뜬 글자입니다. 사람이 손발을 움직여 춤추는 모습에서 '춤추다', '춤'의 뜻이 생겼습니다.",
+    "memory_tip": "손발을 움직여 춤추는 모양이 '舞'입니다.",
+    "level_context": "5급 한자로, 춤출을(를) 뜻하는 舞입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "무용",
+      "word_hanja": "舞踊",
+      "reading": "무용",
+      "easy_definition": "춤을 추는 예술",
+      "etymology_dissection": "춤출 무(舞)+뛸 용(踊): 춤추고 뜀",
+      "example_sentence": "무용 공연을 봤습니다.",
+      "sentence_meaning": "춤 예술 공연을 봤습니다."
+    },
+    {
+      "word_korean": "군무",
+      "word_hanja": "群舞",
+      "reading": "군무",
+      "easy_definition": "여럿이 함께 추는 춤",
+      "etymology_dissection": "무리 군(群)+춤출 무(舞): 무리 춤",
+      "example_sentence": "군무가 아름다웠습니다.",
+      "sentence_meaning": "여럿이 함께 추는 춤이 아름다웠습니다."
+    },
+    {
+      "word_korean": "춤",
+      "word_hanja": "舞",
+      "reading": "무",
+      "easy_definition": "몸을 움직이는 예술",
+      "etymology_dissection": "춤출 무(舞): 춤",
+      "example_sentence": "발레는 아름다운 춤입니다.",
+      "sentence_meaning": "발레는 아름다운 춤 예술입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "발레는 아름다운 무용입니다. 운동회에서 반 친구들과 군무를 췄습니다. 춤은 몸으로 표현하는 예술입니다.",
+    "passage_meaning": "무용, 군무 모두 '춤추다'는 뜻의 舞에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'무용'의 뜻으로 알맞은 것은?",
+        "options": [
+          "달리기",
+          "춤을 추는 예술",
+          "노래 부르기",
+          "그림 그리기"
+        ],
+        "correct_answer": "춤을 추는 예술",
+        "explanation": "무용(舞踊)은 춤을 추는 예술입니다."
+      },
+      {
+        "question": "'군무'에서 '舞'의 뜻은?",
+        "options": [
+          "노래",
+          "춤추다",
+          "달리다",
+          "그리다"
+        ],
+        "correct_answer": "춤추다",
+        "explanation": "군무(群舞)의 舞는 '춤추다'로, 여럿이 함께 추는 춤을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'무용'이나 '군무'를 사용하여 문장을 써 보세요.",
+    "hint": "예술이나 공연과 관련된 내용을 담아 보세요.",
+    "example_answer": "친구들과 함께 군무를 연습했습니다.",
+    "key_vocabulary": [
+      "무용",
+      "군무"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "무용 공연이 정말 아름다웠습니다.",
+      "군무의 호흡을 맞춰야 합니다.",
+      "춤은 훌륭한 예술입니다."
+    ],
+    "pronunciation_tips": "'무'을 명확하게 발음하며 읽어 보세요."
+  }
+}

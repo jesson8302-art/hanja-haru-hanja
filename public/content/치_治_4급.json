@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "치",
+    "hanja_meaning": "다스릴",
+    "hanja_char": "治",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "治 — 물을 다스려 세상을 바로잡다",
+    "etymology_story": "水(물 수)와 台(별 태, 기쁠 이)가 합쳐진 글자입니다. 범람하는 물길을 바로잡아 다스리는 모습에서 '다스리다'는 뜻이 생겼습니다. 고대 중국에서 치수(治水), 즉 홍수를 다스리는 일은 왕의 가장 중요한 임무였습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "치료",
+      "word_hanja": "治療",
+      "etymology_dissection": "治(다스릴 치)+療(고칠 료) = 병을 다스려 고침",
+      "easy_definition": "병이나 상처를 낫게 하는 일",
+      "context_sentence": "의사 선생님이 감기를 **치료**해 주셨습니다."
+    },
+    {
+      "word_korean": "정치",
+      "word_hanja": "政治",
+      "etymology_dissection": "政(다스릴 정)+治(다스릴 치) = 나라를 다스림",
+      "easy_definition": "나라와 사회를 운영하는 일",
+      "context_sentence": "좋은 **정치**는 국민의 삶을 행복하게 만듭니다."
+    },
+    {
+      "word_korean": "치안",
+      "word_hanja": "治安",
+      "etymology_dissection": "治(다스릴 치)+安(편안할 안) = 안전하게 다스림",
+      "easy_definition": "사회의 질서와 안전을 유지하는 일",
+      "context_sentence": "경찰관들은 지역 **치안**을 위해 밤낮으로 일합니다."
+    },
+    {
+      "word_korean": "자치",
+      "word_hanja": "自治",
+      "etymology_dissection": "自(스스로 자)+治(다스릴 치) = 스스로 다스림",
+      "easy_definition": "스스로 자신의 일을 처리하고 관리하는 것",
+      "context_sentence": "학생회는 학교 내 **자치** 활동을 담당합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "치수의 영웅, 우왕",
+    "passage_text": "고대 중국에 큰 홍수가 났습니다. 왕은 우(禹)라는 인물에게 물을 **치료**하듯 다스리라 명령했습니다. 우왕은 13년 동안 물길을 바로잡아 홍수를 막았고, 이 업적으로 왕이 되었습니다. 이처럼 '**치수**'는 물을 다스린다는 뜻으로, 治(치)라는 글자의 기원이 되었습니다. 오늘날 **치료**라는 말도 몸의 병을 바로잡아 고친다는 뜻에서 이 글자를 씁니다.",
+    "quiz": {
+      "question": "우왕이 왕이 된 이유는 무엇인가요?",
+      "choices": [
+        "훌륭한 전쟁 영웅이었기 때문에",
+        "13년간 홍수를 막아 백성을 구했기 때문에",
+        "아버지가 왕이었기 때문에",
+        "글을 가장 잘 읽었기 때문에"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 우왕은 13년 동안 물길을 바로잡아 홍수를 막은 업적으로 왕이 되었다고 서술되어 있습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'치료'나 '자치'를 이용해서 짧은 문장을 만들어 보세요.",
+    "model_example": "감기에 걸렸을 때는 빨리 **치료**를 받아야 빠르게 나을 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "治(치) — 다스릴 치! 치료·치안·자치 모두 여기서! 잘했어요!"
+  }
+}

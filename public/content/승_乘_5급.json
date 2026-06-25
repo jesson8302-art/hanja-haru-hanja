@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "乘",
+    "hanja_sound": "승",
+    "hanja_meaning": "탈",
+    "full_reading": "탈 승",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "乘",
+    "sound": "승",
+    "meaning": "탈",
+    "stroke_count": 10,
+    "radical": "丿",
+    "etymology_story": "乘은 사람(大)이 나무(木) 위에 올라선 모습을 본뜬 글자입니다. 나무나 말 위에 올라타는 모습에서 '타다', '올라가다'의 뜻이 생겼습니다.",
+    "memory_tip": "나무(木) 위에 사람(大)이 올라탄 것이 '타다(乘)'입니다.",
+    "level_context": "5급 한자로, 탈을(를) 뜻하는 乘입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "승용차",
+      "word_hanja": "乘用車",
+      "reading": "승용차",
+      "easy_definition": "사람이 타는 자동차",
+      "etymology_dissection": "탈 승(乘)+쓸 용(用)+수레 차(車): 타고 쓰는 차",
+      "example_sentence": "가족과 승용차로 여행했습니다.",
+      "sentence_meaning": "가족과 사람이 타는 자동차로 여행했습니다."
+    },
+    {
+      "word_korean": "탑승",
+      "word_hanja": "搭乘",
+      "reading": "탑승",
+      "easy_definition": "비행기나 배에 탐",
+      "etymology_dissection": "오를 탑(搭)+탈 승(乘): 올라 탐",
+      "example_sentence": "비행기에 탑승합니다.",
+      "sentence_meaning": "비행기에 올라탑니다."
+    },
+    {
+      "word_korean": "승객",
+      "word_hanja": "乘客",
+      "reading": "승객",
+      "easy_definition": "탈것에 탄 손님",
+      "etymology_dissection": "탈 승(乘)+손님 객(客): 탄 손님",
+      "example_sentence": "승객이 많습니다.",
+      "sentence_meaning": "탈것에 탄 손님이 많습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "공항에서 비행기에 탑승했습니다. 지하철 승객이 많은 출근 시간입니다. 승용차로 편리하게 이동합니다.",
+    "passage_meaning": "탑승, 승객 모두 '타다'를 뜻하는 乘에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'탑승'의 뜻은?",
+        "options": [
+          "비행기에서 내리는 것",
+          "비행기나 배에 타는 것",
+          "비행기를 만드는 것",
+          "비행기를 파는 것"
+        ],
+        "correct_answer": "비행기나 배에 타는 것",
+        "explanation": "탑승(搭乘)은 비행기나 배에 타는 것입니다."
+      },
+      {
+        "question": "'乘'의 뜻은?",
+        "options": [
+          "내리다",
+          "타다·올라가다",
+          "걷다",
+          "달리다"
+        ],
+        "correct_answer": "타다·올라가다",
+        "explanation": "乘은 '타다', '올라가다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'탑승'이나 '승객'을 사용하여 문장을 써 보세요.",
+    "hint": "교통이나 여행에 관한 내용을 담아 보세요.",
+    "example_answer": "비행기에 탑승하여 해외여행을 떠났습니다.",
+    "key_vocabulary": [
+      "승용차",
+      "탑승"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "비행기에 탑승합니다.",
+      "승객이 가득합니다.",
+      "승용차로 편리하게 이동합니다."
+    ],
+    "pronunciation_tips": "'승'을 명확하게 발음하며 읽어 보세요."
+  }
+}

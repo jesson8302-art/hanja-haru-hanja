@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "試",
+    "hanja_sound": "시",
+    "hanja_meaning": "시험할",
+    "full_reading": "시험할 시",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "試",
+    "sound": "시",
+    "meaning": "시험할",
+    "stroke_count": 13,
+    "radical": "言",
+    "etymology_story": "試는 말(言)과 식 식(式)이 합쳐진 글자입니다. 말로 능력을 살펴 확인하는 모습에서 '시험하다', '시도하다'의 뜻이 생겼습니다.",
+    "memory_tip": "말(言)로 능력을 살펴(式) 확인하는 것이 '시험(試)'입니다.",
+    "level_context": "5급 한자로, 시험할을(를) 뜻하는 試입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "시험",
+      "word_hanja": "試驗",
+      "reading": "시험",
+      "easy_definition": "능력이나 지식을 알아봄",
+      "etymology_dissection": "시험할 시(試)+경험 험(驗): 시험하여 경험",
+      "example_sentence": "내일 시험이 있습니다.",
+      "sentence_meaning": "내일 능력이나 지식을 알아보는 시간이 있습니다."
+    },
+    {
+      "word_korean": "시도",
+      "word_hanja": "試圖",
+      "reading": "시도",
+      "easy_definition": "해보려고 꾀함",
+      "etymology_dissection": "시험할 시(試)+그림 도(圖): 시험하여 도모",
+      "example_sentence": "새로운 방법을 시도했습니다.",
+      "sentence_meaning": "새로운 방법을 해보려고 꾀했습니다."
+    },
+    {
+      "word_korean": "입시",
+      "word_hanja": "入試",
+      "reading": "입시",
+      "easy_definition": "입학 시험",
+      "etymology_dissection": "들 입(入)+시험 시(試): 들어가는 시험",
+      "example_sentence": "입시를 준비합니다.",
+      "sentence_meaning": "입학을 위한 시험을 준비합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "내일 중요한 시험이 있어 열심히 공부합니다. 새로운 방법을 시도해 봤습니다. 입시를 위해 열심히 준비합니다.",
+    "passage_meaning": "시험, 시도, 입시 모두 '시험하다', '시도하다'를 뜻하는 試에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'시도'의 뜻은?",
+        "options": [
+          "포기하는 것",
+          "해보려고 꾀하는 것",
+          "성공하는 것",
+          "실패하는 것"
+        ],
+        "correct_answer": "해보려고 꾀하는 것",
+        "explanation": "시도(試圖)는 해보려고 꾀하는 것입니다."
+      },
+      {
+        "question": "'試'의 뜻은?",
+        "options": [
+          "확정하다",
+          "시험하다·시도하다",
+          "포기하다",
+          "모르다"
+        ],
+        "correct_answer": "시험하다·시도하다",
+        "explanation": "試는 '시험하다', '시도하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'시험'이나 '시도'를 사용하여 문장을 써 보세요.",
+    "hint": "도전이나 공부에 관한 내용을 담아 보세요.",
+    "example_answer": "두려워하지 말고 새로운 것을 시도해 보세요.",
+    "key_vocabulary": [
+      "시험",
+      "시도"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "시험을 잘 보세요.",
+      "새로운 것을 시도합니다.",
+      "입시를 준비합니다."
+    ],
+    "pronunciation_tips": "'시'을 명확하게 발음하며 읽어 보세요."
+  }
+}

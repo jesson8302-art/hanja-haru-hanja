@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "談",
+    "hanja_sound": "담",
+    "hanja_meaning": "말씀",
+    "full_reading": "말씀 담",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "談",
+    "sound": "담",
+    "meaning": "말씀",
+    "stroke_count": 15,
+    "radical": "言",
+    "etymology_story": "談은 말(言)과 불꽃 담(炎)이 합쳐진 글자입니다. 불꽃처럼 열정적으로 말을 나누는 모습에서 '말씀', '이야기하다', '담화'의 뜻이 생겼습니다.",
+    "memory_tip": "불꽃(炎)처럼 열정적으로 말(言)을 나누는 것이 '談'입니다.",
+    "level_context": "5급 한자로, 말씀을(를) 뜻하는 談입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "상담",
+      "word_hanja": "相談",
+      "reading": "상담",
+      "easy_definition": "서로 이야기를 나눔",
+      "etymology_dissection": "서로 상(相)+말씀 담(談): 서로 이야기",
+      "example_sentence": "선생님과 상담을 했습니다.",
+      "sentence_meaning": "선생님과 이야기를 나눴습니다."
+    },
+    {
+      "word_korean": "담화",
+      "word_hanja": "談話",
+      "reading": "담화",
+      "easy_definition": "서로 이야기를 나눔",
+      "etymology_dissection": "말씀 담(談)+말할 화(話): 이야기 나눔",
+      "example_sentence": "대통령이 담화를 발표했습니다.",
+      "sentence_meaning": "대통령이 공식 이야기를 발표했습니다."
+    },
+    {
+      "word_korean": "회담",
+      "word_hanja": "會談",
+      "reading": "회담",
+      "easy_definition": "공식적으로 만나 이야기함",
+      "etymology_dissection": "만날 회(會)+말씀 담(談): 만나 이야기",
+      "example_sentence": "두 나라 대표가 회담을 가졌습니다.",
+      "sentence_meaning": "두 나라 대표가 만나 공식 이야기를 했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "고민이 있으면 선생님과 상담을 합니다. 두 나라가 평화를 위해 회담을 열었습니다. 대통령의 담화가 국민의 관심을 모았습니다.",
+    "passage_meaning": "상담, 담화, 회담 모두 '이야기를 나눈다'는 뜻의 談에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'상담'의 뜻으로 알맞은 것은?",
+        "options": [
+          "혼자 결정하는 것",
+          "서로 이야기를 나누는 것",
+          "편지를 쓰는 것",
+          "책을 읽는 것"
+        ],
+        "correct_answer": "서로 이야기를 나누는 것",
+        "explanation": "상담(相談)은 서로 이야기를 나누는 것입니다."
+      },
+      {
+        "question": "'회담'에서 '談'의 뜻은?",
+        "options": [
+          "만나다",
+          "말씀·이야기",
+          "떠나다",
+          "쉬다"
+        ],
+        "correct_answer": "말씀·이야기",
+        "explanation": "회담(會談)의 談은 '말씀', '이야기'로, 공식적으로 만나 이야기하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'상담'이나 '회담'을 사용하여 문장을 써 보세요.",
+    "hint": "소통이나 협력에 관한 내용을 담아 보세요.",
+    "example_answer": "어려운 문제는 선생님과 상담하여 해결했습니다.",
+    "key_vocabulary": [
+      "상담",
+      "담화"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "고민이 있으면 상담하세요.",
+      "두 나라가 평화 회담을 열었습니다.",
+      "대통령 담화를 귀 기울여 들었습니다."
+    ],
+    "pronunciation_tips": "'담'을 명확하게 발음하며 읽어 보세요."
+  }
+}

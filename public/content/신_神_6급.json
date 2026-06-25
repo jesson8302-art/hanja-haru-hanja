@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "신",
+    "hanja_meaning": "귀신",
+    "hanja_char": "神",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "하늘의 신 — 귀신 신(神)",
+    "etymology_story": "'귀신 신(神)'은 신(示)과 펼칠 신(申)이 합쳐진 글자예요. 번개처럼 하늘에서 뻗어 내려오는 신성한 존재가 '신(神)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신화(神話)",
+      "etymology_dissection": "귀신 신(神)+말씀 화(話)",
+      "easy_definition": "신에 대한 이야기",
+      "context_sentence": "그리스 신화가 재밌어요."
+    },
+    {
+      "word_korean": "정신(精神)",
+      "etymology_dissection": "정할 정(精)+귀신 신(神)",
+      "easy_definition": "마음의 힘",
+      "context_sentence": "정신력이 중요해요."
+    },
+    {
+      "word_korean": "신기(神奇)",
+      "etymology_dissection": "귀신 신(神)+기이할 기(奇)",
+      "easy_definition": "신기한 것",
+      "context_sentence": "마술이 신기해요."
+    },
+    {
+      "word_korean": "수호신(守護神)",
+      "etymology_dissection": "지킬 수(守)+보호할 호(護)+귀신 신(神)",
+      "easy_definition": "지키는 신",
+      "context_sentence": "수호신처럼 보호해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "정신의 힘",
+    "passage_text": "**정신(精神)**력이 있으면 어려움을 이겨낼 수 있어요. **신화(神話)**는 인류의 상상력이에요. **수호신(守護神)**처럼 소중한 것을 지켜요.",
+    "quiz": {
+      "question": "'정신(精神)'이란?",
+      "choices": [
+        "신화",
+        "신기",
+        "마음의 힘",
+        "수호신"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'정신(精神)'=정할 정+귀신 신, 마음의 힘과 기운이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "정신력이나 수호하는 마음이 중요했던 경험을 문장으로 써 보세요.",
+    "model_example": "신화 속 수호신처럼 정신력을 가지면 신기하게도 어려움이 극복돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'귀신 — 신(神)! 귀신 — 신(神)!' 열 번 외쳐요!"
+  }
+}

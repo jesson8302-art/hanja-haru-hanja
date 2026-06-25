@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "留",
+    "hanja_sound": "류",
+    "hanja_meaning": "머무를",
+    "full_reading": "머무를 류",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "留",
+    "sound": "류",
+    "meaning": "머무를",
+    "stroke_count": 10,
+    "radical": "田",
+    "etymology_story": "留는 소가 멈추는 모습을 나타낸 글자입니다. 한 곳에 멈추어 머무는 모습에서 '머물다', '남다', '남기다'의 뜻이 생겼습니다.",
+    "memory_tip": "소처럼 한 곳에 멈추어 '머무는' 것이 '留'입니다.",
+    "level_context": "5급 한자로, 머무를을(를) 뜻하는 留입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "유학",
+      "word_hanja": "留學",
+      "reading": "유학",
+      "easy_definition": "외국에 머물며 공부함",
+      "etymology_dissection": "머무를 류(留)+배울 학(學): 머물며 배움",
+      "example_sentence": "미국으로 유학을 갔습니다.",
+      "sentence_meaning": "미국에 머물며 공부하러 갔습니다."
+    },
+    {
+      "word_korean": "보류",
+      "word_hanja": "保留",
+      "reading": "보류",
+      "easy_definition": "어떤 결정을 미루어 남겨둠",
+      "etymology_dissection": "지킬 보(保)+머무를 류(留): 지켜 남겨둠",
+      "example_sentence": "결정을 보류했습니다.",
+      "sentence_meaning": "결정을 미루어 남겨두었습니다."
+    },
+    {
+      "word_korean": "잔류",
+      "word_hanja": "殘留",
+      "reading": "잔류",
+      "easy_definition": "나머지가 남아 있음",
+      "etymology_dissection": "남을 잔(殘)+머무를 류(留): 나머지가 남음",
+      "example_sentence": "잔류 선수들이 훈련합니다.",
+      "sentence_meaning": "남아 있는 선수들이 훈련합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "외국에서 유학하며 많은 것을 배웁니다. 중요한 결정은 보류하고 더 생각해 봅니다. 잔류 직원들이 남아 업무를 이어갑니다.",
+    "passage_meaning": "유학, 보류, 잔류 모두 '머물다', '남다'는 뜻의 留에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'유학'의 뜻으로 알맞은 것은?",
+        "options": [
+          "집에서 공부함",
+          "외국에 머물며 공부함",
+          "책만 읽는 것",
+          "여행 중 공부함"
+        ],
+        "correct_answer": "외국에 머물며 공부함",
+        "explanation": "유학(留學)은 외국에 머물며 공부하는 것입니다."
+      },
+      {
+        "question": "'보류'에서 '留'의 뜻은?",
+        "options": [
+          "빠르다",
+          "머물다·남기다",
+          "크다",
+          "높다"
+        ],
+        "correct_answer": "머물다·남기다",
+        "explanation": "보류(保留)의 留는 '머물다', '남기다'로, 결정을 미루어 남겨두는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'유학'이나 '보류'를 사용하여 문장을 써 보세요.",
+    "hint": "계획이나 학습과 관련된 내용을 담아 보세요.",
+    "example_answer": "결정을 보류하고 더 생각해 보았습니다.",
+    "key_vocabulary": [
+      "유학",
+      "보류"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "유학은 새로운 경험을 줍니다.",
+      "결정을 보류했습니다.",
+      "잔류 선수들이 최선을 다합니다."
+    ],
+    "pronunciation_tips": "'류'을 명확하게 발음하며 읽어 보세요."
+  }
+}

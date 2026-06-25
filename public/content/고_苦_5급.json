@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "苦",
+    "hanja_sound": "고",
+    "hanja_meaning": "쓸",
+    "full_reading": "쓸 고",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "苦",
+    "sound": "고",
+    "meaning": "쓸",
+    "stroke_count": 8,
+    "radical": "艸",
+    "etymology_story": "苦는 풀(艸)과 오래될 고(古)가 합쳐진 글자입니다. 오래된 풀처럼 쓴맛을 내는 모습에서 '쓰다', '고생하다', '괴롭다'의 뜻이 생겼습니다.",
+    "memory_tip": "오래된(古) 풀(艸)처럼 쓴 것이 '苦'입니다.",
+    "level_context": "5급 한자로, 쓸을(를) 뜻하는 苦입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "고생",
+      "word_hanja": "苦生",
+      "reading": "고생",
+      "easy_definition": "힘들고 괴롭게 지냄",
+      "etymology_dissection": "쓸 고(苦)+날 생(生): 쓴 삶",
+      "example_sentence": "고생 끝에 낙이 온다고 합니다.",
+      "sentence_meaning": "힘든 고생 뒤에 기쁨이 온다고 합니다."
+    },
+    {
+      "word_korean": "고통",
+      "word_hanja": "苦痛",
+      "reading": "고통",
+      "easy_definition": "몸이나 마음이 매우 아픔",
+      "etymology_dissection": "쓸 고(苦)+아플 통(痛): 쓰고 아픔",
+      "example_sentence": "고통을 참고 이겨냈습니다.",
+      "sentence_meaning": "아픔을 참아내며 극복했습니다."
+    },
+    {
+      "word_korean": "고민",
+      "word_hanja": "苦悶",
+      "reading": "고민",
+      "easy_definition": "마음이 괴롭고 힘든 것",
+      "etymology_dissection": "쓸 고(苦)+답답할 민(悶): 쓰고 답답함",
+      "example_sentence": "진로 고민을 상담했습니다.",
+      "sentence_meaning": "앞으로의 길에 대한 걱정을 상담했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "고생을 통해 더 강해질 수 있습니다. 고통스럽더라도 포기하지 않는 것이 중요합니다. 고민이 있을 때는 혼자 해결하려 하지 말고 도움을 구하는 것이 좋습니다.",
+    "passage_meaning": "고생과 고통을 이겨내고, 고민이 있을 때는 도움을 구하는 것이 성장의 방법입니다.",
+    "questions": [
+      {
+        "question": "'고생'의 뜻으로 알맞은 것은?",
+        "options": [
+          "즐겁게 지내는 것",
+          "힘들고 괴롭게 지내는 것",
+          "편안하게 쉬는 것",
+          "신나게 노는 것"
+        ],
+        "correct_answer": "힘들고 괴롭게 지내는 것",
+        "explanation": "고생(苦生)은 힘들고 괴롭게 지내는 것입니다."
+      },
+      {
+        "question": "'고통'에서 '苦'의 뜻은?",
+        "options": [
+          "달다",
+          "쓰다·괴롭다",
+          "매콤하다",
+          "시다"
+        ],
+        "correct_answer": "쓰다·괴롭다",
+        "explanation": "고통(苦痛)의 苦는 '쓰다', '괴롭다'의 뜻입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'고생'이나 '고통'을 사용하여 문장을 써 보세요.",
+    "hint": "어려움을 이겨낸 경험을 담아 보세요.",
+    "example_answer": "열심히 노력하며 고생한 보람이 있었습니다.",
+    "key_vocabulary": [
+      "고생",
+      "고통"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "고생 끝에 낙이 옵니다.",
+      "고통을 이겨내면 더 강해집니다.",
+      "고민은 털어놓을수록 가벼워집니다."
+    ],
+    "pronunciation_tips": "'고'을 명확하게 발음하며 읽어 보세요."
+  }
+}

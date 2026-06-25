@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "노",
+    "hanja_meaning": "힘쓸",
+    "hanja_char": "努",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "努 — 종이 힘을 다해 일하다",
+    "etymology_story": "奴(종 노)와 力(힘 력)이 합쳐진 글자입니다. 종이 힘을 다해 일하는 모습에서 '힘쓰다', '노력하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "노력",
+      "word_hanja": "努力",
+      "etymology_dissection": "努(힘쓸 노)+力(힘 력) = 힘쓰고 힘냄",
+      "easy_definition": "목적을 이루기 위해 몸과 마음을 다해 애씀",
+      "context_sentence": "**노력**하는 사람이 결국 성공합니다."
+    },
+    {
+      "word_korean": "노동",
+      "word_hanja": "勞動",
+      "etymology_dissection": "勞(일할 로)+動(움직일 동) = 일하고 움직임",
+      "easy_definition": "몸을 써서 일함",
+      "context_sentence": "**노동**의 가치를 존중해야 합니다."
+    },
+    {
+      "word_korean": "노심",
+      "word_hanja": "勞心",
+      "etymology_dissection": "勞(일할 로)+心(마음 심) = 마음을 씀",
+      "easy_definition": "마음을 써서 걱정하거나 수고함",
+      "context_sentence": "부모님은 자식을 위해 **노심**합니다."
+    },
+    {
+      "word_korean": "분투",
+      "word_hanja": "奮鬪",
+      "etymology_dissection": "奮(떨칠 분)+鬪(싸울 투) = 떨쳐 싸움",
+      "easy_definition": "있는 힘을 다해 싸우거나 노력함",
+      "context_sentence": "어려움 속에서도 **분투**하며 꿈을 이뤘습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "노력과 재능",
+    "passage_text": "심리학자 앤절라 더크워스는 성공을 결정하는 것은 재능이 아니라 '그릿(Grit)', 즉 열정과 끈기라고 했습니다. 그녀의 연구에 따르면 재능 있는 사람보다 **노력**하는 사람이 더 큰 성취를 보였습니다. '재능 × **노력** = 스킬, 스킬 × **노력** = 성취'라는 공식을 제시했습니다. **노력**은 두 번 곱해지는 것입니다. **분투**하는 과정 자체가 성장이며, 결과와 상관없이 그 경험은 값집니다.",
+    "quiz": {
+      "question": "앤절라 더크워스의 연구에서 성공을 결정하는 것은?",
+      "choices": [
+        "재능",
+        "외모",
+        "열정과 끈기 (그릿)",
+        "운"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "앤절라 더크워스는 성공을 결정하는 것은 재능이 아니라 열정과 끈기, 즉 그릿이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'노력'을 사용해서 꾸준한 노력으로 이룬 자신의 경험을 써보세요.",
+    "model_example": "처음에는 자전거를 전혀 못 탔지만 매일 **노력**한 끝에 혼자 탈 수 있게 되었고, 그때의 성취감은 지금도 기억납니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "努(노) — 힘쓸 노! 노력·노동·분투 모두 여기서! 노력해서 잘했어요!"
+  }
+}

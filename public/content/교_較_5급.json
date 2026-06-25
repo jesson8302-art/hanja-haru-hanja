@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "較",
+    "hanja_sound": "교",
+    "hanja_meaning": "견줄",
+    "full_reading": "견줄 교",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "較",
+    "sound": "교",
+    "meaning": "견줄",
+    "stroke_count": 13,
+    "radical": "車",
+    "etymology_story": "較는 수레(車)와 효도 효(爻)가 합쳐진 글자입니다. 수레의 크기를 서로 견주어 보는 모습에서 '견주다', '비교하다'의 뜻이 생겼습니다.",
+    "memory_tip": "수레(車) 두 대를 나란히 두고 견주어 보는 것이 '較'입니다.",
+    "level_context": "5급 한자로, 견줄을(를) 뜻하는 較입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "비교",
+      "word_hanja": "比較",
+      "reading": "비교",
+      "easy_definition": "둘 이상을 견주어 살핌",
+      "etymology_dissection": "견줄 비(比)+견줄 교(較): 견주어 살핌",
+      "example_sentence": "두 물건을 비교해 보세요.",
+      "sentence_meaning": "두 물건을 나란히 놓고 살펴보세요."
+    },
+    {
+      "word_korean": "비교적",
+      "word_hanja": "比較的",
+      "reading": "비교적",
+      "easy_definition": "어느 기준과 견주어 볼 때",
+      "etymology_dissection": "견줄 비(比)+견줄 교(較)+과녁 적(的): 견주어 볼 때",
+      "example_sentence": "비교적 쉬운 문제입니다.",
+      "sentence_meaning": "어느 기준보다 쉬운 편인 문제입니다."
+    },
+    {
+      "word_korean": "교정",
+      "word_hanja": "較正",
+      "reading": "교정",
+      "easy_definition": "잘못된 것을 바로잡음",
+      "etymology_dissection": "견줄 교(較)+바를 정(正): 견주어 바로잡음",
+      "example_sentence": "교정 작업이 끝났습니다.",
+      "sentence_meaning": "잘못된 내용을 바로잡는 작업이 끝났습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "두 제품을 비교하면 더 좋은 것을 고를 수 있습니다. 이 문제는 비교적 쉬운 편입니다. 글을 쓸 때는 교정을 통해 오류를 수정합니다.",
+    "passage_meaning": "비교를 통해 더 나은 것을 선택하고, 교정으로 오류를 바로잡는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'비교'의 뜻으로 알맞은 것은?",
+        "options": [
+          "혼자 결정하는 것",
+          "둘 이상을 견주어 살피는 것",
+          "아무것도 하지 않는 것",
+          "빠르게 결정하는 것"
+        ],
+        "correct_answer": "둘 이상을 견주어 살피는 것",
+        "explanation": "비교(比較)는 둘 이상을 견주어 살피는 것입니다."
+      },
+      {
+        "question": "'비교적'에서 '較'의 뜻은?",
+        "options": [
+          "크다",
+          "견주다",
+          "빠르다",
+          "느리다"
+        ],
+        "correct_answer": "견주다",
+        "explanation": "비교적(比較的)의 較는 '견주다'로, 기준과 비교하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'비교'나 '비교적'을 사용하여 문장을 써 보세요.",
+    "hint": "두 가지를 비교하는 상황을 담아 보세요.",
+    "example_answer": "두 가방을 비교해 보니 이 가방이 더 좋았습니다.",
+    "key_vocabulary": [
+      "비교",
+      "비교적"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "두 책을 비교하며 읽었습니다.",
+      "이 문제는 비교적 쉽습니다.",
+      "교정을 마치고 책이 출판됩니다."
+    ],
+    "pronunciation_tips": "'교'을 명확하게 발음하며 읽어 보세요."
+  }
+}

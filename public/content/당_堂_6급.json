@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "당",
+    "hanja_meaning": "집",
+    "hanja_char": "堂",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "높은 곳에 세운 집 — 집 당(堂)",
+    "etymology_story": "'집 당(堂)'은 높을 상(尙)과 흙 토(土)가 합쳐진 글자예요. 높은 땅(土) 위에 당당히 세운 큰 집이 '당(堂)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "식당(食堂)",
+      "etymology_dissection": "밥 식(食)+집 당(堂)",
+      "easy_definition": "음식을 파는 곳",
+      "context_sentence": "학교 식당이 맛있어요."
+    },
+    {
+      "word_korean": "강당(講堂)",
+      "etymology_dissection": "강의할 강(講)+집 당(堂)",
+      "easy_definition": "강의하는 큰 방",
+      "context_sentence": "강당에서 공연해요."
+    },
+    {
+      "word_korean": "천당(天堂)",
+      "etymology_dissection": "하늘 천(天)+집 당(堂)",
+      "easy_definition": "하늘의 집, 천국",
+      "context_sentence": "천당처럼 아름다운 곳이에요."
+    },
+    {
+      "word_korean": "당당(堂堂)",
+      "etymology_dissection": "집 당(堂)+집 당(堂)",
+      "easy_definition": "당당하고 떳떳한 것",
+      "context_sentence": "당당하게 말해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "당당한 자리",
+    "passage_text": "**당당(堂堂)**하게 서는 것이 자신감이에요. **강당(講堂)**에서 발표하는 연습을 해요. **식당(食堂)**에서 감사히 먹어요.",
+    "quiz": {
+      "question": "'당당(堂堂)'이란?",
+      "choices": [
+        "식당",
+        "강당",
+        "당당하고 떳떳한 것",
+        "천당"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'당당(堂堂)'=집 당을 두 번 써서, 큰 집처럼 당당하고 떳떳한 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "당당하게 자신을 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "강당 앞에서 당당하게 발표할 때, 식당에서 감사히 먹는 마음처럼 당당한 자세가 중요해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'집 — 당(堂)! 집 — 당(堂)!' 열 번 외쳐요!"
+  }
+}

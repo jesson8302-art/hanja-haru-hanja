@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "자",
+    "hanja_meaning": "글자",
+    "hanja_char": "字",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "지붕 아래에서 아이가 태어난 '글자 자(字)'",
+    "etymology_story": "'글자 자(字)'는 지붕(宀) 아래에 아이(子)가 있는 모습이에요. 집에서 아이가 태어나 이름을 짓는 것처럼, 뜻과 소리를 가진 기호인 '글자'가 태어난다는 개념이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "한자(漢字)",
+      "etymology_dissection": "한나라 한(漢) + 글자 자(字) = 중국 글자",
+      "easy_definition": "중국에서 만들어진 동아시아 문자",
+      "context_sentence": "이 수업에서 한자를 배워요."
+    },
+    {
+      "word_korean": "글자(글字)",
+      "etymology_dissection": "글 + 글자 자(字) = 문자",
+      "easy_definition": "말을 눈으로 볼 수 있게 적은 기호",
+      "context_sentence": "한글 글자는 24개의 자모로 이루어져요."
+    },
+    {
+      "word_korean": "문자(文字)",
+      "etymology_dissection": "글 문(文) + 글자 자(字) = 글자",
+      "easy_definition": "언어를 기록하는 데 쓰는 기호 체계",
+      "context_sentence": "문자가 생기면서 역사가 기록되기 시작했어요."
+    },
+    {
+      "word_korean": "자막(字幕)",
+      "etymology_dissection": "글자 자(字) + 장막 막(幕) = 글자로 된 막",
+      "easy_definition": "영상 아래 나타나는 설명 글자",
+      "context_sentence": "자막이 있어야 외국 영화를 이해해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "글자의 힘",
+    "passage_text": "**문자(文字)**가 발명되면서 인류는 역사를 기록하기 시작했어요. **한자(漢字)**는 동아시아 수천 년의 지혜를 담고 있어요. **자막(字幕)** 덕분에 세계 여러 나라의 영화를 즐길 수 있어요.",
+    "quiz": {
+      "question": "'문자(文字)'란?",
+      "choices": [
+        "숫자",
+        "언어를 기록하는 데 쓰는 기호 체계",
+        "그림",
+        "소리"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'문자(文字)'는 '글 문 + 글자 자' = 언어를 기록하기 위한 기호 체계예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "글자(문자)가 없었다면 세상이 어떻게 됐을지 상상하며 문장을 써 보세요.",
+    "model_example": "문자가 없었다면 선조들의 지혜도, 한자도, 아름다운 시도 지금까지 전해지지 못했을 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'글자 — 자(字)! 글자 — 자(字)!' 열 번 외쳐요!"
+  }
+}

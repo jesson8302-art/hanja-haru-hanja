@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "교",
+    "hanja_meaning": "학교",
+    "hanja_char": "校",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 교육"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무로 만든 교육의 울타리 — 학교 교(校)",
+    "etymology_story": "'학교 교(校)'는 나무(木)와 비교할 교(交)가 합쳐진 글자예요. 나무로 만든 울타리 안에서 지식을 교환하는 곳, 그것이 바로 학교예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "학교(學校)",
+      "etymology_dissection": "배울 학(學) + 학교 교(校) = 배우는 학교",
+      "easy_definition": "공부를 하는 곳",
+      "context_sentence": "학교에서 친구들을 만나요."
+    },
+    {
+      "word_korean": "교장(校長)",
+      "etymology_dissection": "학교 교(校) + 어른 장(長) = 학교의 대표",
+      "easy_definition": "학교를 이끄는 최고 책임자",
+      "context_sentence": "교장 선생님이 조회를 진행하셨어요."
+    },
+    {
+      "word_korean": "교복(校服)",
+      "etymology_dissection": "학교 교(校) + 옷 복(服) = 학교 옷",
+      "easy_definition": "학교에서 입는 통일된 옷",
+      "context_sentence": "교복을 입으면 학교에 간다는 실감이 나요."
+    },
+    {
+      "word_korean": "교훈(校訓)",
+      "etymology_dissection": "학교 교(校) + 가르칠 훈(訓) = 학교의 가르침",
+      "easy_definition": "학교가 추구하는 중요한 가르침",
+      "context_sentence": "우리 학교 교훈은 '성실'이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "학교라는 공간",
+    "passage_text": "**학교(學校)**는 단순히 공부만 하는 곳이 아니에요. **교복(校服)**을 입고 친구들과 함께 웃고 떠드는 것도 학교 생활이에요. **교훈(校訓)**은 학교가 우리에게 전하는 가장 중요한 메시지예요. **교장(校長)** 선생님은 학교 전체를 이끄는 분이에요.",
+    "quiz": {
+      "question": "'교훈(校訓)'이란?",
+      "choices": [
+        "학교 교복",
+        "학교가 추구하는 중요한 가르침",
+        "교장 선생님",
+        "학교 건물"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'교훈(校訓)'은 '학교 교 + 가르칠 훈' = 학교가 전하는 가장 중요한 가르침이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 학교의 교훈을 떠올리며, 그 뜻을 내 말로 풀어 써 보세요.",
+    "model_example": "우리 학교 교훈인 '성실'처럼, 매일 학교에서 조금씩 더 노력하는 나를 만들어 가고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'학교 — 교(校)! 학교 — 교(校)!' 열 번 외쳐요!"
+  }
+}

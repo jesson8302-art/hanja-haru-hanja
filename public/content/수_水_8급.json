@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "수",
+    "hanja_meaning": "물",
+    "hanja_char": "水",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "물방울이 모여 강이 되고 바다가 돼요 — 물 수(水)",
+    "etymology_story": "'물 수(水)'는 강물이 위에서 아래로 흘러내리는 모양을 본뜬 글자예요. 가운데 선은 강의 흐름, 양쪽 점들은 물방울이래요! 물은 생명의 근원이라 옛사람들도 이 글자를 매우 소중히 여겼답니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수영(水泳)",
+      "etymology_dissection": "물 수(水) + 헤엄칠 영(泳) = 물 속을 헤엄치는 것",
+      "easy_definition": "물속에서 몸을 움직여 헤엄치는 것",
+      "context_sentence": "여름방학에 수영장에 가서 수영을 배웠어요."
+    },
+    {
+      "word_korean": "수도(水道)",
+      "etymology_dissection": "물 수(水) + 길 도(道) = 물이 흐르는 길",
+      "easy_definition": "집까지 깨끗한 물을 보내 주는 시설",
+      "context_sentence": "수도꼭지를 틀면 깨끗한 물이 나와요."
+    },
+    {
+      "word_korean": "홍수(洪水)",
+      "etymology_dissection": "넓을 홍(洪) + 물 수(水) = 아주 넓게 퍼진 물",
+      "easy_definition": "비가 너무 많이 와서 넘쳐 흐르는 물",
+      "context_sentence": "홍수 때문에 마을이 물에 잠겼어요."
+    },
+    {
+      "word_korean": "수력(水力)",
+      "etymology_dissection": "물 수(水) + 힘 력(力) = 물의 힘",
+      "easy_definition": "흐르는 물의 힘으로 전기를 만드는 것",
+      "context_sentence": "댐에서 수력으로 전기를 만들어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "물이 하는 일",
+    "passage_text": "우리는 매일 **수도(水道)**에서 물을 마셔요. 여름에는 **수영(水泳)**을 하며 시원하게 놀기도 해요. 하지만 비가 너무 많이 오면 **홍수(洪水)**가 나서 위험해질 수 있어요. 물은 우리에게 꼭 필요하지만 조심해야 할 자연이기도 해요.",
+    "quiz": {
+      "question": "'수도(水道)'는 어떤 뜻인가요?",
+      "choices": [
+        "물 속에서 헤엄치는 것",
+        "집까지 물을 보내 주는 시설",
+        "물이 넘쳐 흐르는 것",
+        "물의 힘으로 전기를 만드는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'수도(水道)'는 '물 수 + 길 도' = 물이 흐르는 길이에요. 수도꼭지를 틀면 이 길로 물이 오는 거예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 '수영', '수도', '홍수', '수력' 중 하나를 골라 내가 경험한 이야기를 문장으로 써 보세요.",
+    "model_example": "수영장에서 처음 수영을 배웠을 때, 물이 무서웠지만 선생님 덕분에 해낼 수 있었어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'물 — 수(水)! 물 — 수(水)!' 열 번 크게 소리 내어 읽어 보세요! 잘 외워졌으면 보관함에 저장하세요!"
+  }
+}

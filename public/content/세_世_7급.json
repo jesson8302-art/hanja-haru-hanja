@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "세",
+    "hanja_meaning": "인간",
+    "hanja_char": "世",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "세대가 이어지는 '인간 세(世)'",
+    "etymology_story": "'인간 세(世)'는 세 개의 十(열)이 연결된 모습이에요. 30년을 한 세대로 봤기에 30년씩 이어지는 세대를 표현한 거예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "세상(世上)",
+      "etymology_dissection": "인간 세(世)+위 상(上)",
+      "easy_definition": "우리가 사는 세계",
+      "context_sentence": "세상은 넓고 아름다워요."
+    },
+    {
+      "word_korean": "세계(世界)",
+      "etymology_dissection": "인간 세(世)+경계 계(界)",
+      "easy_definition": "지구 전체",
+      "context_sentence": "세계 여행이 꿈이에요."
+    },
+    {
+      "word_korean": "세대(世代)",
+      "etymology_dissection": "인간 세(世)+세대 대(代)",
+      "easy_definition": "약 30년의 시대 흐름",
+      "context_sentence": "세대 간 소통이 중요해요."
+    },
+    {
+      "word_korean": "세기(世紀)",
+      "etymology_dissection": "인간 세(世)+벼리 기(紀)",
+      "easy_definition": "100년의 시간",
+      "context_sentence": "21세기는 디지털 시대예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이어지는 세상",
+    "passage_text": "**세상(世上)**은 넓고 가능성이 가득해요. **세계(世界)**를 품은 꿈을 꿔요. **세대(世代)**가 달라도 서로 소통할 수 있어요. **세기(世紀)**를 넘어 이어지는 지혜를 배워요.",
+    "quiz": {
+      "question": "'세계(世界)'란?",
+      "choices": [
+        "우리 동네",
+        "우리나라",
+        "지구 전체",
+        "세대"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'세계(世界)'=인간 세+경계 계, 경계를 넘어선 지구 전체예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "세계나 세상에 대한 나의 꿈을 문장으로 써 보세요.",
+    "model_example": "세계가 넓은 만큼 내 꿈도 세기를 넘어 세대를 이어가는 큰 꿈이 될 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'인간 — 세(世)! 인간 — 세(世)!' 열 번 외쳐요!"
+  }
+}

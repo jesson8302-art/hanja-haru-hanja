@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "활",
+    "hanja_meaning": "살",
+    "hanja_char": "活",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "活 — 물이 흐르며 살아있다",
+    "etymology_story": "水(물 수)와 舌(혀 설)이 합쳐진 글자입니다. 물이 활발히 흐르며 생명력이 넘치는 모습에서 '살다', '활발하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "생활",
+      "word_hanja": "生活",
+      "etymology_dissection": "生(날 생)+活(살 활) = 나서 살아감",
+      "easy_definition": "날마다 살아가는 것",
+      "context_sentence": "규칙적인 **생활** 습관이 건강을 지킵니다."
+    },
+    {
+      "word_korean": "활동",
+      "word_hanja": "活動",
+      "etymology_dissection": "活(살 활)+動(움직일 동) = 살아 움직임",
+      "easy_definition": "어떤 목적을 위해 힘차게 움직임",
+      "context_sentence": "방과 후 클럽 **활동**에 참여합니다."
+    },
+    {
+      "word_korean": "활용",
+      "word_hanja": "活用",
+      "etymology_dissection": "活(살 활)+用(쓸 용) = 살려 씀",
+      "easy_definition": "유용하게 잘 이용함",
+      "context_sentence": "배운 지식을 실생활에 **활용**하세요."
+    },
+    {
+      "word_korean": "활성화",
+      "word_hanja": "活性化",
+      "etymology_dissection": "活(살 활)+性(성품 성)+化(될 화) = 살아나게 됨",
+      "easy_definition": "더 활발하게 이루어지게 함",
+      "context_sentence": "지역 경제를 **활성화**하는 정책이 필요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "활발한 생활의 힘",
+    "passage_text": "**활동**적인 **생활**은 몸과 마음의 건강을 지켜줍니다. 세계보건기구(WHO)는 청소년에게 하루 60분 이상의 신체 **활동**을 권장합니다. 운동은 뇌 건강에도 영향을 주어 학습 능력을 향상시키는 효과가 있습니다. 또한 **활동**을 통해 배운 것을 **활용**하면 기억이 더 오래 지속됩니다. **생활** 속에서 배움을 **활용**하는 것이 진정한 학습입니다.",
+    "quiz": {
+      "question": "WHO가 청소년에게 권장하는 신체 활동 시간은?",
+      "choices": [
+        "하루 30분 이상",
+        "하루 60분 이상",
+        "주 3회 이상",
+        "하루 2시간 이상"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "세계보건기구(WHO)는 청소년에게 하루 60분 이상의 신체 활동을 권장합니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'활용'을 사용해서 학교에서 배운 것을 일상에서 활용한 경험을 써보세요.",
+    "model_example": "수업에서 배운 영양소 지식을 **활용**해 급식에서 더 균형 있게 음식을 골라 먹게 되었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "活(활) — 살 활! 생활·활동·활용·활성화 모두 여기서! 잘했어요!"
+  }
+}

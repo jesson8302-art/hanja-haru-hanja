@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "렴",
+    "hanja_meaning": "청렴",
+    "hanja_char": "廉",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "廉 — 모퉁이가 날카로운 청렴함",
+    "etymology_story": "广(집 엄)과 兼(겸할 겸)이 합쳐진 글자입니다. 여러 가지를 다 갖추면서도 탐내지 않는 청렴한 사람을 뜻합니다. 공직자가 갖춰야 할 덕목으로 자주 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "청렴",
+      "word_hanja": "淸廉",
+      "etymology_dissection": "淸(맑을 청)+廉(청렴할 렴) = 맑고 청렴함",
+      "easy_definition": "욕심 없이 맑고 깨끗하게 살아가는 자세",
+      "context_sentence": "**청렴**한 공무원이 신뢰받는 정부를 만듭니다."
+    },
+    {
+      "word_korean": "렴치",
+      "word_hanja": "廉恥",
+      "etymology_dissection": "廉(청렴할 렴)+恥(부끄러울 치) = 청렴함과 부끄러움",
+      "easy_definition": "잘못을 부끄러워하고 올바르게 사는 도덕심",
+      "context_sentence": "**염치**가 있는 사람은 잘못을 스스로 반성합니다."
+    },
+    {
+      "word_korean": "저렴",
+      "word_hanja": "低廉",
+      "etymology_dissection": "低(낮을 저)+廉(청렴할 렴) = 낮고 청렴함",
+      "easy_definition": "값이 싸고 합리적임",
+      "context_sentence": "**저렴**한 가격에 좋은 품질의 제품을 찾습니다."
+    },
+    {
+      "word_korean": "청렴도",
+      "word_hanja": "淸廉度",
+      "etymology_dissection": "淸廉(청렴)+度(정도 도) = 청렴한 정도",
+      "easy_definition": "얼마나 청렴한지를 나타내는 지표",
+      "context_sentence": "우리나라 공직자 **청렴도**를 높이는 것이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "청렴한 공직자",
+    "passage_text": "조선 시대의 관리 황희 정승은 **청렴**함으로 유명했습니다. 재상의 지위에 있으면서도 소박하게 살며 욕심을 부리지 않았습니다. **렴치**를 아는 사람은 자신의 지위를 이용해 사리사욕을 채우지 않습니다. 오늘날에도 공직자의 **청렴도**는 그 나라의 수준을 보여주는 중요한 지표입니다.",
+    "quiz": {
+      "question": "황희 정승의 청렴함을 보여주는 내용은?",
+      "choices": [
+        "높은 지위를 이용해 부를 쌓았다",
+        "재상의 지위에 있으면서도 소박하게 살았다",
+        "엄격한 법으로 백성을 다스렸다",
+        "많은 재산을 자녀에게 물려줬다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "황희 정승은 재상의 지위에 있으면서도 소박하게 살며 욕심을 부리지 않았다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'청렴'을 사용해서 깨끗하고 욕심 없는 삶의 자세에 대한 생각을 써보세요.",
+    "model_example": "어떤 지위에 오르더라도 **청렴**하게 살며 자신의 이익보다 다른 사람을 먼저 생각하는 사람이 진정 존경받습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "廉(렴) — 청렴할 렴! 청렴·저렴·염치 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "黨",
+    "hanja_sound": "당",
+    "hanja_meaning": "무리",
+    "full_reading": "무리 당",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "黨",
+    "sound": "당",
+    "meaning": "무리",
+    "stroke_count": 20,
+    "radical": "黑",
+    "etymology_story": "黨은 검을 흑(黑)과 상(尚)이 합쳐진 글자입니다. 같은 목적을 위해 모인 무리를 나타내며 '무리', '당파', '정당'의 뜻이 생겼습니다.",
+    "memory_tip": "같은 뜻(尚)을 가진 검은(黑) 무리가 '黨(무리)'입니다.",
+    "level_context": "5급 한자로, 무리을(를) 뜻하는 黨입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "정당",
+      "word_hanja": "政黨",
+      "reading": "정당",
+      "easy_definition": "정치적 목적을 위한 단체",
+      "etymology_dissection": "정사 정(政)+무리 당(黨): 정치 무리",
+      "example_sentence": "민주주의에서 정당이 중요합니다.",
+      "sentence_meaning": "민주주의에서 정치적 단체가 중요합니다."
+    },
+    {
+      "word_korean": "당원",
+      "word_hanja": "黨員",
+      "reading": "당원",
+      "easy_definition": "정당에 속한 사람",
+      "etymology_dissection": "무리 당(黨)+사람 원(員): 당의 사람",
+      "example_sentence": "그는 여당 당원입니다.",
+      "sentence_meaning": "그는 여당에 속한 사람입니다."
+    },
+    {
+      "word_korean": "여당",
+      "word_hanja": "與黨",
+      "reading": "여당",
+      "easy_definition": "정권을 잡은 정당",
+      "etymology_dissection": "줄 여(與)+무리 당(黨): 권력을 가진 당",
+      "example_sentence": "여당과 야당이 논쟁했습니다.",
+      "sentence_meaning": "집권 정당과 반대 정당이 논쟁했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "민주주의 사회에서 정당은 중요한 역할을 합니다. 여당과 야당이 건전한 토론을 통해 더 좋은 정책을 만들어 냅니다. 당원들은 당의 목적을 위해 활동합니다.",
+    "passage_meaning": "정당과 당원들이 여당과 야당으로 나뉘어 민주주의를 발전시킵니다.",
+    "questions": [
+      {
+        "question": "'정당'의 뜻으로 알맞은 것은?",
+        "options": [
+          "종교 단체",
+          "정치적 목적을 위한 단체",
+          "예술 단체",
+          "스포츠 팀"
+        ],
+        "correct_answer": "정치적 목적을 위한 단체",
+        "explanation": "정당(政黨)은 정치적 목적을 위한 단체입니다."
+      },
+      {
+        "question": "'여당'에서 '黨'의 뜻은?",
+        "options": [
+          "사람",
+          "무리·당",
+          "나라",
+          "정치"
+        ],
+        "correct_answer": "무리·당",
+        "explanation": "여당(與黨)의 黨은 '무리', '당'으로, 정치적 단체를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'정당'이나 '여당'을 사용하여 문장을 써 보세요.",
+    "hint": "민주주의나 정치와 관련된 내용을 담아 보세요.",
+    "example_answer": "민주주의에서 여당과 야당의 토론이 중요합니다.",
+    "key_vocabulary": [
+      "정당",
+      "당원"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "정당은 민주주의의 기둥입니다.",
+      "여당과 야당이 협력해야 합니다.",
+      "당원들이 활발히 활동합니다."
+    ],
+    "pronunciation_tips": "'당'을 명확하게 발음하며 읽어 보세요."
+  }
+}

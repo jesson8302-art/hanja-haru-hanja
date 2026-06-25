@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "소",
+    "hanja_meaning": "사라질",
+    "hanja_char": "消",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 줄어 사라지다 — 사라질 소(消)",
+    "etymology_story": "'사라질 소(消)'는 물(水)과 달 월(月)처럼 줄어드는 모습이 합쳐진 글자예요. 달이 차고 지듯 물이 줄어 사라지는 것이 '사라지다(消)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "소비(消費)",
+      "etymology_dissection": "사라질 소(消)+쓸 비(費)",
+      "easy_definition": "써서 없애는 것",
+      "context_sentence": "소비를 줄여요."
+    },
+    {
+      "word_korean": "소화(消化)",
+      "etymology_dissection": "사라질 소(消)+될 화(化)",
+      "easy_definition": "음식을 소화하는 것",
+      "context_sentence": "천천히 먹어야 소화가 잘 돼요."
+    },
+    {
+      "word_korean": "소방(消防)",
+      "etymology_dissection": "사라질 소(消)+막을 방(防)",
+      "easy_definition": "불을 끄고 막는 것",
+      "context_sentence": "소방관이 용감해요."
+    },
+    {
+      "word_korean": "취소(取消)",
+      "etymology_dissection": "취할 취(取)+사라질 소(消)",
+      "easy_definition": "계획을 없애는 것",
+      "context_sentence": "약속을 취소했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사라짐과 소비",
+    "passage_text": "**소화(消化)**가 잘 되어야 건강해요. **소방(消防)**관은 생명을 지켜요. **소비(消費)**를 줄이면 환경이 살아요.",
+    "quiz": {
+      "question": "'소방(消防)'이란?",
+      "choices": [
+        "소비",
+        "소화",
+        "불을 끄고 막는 것",
+        "취소"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'소방(消防)'=사라질 소+막을 방, 불을 없애고 막는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "소방관처럼 위험에서 지킨 경험이나 소비를 줄인 경험을 문장으로 써 보세요.",
+    "model_example": "소방관처럼 용기 있게 행동하고, 소비를 줄여 지구를 지키는 것이 진정한 영웅이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사라질 — 소(消)! 사라질 — 소(消)!' 열 번 외쳐요!"
+  }
+}

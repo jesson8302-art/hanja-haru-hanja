@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "편",
+    "hanja_meaning": "편할",
+    "hanja_char": "便",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 편하게 쉬다 — 편할 편(便)",
+    "etymology_story": "'편할 편(便)'은 사람(人)과 바꿀 갱(更)이 합쳐진 글자예요. 상황을 바꾸어 사람이 편하게 된 것이 '편하다(便)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "편리(便利)",
+      "etymology_dissection": "편할 편(便)+이로울 리(利)",
+      "easy_definition": "사용하기 편하고 이로운 것",
+      "context_sentence": "스마트폰이 편리해요."
+    },
+    {
+      "word_korean": "편지(便紙)",
+      "etymology_dissection": "편할 편(便)+종이 지(紙)",
+      "easy_definition": "마음을 담아 보내는 글",
+      "context_sentence": "편지를 써요."
+    },
+    {
+      "word_korean": "불편(不便)",
+      "etymology_dissection": "아닐 불(不)+편할 편(便)",
+      "easy_definition": "불편하고 힘든 것",
+      "context_sentence": "불편함을 참아요."
+    },
+    {
+      "word_korean": "대변(大便)",
+      "etymology_dissection": "클 대(大)+편할 편(便)",
+      "easy_definition": "화장실에서 보는 것",
+      "context_sentence": "대변을 잘 봐야 건강해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "편리함",
+    "passage_text": "**편리(便利)**한 도구가 생활을 쉽게 해요. **편지(便紙)** 한 장이 마음을 전해요. **불편(不便)**함이 발명의 동기가 돼요.",
+    "quiz": {
+      "question": "'편지(便紙)'란?",
+      "choices": [
+        "화장실",
+        "마음을 담아 보내는 글",
+        "편리한 것",
+        "불편함"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'편지(便紙)'=편할 편+종이 지, 마음을 담아 종이에 써서 보내는 글이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "편지를 쓰거나 받은 경험을 문장으로 써 보세요.",
+    "model_example": "불편하더라도 손으로 쓴 편지 한 장이 전화보다 편리하게 마음을 전할 때가 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'편할 — 편(便)! 편할 — 편(便)!' 열 번 외쳐요!"
+  }
+}

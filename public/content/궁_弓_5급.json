@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "弓",
+    "hanja_sound": "궁",
+    "hanja_meaning": "활",
+    "full_reading": "활 궁",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "弓",
+    "sound": "궁",
+    "meaning": "활",
+    "stroke_count": 3,
+    "radical": "弓",
+    "etymology_story": "弓은 활의 모양을 본뜬 글자입니다. 활을 당긴 모습을 그린 것으로, '활'을 의미합니다.",
+    "memory_tip": "활을 당긴 모양이 바로 '弓'입니다.",
+    "level_context": "5급 한자로, 활을(를) 뜻하는 弓입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "궁도",
+      "word_hanja": "弓道",
+      "reading": "궁도",
+      "easy_definition": "활쏘기를 하는 무예",
+      "etymology_dissection": "활 궁(弓)+길 도(道): 활의 도(武藝)",
+      "example_sentence": "궁도 연습을 했습니다.",
+      "sentence_meaning": "활쏘기 무예 연습을 했습니다."
+    },
+    {
+      "word_korean": "활",
+      "word_hanja": "弓",
+      "reading": "활",
+      "easy_definition": "화살을 쏘는 무기",
+      "etymology_dissection": "활 궁(弓): 활",
+      "example_sentence": "활로 과녁을 맞혔습니다.",
+      "sentence_meaning": "활을 이용해 표적을 맞혔습니다."
+    },
+    {
+      "word_korean": "궁수",
+      "word_hanja": "弓手",
+      "reading": "궁수",
+      "easy_definition": "활을 쏘는 사람",
+      "etymology_dissection": "활 궁(弓)+손 수(手): 활 쏘는 사람",
+      "example_sentence": "올림픽 궁수가 금메달을 땄습니다.",
+      "sentence_meaning": "올림픽 활쏘기 선수가 금메달을 획득했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "우리나라는 전통적으로 활쏘기를 즐겼습니다. 올림픽에서 한국 궁수들이 좋은 성적을 거두고 있습니다. 궁도는 집중력을 기르는 데 도움이 됩니다.",
+    "passage_meaning": "우리나라의 전통 활쏘기 문화는 오늘날 궁도 스포츠로 이어져 올림픽에서도 활약합니다.",
+    "questions": [
+      {
+        "question": "'궁도'의 뜻으로 알맞은 것은?",
+        "options": [
+          "달리기",
+          "수영",
+          "활쏘기 무예",
+          "태권도"
+        ],
+        "correct_answer": "활쏘기 무예",
+        "explanation": "궁도(弓道)는 활쏘기를 하는 무예입니다."
+      },
+      {
+        "question": "'弓'의 뜻은?",
+        "options": [
+          "칼",
+          "창",
+          "활",
+          "방패"
+        ],
+        "correct_answer": "활",
+        "explanation": "弓은 활의 모양을 본뜬 글자로 '활'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'궁도'나 '궁수'를 사용하여 문장을 써 보세요.",
+    "hint": "전통 무예나 스포츠와 관련된 내용을 담아 보세요.",
+    "example_answer": "한국 궁수가 올림픽에서 금메달을 획득했습니다.",
+    "key_vocabulary": [
+      "궁도",
+      "활"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "궁도는 우리나라 전통 무예입니다.",
+      "궁수의 집중력이 대단합니다.",
+      "활을 당겨 과녁을 맞혔습니다."
+    ],
+    "pronunciation_tips": "'궁'을 명확하게 발음하며 읽어 보세요."
+  }
+}

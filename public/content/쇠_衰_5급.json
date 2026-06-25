@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "쇠",
+    "hanja_meaning": "쇠할",
+    "hanja_char": "衰",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "衰 — 도롱이가 해져서 쇠퇴하다",
+    "etymology_story": "衣(옷 의)와 도롱이 형태가 합쳐진 글자입니다. 해진 도롱이처럼 기운이 약해지는 모습에서 '쇠퇴하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "쇠퇴",
+      "word_hanja": "衰退",
+      "etymology_dissection": "衰(쇠할 쇠)+退(물러날 퇴) = 쇠해 물러남",
+      "easy_definition": "세력이나 기운이 점점 약해짐",
+      "context_sentence": "로마 제국은 점진적으로 **쇠퇴**했습니다."
+    },
+    {
+      "word_korean": "노쇠",
+      "word_hanja": "老衰",
+      "etymology_dissection": "老(늙을 노)+衰(쇠할 쇠) = 늙어 쇠해짐",
+      "easy_definition": "나이가 들어 기력이 쇠해짐",
+      "context_sentence": "**노쇠**한 몸이지만 정신만은 청년 같습니다."
+    },
+    {
+      "word_korean": "성쇠",
+      "word_hanja": "盛衰",
+      "etymology_dissection": "盛(성할 성)+衰(쇠할 쇠) = 성함과 쇠함",
+      "easy_definition": "흥성했다 쇠퇴하는 흥망성쇠",
+      "context_sentence": "모든 것에는 **성쇠**가 있습니다."
+    },
+    {
+      "word_korean": "쇠락",
+      "word_hanja": "衰落",
+      "etymology_dissection": "衰(쇠할 쇠)+落(떨어질 락) = 쇠해 떨어짐",
+      "easy_definition": "힘이나 세력이 줄어 보잘것없이 됨",
+      "context_sentence": "한때 번성했던 도시가 **쇠락**했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "역사의 흥망성쇠",
+    "passage_text": "역사를 보면 모든 것에는 **성쇠**가 있습니다. 강대했던 로마 제국도 수백 년에 걸쳐 **쇠퇴**했습니다. 내부의 부패, 경제 침체, 외부 침략이 복합적으로 작용했습니다. 현대의 기업도 마찬가지입니다. 한때 시장을 지배했던 기업이 변화에 적응하지 못해 **쇠락**하는 사례가 많습니다. **성쇠**의 역사는 '변화에 적응하지 못하면 **쇠퇴**한다'는 교훈을 줍니다.",
+    "quiz": {
+      "question": "로마 제국의 쇠퇴 원인으로 글에서 언급된 것은?",
+      "choices": [
+        "기후 변화",
+        "내부 부패, 경제 침체, 외부 침략",
+        "지진",
+        "전염병"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 내부의 부패, 경제 침체, 외부 침략이 복합적으로 작용했다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'쇠퇴'를 사용해서 변화에 적응하는 것의 중요성에 대해 써보세요.",
+    "model_example": "어떤 기술이나 방법도 시간이 지나면 **쇠퇴**할 수 있으므로, 끊임없이 배우고 변화에 적응하는 자세가 필요합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "衰(쇠) — 쇠할 쇠! 쇠퇴·노쇠·성쇠·쇠락 모두 여기서! 잘했어요!"
+  }
+}

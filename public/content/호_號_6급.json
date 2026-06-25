@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "호",
+    "hanja_meaning": "이름",
+    "hanja_char": "號",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "號 — 소리 내어 이름을 부르다",
+    "etymology_story": "號(호)는 범 호(虎)와 부를 호(号)가 합쳐진 글자예요. 호랑이가 소리를 내듯 '큰 소리로 부르는 이름·번호'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "번호(番號)",
+      "etymology_dissection": "차례 번(番)+이름 호(號)",
+      "easy_definition": "순서를 나타내는 숫자",
+      "context_sentence": "출석 번호가 7번이에요."
+    },
+    {
+      "word_korean": "신호(信號)",
+      "etymology_dissection": "믿을 신(信)+이름 호(號)",
+      "easy_definition": "약속된 표시나 소리",
+      "context_sentence": "신호등의 신호를 지켜요."
+    },
+    {
+      "word_korean": "호칭(號稱)",
+      "etymology_dissection": "이름 호(號)+일컬을 칭(稱)",
+      "easy_definition": "부르는 이름이나 칭호",
+      "context_sentence": "선생님의 호칭은 '선생님'이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "번호와 신호",
+    "passage_text": "학교에서 출석 번호(番號)로 불려요. 길에서는 신호(信號)를 꼭 지켜야 해요. 다양한 호칭(號稱)을 알면 예의 바르게 말할 수 있어요. 번호도, 이름도, 모두 소중한 나를 나타내요.",
+    "quiz": {
+      "question": "'신호'의 뜻은?",
+      "choices": [
+        "약속된 표시나 소리",
+        "자신의 이름",
+        "출석 번호",
+        "별명"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "신호(信號)는 '믿을 신(信)+이름 호(號)'로, 특정 의미를 전달하기 위해 약속된 표시나 소리예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 번호나 나를 나타내는 것들(이름, 별명 등)을 소개하고, 그 의미를 써 보세요.",
+    "model_example": "예) 제 출석 번호는 15번이에요. 제 별명은 '도깨비'인데 장난기가 많아서 붙었어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "號(호)! 나를 당당히 소개해요! 훌륭해요! 📣"
+  }
+}

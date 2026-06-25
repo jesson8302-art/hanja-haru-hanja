@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "鑛",
+    "hanja_sound": "광",
+    "hanja_meaning": "쇳돌",
+    "full_reading": "쇳돌 광",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "鑛",
+    "sound": "광",
+    "meaning": "쇳돌",
+    "stroke_count": 23,
+    "radical": "金",
+    "etymology_story": "鑛은 쇠(金)와 넓을 광(廣)이 합쳐진 글자입니다. 땅 속 넓은 곳에 쇠가 묻혀 있는 모습에서 '쇳돌', '광물', '광산'의 뜻이 생겼습니다.",
+    "memory_tip": "쇠(金)가 넓게(廣) 묻혀 있는 것이 '쇳돌', '광석'입니다.",
+    "level_context": "5급 한자로, 쇳돌을(를) 뜻하는 鑛입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "광물",
+      "word_hanja": "鑛物",
+      "reading": "광물",
+      "easy_definition": "땅 속에서 나는 자연 물질",
+      "etymology_dissection": "쇳돌 광(鑛)+물건 물(物): 땅 속의 물질",
+      "example_sentence": "이 지역에서 광물이 나옵니다.",
+      "sentence_meaning": "이 지역에서 땅 속 자연 물질이 나옵니다."
+    },
+    {
+      "word_korean": "광산",
+      "word_hanja": "鑛山",
+      "reading": "광산",
+      "easy_definition": "광물을 캐는 산이나 광구",
+      "etymology_dissection": "쇳돌 광(鑛)+뫼 산(山): 광물 캐는 산",
+      "example_sentence": "탄광은 석탄을 캐는 광산입니다.",
+      "sentence_meaning": "탄광은 석탄을 파내는 곳입니다."
+    },
+    {
+      "word_korean": "광석",
+      "word_hanja": "鑛石",
+      "reading": "광석",
+      "easy_definition": "유용한 광물을 포함한 돌",
+      "etymology_dissection": "쇳돌 광(鑛)+돌 석(石): 광물이 든 돌",
+      "example_sentence": "철광석에서 철을 추출합니다.",
+      "sentence_meaning": "철이 들어 있는 돌에서 철을 뽑아냅니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "광산에서는 다양한 광물을 캡니다. 광석에서 금속을 추출하여 여러 물건을 만듭니다. 우리나라에도 다양한 광물 자원이 있습니다.",
+    "passage_meaning": "광산에서 광물을 캐고, 광석에서 금속을 추출하는 것이 광업의 기본입니다.",
+    "questions": [
+      {
+        "question": "'광산'의 뜻으로 알맞은 것은?",
+        "options": [
+          "높고 아름다운 산",
+          "광물을 캐는 곳",
+          "수영하는 곳",
+          "농사짓는 곳"
+        ],
+        "correct_answer": "광물을 캐는 곳",
+        "explanation": "광산(鑛山)은 광물을 캐는 곳입니다."
+      },
+      {
+        "question": "'광물'에서 '鑛'의 뜻은?",
+        "options": [
+          "쇳돌·광물",
+          "하늘",
+          "바다",
+          "숲"
+        ],
+        "correct_answer": "쇳돌·광물",
+        "explanation": "광물(鑛物)의 鑛은 '쇳돌', '광물'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'광물'이나 '광산'을 사용하여 문장을 써 보세요.",
+    "hint": "자원이나 지구과학과 관련된 내용을 담아 보세요.",
+    "example_answer": "광산에서 캔 광물로 다양한 제품을 만듭니다.",
+    "key_vocabulary": [
+      "광물",
+      "광산"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "우리나라에는 다양한 광물이 있습니다.",
+      "광산 노동자들이 열심히 일합니다.",
+      "광석에서 금속을 추출합니다."
+    ],
+    "pronunciation_tips": "'광'을 명확하게 발음하며 읽어 보세요."
+  }
+}

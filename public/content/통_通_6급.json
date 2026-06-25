@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "통",
+    "hanja_meaning": "통할",
+    "hanja_char": "通",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "通 — 막힘 없이 길이 뚫리다",
+    "etymology_story": "通(통)은 쉬엄쉬엄 갈 착(辶)과 막힘없이 통할 용(甬)이 합쳐진 글자예요. 막힘 없이 '통하다·지나가다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "통로(通路)",
+      "etymology_dissection": "통할 통(通)+길 로(路)",
+      "easy_definition": "사람이 지나다니는 길",
+      "context_sentence": "비상구 통로를 막으면 안 돼요."
+    },
+    {
+      "word_korean": "교통(交通)",
+      "etymology_dissection": "사귈 교(交)+통할 통(通)",
+      "easy_definition": "사람과 물건이 오가는 것",
+      "context_sentence": "교통 신호를 잘 지켜요."
+    },
+    {
+      "word_korean": "통신(通信)",
+      "etymology_dissection": "통할 통(通)+믿을 신(信)",
+      "easy_definition": "소식을 전달하는 수단",
+      "context_sentence": "스마트폰 통신으로 전 세계와 연결돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "교통 안전",
+    "passage_text": "횡단보도를 건널 때는 교통(交通) 신호를 꼭 지켜야 해요. 통로(通路)에는 물건을 두지 않아야 해요. 예전에는 편지로 통신(通信)했지만 이제는 인터넷으로 바로 연락해요.",
+    "quiz": {
+      "question": "'교통'의 뜻은?",
+      "choices": [
+        "사람과 물건이 오가는 것",
+        "학교 가는 길",
+        "통신하는 방법",
+        "건물 안의 통로"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "교통(交通)은 '사귈 교(交)+통할 통(通)'으로, 사람·물건·정보가 이동하는 모든 것을 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 매일 이용하는 교통수단을 소개하고, 그 교통수단의 좋은 점을 써 보세요.",
+    "model_example": "예) 저는 학교 버스를 타요. 버스는 여러 명이 함께 타서 환경에도 좋고 편리해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "通(통)! 막힘 없이 통하는 어린이! 잘했어요! 🚦"
+  }
+}

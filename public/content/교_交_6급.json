@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "교",
+    "hanja_meaning": "사귈",
+    "hanja_char": "交",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "다리를 교차한 사람 — 사귈 교(交)",
+    "etymology_story": "'사귈 교(交)'는 사람이 두 다리를 X자로 교차한 모습이에요. 서로 엇갈리고 만나는 것에서 '사귀다, 교류하다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교류(交流)",
+      "etymology_dissection": "사귈 교(交)+흐를 류(流)",
+      "easy_definition": "서로 주고받는 것",
+      "context_sentence": "문화 교류가 활발해요."
+    },
+    {
+      "word_korean": "교통(交通)",
+      "etymology_dissection": "사귈 교(交)+통할 통(通)",
+      "easy_definition": "이동하는 길과 수단",
+      "context_sentence": "교통이 편리해요."
+    },
+    {
+      "word_korean": "외교(外交)",
+      "etymology_dissection": "바깥 외(外)+사귈 교(交)",
+      "easy_definition": "나라끼리 맺는 관계",
+      "context_sentence": "외교가 중요해요."
+    },
+    {
+      "word_korean": "사교(社交)",
+      "etymology_dissection": "모일 사(社)+사귈 교(交)",
+      "easy_definition": "사람들과 어울리는 것",
+      "context_sentence": "사교성이 좋아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "만남의 기술",
+    "passage_text": "**교통(交通)**이 발달하면 교류가 늘어요. **외교(外交)**는 나라 사이의 사귐이에요. **사교(社交)**적인 사람이 인기 있어요.",
+    "quiz": {
+      "question": "'교류(交流)'란?",
+      "choices": [
+        "교통",
+        "서로 주고받는 것",
+        "외교",
+        "사교"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'교류(交流)'=사귈 교+흐를 류, 서로 만나 주고받는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "다양한 사람들과 교류하거나 사귄 경험을 문장으로 써 보세요.",
+    "model_example": "교통이 편리해지면서 교류가 늘고 외교가 활발해져 사교의 범위가 넓어졌어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'사귈 — 교(交)! 사귈 — 교(交)!' 열 번 외쳐요!"
+  }
+}

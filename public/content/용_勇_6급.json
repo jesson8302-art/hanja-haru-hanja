@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "용",
+    "hanja_meaning": "날랠",
+    "hanja_char": "勇",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "勇 — 힘차게 앞으로 나아가는 용기",
+    "etymology_story": "勇(용)은 힘 력(力)과 용솟음칠 용(甬)이 합쳐진 글자예요. 물이 솟아오르듯 힘이 넘쳐 '날래고 용감하다'는 뜻이 되었어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "용기(勇氣)",
+      "etymology_dissection": "날랠 용(勇)+기운 기(氣)",
+      "easy_definition": "두려움 없이 나아가는 힘",
+      "context_sentence": "발표할 때 용기를 내어 손을 들었어요."
+    },
+    {
+      "word_korean": "용감(勇敢)",
+      "etymology_dissection": "날랠 용(勇)+감히 감(敢)",
+      "easy_definition": "두려움 없이 담대함",
+      "context_sentence": "소방관 아저씨는 정말 용감해요."
+    },
+    {
+      "word_korean": "용사(勇士)",
+      "etymology_dissection": "날랠 용(勇)+선비 사(士)",
+      "easy_definition": "용감한 사람",
+      "context_sentence": "동화 속 용사가 용을 물리쳤어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "용기를 낸 민준이",
+    "passage_text": "민준이는 수영장에서 다이빙대 앞에서 멈췄어요. 높아서 무서웠지만, 용기(勇氣)를 내어 뛰어내렸어요. 물 밖으로 나온 민준이는 스스로가 정말 용감(勇敢)하다고 느꼈어요.",
+    "quiz": {
+      "question": "민준이가 다이빙대에서 한 행동은 무엇인가요?",
+      "choices": [
+        "용기를 내어 뛰어내렸다",
+        "무서워서 포기했다",
+        "친구를 따라 내려갔다",
+        "선생님이 밀어주었다"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "용기(勇氣)는 두려움 없이 나아가는 힘이에요. 민준이는 무서웠지만 스스로 용기를 냈어요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 용기를 낸 경험을 한 가지 써 보세요. 어떤 상황이었나요? 그때 어떤 기분이었나요?",
+    "model_example": "예) 처음으로 롤러코스터를 탔을 때 무서웠지만 용기를 내어 탔어요. 끝나고 나서 뿌듯했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "勇(용)! 용기 있는 어린이가 최고야! 정말 잘했어요! 💪"
+  }
+}

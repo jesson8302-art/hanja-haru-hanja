@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "약",
+    "hanja_meaning": "맺을",
+    "hanja_char": "約",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "約 — 실로 묶어 약속하다",
+    "etymology_story": "糸(실 사)와 勺(구기 작)이 합쳐진 글자입니다. 실로 단단히 묶는 모습에서 '약속하다', '대략', '줄이다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "약속",
+      "word_hanja": "約束",
+      "etymology_dissection": "約(맺을 약)+束(묶을 속) = 맺어 묶음",
+      "easy_definition": "앞으로 할 일을 정하여 어기지 않기로 다짐",
+      "context_sentence": "**약속**을 지키는 사람이 신뢰를 얻습니다."
+    },
+    {
+      "word_korean": "조약",
+      "word_hanja": "條約",
+      "etymology_dissection": "條(가지 조)+約(맺을 약) = 조항으로 맺음",
+      "easy_definition": "국가 간에 맺는 공식 합의",
+      "context_sentence": "두 나라가 평화 **조약**을 체결했습니다."
+    },
+    {
+      "word_korean": "계약",
+      "word_hanja": "契約",
+      "etymology_dissection": "契(맺을 계)+約(맺을 약) = 맺어 약속",
+      "easy_definition": "법적 효력을 가지는 양측의 합의",
+      "context_sentence": "집을 빌릴 때 **계약**서를 작성합니다."
+    },
+    {
+      "word_korean": "절약",
+      "word_hanja": "節約",
+      "etymology_dissection": "節(마디 절)+約(맺을 약) = 마디마디 묶음",
+      "easy_definition": "낭비하지 않고 아껴 씀",
+      "context_sentence": "에너지를 **절약**하면 환경을 보호할 수 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "약속의 힘",
+    "passage_text": "사회는 **약속** 위에 성립됩니다. 법은 시민들이 지키기로 한 공동의 **약속**이고, 화폐는 그 가치를 믿기로 한 **약속**입니다. 국가 간의 **조약**도 지켜지지 않으면 국제 질서가 무너집니다. **계약**은 법적 효력을 가진 공식 **약속**입니다. 개인의 신용도 **약속**을 얼마나 잘 지키느냐에 달려 있습니다. **절약**도 미래의 자신과 한 **약속**이라고 할 수 있습니다.",
+    "quiz": {
+      "question": "사회가 약속 위에 성립된다는 예시로 글에서 든 것은?",
+      "choices": [
+        "음식과 의복",
+        "법과 화폐",
+        "학교와 직장",
+        "예술과 스포츠"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 법은 시민들의 공동 약속이고 화폐는 그 가치를 믿기로 한 약속이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'약속'을 사용해서 자신이 스스로에게 한 약속과 그것을 지키기 위한 노력을 써보세요.",
+    "model_example": "매일 30분 독서를 하겠다는 스스로와의 **약속**을 지키기 위해 자기 전에 책을 침대 옆에 놓아두었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "約(약) — 맺을 약! 약속·조약·계약·절약 모두 여기서! 잘했어요!"
+  }
+}

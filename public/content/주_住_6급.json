@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "주",
+    "hanja_meaning": "살",
+    "hanja_char": "住",
+    "hanja_level": "6급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "住 — 사람이 주가 되어 머물다",
+    "etymology_story": "人(사람 인)과 主(주인 주)가 합쳐진 글자입니다. 사람이 한 곳에 주인으로서 머무르는 모습에서 '살다', '머물다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주거",
+      "word_hanja": "住居",
+      "etymology_dissection": "住(살 주)+居(살 거) = 살아 머묾",
+      "easy_definition": "사람이 사는 곳이나 사는 것",
+      "context_sentence": "안전한 **주거** 환경은 삶의 질을 높입니다."
+    },
+    {
+      "word_korean": "주민",
+      "word_hanja": "住民",
+      "etymology_dissection": "住(살 주)+民(백성 민) = 사는 백성",
+      "easy_definition": "어떤 지역에 사는 사람들",
+      "context_sentence": "**주민** 의견을 반영한 정책이 필요합니다."
+    },
+    {
+      "word_korean": "주소",
+      "word_hanja": "住所",
+      "etymology_dissection": "住(살 주)+所(바 소) = 사는 곳",
+      "easy_definition": "사람이 살고 있는 곳의 위치",
+      "context_sentence": "**주소**를 정확히 써야 편지가 도착합니다."
+    },
+    {
+      "word_korean": "이주",
+      "word_hanja": "移住",
+      "etymology_dissection": "移(옮길 이)+住(살 주) = 옮겨 살음",
+      "easy_definition": "다른 곳으로 옮겨가 살음",
+      "context_sentence": "도시로 **이주**하는 사람들이 많아졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "주거권과 사회",
+    "passage_text": "적절한 **주거**는 인간의 기본 권리입니다. 유엔은 적절한 **주거**에 대한 권리를 인권으로 인정합니다. 그러나 현실에서 많은 사람들이 안정적인 **주거**를 갖지 못합니다. 집값이 너무 올라 젊은 세대가 **주거** 문제로 어려움을 겪습니다. **주민**이 참여하여 지역 **주거** 환경을 개선하는 방법도 있습니다. 안전하고 적절한 **주거**는 교육, 건강과 함께 삶의 기본 조건입니다.",
+    "quiz": {
+      "question": "글에서 주거에 대해 설명한 내용으로 옳은 것은?",
+      "choices": [
+        "주거는 사치이다",
+        "주거는 유엔이 인정한 인권이다",
+        "주거 문제는 개인이 해결해야 한다",
+        "주거 환경은 교육과 관계 없다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 유엔은 적절한 주거에 대한 권리를 인권으로 인정한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'주거'를 사용해서 이상적인 주거 환경에 대한 자신의 생각을 써보세요.",
+    "model_example": "이상적인 **주거** 환경은 자연과 가깝고, 이웃과 소통할 수 있으며, 아이들이 안전하게 뛰어놀 수 있는 곳이라고 생각합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "住(주) — 살 주! 주거·주민·주소·이주 모두 여기서! 잘했어요!"
+  }
+}

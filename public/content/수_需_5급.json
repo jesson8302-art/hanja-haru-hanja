@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "수",
+    "hanja_meaning": "쓸",
+    "hanja_char": "需",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "需 — 비를 기다리며 필요로 하다",
+    "etymology_story": "雨(비 우)와 而(말이을 이)가 합쳐진 글자입니다. 농사를 위해 비가 내리기를 기다리고 필요로 하는 모습에서 '필요하다', '수요'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수요",
+      "word_hanja": "需要",
+      "etymology_dissection": "需(쓸 수)+要(구할 요) = 필요로 하고 구함",
+      "easy_definition": "어떤 재화나 서비스를 원하고 사려는 욕구",
+      "context_sentence": "여름에는 에어컨의 **수요**가 급증합니다."
+    },
+    {
+      "word_korean": "필수",
+      "word_hanja": "必需",
+      "etymology_dissection": "必(반드시 필)+需(쓸 수) = 반드시 필요함",
+      "easy_definition": "반드시 있어야 하는 것",
+      "context_sentence": "물은 생존에 **필수**적인 요소입니다."
+    },
+    {
+      "word_korean": "수급",
+      "word_hanja": "需給",
+      "etymology_dissection": "需(쓸 수)+給(줄 급) = 수요와 공급",
+      "easy_definition": "필요로 하는 것과 공급하는 것의 균형",
+      "context_sentence": "물가는 **수급** 상황에 따라 변합니다."
+    },
+    {
+      "word_korean": "군수",
+      "word_hanja": "軍需",
+      "etymology_dissection": "軍(군사 군)+需(쓸 수) = 군대에 필요한 것",
+      "easy_definition": "군대에서 필요로 하는 각종 물자",
+      "context_sentence": "**군수** 물자가 적절히 공급되어야 전투력이 유지됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "수요와 공급",
+    "passage_text": "시장에서 물건의 가격은 **수요**와 공급에 의해 결정됩니다. **수요**가 많고 공급이 적으면 가격이 오르고, **수요**가 적고 공급이 많으면 가격이 내립니다. 예를 들어 태풍으로 채소 농사가 망하면 채소 공급이 줄어 **수급** 불균형이 생기고 가격이 올라갑니다. 생활에 **필수**적인 물자의 **수급**을 안정시키는 것이 정부의 중요한 역할입니다.",
+    "quiz": {
+      "question": "물가가 오르는 상황으로 알맞은 것은?",
+      "choices": [
+        "수요가 많고 공급도 많을 때",
+        "수요가 적고 공급이 많을 때",
+        "수요가 많고 공급이 적을 때",
+        "수요와 공급이 균형을 이룰 때"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "수요가 많고 공급이 적을 때 가격이 오릅니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'수요'를 사용해서 계절에 따라 수요가 달라지는 물건을 설명해보세요.",
+    "model_example": "겨울에는 따뜻한 옷과 난방 기구의 **수요**가 크게 늘어납니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "需(수) — 쓸 수! 수요·필수·수급 모두 여기서! 잘했어요!"
+  }
+}

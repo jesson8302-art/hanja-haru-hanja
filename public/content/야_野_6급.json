@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "야",
+    "hanja_meaning": "들",
+    "hanja_char": "野",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "마을 밖의 넓은 땅 — 들 야(野)",
+    "etymology_story": "'들 야(野)'는 마을 리(里)와 줄 여(予)가 합쳐진 글자예요. 마을(里)에서 더 나아간 넓은 땅이 '들(野)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "야외(野外)",
+      "etymology_dissection": "들 야(野)+바깥 외(外)",
+      "easy_definition": "실외의 넓은 곳",
+      "context_sentence": "야외 활동이 좋아요."
+    },
+    {
+      "word_korean": "야생(野生)",
+      "etymology_dissection": "들 야(野)+날 생(生)",
+      "easy_definition": "자연에서 사는 것",
+      "context_sentence": "야생 동물을 보호해요."
+    },
+    {
+      "word_korean": "분야(分野)",
+      "etymology_dissection": "나눌 분(分)+들 야(野)",
+      "easy_definition": "나누어진 영역",
+      "context_sentence": "내 분야를 찾아요."
+    },
+    {
+      "word_korean": "초야(草野)",
+      "etymology_dissection": "풀 초(草)+들 야(野)",
+      "easy_definition": "풀이 난 들판",
+      "context_sentence": "초야에 은거한 선비예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "들의 생명",
+    "passage_text": "**야생(野生)** 동물을 보호해요. 각자의 **분야(分野)**에서 최선을 다해요. **야외(野外)** 활동으로 건강을 챙겨요.",
+    "quiz": {
+      "question": "'분야(分野)'란?",
+      "choices": [
+        "야외",
+        "야생",
+        "나누어진 영역",
+        "초야"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'분야(分野)'=나눌 분+들 야, 일이나 학문이 나뉜 각각의 영역이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 관심 있는 분야나 야외 활동 경험을 문장으로 써 보세요.",
+    "model_example": "야외에서 야생을 보며 내가 탐구할 분야를 발견하는 것이 가장 설레는 경험이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'들 — 야(野)! 들 — 야(野)!' 열 번 외쳐요!"
+  }
+}

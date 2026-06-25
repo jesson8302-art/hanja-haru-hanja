@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "열",
+    "hanja_meaning": "더울",
+    "hanja_char": "熱",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "熱 — 불 위에 그릇을 올려 뜨겁게 하다",
+    "etymology_story": "火(불 화)와 埶(심을 예, 들어올리는 모습)가 합쳐진 글자입니다. 불 위에서 뜨거워지는 모습에서 '뜨겁다', '열정'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "열기",
+      "word_hanja": "熱氣",
+      "etymology_dissection": "熱(더울 열)+氣(기운 기) = 뜨거운 기운",
+      "easy_definition": "뜨거운 기운이나 흥분된 분위기",
+      "context_sentence": "경기장의 **열기**가 대단했습니다."
+    },
+    {
+      "word_korean": "열정",
+      "word_hanja": "熱情",
+      "etymology_dissection": "熱(더울 열)+情(뜻 정) = 뜨거운 감정",
+      "easy_definition": "어떤 일에 강하게 열중하는 마음",
+      "context_sentence": "**열정**이 있으면 어떤 목표도 이룰 수 있습니다."
+    },
+    {
+      "word_korean": "발열",
+      "word_hanja": "發熱",
+      "etymology_dissection": "發(필 발)+熱(더울 열) = 열이 나옴",
+      "easy_definition": "몸에서 열이 오르는 것. 물체가 열을 냄",
+      "context_sentence": "감기에 걸려 **발열** 증상이 있습니다."
+    },
+    {
+      "word_korean": "냉열",
+      "word_hanja": "冷熱",
+      "etymology_dissection": "冷(찰 냉)+熱(더울 열) = 차가움과 뜨거움",
+      "easy_definition": "차가움과 뜨거움",
+      "context_sentence": "**냉열** 치료는 부상 회복에 효과적입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "열정의 힘",
+    "passage_text": "**열정**은 어떤 어려움도 이겨내게 하는 내적 불꽃입니다. 에디슨은 전구를 발명하기 위해 수천 번의 실패를 겪었지만 **열정**을 잃지 않았습니다. 그는 '나는 실패한 것이 아니라 작동하지 않는 방법 10,000가지를 발견했을 뿐'이라고 했습니다. 과학적으로도 **열정**적으로 일할 때 도파민이 분비되어 더 창의적이고 집중력이 높아집니다. **열기**가 불꽃이라면, **열정**은 그 불을 지속시키는 연료입니다.",
+    "quiz": {
+      "question": "에디슨에 대한 설명으로 글에서 언급된 것은?",
+      "choices": [
+        "첫 시도에 전구를 발명했다",
+        "수천 번의 실패를 겪었지만 열정을 잃지 않았다",
+        "열정이 없는 과학자였다",
+        "전구가 아닌 전화기를 발명했다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 에디슨은 수천 번의 실패를 겪었지만 열정을 잃지 않았다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'열정'을 사용해서 자신이 열정을 가지고 있는 것에 대해 써보세요.",
+    "model_example": "한자를 배우는 데 **열정**을 갖게 된 이후, 낯선 한자를 볼 때마다 뜻을 찾아보는 습관이 생겼습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "熱(열) — 더울 열! 열기·열정·발열 모두 여기서! 뜨겁게 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "기",
+    "hanja_meaning": "기운",
+    "hanja_char": "氣",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "쌀에서 피어오르는 김 — 기운 기(氣)",
+    "etymology_story": "'기운 기(氣)'는 하늘의 구름(气)과 쌀(米)이 합쳐진 글자예요. 따뜻한 밥에서 김이 피어오르듯, 눈에 보이지 않지만 느껴지는 에너지가 기(氣)예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기운(氣運)",
+      "etymology_dissection": "기운 기(氣)+운수 운(運)",
+      "easy_definition": "몸에서 나오는 힘과 활기",
+      "context_sentence": "아침에 일어나면 기운이 넘쳐요."
+    },
+    {
+      "word_korean": "공기(空氣)",
+      "etymology_dissection": "빌 공(空)+기운 기(氣)",
+      "easy_definition": "지구를 감싸는 투명한 기체",
+      "context_sentence": "맑은 공기 속에서 달리면 상쾌해요."
+    },
+    {
+      "word_korean": "날씨(날氣)",
+      "etymology_dissection": "날+기운 기(氣)",
+      "easy_definition": "그날의 기상 상태",
+      "context_sentence": "날씨가 맑으면 기분이 좋아요."
+    },
+    {
+      "word_korean": "기후(氣候)",
+      "etymology_dissection": "기운 기(氣)+기다릴 후(候)",
+      "easy_definition": "한 지역의 오랜 날씨 패턴",
+      "context_sentence": "기후 변화가 심각해지고 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "눈에 보이지 않는 힘",
+    "passage_text": "**기운(氣運)**이 넘치면 무슨 일이든 잘 돼요. **공기(空氣)**가 맑아야 우리도 건강해요. **기후(氣候)** 변화는 지구 전체의 문제예요.",
+    "quiz": {
+      "question": "'기후(氣候)'란?",
+      "choices": [
+        "그날의 날씨",
+        "한 지역의 오랜 날씨 패턴",
+        "공기",
+        "기운"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'기후(氣候)'=기운 기+기다릴 후, 오랫동안 지속되는 날씨 패턴이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "기운이 넘쳤던 경험이나 날씨와 기분의 관계를 문장으로 써 보세요.",
+    "model_example": "맑은 공기를 마시며 운동하면 기운이 넘쳐서 기후가 좋은 날은 왠지 모든 일이 잘 풀려요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'기운 — 기(氣)! 기운 — 기(氣)!' 열 번 외쳐요!"
+  }
+}

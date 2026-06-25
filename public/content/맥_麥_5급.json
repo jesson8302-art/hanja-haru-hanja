@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "麥",
+    "hanja_sound": "맥",
+    "hanja_meaning": "보리",
+    "full_reading": "보리 맥",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "麥",
+    "sound": "맥",
+    "meaning": "보리",
+    "stroke_count": 11,
+    "radical": "麥",
+    "etymology_story": "麥은 보리의 모양을 본뜬 글자입니다. 곡식 중 하나인 보리를 나타내며 '보리'의 뜻입니다.",
+    "memory_tip": "보리 이삭 모양이 '麥'입니다.",
+    "level_context": "5급 한자로, 보리을(를) 뜻하는 麥입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "밀",
+      "word_hanja": "小麥",
+      "reading": "소맥",
+      "easy_definition": "밀(보리의 일종)",
+      "etymology_dissection": "작을 소(小)+보리 맥(麥): 작은 보리(밀)",
+      "example_sentence": "밀가루로 빵을 만듭니다.",
+      "sentence_meaning": "밀로 만든 가루로 빵을 만듭니다."
+    },
+    {
+      "word_korean": "보리",
+      "word_hanja": "大麥",
+      "reading": "대맥",
+      "easy_definition": "큰 보리",
+      "etymology_dissection": "클 대(大)+보리 맥(麥): 큰 보리",
+      "example_sentence": "보리밥은 건강에 좋습니다.",
+      "sentence_meaning": "보리로 지은 밥은 건강에 좋습니다."
+    },
+    {
+      "word_korean": "맥주",
+      "word_hanja": "麥酒",
+      "reading": "맥주",
+      "easy_definition": "보리로 만든 술",
+      "etymology_dissection": "보리 맥(麥)+술 주(酒): 보리 술",
+      "example_sentence": "맥주는 보리로 만든 음료입니다.",
+      "sentence_meaning": "맥주는 보리를 발효시켜 만든 음료입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "보리는 오랫동안 우리 조상들의 중요한 식량이었습니다. 밀가루로 다양한 음식을 만들 수 있습니다. 맥주는 보리로 만든 음료입니다.",
+    "passage_meaning": "麥은 보리를 뜻하며, 밀, 보리, 맥주 등 곡식 관련 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'소맥'의 뜻으로 알맞은 것은?",
+        "options": [
+          "큰 보리",
+          "작은 보리(밀)",
+          "쌀",
+          "옥수수"
+        ],
+        "correct_answer": "작은 보리(밀)",
+        "explanation": "소맥(小麥)은 작은 보리, 즉 밀입니다."
+      },
+      {
+        "question": "'맥주'에서 '麥'의 뜻은?",
+        "options": [
+          "과일",
+          "보리",
+          "쌀",
+          "물"
+        ],
+        "correct_answer": "보리",
+        "explanation": "맥주(麥酒)의 麥은 '보리'로, 보리로 만든 술을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'보리'나 '맥주'를 사용하여 문장을 써 보세요.",
+    "hint": "음식이나 농업과 관련된 내용을 담아 보세요.",
+    "example_answer": "보리밥은 건강에 좋고 맛도 좋습니다.",
+    "key_vocabulary": [
+      "밀",
+      "보리"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "보리는 중요한 식량입니다.",
+      "밀가루로 다양한 요리를 합니다.",
+      "맥주는 보리로 만듭니다."
+    ],
+    "pronunciation_tips": "'맥'을 명확하게 발음하며 읽어 보세요."
+  }
+}

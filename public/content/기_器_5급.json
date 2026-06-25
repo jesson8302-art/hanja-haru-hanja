@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "器",
+    "hanja_sound": "기",
+    "hanja_meaning": "그릇",
+    "full_reading": "그릇 기",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "器",
+    "sound": "기",
+    "meaning": "그릇",
+    "stroke_count": 16,
+    "radical": "口",
+    "etymology_story": "器는 여러 개의 입(口)과 개(犬)가 합쳐진 글자입니다. 여러 그릇 주변을 개가 지키는 모습에서 '그릇', '기구', '재능'의 뜻이 생겼습니다.",
+    "memory_tip": "여러 그릇(口口口)을 개(犬)가 지키는 것이 '그릇', '기구'입니다.",
+    "level_context": "5급 한자로, 그릇을(를) 뜻하는 器입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기구",
+      "word_hanja": "器具",
+      "reading": "기구",
+      "easy_definition": "특정 목적에 쓰이는 도구",
+      "etymology_dissection": "그릇 기(器)+갖출 구(具): 그릇과 도구",
+      "example_sentence": "주방 기구를 깨끗이 씻었습니다.",
+      "sentence_meaning": "부엌에서 쓰는 도구들을 깨끗이 씻었습니다."
+    },
+    {
+      "word_korean": "악기",
+      "word_hanja": "樂器",
+      "reading": "악기",
+      "easy_definition": "음악을 연주하는 기구",
+      "etymology_dissection": "음악 악(樂)+그릇 기(器): 음악 도구",
+      "example_sentence": "바이올린은 아름다운 악기입니다.",
+      "sentence_meaning": "바이올린은 아름다운 음악 연주 도구입니다."
+    },
+    {
+      "word_korean": "용기",
+      "word_hanja": "容器",
+      "reading": "용기",
+      "easy_definition": "물건을 담는 그릇",
+      "etymology_dissection": "담을 용(容)+그릇 기(器): 담는 그릇",
+      "example_sentence": "재활용 용기를 분리수거합니다.",
+      "sentence_meaning": "재활용할 수 있는 그릇을 분리해서 버립니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "주방 기구는 깨끗하게 관리해야 합니다. 악기를 연주하면 정서 발달에 도움이 됩니다. 플라스틱 용기는 재활용합니다.",
+    "passage_meaning": "그릇을 뜻하는 器는 기구, 악기, 용기 등 다양한 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'악기'의 뜻으로 알맞은 것은?",
+        "options": [
+          "요리 도구",
+          "음악을 연주하는 기구",
+          "글쓰기 도구",
+          "운동 기구"
+        ],
+        "correct_answer": "음악을 연주하는 기구",
+        "explanation": "악기(樂器)는 음악을 연주하는 기구입니다."
+      },
+      {
+        "question": "'용기'에서 '器'의 뜻은?",
+        "options": [
+          "담다",
+          "그릇",
+          "크다",
+          "넓다"
+        ],
+        "correct_answer": "그릇",
+        "explanation": "용기(容器)의 器는 '그릇'으로, 물건을 담는 그릇을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'악기'나 '용기'를 사용하여 문장을 써 보세요.",
+    "hint": "음악이나 환경 보호와 관련된 내용을 담아 보세요.",
+    "example_answer": "피아노는 제가 가장 좋아하는 악기입니다.",
+    "key_vocabulary": [
+      "기구",
+      "악기"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "악기 연주는 정서에 좋습니다.",
+      "용기를 분리수거합시다.",
+      "주방 기구를 잘 관리하세요."
+    ],
+    "pronunciation_tips": "'기'을 명확하게 발음하며 읽어 보세요."
+  }
+}

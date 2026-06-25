@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "계",
+    "hanja_meaning": "지경",
+    "hanja_char": "界",
+    "hanja_level": "6급",
+    "linked_subject": "사회, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "밭과 경계 — 지경 계(界)",
+    "etymology_story": "'지경 계(界)'는 밭(田)과 경계(介)가 합쳐진 글자예요. 논밭 사이의 경계선이 넓어져 '세계, 경계'라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "세계(世界)",
+      "etymology_dissection": "세상 세(世)+지경 계(界)",
+      "easy_definition": "지구 전체",
+      "context_sentence": "세계가 하나로 이어져요."
+    },
+    {
+      "word_korean": "한계(限界)",
+      "etymology_dissection": "한정할 한(限)+지경 계(界)",
+      "easy_definition": "넘을 수 없는 경계",
+      "context_sentence": "한계를 뛰어넘어요."
+    },
+    {
+      "word_korean": "경계(境界)",
+      "etymology_dissection": "지경 경(境)+지경 계(界)",
+      "easy_definition": "나눠지는 선",
+      "context_sentence": "경계를 넘지 말아요."
+    },
+    {
+      "word_korean": "업계(業界)",
+      "etymology_dissection": "일 업(業)+지경 계(界)",
+      "easy_definition": "같은 직종의 세계",
+      "context_sentence": "IT 업계가 발전해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "경계 너머로",
+    "passage_text": "**한계(限界)**를 뛰어넘는 것이 성장이에요. **세계(世界)**로 시야를 넓혀요. **경계(境界)**를 존중하는 것이 예의예요.",
+    "quiz": {
+      "question": "'한계(限界)'란?",
+      "choices": [
+        "경계선",
+        "넘을 수 없는 경계",
+        "세계",
+        "업계"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'한계(限界)'=한정할 한+지경 계, 더 이상 넘기 어려운 경계예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "한계를 느끼고 뛰어넘은 경험을 문장으로 써 보세요.",
+    "model_example": "한계는 경계가 아니라 더 넓은 세계로 향하는 출발선이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'지경 — 계(界)! 지경 — 계(界)!' 열 번 외쳐요!"
+  }
+}

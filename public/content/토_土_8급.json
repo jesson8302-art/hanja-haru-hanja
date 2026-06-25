@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "토",
+    "hanja_meaning": "흙",
+    "hanja_char": "土",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "땅 위로 솟아오른 흙 — 흙 토(土)",
+    "etymology_story": "'흙 토(土)'는 땅(一)에서 무언가가 싹을 틔워 위로 솟아나는 모습을 그린 글자예요. 씨앗이 흙에서 싹을 틔우는 장면을 상상하면 딱 맞아요! 생명의 시작이 되는 흙을 이렇게 표현했답니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "토요일(土曜日)",
+      "etymology_dissection": "흙 토(土) + 빛날 요(曜) + 날 일(日) = 흙의 날",
+      "easy_definition": "한 주의 일곱 번째 날, 주말",
+      "context_sentence": "토요일에는 친구들과 놀 수 있어요."
+    },
+    {
+      "word_korean": "토지(土地)",
+      "etymology_dissection": "흙 토(土) + 땅 지(地) = 흙으로 된 땅",
+      "easy_definition": "농사를 짓거나 집을 짓는 땅",
+      "context_sentence": "농부는 토지를 열심히 일궈요."
+    },
+    {
+      "word_korean": "국토(國土)",
+      "etymology_dissection": "나라 국(國) + 흙 토(土) = 나라의 땅",
+      "easy_definition": "나라가 가지고 있는 전체 땅",
+      "context_sentence": "우리는 소중한 국토를 지켜야 해요."
+    },
+    {
+      "word_korean": "향토(鄕土)",
+      "etymology_dissection": "고향 향(鄕) + 흙 토(土) = 고향의 흙",
+      "easy_definition": "자신이 태어나고 자란 고향 땅",
+      "context_sentence": "향토 음식은 고향의 맛이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "흙이 있어야 살 수 있어요",
+    "passage_text": "우리 **국토(國土)**의 흙은 조상들이 물려 준 소중한 선물이에요. 농부들은 **토지(土地)**를 일궈 우리가 먹을 쌀을 키워요. **향토(鄕土)** 음식을 먹으면 고향이 그리워진답니다.",
+    "quiz": {
+      "question": "'국토(國土)'란 무엇인가요?",
+      "choices": [
+        "나라의 깃발",
+        "나라가 가지고 있는 전체 땅",
+        "나라의 돈",
+        "나라의 법"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'국토(國土)'는 '나라 국 + 흙 토' = 나라의 흙, 즉 나라의 땅 전체를 말해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 흙이나 땅에 대한 내 생각을 문장으로 써 보세요.",
+    "model_example": "국토는 조상들이 지켜 준 소중한 선물이니, 나도 깨끗하게 지키고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'흙 — 토(土)! 흙 — 토(土)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

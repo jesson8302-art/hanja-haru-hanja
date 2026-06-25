@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "운",
+    "hanja_meaning": "구름",
+    "hanja_char": "雲",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "雲 — 하늘에 피어오르는 구름",
+    "etymology_story": "雨(비 우)와 云(이를 운, 구름 피어오르는 모양)이 합쳐진 글자입니다. 비를 머금고 하늘에 피어오르는 구름을 나타냅니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "구름",
+      "word_hanja": "雲",
+      "etymology_dissection": "雲(구름 운)",
+      "easy_definition": "하늘에 떠 있는 수증기 덩어리",
+      "context_sentence": "하늘에 흰 **구름**이 두둥실 떠 있습니다."
+    },
+    {
+      "word_korean": "운해",
+      "word_hanja": "雲海",
+      "etymology_dissection": "雲(구름 운)+海(바다 해) = 구름 바다",
+      "easy_definition": "산 위에서 내려다보이는 구름이 바다처럼 보이는 것",
+      "context_sentence": "산 정상에서 보는 **운해**는 장관입니다."
+    },
+    {
+      "word_korean": "풍운",
+      "word_hanja": "風雲",
+      "etymology_dissection": "風(바람 풍)+雲(구름 운) = 바람과 구름",
+      "easy_definition": "세상의 변화무쌍한 형세",
+      "context_sentence": "**풍운**의 세월을 버텨낸 인물이었습니다."
+    },
+    {
+      "word_korean": "적운",
+      "word_hanja": "積雲",
+      "etymology_dissection": "積(쌓을 적)+雲(구름 운) = 쌓인 구름",
+      "easy_definition": "수직으로 높이 발달하는 구름",
+      "context_sentence": "뭉게**구름**(적운)이 여름 하늘에 피어올랐습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "구름이 만들어지는 원리",
+    "passage_text": "**구름**은 공기 중의 수증기가 냉각되어 작은 물방울이나 얼음 결정으로 변한 것입니다. 태양이 지면을 데우면 따뜻한 공기가 상승합니다. 상승하면서 온도가 내려가고 수증기가 응결하여 **구름**이 만들어집니다. 적란운 같은 **적운**은 위로 크게 발달하며 천둥번개를 동반합니다. **구름**의 종류를 알면 날씨를 예측하는 데 도움이 됩니다.",
+    "quiz": {
+      "question": "구름이 만들어지는 과정으로 옳은 것은?",
+      "choices": [
+        "찬 공기가 내려가며 수증기가 응결한다",
+        "따뜻한 공기가 상승하면서 냉각되어 수증기가 응결한다",
+        "바람이 불어 구름이 생긴다",
+        "달빛이 구름을 만든다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "따뜻한 공기가 상승하면서 온도가 내려가고 수증기가 응결하여 구름이 만들어집니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'구름'을 사용해서 날씨나 자연 현상과 관련된 문장을 써보세요.",
+    "model_example": "먹**구름**이 몰려오면 비가 올 징조이므로, 우산을 미리 챙겨야 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "雲(운) — 구름 운! 운해·풍운·적운 모두 여기서! 구름처럼 가볍게 잘했어요!"
+  }
+}

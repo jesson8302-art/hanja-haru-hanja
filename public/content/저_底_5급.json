@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "저",
+    "hanja_meaning": "밑",
+    "hanja_char": "底",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "底 — 집 아래의 바닥",
+    "etymology_story": "广(집 엄)과 氐(낮을 저)가 합쳐진 글자입니다. 집의 가장 아래 바닥을 나타내며 '밑', '바닥', '끝'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "철저",
+      "word_hanja": "徹底",
+      "etymology_dissection": "徹(통할 철)+底(밑 저) = 바닥까지 통함",
+      "easy_definition": "밑바닥까지 완전히 함",
+      "context_sentence": "**철저**한 준비가 성공의 비결입니다."
+    },
+    {
+      "word_korean": "저변",
+      "word_hanja": "底邊",
+      "etymology_dissection": "底(밑 저)+邊(가 변) = 밑의 가장자리",
+      "easy_definition": "기반이나 토대가 되는 부분",
+      "context_sentence": "스포츠 **저변** 확대로 선수층이 두터워졌습니다."
+    },
+    {
+      "word_korean": "근저",
+      "word_hanja": "根底",
+      "etymology_dissection": "根(뿌리 근)+底(밑 저) = 뿌리와 밑",
+      "easy_definition": "사물의 가장 깊은 바탕",
+      "context_sentence": "그 주장의 **근저**에는 평등 이념이 있습니다."
+    },
+    {
+      "word_korean": "저력",
+      "word_hanja": "底力",
+      "etymology_dissection": "底(밑 저)+力(힘 력) = 밑바닥의 힘",
+      "easy_definition": "겉으로 드러나지 않는 내면의 강한 힘",
+      "context_sentence": "우리 팀은 **저력**이 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "저력의 힘",
+    "passage_text": "**저력**은 위기 상황에서 빛을 발합니다. 1997년 외환 위기 당시 한국 국민들은 금 모으기 운동으로 단결하여 빠른 회복을 이뤄냈습니다. 이는 한국 사회의 **저력**을 보여준 사례입니다. **저력**은 평소에 보이지 않다가 어려운 상황에서 드러납니다. **철저**한 준비와 **근저**에 깔린 가치관이 **저력**의 원천입니다. 개인도 마찬가지로, 평소에 실력을 쌓아두면 위기에서 **저력**을 발휘할 수 있습니다.",
+    "quiz": {
+      "question": "1997년 한국의 금 모으기 운동이 보여준 것은?",
+      "choices": [
+        "개인의 욕심",
+        "한국 사회의 저력과 단결",
+        "정부의 능력",
+        "외국의 도움"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 금 모으기 운동은 한국 사회의 저력을 보여준 사례라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'저력'을 사용해서 평소에 실력을 쌓는 것의 중요성을 써보세요.",
+    "model_example": "평소에 꾸준히 공부하고 실력을 쌓아두면, 중요한 시험에서 **저력**을 발휘할 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "底(저) — 밑 저! 철저·저변·근저·저력 모두 여기서! 밑바닥부터 잘했어요!"
+  }
+}

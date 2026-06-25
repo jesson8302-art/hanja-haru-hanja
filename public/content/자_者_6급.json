@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "자",
+    "hanja_meaning": "사람",
+    "hanja_char": "者",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "者 — 말하는 사람을 가리키다",
+    "etymology_story": "者(자)는 불을 피워 음식을 굽는 모양에서 비롯되었어요. '~하는 사람'이라는 뜻으로, 어떤 일을 하는 사람을 나타낼 때 써요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "독자(讀者)",
+      "etymology_dissection": "읽을 독(讀)+사람 자(者)",
+      "easy_definition": "책이나 글을 읽는 사람",
+      "context_sentence": "이 잡지의 독자는 어린이예요."
+    },
+    {
+      "word_korean": "기자(記者)",
+      "etymology_dissection": "기록할 기(記)+사람 자(者)",
+      "easy_definition": "뉴스를 취재하고 쓰는 사람",
+      "context_sentence": "기자 아저씨가 인터뷰를 요청했어요."
+    },
+    {
+      "word_korean": "의사(醫者)",
+      "etymology_dissection": "의원 의(醫)+사람 자(者)",
+      "easy_definition": "병을 고쳐 주는 사람 (고어)",
+      "context_sentence": "옛날 문헌에는 의자(醫者)라고 적혔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "여러 가지 자(者)",
+    "passage_text": "者(자)가 붙으면 '~를 하는 사람'이 돼요. 독자(讀者)는 읽는 사람, 기자(記者)는 기록하는 사람이에요. 우리도 공부하는 사람, 즉 학자(學者)를 꿈꾸어요.",
+    "quiz": {
+      "question": "'기자'의 뜻은?",
+      "choices": [
+        "뉴스를 취재하고 쓰는 사람",
+        "책을 만드는 사람",
+        "음식을 만드는 사람",
+        "운동하는 사람"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "기자(記者)는 '기록할 기(記)+사람 자(者)'로, 세상의 일을 기록하고 알리는 직업이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "者(자)를 붙여 만들 수 있는 직업 이름을 두 가지 써 보고, 각 직업이 하는 일을 설명해 보세요.",
+    "model_example": "예) 학자(學者) — 학문을 깊이 연구하는 사람. 독자(讀者) — 책을 즐겨 읽는 사람."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "者(자)! 어떤 '자(者)'가 될지 꿈꿔봐요! 잘했어요! 🎓"
+  }
+}

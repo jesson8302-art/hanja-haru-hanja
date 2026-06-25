@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "풍",
+    "hanja_meaning": "바람",
+    "hanja_char": "風",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "風 — 봉황이 날개 치면 바람이 일다",
+    "etymology_story": "風(풍)은 돛 범(凡)과 벌레 충(虫)이 합쳐진 글자예요. 바람이 불어 벌레가 흩날리는 모양으로 '바람'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "태풍(颱風)",
+      "etymology_dissection": "클 태(颱)+바람 풍(風)",
+      "easy_definition": "크고 강한 열대성 폭풍",
+      "context_sentence": "여름에 강한 태풍이 왔어요."
+    },
+    {
+      "word_korean": "풍경(風景)",
+      "etymology_dissection": "바람 풍(風)+볕 경(景)",
+      "easy_definition": "자연의 경치",
+      "context_sentence": "가을 산의 풍경이 아름다워요."
+    },
+    {
+      "word_korean": "바람(風)",
+      "etymology_dissection": "바람 풍(風)의 우리말",
+      "easy_definition": "공기의 흐름",
+      "context_sentence": "봄바람이 살랑살랑 불어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "바람이 전하는 계절",
+    "passage_text": "봄에는 따뜻한 바람(風)이 불어요. 여름에는 태풍(颱風)이 오기도 해요. 가을에는 선선한 바람과 함께 아름다운 풍경(風景)이 펼쳐져요. 바람은 계절마다 다른 이야기를 들려줘요.",
+    "quiz": {
+      "question": "'태풍'의 뜻은?",
+      "choices": [
+        "크고 강한 열대성 폭풍",
+        "가을의 선선한 바람",
+        "봄의 따뜻한 바람",
+        "겨울의 차가운 바람"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "태풍(颱風)은 열대 바다에서 발생하는 매우 강한 폭풍우예요. 여름~가을에 우리나라에 영향을 줘요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 좋아하는 계절의 바람을 묘사해 보세요. 어떤 느낌이고, 무엇을 가져다 주나요?",
+    "model_example": "예) 저는 봄바람을 좋아해요. 포근하고 살랑살랑 불어서 기분이 좋아요. 꽃향기도 함께 실려 와요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "風(풍)! 바람처럼 자유롭게, 힘차게! 잘했어요! 🌬️"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "근",
+    "hanja_meaning": "뿌리",
+    "hanja_char": "根",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무의 뿌리 — 뿌리 근(根)",
+    "etymology_story": "'뿌리 근(根)'은 나무(木)와 어그러질 간(艮)이 합쳐진 글자예요. 나무가 뻗어 굳건히 자리 잡은 것이 '뿌리(根)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "근본(根本)",
+      "etymology_dissection": "뿌리 근(根)+근본 본(本)",
+      "easy_definition": "기초가 되는 것",
+      "context_sentence": "근본이 중요해요."
+    },
+    {
+      "word_korean": "뿌리(根)",
+      "etymology_dissection": "뿌리 근(根)",
+      "easy_definition": "식물이 땅속에 내리는 부분",
+      "context_sentence": "뿌리가 깊어야 나무가 강해요."
+    },
+    {
+      "word_korean": "근거(根據)",
+      "etymology_dissection": "뿌리 근(根)+의지할 거(據)",
+      "easy_definition": "주장의 바탕이 되는 것",
+      "context_sentence": "근거를 들어 말해요."
+    },
+    {
+      "word_korean": "근절(根絶)",
+      "etymology_dissection": "뿌리 근(根)+끊을 절(絶)",
+      "easy_definition": "뿌리째 없애는 것",
+      "context_sentence": "나쁜 습관을 근절해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "뿌리의 힘",
+    "passage_text": "**근본(根本)**이 튼튼해야 흔들리지 않아요. **근거(根據)**있는 말이 신뢰를 얻어요. 나쁜 것은 **근절(根絶)**해요.",
+    "quiz": {
+      "question": "'근거(根據)'란?",
+      "choices": [
+        "뿌리",
+        "주장의 바탕이 되는 것",
+        "근본",
+        "근절"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'근거(根據)'=뿌리 근+의지할 거, 주장의 바탕이 되는 근거예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "근거 있는 주장을 했거나 근본을 지킨 경험을 문장으로 써 보세요.",
+    "model_example": "근거 있는 말이 신뢰를 낳고, 근본이 튼튼한 사람이 어떤 상황에도 흔들리지 않아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'뿌리 — 근(根)! 뿌리 — 근(根)!' 열 번 외쳐요!"
+  }
+}

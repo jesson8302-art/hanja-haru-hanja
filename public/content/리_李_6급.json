@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "리",
+    "hanja_meaning": "성씨",
+    "hanja_char": "李",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "자두나무 — 성씨 리(李)",
+    "etymology_story": "'성씨 리(李)'는 나무(木)와 아이 자(子)가 합쳐진 글자예요. 나무(木)에서 열매가 자라나는(子) 자두나무가 '이씨 성(李)'의 유래예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이씨(李氏)",
+      "etymology_dissection": "성씨 리(李)+성씨 씨(氏)",
+      "easy_definition": "이 씨 성을 가진 사람",
+      "context_sentence": "이씨 왕조를 배워요."
+    },
+    {
+      "word_korean": "이순신(李舜臣)",
+      "etymology_dissection": "성씨 리(李)+임금 순(舜)+신하 신(臣)",
+      "easy_definition": "조선의 장군",
+      "context_sentence": "이순신 장군이 나라를 지켰어요."
+    },
+    {
+      "word_korean": "행리(行李)",
+      "etymology_dissection": "다닐 행(行)+성씨 리(李)",
+      "easy_definition": "여행 짐",
+      "context_sentence": "행리를 잘 챙겨요."
+    },
+    {
+      "word_korean": "도리(桃李)",
+      "etymology_dissection": "복숭아 도(桃)+성씨 리(李)",
+      "easy_definition": "복숭아와 자두, 제자를 비유",
+      "context_sentence": "도리가 문하에 넘쳐요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이씨의 뿌리",
+    "passage_text": "**이순신(李舜臣)** 장군처럼 나라를 위한 용기가 필요해요. 성씨(李)는 가문의 뿌리예요. **행리(行李)**처럼 인생의 짐을 잘 꾸려요.",
+    "quiz": {
+      "question": "이순신 장군의 업적은?",
+      "choices": [
+        "나라를 구한 예술가",
+        "임진왜란에서 나라를 지킨 장군",
+        "글을 쓴 학자",
+        "세종대왕"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "이순신(李舜臣) 장군은 임진왜란 때 왜적을 물리쳐 조선을 지킨 영웅이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 성씨나 가문에 대해 알고 있는 것을 문장으로 써 보세요.",
+    "model_example": "이순신 장군처럼 내 성씨의 뿌리를 자랑스럽게 여기고 역사를 기억하겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'성씨 — 리(李)! 성씨 — 리(李)!' 열 번 외쳐요!"
+  }
+}

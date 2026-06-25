@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "지을",
+    "hanja_char": "制",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "制 — 칼로 잘라 규칙을 만들다",
+    "etymology_story": "刀(칼 도)와 未(나무 미)가 합쳐진 글자입니다. 나무를 칼로 잘라 형태를 만드는 모습에서 '만들다', '규정하다'는 뜻이 생겼습니다. 규칙이나 제도를 만들어 사회를 규율한다는 의미로 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "제도",
+      "word_hanja": "制度",
+      "etymology_dissection": "制(지을 제)+度(법도 도) = 규칙과 법도를 만듦",
+      "easy_definition": "사회를 운영하기 위해 정한 규칙과 체계",
+      "context_sentence": "민주주의 **제도**는 국민의 권리를 보호합니다."
+    },
+    {
+      "word_korean": "제한",
+      "word_hanja": "制限",
+      "etymology_dissection": "制(지을 제)+限(한정할 한) = 범위를 만들어 한정",
+      "easy_definition": "일정한 범위나 한도를 넘지 못하게 막음",
+      "context_sentence": "이 도로는 속도 **제한**이 시속 50킬로미터입니다."
+    },
+    {
+      "word_korean": "통제",
+      "word_hanja": "統制",
+      "etymology_dissection": "統(거느릴 통)+制(지을 제) = 모아서 규율함",
+      "easy_definition": "전체를 하나로 모아 규칙에 따라 이끎",
+      "context_sentence": "비상사태에는 교통 **통제**가 실시됩니다."
+    },
+    {
+      "word_korean": "체제",
+      "word_hanja": "體制",
+      "etymology_dissection": "體(몸 체)+制(지을 제) = 전체를 이루는 규율",
+      "easy_definition": "사회나 조직이 구성되고 운영되는 방식",
+      "context_sentence": "민주주의 **체제**에서는 삼권분립이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "규칙이 필요한 이유",
+    "passage_text": "우리가 살아가는 사회에는 수많은 **제도**가 있습니다. 신호등 규칙, 학교 규칙, 법률 등이 모두 **제도**의 예입니다. 만약 아무 **제도**도 없다면 어떻게 될까요? 차들이 마음대로 달리고, 강한 사람이 약한 사람의 것을 빼앗을 수도 있습니다. **제한**과 규칙이 있기에 우리는 안전하고 공정한 사회에서 살 수 있습니다.",
+    "quiz": {
+      "question": "제도가 필요한 이유로 가장 알맞은 것은?",
+      "choices": [
+        "강한 사람이 더 많이 가질 수 있게 하기 위해",
+        "안전하고 공정한 사회를 만들기 위해",
+        "규칙을 어기는 사람을 처벌하기 위해",
+        "정부의 힘을 강하게 하기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 제한과 규칙(제도)이 있기에 안전하고 공정한 사회에서 살 수 있다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'제도'나 '제한'을 사용해서 우리 사회의 규칙 하나를 설명해보세요.",
+    "model_example": "자동차 속도 **제한** 규정은 교통사고를 줄이고 보행자의 안전을 지키기 위한 중요한 **제도**입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "制(제) — 지을 제! 제도·제한·통제 다 이 글자! 잘했어요!"
+  }
+}

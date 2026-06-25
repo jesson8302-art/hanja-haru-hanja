@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "權",
+    "hanja_sound": "권",
+    "hanja_meaning": "권세",
+    "full_reading": "권세 권",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "權",
+    "sound": "권",
+    "meaning": "권세",
+    "stroke_count": 22,
+    "radical": "木",
+    "etymology_story": "權은 나무(木)와 황새 관(雚)이 합쳐진 글자입니다. 황새처럼 높은 나무 위에서 아래를 내려보는 모습에서 '권세', '권리', '권력'의 뜻이 생겼습니다.",
+    "memory_tip": "높은 나무(木) 위의 황새(雚)처럼 위에서 다스리는 것이 '권세'입니다.",
+    "level_context": "5급 한자로, 권세을(를) 뜻하는 權입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "권리",
+      "word_hanja": "權利",
+      "reading": "권리",
+      "easy_definition": "당연히 누릴 수 있는 자격",
+      "etymology_dissection": "권세 권(權)+이로울 리(利): 권세로 이로움을 누림",
+      "example_sentence": "투표권은 소중한 권리입니다.",
+      "sentence_meaning": "투표할 자격은 소중한 권리입니다."
+    },
+    {
+      "word_korean": "권력",
+      "word_hanja": "權力",
+      "reading": "권력",
+      "easy_definition": "남을 지배하거나 통솔하는 힘",
+      "etymology_dissection": "권세 권(權)+힘 력(力): 권세의 힘",
+      "example_sentence": "권력을 올바르게 사용해야 합니다.",
+      "sentence_meaning": "지배하는 힘을 올바르게 써야 합니다."
+    },
+    {
+      "word_korean": "인권",
+      "word_hanja": "人權",
+      "reading": "인권",
+      "easy_definition": "사람이 태어나면서 가지는 기본 권리",
+      "etymology_dissection": "사람 인(人)+권세 권(權): 사람의 권리",
+      "example_sentence": "인권을 소중히 여깁시다.",
+      "sentence_meaning": "사람이 가진 기본 권리를 소중히 여깁시다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "모든 사람에게는 소중한 인권이 있습니다. 권리는 의무를 다할 때 더욱 빛납니다. 권력은 올바르게 사용할 때 의미가 있습니다.",
+    "passage_meaning": "인권은 모든 사람이 가진 기본 권리이며, 권력은 올바르게 행사되어야 합니다.",
+    "questions": [
+      {
+        "question": "'인권'의 뜻으로 알맞은 것은?",
+        "options": [
+          "돈으로 살 수 있는 것",
+          "사람이 태어나면서 가지는 기본 권리",
+          "힘 있는 사람만의 특권",
+          "나이가 들면 사라지는 것"
+        ],
+        "correct_answer": "사람이 태어나면서 가지는 기본 권리",
+        "explanation": "인권(人權)은 모든 사람이 태어나면서 갖는 기본 권리입니다."
+      },
+      {
+        "question": "'권력'에서 '權'의 뜻은?",
+        "options": [
+          "무기",
+          "권세·권력",
+          "돈",
+          "지식"
+        ],
+        "correct_answer": "권세·권력",
+        "explanation": "권력(權力)의 權은 '권세'로, 남을 지배하거나 통솔하는 힘입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'인권'이나 '권리'를 사용하여 문장을 써 보세요.",
+    "hint": "민주주의나 평등과 관련된 내용을 담아 보세요.",
+    "example_answer": "모든 사람의 인권은 평등하게 보호받아야 합니다.",
+    "key_vocabulary": [
+      "권리",
+      "권력"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "인권을 존중합시다.",
+      "모두에게 동등한 권리가 있습니다.",
+      "권력은 올바르게 사용해야 합니다."
+    ],
+    "pronunciation_tips": "'권'을 명확하게 발음하며 읽어 보세요."
+  }
+}

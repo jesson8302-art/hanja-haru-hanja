@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "姓",
+    "hanja_sound": "성",
+    "hanja_meaning": "성",
+    "full_reading": "성 성",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "姓",
+    "sound": "성",
+    "meaning": "성",
+    "stroke_count": 8,
+    "radical": "女",
+    "etymology_story": "姓은 여자(女)와 날 생(生)이 합쳐진 글자입니다. 어머니가 낳은 자녀가 같은 씨족임을 나타내는 표시에서 '성씨', '성'의 뜻이 생겼습니다.",
+    "memory_tip": "여자(女)가 낳아(生) 같은 뿌리임을 나타내는 것이 '성(姓)'입니다.",
+    "level_context": "5급 한자로, 성을(를) 뜻하는 姓입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성씨",
+      "word_hanja": "姓氏",
+      "reading": "성씨",
+      "easy_definition": "성과 씨족 이름",
+      "etymology_dissection": "성 성(姓)+씨 씨(氏): 성과 씨",
+      "example_sentence": "제 성씨는 김씨입니다.",
+      "sentence_meaning": "제 성과 씨족 이름은 김씨입니다."
+    },
+    {
+      "word_korean": "성명",
+      "word_hanja": "姓名",
+      "reading": "성명",
+      "easy_definition": "성과 이름",
+      "etymology_dissection": "성 성(姓)+이름 명(名): 성과 이름",
+      "example_sentence": "성명을 기재해 주세요.",
+      "sentence_meaning": "성과 이름을 적어 주세요."
+    },
+    {
+      "word_korean": "동성",
+      "word_hanja": "同姓",
+      "reading": "동성",
+      "easy_definition": "같은 성씨",
+      "etymology_dissection": "같을 동(同)+성 성(姓): 같은 성씨",
+      "example_sentence": "동성끼리 사이가 좋습니다.",
+      "sentence_meaning": "같은 성씨끼리 사이가 좋습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "성명을 정확하게 기재해야 합니다. 우리나라에는 다양한 성씨가 있습니다. 같은 동성이라도 다른 가족일 수 있습니다.",
+    "passage_meaning": "성씨, 성명 모두 '성'을 뜻하는 姓에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'성명'의 뜻은?",
+        "options": [
+          "주소",
+          "성과 이름",
+          "나이",
+          "직업"
+        ],
+        "correct_answer": "성과 이름",
+        "explanation": "성명(姓名)은 성과 이름입니다."
+      },
+      {
+        "question": "'姓'의 뜻은?",
+        "options": [
+          "집",
+          "성씨",
+          "나라",
+          "도시"
+        ],
+        "correct_answer": "성씨",
+        "explanation": "姓은 '성씨'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'성명'이나 '성씨'를 사용하여 문장을 써 보세요.",
+    "hint": "우리나라 문화나 가족에 관한 내용을 담아 보세요.",
+    "example_answer": "양식에 성명과 주소를 정확히 기재했습니다.",
+    "key_vocabulary": [
+      "성씨",
+      "성명"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "성명을 적어 주세요.",
+      "우리 성씨는 이씨입니다.",
+      "동성 모임에 참여했습니다."
+    ],
+    "pronunciation_tips": "'성'을 명확하게 발음하며 읽어 보세요."
+  }
+}

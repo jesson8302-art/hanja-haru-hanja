@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "정",
+    "hanja_meaning": "정수리",
+    "hanja_char": "頂",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "頂 — 머리 위의 꼭대기",
+    "etymology_story": "頁(머리 혈)과 丁(넷째 천간 정)이 합쳐진 글자입니다. 머리 위의 가장 높은 꼭대기 부분을 나타냅니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "정상",
+      "word_hanja": "頂上",
+      "etymology_dissection": "頂(정수리 정)+上(위 상) = 꼭대기의 위",
+      "easy_definition": "산이나 조직의 가장 높은 곳",
+      "context_sentence": "에베레스트 **정상**에 오른 등반가들이 있습니다."
+    },
+    {
+      "word_korean": "절정",
+      "word_hanja": "絶頂",
+      "etymology_dissection": "絶(끊을 절)+頂(정수리 정) = 끊어진 꼭대기",
+      "easy_definition": "가장 높은 상태나 단계",
+      "context_sentence": "이야기가 **절정**에 이르렀습니다."
+    },
+    {
+      "word_korean": "극정",
+      "word_hanja": "極頂",
+      "etymology_dissection": "極(극도 극)+頂(정수리 정) = 극도의 꼭대기",
+      "easy_definition": "최고조에 이른 상태",
+      "context_sentence": "**극정**의 순간에 멈추어야 합니다."
+    },
+    {
+      "word_korean": "정점",
+      "word_hanja": "頂點",
+      "etymology_dissection": "頂(정수리 정)+點(점 점) = 꼭대기의 점",
+      "easy_definition": "가장 높은 지점",
+      "context_sentence": "그 선수는 자신의 **정점**에 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "에베레스트 정상",
+    "passage_text": "해발 8,849m의 에베레스트는 지구에서 가장 높은 산의 **정상**입니다. 1953년 힐러리와 텐징 노르가이가 인류 최초로 **정상**에 올랐습니다. **정상**에 오르는 것은 단순한 도전이 아닙니다. 산소 부족, 혹한, 눈보라와 같은 극한 환경에서 살아남아야 합니다. 등반의 **절정**은 **정상**에서의 순간이지만, 진정한 도전은 돌아가는 길에서도 계속됩니다. 많은 사고가 **정상** 이후 하산 과정에서 발생합니다.",
+    "quiz": {
+      "question": "에베레스트 정상에 처음 오른 사람들은?",
+      "choices": [
+        "에드먼드 힐러리와 텐징 노르가이",
+        "닐 암스트롱과 버즈 올드린",
+        "라인홀트 메스너 혼자",
+        "어네스트 섀클턴 팀"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "1953년 힐러리와 텐징 노르가이가 인류 최초로 에베레스트 정상에 올랐습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'정상'이나 '절정'을 사용해서 무언가에 최선을 다한 경험을 써보세요.",
+    "model_example": "연주회에서 오랫동안 연습한 곡을 **절정**의 감정으로 연주했을 때, 그 기쁨은 이루 말할 수 없었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "頂(정) — 정수리 정! 정상·절정·정점 모두 여기서! 꼭대기까지 잘했어요!"
+  }
+}

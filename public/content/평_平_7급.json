@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "평",
+    "hanja_meaning": "평평할",
+    "hanja_char": "平",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "저울처럼 균형 — 평평할 평(平)",
+    "etymology_story": "'평평할 평(平)'은 저울이 균형을 이루어 수평을 유지하는 모습이에요. 치우침 없이 고른 것이 '평평하다(平)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "평화(平和)",
+      "etymology_dissection": "평평할 평(平)+화할 화(和)",
+      "easy_definition": "싸움 없이 평온한 상태",
+      "context_sentence": "평화로운 세상을 원해요."
+    },
+    {
+      "word_korean": "평균(平均)",
+      "etymology_dissection": "평평할 평(平)+고를 균(均)",
+      "easy_definition": "여러 값의 중간값",
+      "context_sentence": "평균 점수를 계산해요."
+    },
+    {
+      "word_korean": "수평(水平)",
+      "etymology_dissection": "물 수(水)+평평할 평(平)",
+      "easy_definition": "기울지 않고 고른 것",
+      "context_sentence": "수평을 맞춰요."
+    },
+    {
+      "word_korean": "평등(平等)",
+      "etymology_dissection": "평평할 평(平)+같을 등(等)",
+      "easy_definition": "모두 같은 권리",
+      "context_sentence": "평등한 사회를 만들어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "균형의 아름다움",
+    "passage_text": "**평화(平和)**는 균형에서 시작해요. **평등(平等)**한 사회가 아름다워요. **수평(水平)**처럼 치우치지 않은 판단이 중요해요. **평균(平均)**을 알면 수학이 쉬워요.",
+    "quiz": {
+      "question": "'평등(平等)'이란?",
+      "choices": [
+        "평균",
+        "수평",
+        "모두 같은 권리를 가지는 것",
+        "평화"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'평등(平等)'=평평할 평+같을 등, 모두가 같은 권리를 가지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "평등이나 평화가 중요하다고 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "수평처럼 기울지 않은 평등한 사회에서 모두가 평화롭게 살 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'평평할 — 평(平)! 평평할 — 평(平)!' 열 번 외쳐요!"
+  }
+}

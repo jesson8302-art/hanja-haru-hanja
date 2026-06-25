@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "주",
+    "hanja_meaning": "달릴",
+    "hanja_char": "走",
+    "hanja_level": "6급",
+    "linked_subject": "체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "走 — 두 팔을 흔들며 달리는 사람",
+    "etymology_story": "大(큰 대, 사람)와 止(발 지)가 합쳐진 글자입니다. 사람이 두 팔을 힘차게 흔들며 달리는 모습에서 '달리다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주행",
+      "word_hanja": "走行",
+      "etymology_dissection": "走(달릴 주)+行(갈 행) = 달려감",
+      "easy_definition": "차나 기차 등이 달려감",
+      "context_sentence": "자동차가 고속도로를 **주행**합니다."
+    },
+    {
+      "word_korean": "경주",
+      "word_hanja": "競走",
+      "etymology_dissection": "競(다툴 경)+走(달릴 주) = 다투어 달림",
+      "easy_definition": "빠르기를 겨루는 달리기 시합",
+      "context_sentence": "올림픽 100m **경주**는 세계에서 가장 빠른 선수를 가립니다."
+    },
+    {
+      "word_korean": "주자",
+      "word_hanja": "走者",
+      "etymology_dissection": "走(달릴 주)+者(놈 자) = 달리는 사람",
+      "easy_definition": "달리기하는 사람. 야구에서 베이스를 달리는 선수",
+      "context_sentence": "4번 **주자**가 결승점에 가장 먼저 들어왔습니다."
+    },
+    {
+      "word_korean": "탈주",
+      "word_hanja": "脫走",
+      "etymology_dissection": "脫(벗을 탈)+走(달릴 주) = 벗어나 달아남",
+      "easy_definition": "가두어진 곳에서 빠져나와 달아남",
+      "context_sentence": "영화에서 주인공이 감옥에서 **탈주**했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "달리기의 과학",
+    "passage_text": "100m **경주**에서 인류의 한계를 매번 경신하는 것은 단순히 빠른 발 덕분이 아닙니다. 과학적인 훈련, 영양 관리, 최적의 **주행** 자세가 모두 합쳐진 결과입니다. 우사인 볼트는 최고 속도 44.72km/h로 달려 세계 기록을 세웠습니다. **주자**가 100m를 달리는 동안 지면을 밀어내는 힘과 공기 저항을 최소화하는 것이 핵심입니다. 과학과 스포츠는 함께 발전합니다.",
+    "quiz": {
+      "question": "우사인 볼트가 달성한 최고 속도는?",
+      "choices": [
+        "약 30km/h",
+        "약 44.72km/h",
+        "약 60km/h",
+        "약 100km/h"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 우사인 볼트는 최고 속도 44.72km/h로 달렸다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'경주'를 사용해서 스포츠에서 배울 수 있는 삶의 교훈을 써보세요.",
+    "model_example": "**경주**에서 1등이 아니어도 자신의 최선을 다해 완주하는 것 자체가 소중한 경험입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "走(주) — 달릴 주! 주행·경주·주자·탈주 모두 여기서! 달려요!"
+  }
+}

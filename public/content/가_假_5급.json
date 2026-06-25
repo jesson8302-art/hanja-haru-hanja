@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "假",
+    "hanja_sound": "가",
+    "hanja_meaning": "거짓",
+    "full_reading": "거짓 가",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "假",
+    "sound": "가",
+    "meaning": "거짓",
+    "stroke_count": 11,
+    "radical": "人",
+    "etymology_story": "假는 사람(人)과 빌리다·거짓을 뜻하는 叚(가)가 합쳐진 글자입니다. 사람이 다른 것을 빌려 꾸미는 모습에서 '거짓', '임시'의 뜻이 생겼습니다. 진짜가 아닌 것을 나타냅니다.",
+    "memory_tip": "사람(人)이 다른 것을 빌려(叚) 꾸미는 것이 '거짓'이라고 기억하세요.",
+    "level_context": "5급 한자로, 거짓을(를) 뜻하는 假입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "가짜",
+      "word_hanja": "假짜",
+      "reading": "가짜",
+      "easy_definition": "진짜가 아닌 것",
+      "etymology_dissection": "거짓 가(假): 거짓으로 만든 것",
+      "example_sentence": "가짜 명품을 사면 안 됩니다.",
+      "sentence_meaning": "위조 명품을 구매해서는 안 됩니다."
+    },
+    {
+      "word_korean": "가정",
+      "word_hanja": "假定",
+      "reading": "가정",
+      "easy_definition": "사실로 인정하고 생각함",
+      "etymology_dissection": "거짓 가(假)+정할 정(定): 임시로 정함",
+      "example_sentence": "가정하에 문제를 풀어봅시다.",
+      "sentence_meaning": "가상의 조건으로 문제를 풀어봅시다."
+    },
+    {
+      "word_korean": "가면",
+      "word_hanja": "假面",
+      "reading": "가면",
+      "easy_definition": "얼굴을 가리는 탈",
+      "etymology_dissection": "거짓 가(假)+얼굴 면(面): 가짜 얼굴",
+      "example_sentence": "축제에서 가면을 쓰고 놀았습니다.",
+      "sentence_meaning": "축제에서 탈을 쓰고 즐겼습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "가짜 정보가 인터넷에 넘쳐나고 있습니다. 가면을 쓰고 거짓말을 하는 사람처럼, 인터넷에서도 가짜 뉴스가 진실인 척 돌아다닙니다. 정보를 볼 때는 진짜인지 가짜인지 잘 판단해야 합니다.",
+    "passage_meaning": "인터넷에는 가짜 정보가 많으므로, 진짜와 가짜를 구별하는 능력이 필요합니다.",
+    "questions": [
+      {
+        "question": "'假'의 뜻으로 알맞은 것은?",
+        "options": [
+          "진짜",
+          "거짓",
+          "크다",
+          "작다"
+        ],
+        "correct_answer": "거짓",
+        "explanation": "假는 진짜가 아닌 '거짓'을 뜻합니다."
+      },
+      {
+        "question": "'가면'의 뜻으로 알맞은 것은?",
+        "options": [
+          "진짜 얼굴",
+          "얼굴을 가리는 탈",
+          "아름다운 얼굴",
+          "얼굴 표정"
+        ],
+        "correct_answer": "얼굴을 가리는 탈",
+        "explanation": "가면(假面)은 假(거짓)+面(얼굴)으로 얼굴을 가리는 탈입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'가짜'나 '가정'이라는 단어를 사용하여 문장을 써 보세요.",
+    "hint": "둘 중 한 단어를 사용해 보세요.",
+    "example_answer": "가짜 정보를 믿으면 안 됩니다.",
+    "key_vocabulary": [
+      "가짜",
+      "가정"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "가짜와 진짜를 구별하세요.",
+      "가정하면 어떻게 될까요?",
+      "가면 뒤에 진실이 있습니다."
+    ],
+    "pronunciation_tips": "'가'을 명확하게 발음하며 읽어 보세요."
+  }
+}

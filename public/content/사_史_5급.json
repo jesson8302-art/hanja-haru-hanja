@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "史",
+    "hanja_sound": "사",
+    "hanja_meaning": "역사",
+    "full_reading": "역사 사",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "史",
+    "sound": "사",
+    "meaning": "역사",
+    "stroke_count": 5,
+    "radical": "口",
+    "etymology_story": "史는 기록하는 도구를 손에 든 모습을 본뜬 글자입니다. 중요한 일을 기록하는 사람에서 '역사', '기록'의 뜻이 생겼습니다.",
+    "memory_tip": "기록하는 사람의 모습이 '史(역사)'입니다.",
+    "level_context": "5급 한자로, 역사을(를) 뜻하는 史입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "역사",
+      "word_hanja": "歷史",
+      "reading": "역사",
+      "easy_definition": "인류가 지나온 기록",
+      "etymology_dissection": "지낼 력(歷)+역사 사(史): 지나온 기록",
+      "example_sentence": "역사를 잊지 맙시다.",
+      "sentence_meaning": "인류가 겪어온 일들을 잊지 맙시다."
+    },
+    {
+      "word_korean": "사학",
+      "word_hanja": "史學",
+      "reading": "사학",
+      "easy_definition": "역사를 연구하는 학문",
+      "etymology_dissection": "역사 사(史)+배울 학(學): 역사 학문",
+      "example_sentence": "사학자가 되고 싶습니다.",
+      "sentence_meaning": "역사를 연구하는 사람이 되고 싶습니다."
+    },
+    {
+      "word_korean": "역사가",
+      "word_hanja": "歷史家",
+      "reading": "역사가",
+      "easy_definition": "역사를 연구하는 사람",
+      "etymology_dissection": "역사 역사(歷史)+집 가(家): 역사의 집",
+      "example_sentence": "역사가가 유물을 연구했습니다.",
+      "sentence_meaning": "역사를 연구하는 사람이 유물을 연구했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "역사를 배우면 현재를 더 잘 이해할 수 있습니다. 사학은 과거를 통해 미래를 준비합니다. 역사가들의 연구 덕분에 과거를 알 수 있습니다.",
+    "passage_meaning": "역사, 사학, 역사가 모두 '역사'를 뜻하는 史에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'역사'의 뜻은?",
+        "options": [
+          "미래의 예측",
+          "인류가 지나온 기록",
+          "현재의 상황",
+          "꿈"
+        ],
+        "correct_answer": "인류가 지나온 기록",
+        "explanation": "역사(歷史)는 인류가 지나온 기록입니다."
+      },
+      {
+        "question": "'史'의 뜻은?",
+        "options": [
+          "미래",
+          "역사·기록",
+          "현재",
+          "상상"
+        ],
+        "correct_answer": "역사·기록",
+        "explanation": "史는 '역사', '기록'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'역사'나 '사학'을 사용하여 문장을 써 보세요.",
+    "hint": "학문이나 과거에 관한 내용을 담아 보세요.",
+    "example_answer": "역사를 통해 더 나은 미래를 만듭니다.",
+    "key_vocabulary": [
+      "역사",
+      "사학"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "역사를 잊으면 안 됩니다.",
+      "사학자들의 연구가 중요합니다.",
+      "역사가 미래를 안내합니다."
+    ],
+    "pronunciation_tips": "'사'을 명확하게 발음하며 읽어 보세요."
+  }
+}

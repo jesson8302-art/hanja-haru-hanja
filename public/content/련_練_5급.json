@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "練",
+    "hanja_sound": "련",
+    "hanja_meaning": "익힐",
+    "full_reading": "익힐 련",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "練",
+    "sound": "련",
+    "meaning": "익힐",
+    "stroke_count": 15,
+    "radical": "糸",
+    "etymology_story": "練은 실(糸)과 東(동)이 합쳐진 글자입니다. 실을 삶아 고르게 만드는 모습에서 '익히다', '연습하다', '단련하다'의 뜻이 생겼습니다.",
+    "memory_tip": "실(糸)을 삶아 고르게 만드는 것처럼 '익히다'입니다.",
+    "level_context": "5급 한자로, 익힐을(를) 뜻하는 練입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "훈련",
+      "word_hanja": "訓練",
+      "reading": "훈련",
+      "easy_definition": "가르쳐서 익힘",
+      "etymology_dissection": "가르칠 훈(訓)+익힐 련(練): 가르쳐 익힘",
+      "example_sentence": "매일 훈련을 합니다.",
+      "sentence_meaning": "매일 가르치며 연습합니다."
+    },
+    {
+      "word_korean": "연습",
+      "word_hanja": "練習",
+      "reading": "연습",
+      "easy_definition": "반복하여 익힘",
+      "etymology_dissection": "익힐 련(練)+익힐 습(習): 반복 익힘",
+      "example_sentence": "피아노 연습을 했습니다.",
+      "sentence_meaning": "피아노를 반복하여 익혔습니다."
+    },
+    {
+      "word_korean": "단련",
+      "word_hanja": "鍛練",
+      "reading": "단련",
+      "easy_definition": "강하게 익혀 굳힘",
+      "etymology_dissection": "쇠 달굴 단(鍛)+익힐 련(練): 달구어 익힘",
+      "example_sentence": "체력 단련이 중요합니다.",
+      "sentence_meaning": "몸을 강하게 훈련시키는 것이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "매일 연습하면 실력이 늡니다. 훈련을 통해 더 강해질 수 있습니다. 체력 단련은 건강한 삶의 기초입니다.",
+    "passage_meaning": "훈련, 연습, 단련 모두 '익히다'는 뜻의 練에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'훈련'의 뜻으로 알맞은 것은?",
+        "options": [
+          "가르쳐서 익히는 것",
+          "그냥 하는 것",
+          "포기하는 것",
+          "쉬는 것"
+        ],
+        "correct_answer": "가르쳐서 익히는 것",
+        "explanation": "훈련(訓練)은 가르쳐서 익히는 것입니다."
+      },
+      {
+        "question": "'연습'에서 '練'의 뜻은?",
+        "options": [
+          "쉬다",
+          "익히다",
+          "멈추다",
+          "포기하다"
+        ],
+        "correct_answer": "익히다",
+        "explanation": "연습(練習)의 練은 '익히다'로, 반복하여 익히는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'훈련'이나 '연습'을 사용하여 문장을 써 보세요.",
+    "hint": "노력과 성장에 관한 내용을 담아 보세요.",
+    "example_answer": "매일 훈련하고 연습하면 실력이 향상됩니다.",
+    "key_vocabulary": [
+      "훈련",
+      "연습"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "꾸준한 연습이 실력을 만듭니다.",
+      "훈련을 통해 강해집시다.",
+      "체력 단련을 생활화합시다."
+    ],
+    "pronunciation_tips": "'련'을 명확하게 발음하며 읽어 보세요."
+  }
+}

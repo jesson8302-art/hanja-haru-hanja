@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "額",
+    "hanja_sound": "액",
+    "hanja_meaning": "이마",
+    "full_reading": "이마 액",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "額",
+    "sound": "액",
+    "meaning": "이마",
+    "stroke_count": 18,
+    "radical": "頁",
+    "etymology_story": "額은 머리(頁)와 나그네 객(客)이 합쳐진 글자입니다. 머리 위쪽의 이마처럼 넓은 부분에서 '이마', '금액'의 뜻이 생겼습니다.",
+    "memory_tip": "머리(頁)의 넓은 이마 부분이 '額'입니다.",
+    "level_context": "5급 한자로, 이마을(를) 뜻하는 額입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "금액",
+      "word_hanja": "金額",
+      "reading": "금액",
+      "easy_definition": "돈의 액수",
+      "etymology_dissection": "금 금(金)+이마 액(額): 금의 액수",
+      "example_sentence": "금액이 얼마입니까?",
+      "sentence_meaning": "돈의 액수가 얼마입니까?"
+    },
+    {
+      "word_korean": "액수",
+      "word_hanja": "額數",
+      "reading": "액수",
+      "easy_definition": "수의 많고 적음",
+      "etymology_dissection": "이마 액(額)+수 수(數): 이마의 수",
+      "example_sentence": "액수를 확인했습니다.",
+      "sentence_meaning": "수의 많고 적음을 확인했습니다."
+    },
+    {
+      "word_korean": "총액",
+      "word_hanja": "總額",
+      "reading": "총액",
+      "easy_definition": "전체 금액",
+      "etymology_dissection": "모을 총(總)+이마 액(額): 전체 액수",
+      "example_sentence": "총액이 얼마입니까?",
+      "sentence_meaning": "전체 금액이 얼마입니까?"
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "물건 가격의 금액을 확인합니다. 영수증의 총액이 맞는지 확인합니다. 액수가 맞지 않으면 확인이 필요합니다.",
+    "passage_meaning": "금액, 액수, 총액 모두 '이마', '금액'을 뜻하는 額에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'총액'의 뜻은?",
+        "options": [
+          "일부 금액",
+          "전체 금액",
+          "최소 금액",
+          "최대 금액"
+        ],
+        "correct_answer": "전체 금액",
+        "explanation": "총액(總額)은 전체 금액입니다."
+      },
+      {
+        "question": "'額'의 뜻은?",
+        "options": [
+          "눈",
+          "이마·금액",
+          "코",
+          "귀"
+        ],
+        "correct_answer": "이마·금액",
+        "explanation": "額은 '이마', '금액'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'금액'이나 '총액'을 사용하여 문장을 써 보세요.",
+    "hint": "돈이나 경제에 관한 내용을 담아 보세요.",
+    "example_answer": "영수증을 보고 총액이 맞는지 꼼꼼히 확인했습니다.",
+    "key_vocabulary": [
+      "금액",
+      "액수"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "금액을 확인합니다.",
+      "총액이 얼마입니까?",
+      "액수가 맞습니다."
+    ],
+    "pronunciation_tips": "'액'을 명확하게 발음하며 읽어 보세요."
+  }
+}

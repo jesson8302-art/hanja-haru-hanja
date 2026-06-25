@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "승",
+    "hanja_meaning": "이길",
+    "hanja_char": "勝",
+    "hanja_level": "6급",
+    "linked_subject": "체육, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "힘으로 이기다 — 이길 승(勝)",
+    "etymology_story": "'이길 승(勝)'은 힘 력(力)과 등에 질 등(朕)이 합쳐진 글자예요. 등에 힘을 실어 밀어내는 것처럼 '이기다(勝)'는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "승리(勝利)",
+      "etymology_dissection": "이길 승(勝)+이로울 리(利)",
+      "easy_definition": "이기는 것",
+      "context_sentence": "승리를 거뒀어요."
+    },
+    {
+      "word_korean": "우승(優勝)",
+      "etymology_dissection": "넉넉할 우(優)+이길 승(勝)",
+      "easy_definition": "으뜸으로 이기는 것",
+      "context_sentence": "우승컵을 들었어요."
+    },
+    {
+      "word_korean": "명승지(名勝地)",
+      "etymology_dissection": "이름 명(名)+이길 승(勝)+땅 지(地)",
+      "easy_definition": "이름난 뛰어난 곳",
+      "context_sentence": "명승지를 여행했어요."
+    },
+    {
+      "word_korean": "승부(勝負)",
+      "etymology_dissection": "이길 승(勝)+질 부(負)",
+      "easy_definition": "이기고 지는 것",
+      "context_sentence": "승부를 겨뤄요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "진정한 승리",
+    "passage_text": "**승리(勝利)**보다 최선이 먼저예요. **우승(優勝)**의 기쁨은 노력의 결과예요. **승부(勝負)**보다 과정이 중요해요.",
+    "quiz": {
+      "question": "'우승(優勝)'이란?",
+      "choices": [
+        "승리",
+        "승부",
+        "으뜸으로 이기는 것",
+        "명승지"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'우승(優勝)'=넉넉할 우+이길 승, 가장 높이 이기는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "이기거나 최선을 다한 경험을 문장으로 써 보세요.",
+    "model_example": "우승보다 최선을 다하는 자세가 진정한 승리이고 승부는 그 다음이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'이길 — 승(勝)! 이길 — 승(勝)!' 열 번 외쳐요!"
+  }
+}

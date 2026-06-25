@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "좌",
+    "hanja_meaning": "왼",
+    "hanja_char": "左",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "왼손으로 도구를 들다 — 왼 좌(左)",
+    "etymology_story": "'왼 좌(左)'는 왼손(工)으로 도구(工)를 드는 모습이에요. 왼손잡이가 도구를 드는 것처럼 왼쪽을 나타내요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "좌측(左側)",
+      "etymology_dissection": "왼 좌(左)+곁 측(側)",
+      "easy_definition": "왼쪽",
+      "context_sentence": "좌측 통행 규칙을 지켜요."
+    },
+    {
+      "word_korean": "좌우(左右)",
+      "etymology_dissection": "왼 좌(左)+오른 우(右)",
+      "easy_definition": "왼쪽과 오른쪽",
+      "context_sentence": "좌우를 살피고 건너요."
+    },
+    {
+      "word_korean": "좌석(左席)",
+      "etymology_dissection": "왼 좌(左)+자리 석(席)",
+      "easy_definition": "앉는 자리(일반적 용법)",
+      "context_sentence": "좌석을 미리 예약해요."
+    },
+    {
+      "word_korean": "좌절(挫折)",
+      "etymology_dissection": "꺾을 좌(挫)+꺾을 절(折)",
+      "easy_definition": "실패로 의욕이 꺾이는 것",
+      "context_sentence": "좌절 말고 다시 일어서요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "왼쪽과 방향",
+    "passage_text": "**좌우(左右)**를 살피는 것이 안전이에요. **좌석(左席)**을 양보하는 마음이 아름다워요. **좌절(挫折)**을 딛고 일어서는 것이 용기예요.",
+    "quiz": {
+      "question": "'좌절(挫折)'이란?",
+      "choices": [
+        "왼쪽",
+        "좌석",
+        "왼쪽 통행",
+        "실패로 의욕이 꺾이는 것"
+      ],
+      "correct_answer_index": 3,
+      "detailed_explanation": "'좌절(挫折)'=꺾을 좌+꺾을 절, 실패로 의욕이 꺾이는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "좌절을 극복한 경험을 문장으로 써 보세요.",
+    "model_example": "좌우를 살피며 걷듯, 좌절에도 흔들리지 않고 방향을 잃지 않으면 목표에 다가가요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'왼 — 좌(左)! 왼 — 좌(左)!' 열 번 외쳐요!"
+  }
+}

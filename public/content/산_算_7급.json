@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "산",
+    "hanja_meaning": "셈",
+    "hanja_char": "算",
+    "hanja_level": "7급",
+    "linked_subject": "수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "대나무로 셈하다 — 셈 산(算)",
+    "etymology_story": "'셈 산(算)'은 대나무(竹)로 만든 산가지(숫자 세는 막대)로 눈(目)을 보며 두 손(廾)으로 계산하는 모습이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "계산(計算)",
+      "etymology_dissection": "셈 계(計)+셈 산(算)",
+      "easy_definition": "수를 더하고 빼고 곱하고 나누는 것",
+      "context_sentence": "계산이 빠르면 수학이 쉬워요."
+    },
+    {
+      "word_korean": "산수(算數)",
+      "etymology_dissection": "셈 산(算)+셈 수(數)",
+      "easy_definition": "기초 계산을 다루는 수학",
+      "context_sentence": "산수를 잘하면 생활이 편해요."
+    },
+    {
+      "word_korean": "예산(豫算)",
+      "etymology_dissection": "미리 예(豫)+셈 산(算)",
+      "easy_definition": "미리 계산해 두는 비용",
+      "context_sentence": "예산 안에서 쇼핑해요."
+    },
+    {
+      "word_korean": "오산(誤算)",
+      "etymology_dissection": "그릇될 오(誤)+셈 산(算)",
+      "easy_definition": "계산을 잘못한 것",
+      "context_sentence": "오산이 없도록 꼼꼼히 확인해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "정확한 셈",
+    "passage_text": "**계산(計算)**을 잘하면 생활이 편리해요. **예산(豫算)**을 미리 세우면 낭비가 줄어요. **오산(誤算)**하지 않도록 **산수(算數)** 기초를 탄탄히 해요.",
+    "quiz": {
+      "question": "'예산(豫算)'이란?",
+      "choices": [
+        "계산 실수",
+        "미리 계산해 두는 비용",
+        "기초 계산",
+        "셈하는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'예산(豫算)'=미리 예+셈 산, 미리 계산해 두는 비용이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "계획이나 예산을 미리 세워서 성공한 경험을 문장으로 써 보세요.",
+    "model_example": "여행 예산을 미리 계산해두니 오산 없이 즐거운 여행이 됐어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'셈 — 산(算)! 셈 — 산(算)!' 열 번 외쳐요!"
+  }
+}

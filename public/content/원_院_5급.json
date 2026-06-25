@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "원",
+    "hanja_meaning": "집",
+    "hanja_char": "院",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "院 — 담장 안의 큰 건물",
+    "etymology_story": "阜(언덕 부, 담 뜻으로 쓰임)와 完(완전할 완)이 합쳐진 글자입니다. 담장으로 둘러싸인 넓은 건물이나 기관을 뜻합니다. 병원, 학원, 법원처럼 특정 기능을 하는 공공 기관 이름에 자주 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "병원",
+      "word_hanja": "病院",
+      "etymology_dissection": "病(병 병)+院(집 원) = 병을 치료하는 집",
+      "easy_definition": "아픈 사람을 치료하는 곳",
+      "context_sentence": "다리가 아파서 **병원**에 다녀왔습니다."
+    },
+    {
+      "word_korean": "학원",
+      "word_hanja": "學院",
+      "etymology_dissection": "學(배울 학)+院(집 원) = 배우는 집",
+      "easy_definition": "특정 기술이나 지식을 가르치는 교육 시설",
+      "context_sentence": "방과 후에 수학 **학원**에 갑니다."
+    },
+    {
+      "word_korean": "법원",
+      "word_hanja": "法院",
+      "etymology_dissection": "法(법 법)+院(집 원) = 법을 다루는 집",
+      "easy_definition": "법률에 따라 재판을 하는 국가 기관",
+      "context_sentence": "억울한 일이 생기면 **법원**에 호소할 수 있습니다."
+    },
+    {
+      "word_korean": "원장",
+      "word_hanja": "院長",
+      "etymology_dissection": "院(집 원)+長(길 장) = 기관의 우두머리",
+      "easy_definition": "병원·학원 등의 기관을 이끄는 책임자",
+      "context_sentence": "**원장** 선생님께서 학원 개강식에서 인사말을 하셨습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리 동네 기관들",
+    "passage_text": "우리 동네에는 다양한 기관이 있습니다. 아플 때 가는 **병원**, 공부하러 가는 **학원**, 억울한 일을 해결하는 **법원**, 어르신들이 쉬시는 요양원까지 다양합니다. 이런 기관들은 모두 이름에 院(원)이 들어갑니다. 담장으로 둘러싸인 특별한 기능의 건물이라는 뜻이 담겨 있기 때문입니다. 이 기관들은 모두 우리의 일상을 더 편리하고 안전하게 만들어 줍니다.",
+    "quiz": {
+      "question": "이름에 '院(원)'이 들어가지 않는 기관은?",
+      "choices": [
+        "병원",
+        "학원",
+        "법원",
+        "시장"
+      ],
+      "correct_answer_index": 3,
+      "detailed_explanation": "'시장'은 물건을 사고파는 장소로 院(원)이 들어가지 않습니다. 병원·학원·법원은 모두 특정 기능을 하는 기관으로 院(원)이 쓰입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'병원'이나 '학원'을 사용해서 자신의 경험을 담은 문장을 써보세요.",
+    "model_example": "지난 주에 감기로 **병원**에 갔더니 의사 선생님께서 푹 쉬라고 하셨습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "院(원) — 집 원! 병원·학원·법원 모두 이 글자! 훌륭해요!"
+  }
+}

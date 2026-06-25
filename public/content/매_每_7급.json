@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "매",
+    "hanja_meaning": "매양",
+    "hanja_char": "每",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "어머니가 항상 머리를 꾸미는 '매양 매(每)'",
+    "etymology_story": "'매양 매(每)'는 머리를 꾸민 여성의 모습이에요. 어머니가 매일 머리를 다듬는 것처럼 '언제나, 항상'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "매일(每日)",
+      "etymology_dissection": "매양 매(每)+날 일(日)",
+      "easy_definition": "하루하루 날마다",
+      "context_sentence": "매일 한 자씩 한자를 배워요."
+    },
+    {
+      "word_korean": "매년(每年)",
+      "etymology_dissection": "매양 매(每)+해 년(年)",
+      "easy_definition": "해마다",
+      "context_sentence": "매년 봄에 꽃구경을 가요."
+    },
+    {
+      "word_korean": "매번(每番)",
+      "etymology_dissection": "매양 매(每)+차례 번(番)",
+      "easy_definition": "할 때마다",
+      "context_sentence": "매번 최선을 다해요."
+    },
+    {
+      "word_korean": "매사(每事)",
+      "etymology_dissection": "매양 매(每)+일 사(事)",
+      "easy_definition": "모든 일마다",
+      "context_sentence": "매사에 감사하는 마음을 가져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "매일의 힘",
+    "passage_text": "**매일(每日)** 조금씩 쌓이면 큰 변화가 생겨요. **매년(每年)** 더 나은 사람이 되는 것이 목표예요. **매번(每番)** 최선을 다하고 **매사(每事)**에 감사해요.",
+    "quiz": {
+      "question": "'매사(每事)'란?",
+      "choices": [
+        "매일",
+        "모든 일마다",
+        "해마다",
+        "할 때마다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'매사(每事)'=매양 매+일 사, 모든 일 하나하나마다를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "매일 또는 매번 꾸준히 하는 습관에 대해 문장으로 써 보세요.",
+    "model_example": "매일 한 자씩 한자를 배우다 보면 매년 어마어마한 실력이 쌓여 매사가 쉬워질 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'매양 — 매(每)! 매양 — 매(每)!' 열 번 외쳐요!"
+  }
+}

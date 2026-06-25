@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "북",
+    "hanja_meaning": "북녘",
+    "hanja_char": "北",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 사람이 등을 맞댄 '북녘 북(北)'",
+    "etymology_story": "'북녘 북(北)'은 두 사람이 서로 등을 맞대고 있는 모습이에요. 햇빛이 잘 안 드는 춥고 어두운 방향인 북쪽을 이렇게 표현했어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "북극(北極)",
+      "etymology_dissection": "북녘 북(北) + 다할 극(極) = 가장 북쪽 끝",
+      "easy_definition": "지구의 가장 북쪽 끝",
+      "context_sentence": "북극곰은 북극의 추운 날씨에도 잘 살아요."
+    },
+    {
+      "word_korean": "북한(北韓)",
+      "etymology_dissection": "북녘 북(北) + 나라 한(韓) = 한반도 북쪽",
+      "easy_definition": "한반도 북쪽에 있는 나라",
+      "context_sentence": "북한과 남한이 평화롭게 지내기를 바라요."
+    },
+    {
+      "word_korean": "북쪽(北쪽)",
+      "etymology_dissection": "북녘 북(北) = 차고 어두운 방향",
+      "easy_definition": "나침반에서 북극성이 있는 방향",
+      "context_sentence": "북쪽으로 갈수록 날씨가 추워져요."
+    },
+    {
+      "word_korean": "동북(東北)",
+      "etymology_dissection": "동녘 동(東) + 북녘 북(北) = 동쪽과 북쪽 사이",
+      "easy_definition": "동쪽과 북쪽 사이의 방향",
+      "context_sentence": "동북 지방에 눈이 많이 와요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "차가운 북쪽",
+    "passage_text": "**북쪽(北쪽)**으로 갈수록 날씨가 차가워져요. **북극(北極)**에는 흰 눈과 얼음으로 뒤덮인 세상이 있어요. **동북(東北)** 방향에서 차가운 바람이 불어와요. **북한(北韓)**과 평화로운 교류가 이루어지길 바라요.",
+    "quiz": {
+      "question": "'북극(北極)'은 어디인가요?",
+      "choices": [
+        "지구 가장 남쪽 끝",
+        "지구 가장 북쪽 끝",
+        "우리나라 북쪽",
+        "동북 지방"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'북극(北極)'은 '북녘 북 + 다할 극' = 지구에서 가장 북쪽 끝이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "북극이나 추운 북쪽 나라에 대해 상상하며 문장을 써 보세요.",
+    "model_example": "북극의 오로라를 보러 북쪽으로 여행을 떠나고 싶어요. 언젠가 북한과 함께 갈 수 있다면 더 좋겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'북녘 — 북(北)! 북녘 — 북(北)!' 열 번 외쳐요!"
+  }
+}

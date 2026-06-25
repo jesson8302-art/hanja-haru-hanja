@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "거",
+    "hanja_meaning": "수레",
+    "hanja_char": "車",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "수레 모양 그대로 — 수레 거(車)",
+    "etymology_story": "'수레 거(車)'는 수레의 위에서 본 모습이에요. 바퀴·축·차체가 모두 담긴 상형문자예요. 오늘날 자동차·기차 등 모든 탈것에 이 글자를 써요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자동차(自動車)",
+      "etymology_dissection": "스스로 자(自)+움직일 동(動)+수레 거(車)",
+      "easy_definition": "엔진으로 스스로 움직이는 탈것",
+      "context_sentence": "자동차가 도로를 달려요."
+    },
+    {
+      "word_korean": "기차(汽車)",
+      "etymology_dissection": "물 끓는 기(汽)+수레 거(車)",
+      "easy_definition": "증기 또는 전기로 움직이는 열차",
+      "context_sentence": "기차를 타고 여행을 떠났어요."
+    },
+    {
+      "word_korean": "차도(車道)",
+      "etymology_dissection": "수레 거(車)+길 도(道)",
+      "easy_definition": "자동차가 달리는 길",
+      "context_sentence": "차도에 뛰어들면 위험해요."
+    },
+    {
+      "word_korean": "승차(乘車)",
+      "etymology_dissection": "탈 승(乘)+수레 거(車)",
+      "easy_definition": "탈것에 타는 것",
+      "context_sentence": "버스 승차 시 교통카드를 찍어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "탈것의 세계",
+    "passage_text": "**자동차(自動車)**와 **기차(汽車)**가 사람과 물건을 이어줘요. **차도(車道)**에서는 절대 뛰면 안 돼요. **승차(乘車)** 예절을 지키면 모두가 편안해요.",
+    "quiz": {
+      "question": "'차도(車道)'란?",
+      "choices": [
+        "기차역",
+        "자동차가 달리는 길",
+        "버스 정류장",
+        "수레를 만드는 곳"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'차도(車道)'=수레 거+길 도, 자동차가 달리는 길이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "교통수단이나 탈것에 대한 경험을 문장으로 써 보세요.",
+    "model_example": "기차를 타고 여행을 떠나면 자동차로 달리는 차도와는 다른 풍경이 펼쳐져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'수레 — 거(車)! 수레 — 거(車)!' 열 번 외쳐요!"
+  }
+}

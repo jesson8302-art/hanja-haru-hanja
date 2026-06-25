@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "實",
+    "hanja_sound": "실",
+    "hanja_meaning": "열매",
+    "full_reading": "열매 실",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "實",
+    "sound": "실",
+    "meaning": "열매",
+    "stroke_count": 14,
+    "radical": "宀",
+    "etymology_story": "實은 집(宀) 안에 꿰뚫을 관(貫)이 있는 글자입니다. 집 안에 가득 찬 재물처럼 충실하고 가득 찬 모습에서 '열매', '실제', '충실하다'의 뜻이 생겼습니다.",
+    "memory_tip": "집(宀) 안에 가득 찬 재물(貫)이 '열매·실제(實)'입니다.",
+    "level_context": "5급 한자로, 열매을(를) 뜻하는 實입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "현실",
+      "word_hanja": "現實",
+      "reading": "현실",
+      "easy_definition": "실제로 있는 상태",
+      "etymology_dissection": "나타날 현(現)+열매 실(實): 나타난 실제",
+      "example_sentence": "현실을 직시합니다.",
+      "sentence_meaning": "실제로 있는 상태를 똑바로 봅니다."
+    },
+    {
+      "word_korean": "실제",
+      "word_hanja": "實際",
+      "reading": "실제",
+      "easy_definition": "사실 그대로",
+      "etymology_dissection": "열매 실(實)+사귈 제(際): 실제의 경계",
+      "example_sentence": "실제로 해봤습니다.",
+      "sentence_meaning": "사실 그대로 해봤습니다."
+    },
+    {
+      "word_korean": "성실",
+      "word_hanja": "誠實",
+      "reading": "성실",
+      "easy_definition": "정성스럽고 진실함",
+      "etymology_dissection": "정성 성(誠)+열매 실(實): 정성의 열매",
+      "example_sentence": "성실하게 일합니다.",
+      "sentence_meaning": "정성스럽고 진실하게 일합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "현실을 직시하고 노력해야 합니다. 실제로 경험해보는 것이 중요합니다. 성실한 태도가 성공의 기반입니다.",
+    "passage_meaning": "현실, 실제, 성실 모두 '열매', '실제', '충실하다'를 뜻하는 實에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'현실'의 뜻은?",
+        "options": [
+          "꿈속의 세계",
+          "실제로 있는 상태",
+          "미래의 상상",
+          "과거의 기억"
+        ],
+        "correct_answer": "실제로 있는 상태",
+        "explanation": "현실(現實)은 실제로 있는 상태입니다."
+      },
+      {
+        "question": "'實'의 뜻은?",
+        "options": [
+          "허상",
+          "열매·실제",
+          "꿈",
+          "기억"
+        ],
+        "correct_answer": "열매·실제",
+        "explanation": "實은 '열매', '실제'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'현실'이나 '성실'을 사용하여 문장을 써 보세요.",
+    "hint": "생활이나 태도에 관한 내용을 담아 보세요.",
+    "example_answer": "현실을 직시하고 성실하게 노력하면 꿈을 이룰 수 있습니다.",
+    "key_vocabulary": [
+      "현실",
+      "실제"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "현실을 직시합니다.",
+      "실제로 경험합니다.",
+      "성실하게 노력합시다."
+    ],
+    "pronunciation_tips": "'실'을 명확하게 발음하며 읽어 보세요."
+  }
+}

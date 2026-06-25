@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "馬",
+    "hanja_sound": "마",
+    "hanja_meaning": "말",
+    "full_reading": "말 마",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "馬",
+    "sound": "마",
+    "meaning": "말",
+    "stroke_count": 10,
+    "radical": "馬",
+    "etymology_story": "馬는 말의 모양을 본뜬 글자입니다. 말이 달리는 모습을 그린 것으로, '말(동물)'을 의미합니다.",
+    "memory_tip": "말이 달리는 모양이 '馬'입니다.",
+    "level_context": "5급 한자로, 말을(를) 뜻하는 馬입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "경마",
+      "word_hanja": "競馬",
+      "reading": "경마",
+      "easy_definition": "말의 빠르기를 겨루는 경기",
+      "etymology_dissection": "다툴 경(競)+말 마(馬): 말 경기",
+      "example_sentence": "경마장에서 경기를 봤습니다.",
+      "sentence_meaning": "말이 빠르기를 겨루는 경기장에 갔습니다."
+    },
+    {
+      "word_korean": "마차",
+      "word_hanja": "馬車",
+      "reading": "마차",
+      "easy_definition": "말이 끄는 수레",
+      "etymology_dissection": "말 마(馬)+수레 차(車): 말이 끄는 수레",
+      "example_sentence": "동화 속 공주가 마차를 탔습니다.",
+      "sentence_meaning": "동화 속 공주가 말이 끄는 수레를 탔습니다."
+    },
+    {
+      "word_korean": "말",
+      "word_hanja": "馬",
+      "reading": "마",
+      "easy_definition": "네 다리 가진 큰 동물",
+      "etymology_dissection": "말 마(馬): 말",
+      "example_sentence": "말을 타고 달렸습니다.",
+      "sentence_meaning": "말 위에 올라타고 달렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "말은 예로부터 인간의 가장 중요한 동반자였습니다. 마차는 자동차가 생기기 전 주요 교통수단이었습니다. 경마는 말의 속도를 겨루는 스포츠입니다.",
+    "passage_meaning": "말(馬)은 경마, 마차 등 역사 속에서 중요한 역할을 해온 동물입니다.",
+    "questions": [
+      {
+        "question": "'마차'의 뜻으로 알맞은 것은?",
+        "options": [
+          "기차",
+          "말이 끄는 수레",
+          "자동차",
+          "배"
+        ],
+        "correct_answer": "말이 끄는 수레",
+        "explanation": "마차(馬車)는 말이 끄는 수레입니다."
+      },
+      {
+        "question": "'경마'에서 '馬'의 뜻은?",
+        "options": [
+          "소",
+          "말",
+          "개",
+          "닭"
+        ],
+        "correct_answer": "말",
+        "explanation": "경마(競馬)의 馬는 '말'로, 말의 빠르기를 겨루는 경기입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'마차'나 '경마'를 사용하여 문장을 써 보세요.",
+    "hint": "역사나 스포츠와 관련된 내용을 담아 보세요.",
+    "example_answer": "옛날에는 마차가 중요한 교통수단이었습니다.",
+    "key_vocabulary": [
+      "경마",
+      "마차"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "마차를 타고 여행하는 것이 꿈입니다.",
+      "경마장의 말들이 힘차게 달렸습니다.",
+      "말은 충직한 동물입니다."
+    ],
+    "pronunciation_tips": "'마'을 명확하게 발음하며 읽어 보세요."
+  }
+}

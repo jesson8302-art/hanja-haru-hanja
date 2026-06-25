@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "領",
+    "hanja_sound": "령",
+    "hanja_meaning": "거느릴",
+    "full_reading": "거느릴 령",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "領",
+    "sound": "령",
+    "meaning": "거느릴",
+    "stroke_count": 14,
+    "radical": "頁",
+    "etymology_story": "領은 머리(頁)와 명령 령(令)이 합쳐진 글자입니다. 머리에서 나온 명령으로 거느리는 모습에서 '거느리다', '목', '영역'의 뜻이 생겼습니다.",
+    "memory_tip": "머리(頁)에서 내리는 명령(令)으로 거느리는 것이 '領'입니다.",
+    "level_context": "5급 한자로, 거느릴을(를) 뜻하는 領입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "영토",
+      "word_hanja": "領土",
+      "reading": "영토",
+      "easy_definition": "나라가 거느리는 땅",
+      "etymology_dissection": "거느릴 령(領)+땅 토(土): 거느리는 땅",
+      "example_sentence": "독도는 우리나라 영토입니다.",
+      "sentence_meaning": "독도는 우리나라가 거느리는 땅입니다."
+    },
+    {
+      "word_korean": "대통령",
+      "word_hanja": "大統領",
+      "reading": "대통령",
+      "easy_definition": "나라를 거느리는 최고 지도자",
+      "etymology_dissection": "클 대(大)+거느릴 통(統)+거느릴 령(領): 크게 거느림",
+      "example_sentence": "대통령이 국민에게 연설했습니다.",
+      "sentence_meaning": "나라의 최고 지도자가 국민에게 연설했습니다."
+    },
+    {
+      "word_korean": "점령",
+      "word_hanja": "占領",
+      "reading": "점령",
+      "easy_definition": "차지하여 거느림",
+      "etymology_dissection": "차지할 점(占)+거느릴 령(領): 차지하여 거느림",
+      "example_sentence": "적군이 도시를 점령했습니다.",
+      "sentence_meaning": "적이 도시를 차지하여 지배했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "대통령은 국민이 뽑는 최고 지도자입니다. 영토를 지키는 것은 나라의 의무입니다. 역사 속에서 전쟁으로 점령당한 도시들이 있었습니다.",
+    "passage_meaning": "영토, 대통령, 점령 모두 '거느리다'는 뜻의 領에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'영토'의 뜻으로 알맞은 것은?",
+        "options": [
+          "바다 위의 배",
+          "나라가 거느리는 땅",
+          "개인의 집",
+          "기업의 건물"
+        ],
+        "correct_answer": "나라가 거느리는 땅",
+        "explanation": "영토(領土)는 나라가 거느리는 땅입니다."
+      },
+      {
+        "question": "'대통령'에서 '領'의 뜻은?",
+        "options": [
+          "크다",
+          "거느리다",
+          "빠르다",
+          "강하다"
+        ],
+        "correct_answer": "거느리다",
+        "explanation": "대통령(大統領)의 領은 '거느리다'로, 나라를 거느리는 최고 지도자를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'대통령'이나 '영토'를 사용하여 문장을 써 보세요.",
+    "hint": "나라와 지도자에 관한 내용을 담아 보세요.",
+    "example_answer": "우리나라 영토를 소중히 지켜야 합니다.",
+    "key_vocabulary": [
+      "영토",
+      "대통령"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "대통령은 국민을 위해 일합니다.",
+      "영토를 지키는 것이 중요합니다.",
+      "점령은 역사적 아픔입니다."
+    ],
+    "pronunciation_tips": "'령'을 명확하게 발음하며 읽어 보세요."
+  }
+}

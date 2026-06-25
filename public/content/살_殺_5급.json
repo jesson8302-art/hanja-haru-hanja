@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "殺",
+    "hanja_sound": "살",
+    "hanja_meaning": "죽일",
+    "full_reading": "죽일 살",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "殺",
+    "sound": "살",
+    "meaning": "죽일",
+    "stroke_count": 11,
+    "radical": "殳",
+    "etymology_story": "殺는 부수(殳)와 刀(도)가 합쳐진 글자입니다. 무기로 생명을 끊는 모습에서 '죽이다', '줄이다'의 뜻이 생겼습니다.",
+    "memory_tip": "무기(殳)로 (刀) 끊는 것이 '죽이다(殺)'입니다.",
+    "level_context": "5급 한자로, 죽일을(를) 뜻하는 殺입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "살인",
+      "word_hanja": "殺人",
+      "reading": "살인",
+      "easy_definition": "사람을 죽임",
+      "etymology_dissection": "죽일 살(殺)+사람 인(人): 사람을 죽임",
+      "example_sentence": "살인은 가장 큰 죄입니다.",
+      "sentence_meaning": "사람을 죽이는 것은 가장 큰 죄입니다."
+    },
+    {
+      "word_korean": "자살",
+      "word_hanja": "自殺",
+      "reading": "자살",
+      "easy_definition": "스스로 목숨을 끊음",
+      "etymology_dissection": "스스로 자(自)+죽일 살(殺): 스스로 죽임",
+      "example_sentence": "자살은 막아야 합니다.",
+      "sentence_meaning": "스스로 목숨을 끊는 것을 막아야 합니다."
+    },
+    {
+      "word_korean": "살균",
+      "word_hanja": "殺菌",
+      "reading": "살균",
+      "easy_definition": "균을 죽임",
+      "etymology_dissection": "죽일 살(殺)+균 균(菌): 균을 죽임",
+      "example_sentence": "식기를 살균 소독했습니다.",
+      "sentence_meaning": "식기를 균을 죽여 소독했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "생명은 소중합니다. 살균 소독으로 세균을 없애 위생을 지킵니다. 살인은 어떤 이유로도 정당화될 수 없습니다.",
+    "passage_meaning": "殺은 '죽이다'는 뜻으로 살인, 살균 등 다양한 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'살균'의 뜻은?",
+        "options": [
+          "균을 키우는 것",
+          "균을 죽이는 것",
+          "균을 옮기는 것",
+          "균을 먹는 것"
+        ],
+        "correct_answer": "균을 죽이는 것",
+        "explanation": "살균(殺菌)은 균을 죽이는 것입니다."
+      },
+      {
+        "question": "'殺'의 뜻은?",
+        "options": [
+          "살리다",
+          "죽이다",
+          "기르다",
+          "돕다"
+        ],
+        "correct_answer": "죽이다",
+        "explanation": "殺은 '죽이다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'살균'을 사용하여 문장을 써 보세요.",
+    "hint": "위생이나 건강과 관련된 내용을 담아 보세요.",
+    "example_answer": "식기를 살균하여 위생을 지킵니다.",
+    "key_vocabulary": [
+      "살인",
+      "자살"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "살균 소독이 중요합니다.",
+      "생명을 소중히 여깁시다.",
+      "위생을 철저히 지킵시다."
+    ],
+    "pronunciation_tips": "'살'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "등",
+    "hanja_meaning": "무리",
+    "hanja_char": "等",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "대나무 패를 나란히 세우다 — 무리 등(等)",
+    "etymology_story": "'무리 등(等)'은 대나무(竹)와 절 사(寺)가 합쳐진 글자예요. 대나무 패를 같은 높이로 나란히 세우는 것에서 '같다, 무리'라는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "등급(等級)",
+      "etymology_dissection": "무리 등(等)+등급 급(級)",
+      "easy_definition": "순서나 품질의 단계",
+      "context_sentence": "등급을 올려요."
+    },
+    {
+      "word_korean": "평등(平等)",
+      "etymology_dissection": "평평할 평(平)+무리 등(等)",
+      "easy_definition": "모두 같은 것",
+      "context_sentence": "평등한 사회를 원해요."
+    },
+    {
+      "word_korean": "고등(高等)",
+      "etymology_dissection": "높을 고(高)+무리 등(等)",
+      "easy_definition": "높은 수준",
+      "context_sentence": "고등 교육이 중요해요."
+    },
+    {
+      "word_korean": "동등(同等)",
+      "etymology_dissection": "같을 동(同)+무리 등(等)",
+      "easy_definition": "같은 수준",
+      "context_sentence": "동등하게 대우해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "같음의 가치",
+    "passage_text": "**평등(平等)**은 모두의 권리예요. **동등(同等)**한 기회가 중요해요. **고등(高等)** 수준을 향해 꾸준히 나아가요.",
+    "quiz": {
+      "question": "'평등(平等)'이란?",
+      "choices": [
+        "등급",
+        "고등",
+        "모두 같은 권리를 가지는 것",
+        "동등"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'평등(平等)'=평평할 평+무리 등, 모두가 나란히 같은 권리를 가지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "평등이나 동등한 대우가 중요하다고 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "동등한 기회와 평등한 환경에서 고등한 실력이 자라나요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'무리 — 등(等)! 무리 — 등(等)!' 열 번 외쳐요!"
+  }
+}

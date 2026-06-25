@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "한가지",
+    "hanja_char": "同",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "함께 같은 것을 말하다 — 한가지 동(同)",
+    "etymology_story": "'한가지 동(同)'은 함께 모여(凡) 같은 말(口)을 하는 모습이에요. 여러 사람이 한 목소리로 말하는 것처럼 '같다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동생(同生)",
+      "etymology_dissection": "한가지 동(同)+날 생(生)",
+      "easy_definition": "같은 부모에게서 태어난 아랫사람",
+      "context_sentence": "동생과 함께 학교에 가요."
+    },
+    {
+      "word_korean": "동일(同一)",
+      "etymology_dissection": "한가지 동(同)+한 일(一)",
+      "easy_definition": "똑같은 것",
+      "context_sentence": "두 물건이 동일해요."
+    },
+    {
+      "word_korean": "공동(共同)",
+      "etymology_dissection": "함께 공(共)+한가지 동(同)",
+      "easy_definition": "함께 같이 하는 것",
+      "context_sentence": "공동 작업으로 더 좋은 결과가 나왔어요."
+    },
+    {
+      "word_korean": "동의(同意)",
+      "etymology_dissection": "한가지 동(同)+뜻 의(意)",
+      "easy_definition": "같은 뜻, 찬성",
+      "context_sentence": "모두 동의하면 결정이 돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "함께 같이",
+    "passage_text": "**동생(同生)**과 **공동(共同)** 작업을 하면 즐거워요. **동일(同一)**한 의견이 아니어도 괜찮아요. **동의(同意)**와 반대 모두 소중한 의견이에요.",
+    "quiz": {
+      "question": "'공동(共同)'이란?",
+      "choices": [
+        "혼자 하는 것",
+        "똑같은 것",
+        "함께 같이 하는 것",
+        "찬성하는 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'공동(共同)'=함께 공+한가지 동, 함께 같이 하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "친구나 가족과 함께한 공동 작업의 경험을 문장으로 써 보세요.",
+    "model_example": "친구들과 공동으로 프로젝트를 하면서 동일한 목표를 가지고 동의하며 일하는 게 즐거웠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'한가지 — 동(同)! 한가지 — 동(同)!' 열 번 외쳐요!"
+  }
+}

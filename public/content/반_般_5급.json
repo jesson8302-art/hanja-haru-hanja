@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "반",
+    "hanja_meaning": "반",
+    "hanja_char": "般",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "般 — 배를 손으로 돌려 옮기다",
+    "etymology_story": "舟(배 주)와 殳(칠 수, 돌리는 모습)가 합쳐진 글자입니다. 배를 돌려 옮기는 모습에서 '일반', '두루', '옮기다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "일반",
+      "word_hanja": "一般",
+      "etymology_dissection": "一(한 일)+般(반 반) = 하나로 두루",
+      "easy_definition": "특별하지 않은 보통의 것",
+      "context_sentence": "**일반** 시민도 의견을 낼 수 있습니다."
+    },
+    {
+      "word_korean": "전반",
+      "word_hanja": "全般",
+      "etymology_dissection": "全(온전 전)+般(반 반) = 온전히 두루",
+      "easy_definition": "전체에 걸쳐 두루",
+      "context_sentence": "사회 **전반**에 걸친 변화가 필요합니다."
+    },
+    {
+      "word_korean": "반입",
+      "word_hanja": "搬入",
+      "etymology_dissection": "搬(옮길 반)+入(들 입) = 들여 옮김",
+      "easy_definition": "물건을 안으로 들여옮김",
+      "context_sentence": "공연장에 음식 **반입**이 금지됩니다."
+    },
+    {
+      "word_korean": "반출",
+      "word_hanja": "搬出",
+      "etymology_dissection": "搬(옮길 반)+出(날 출) = 밖으로 옮김",
+      "easy_definition": "물건을 밖으로 내옮김",
+      "context_sentence": "문화재의 **반출**을 막아야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "일반과 특별",
+    "passage_text": "세상에는 **일반**적인 것과 특별한 것이 있습니다. **일반** 원칙을 알면 특별한 상황을 이해하기 쉽고, 특별한 사례를 많이 알면 **일반** 원칙을 발견할 수 있습니다. 과학은 **일반** 법칙을 찾는 과정입니다. 수많은 특별한 관찰에서 **전반**적인 패턴을 찾아 이론을 세웁니다. **일반** 시민의 **전반**적인 삶의 질을 높이는 것이 좋은 정책의 목표입니다.",
+    "quiz": {
+      "question": "과학이 하는 일로 글에서 설명된 것은?",
+      "choices": [
+        "특별한 것만 연구한다",
+        "수많은 관찰에서 일반 법칙을 찾는다",
+        "일반인과 관련 없다",
+        "결과만 중요하다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "과학은 수많은 특별한 관찰에서 전반적인 패턴을 찾아 이론을 세운다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'일반'을 사용해서 일반적인 것과 특별한 것의 차이를 설명해보세요.",
+    "model_example": "**일반**적으로 봄은 따뜻하지만, 특별히 갑자기 추워지는 '꽃샘추위'가 찾아오기도 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "般(반) — 반 반! 일반·전반·반입·반출 모두 여기서! 일반적으로 잘했어요!"
+  }
+}

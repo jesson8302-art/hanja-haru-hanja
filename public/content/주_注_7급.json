@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "주",
+    "hanja_meaning": "물댈",
+    "hanja_char": "注",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "물을 따르다 — 물댈 주(注)",
+    "etymology_story": "'물댈 주(注)'는 물(水)과 주인 주(主)가 합쳐진 글자예요. 물(水)이 한 곳(主)으로 집중해 흘러가는 것이 '물대다(注)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "주의(注意)",
+      "etymology_dissection": "물댈 주(注)+뜻 의(意)",
+      "easy_definition": "마음을 기울이는 것",
+      "context_sentence": "주의를 기울여요."
+    },
+    {
+      "word_korean": "주목(注目)",
+      "etymology_dissection": "물댈 주(注)+눈 목(目)",
+      "easy_definition": "눈길을 주는 것",
+      "context_sentence": "발표자에게 주목해요."
+    },
+    {
+      "word_korean": "주입(注入)",
+      "etymology_dissection": "물댈 주(注)+들 입(入)",
+      "easy_definition": "부어넣는 것",
+      "context_sentence": "주입식 교육보다 이해가 중요해요."
+    },
+    {
+      "word_korean": "집주(集注)",
+      "etymology_dissection": "모을 집(集)+물댈 주(注)",
+      "easy_definition": "한 곳에 모아 붓는 것",
+      "context_sentence": "집주하며 공부해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "집중의 힘",
+    "passage_text": "**주의(注意)**를 기울이면 실수가 줄어요. **주목(注目)**받는 사람이 되려면 꾸준함이 필요해요. **주입(注入)**보다 스스로 이해하는 공부가 오래 남아요.",
+    "quiz": {
+      "question": "'주목(注目)'이란?",
+      "choices": [
+        "물을 붓는 것",
+        "마음을 기울이는 것",
+        "눈길을 모으는 것",
+        "주입식"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'주목(注目)'=물댈 주+눈 목, 눈길을 한곳에 모으는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "주의를 기울여서 성공한 경험을 문장으로 써 보세요.",
+    "model_example": "발표할 때 주목받으려면 발음에 주의를 기울이고 내용을 주입이 아닌 이해로 익혀야 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'물댈 — 주(注)! 물댈 — 주(注)!' 열 번 외쳐요!"
+  }
+}

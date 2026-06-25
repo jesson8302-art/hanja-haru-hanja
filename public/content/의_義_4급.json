@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "의",
+    "hanja_meaning": "옳을",
+    "hanja_char": "義",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "義 — 양처럼 아름답고 올바르게",
+    "etymology_story": "羊(양 양)과 我(나 아)가 합쳐진 글자입니다. 양은 고대 중국에서 아름다움과 선함의 상징이었습니다. 내가 양처럼 아름답고 올바르게 행동한다는 뜻에서 '옳다', '의롭다'는 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의리",
+      "word_hanja": "義理",
+      "etymology_dissection": "義(옳을 의)+理(다스릴 리) = 옳은 이치",
+      "easy_definition": "사람으로서 마땅히 지켜야 할 도리와 정",
+      "context_sentence": "친구 사이에는 **의리**가 중요합니다."
+    },
+    {
+      "word_korean": "정의",
+      "word_hanja": "正義",
+      "etymology_dissection": "正(바를 정)+義(옳을 의) = 바르고 옳음",
+      "easy_definition": "올바르고 공정한 도덕적 원칙",
+      "context_sentence": "**정의**로운 사회는 모든 사람이 공평하게 대우받는 사회입니다."
+    },
+    {
+      "word_korean": "의미",
+      "word_hanja": "意味",
+      "etymology_dissection": "意(뜻 의)+味(맛 미) = 뜻과 의미",
+      "easy_definition": "어떤 말이나 행동이 가지는 뜻",
+      "context_sentence": "이 시의 **의미**를 깊이 생각해 보세요."
+    },
+    {
+      "word_korean": "신의",
+      "word_hanja": "信義",
+      "etymology_dissection": "信(믿을 신)+義(옳을 의) = 믿음과 의로움",
+      "easy_definition": "약속을 지키고 올바르게 행동하는 태도",
+      "context_sentence": "**신의**를 지키는 사람은 모두에게 신뢰를 얻습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "정의란 무엇인가",
+    "passage_text": "**정의**는 모든 사람이 공평하고 올바르게 대우받는 것을 말합니다. 고대 그리스 철학자 소크라테스는 죽음 앞에서도 **의리**와 **정의**를 지켰습니다. 그는 불의한 방법으로 감옥을 탈출하는 것보다 법을 지키며 죽는 것이 더 **의미** 있다고 생각했습니다. 오늘날에도 **정의**는 사회를 유지하는 가장 중요한 가치 중 하나입니다.",
+    "quiz": {
+      "question": "소크라테스가 감옥 탈출을 거부한 이유는?",
+      "choices": [
+        "도망갈 힘이 없었기 때문에",
+        "불의한 방법보다 정의를 지키는 것이 더 의미 있다고 생각했기 때문에",
+        "감옥이 편했기 때문에",
+        "친구들이 도와주지 않아서"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "소크라테스는 불의한 방법으로 탈출하기보다 정의를 지키며 죽는 것이 더 의미 있다고 생각했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'정의'나 '의리'를 사용해서 올바른 행동에 대한 자신의 생각을 써보세요.",
+    "model_example": "친구가 어려울 때 도와주는 것이 진정한 **의리**이며, 이것이 바로 **정의**로운 행동의 시작입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "義(의) — 옳을 의! 의리·정의·신의 모두 여기서! 정말 훌륭해요!"
+  }
+}

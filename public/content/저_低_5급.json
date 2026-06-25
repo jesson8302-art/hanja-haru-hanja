@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "저",
+    "hanja_meaning": "낮을",
+    "hanja_char": "低",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "低 — 사람이 낮게 몸을 구부리다",
+    "etymology_story": "人(사람 인)과 氐(근본 저, 숙이는 모양)가 합쳐진 글자입니다. 사람이 몸을 낮게 구부리는 모습에서 '낮다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "저하",
+      "word_hanja": "低下",
+      "etymology_dissection": "低(낮을 저)+下(아래 하) = 낮아져 아래로",
+      "easy_definition": "수준이나 능력이 낮아짐",
+      "context_sentence": "면역력이 **저하**되면 병에 걸리기 쉽습니다."
+    },
+    {
+      "word_korean": "저소득",
+      "word_hanja": "低所得",
+      "etymology_dissection": "低(낮을 저)+所得(소득) = 낮은 소득",
+      "easy_definition": "소득이 적은 것",
+      "context_sentence": "**저소득** 가정을 위한 지원이 필요합니다."
+    },
+    {
+      "word_korean": "최저",
+      "word_hanja": "最低",
+      "etymology_dissection": "最(가장 최)+低(낮을 저) = 가장 낮음",
+      "easy_definition": "가장 낮은 수준",
+      "context_sentence": "**최저** 임금이 인상되었습니다."
+    },
+    {
+      "word_korean": "저온",
+      "word_hanja": "低溫",
+      "etymology_dissection": "低(낮을 저)+溫(따뜻할 온) = 낮은 온도",
+      "easy_definition": "낮은 온도",
+      "context_sentence": "**저온**에서 세균 증식이 억제됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "최저임금",
+    "passage_text": "**최저** 임금제는 근로자가 받을 수 있는 가장 낮은 임금을 법으로 정하는 제도입니다. 지나치게 낮은 임금을 받는 노동자를 보호하기 위해 만들어졌습니다. **저소득** 계층의 소득을 높여 소비를 늘리고 경제를 활성화하는 효과도 있습니다. 그러나 **최저** 임금이 너무 급격히 오르면 기업이 고용을 줄일 수 있다는 우려도 있습니다. 적절한 **최저** 임금 수준을 찾는 것이 사회적 과제입니다.",
+    "quiz": {
+      "question": "최저임금제의 목적으로 글에서 언급된 것은?",
+      "choices": [
+        "기업의 이익을 높이기 위해",
+        "지나치게 낮은 임금을 받는 노동자를 보호하기 위해",
+        "물가를 올리기 위해",
+        "세금을 더 걷기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "최저임금제는 지나치게 낮은 임금을 받는 노동자를 보호하기 위해 만들어졌다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'최저'를 사용해서 공정한 사회를 위해 필요한 것에 대해 써보세요.",
+    "model_example": "모든 사람이 인간다운 삶을 살려면 **최저** 수준의 교육, 의료, 주거가 보장되어야 한다고 생각합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "低(저) — 낮을 저! 저하·저소득·최저·저온 모두 여기서! 잘했어요!"
+  }
+}

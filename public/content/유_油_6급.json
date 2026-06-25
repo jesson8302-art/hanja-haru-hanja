@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "유",
+    "hanja_meaning": "기름",
+    "hanja_char": "油",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "油 — 물처럼 흐르는 기름",
+    "etymology_story": "油(유)는 물 수(水/氵)와 말미암을 유(由)가 합쳐진 글자예요. 물처럼 흐르는 액체인 '기름'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "석유(石油)",
+      "etymology_dissection": "돌 석(石)+기름 유(油)",
+      "easy_definition": "땅속에서 나오는 기름",
+      "context_sentence": "자동차는 석유로 움직여요."
+    },
+    {
+      "word_korean": "기름(油)",
+      "etymology_dissection": "기름 유(油)의 우리말",
+      "easy_definition": "음식을 볶거나 튀길 때 쓰는 액체",
+      "context_sentence": "팝콘을 만들 때 기름을 두릅니다."
+    },
+    {
+      "word_korean": "주유소(注油所)",
+      "etymology_dissection": "물댈 주(注)+기름 유(油)+곳 소(所)",
+      "easy_definition": "자동차에 기름을 넣는 곳",
+      "context_sentence": "아빠가 주유소에 들러 기름을 넣었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "주유소에 간 가족",
+    "passage_text": "가족 여행을 떠나기 전, 아빠는 주유소(注油所)에 들렀어요. 석유(石油)에서 만들어진 연료를 차에 채웠어요. '기름이 없으면 차가 안 달려!'라고 동생이 말했어요.",
+    "quiz": {
+      "question": "'주유소'에서 하는 일은?",
+      "choices": [
+        "자동차에 기름을 넣음",
+        "자동차를 수리함",
+        "자동차를 파는 곳",
+        "자동차를 세차함"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "주유소(注油所)는 자동차에 연료(기름)를 넣는 곳이에요. '주(注)+유(油)+소(所)'로 이루어져 있어요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "기름(油)이 우리 생활에서 어떻게 쓰이는지 두 가지 예를 들어 써 보세요.",
+    "model_example": "예) 자동차가 달리려면 연료가 필요해요. 음식을 볶을 때도 식용유가 필요해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "油(유)! 세상을 움직이는 기름의 힘! 오늘도 잘했어요! ⛽"
+  }
+}

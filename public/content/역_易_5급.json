@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "易",
+    "hanja_sound": "역",
+    "hanja_meaning": "바꿀",
+    "full_reading": "바꿀 역",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "易",
+    "sound": "역",
+    "meaning": "바꿀",
+    "stroke_count": 8,
+    "radical": "日",
+    "etymology_story": "易는 태양(日)과 아래에 물이 흐르는 모습을 본뜬 글자입니다. 해가 뜨고 지며 변하듯 '바꾸다', '쉽다', '점'의 뜻이 생겼습니다.",
+    "memory_tip": "해(日)가 뜨고 지며 변하는 것이 '바꾸다(易)'입니다.",
+    "level_context": "5급 한자로, 바꿀을(를) 뜻하는 易입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "무역",
+      "word_hanja": "貿易",
+      "reading": "무역",
+      "easy_definition": "나라 간 물건을 교환함",
+      "etymology_dissection": "장사 무(貿)+바꿀 역(易): 물건을 바꿈",
+      "example_sentence": "무역으로 경제가 발전합니다.",
+      "sentence_meaning": "나라 간 물건 교환으로 경제가 발전합니다."
+    },
+    {
+      "word_korean": "용이",
+      "word_hanja": "容易",
+      "reading": "용이",
+      "easy_definition": "쉽고 수월함",
+      "etymology_dissection": "받아들일 용(容)+바꿀 역(易): 받아들이기 쉬움",
+      "example_sentence": "이 문제는 용이합니다.",
+      "sentence_meaning": "이 문제는 쉽고 수월합니다."
+    },
+    {
+      "word_korean": "변역",
+      "word_hanja": "變易",
+      "reading": "변역",
+      "easy_definition": "변하여 바뀜",
+      "etymology_dissection": "변할 변(變)+바꿀 역(易): 변하여 바뀜",
+      "example_sentence": "상황이 변역했습니다.",
+      "sentence_meaning": "상황이 변하여 바뀌었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "한국은 무역으로 경제를 발전시켰습니다. 복잡한 문제도 풀어보면 용이할 때가 있습니다. 시대에 따라 풍속이 변역합니다.",
+    "passage_meaning": "무역, 용이 모두 '바꾸다', '쉽다'를 뜻하는 易에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'무역'의 뜻은?",
+        "options": [
+          "국내 거래",
+          "나라 간 물건 교환",
+          "개인 간 교환",
+          "물건 만들기"
+        ],
+        "correct_answer": "나라 간 물건 교환",
+        "explanation": "무역(貿易)은 나라 간 물건을 교환하는 것입니다."
+      },
+      {
+        "question": "'易'의 뜻은?",
+        "options": [
+          "어렵다",
+          "바꾸다·쉽다",
+          "무겁다",
+          "크다"
+        ],
+        "correct_answer": "바꾸다·쉽다",
+        "explanation": "易는 '바꾸다', '쉽다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'무역'이나 '용이'를 사용하여 문장을 써 보세요.",
+    "hint": "경제나 문제 해결에 관한 내용을 담아 보세요.",
+    "example_answer": "무역을 통해 서로 필요한 물건을 교환합니다.",
+    "key_vocabulary": [
+      "무역",
+      "용이"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "무역으로 경제가 발전합니다.",
+      "이 문제는 용이합니다.",
+      "상황이 변역했습니다."
+    ],
+    "pronunciation_tips": "'역'을 명확하게 발음하며 읽어 보세요."
+  }
+}

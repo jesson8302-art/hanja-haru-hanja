@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "順",
+    "hanja_sound": "순",
+    "hanja_meaning": "순할",
+    "full_reading": "순할 순",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "順",
+    "sound": "순",
+    "meaning": "순할",
+    "stroke_count": 12,
+    "radical": "頁",
+    "etymology_story": "順은 내 천(川)과 머리 혈(頁)이 합쳐진 글자입니다. 물이 흘러가듯 자연스럽게 따르는 모습에서 '순하다', '따르다', '차례'의 뜻이 생겼습니다.",
+    "memory_tip": "물(川)이 흐르듯 머리(頁)를 따르는 것이 '順'입니다.",
+    "level_context": "5급 한자로, 순할을(를) 뜻하는 順입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "순서",
+      "word_hanja": "順序",
+      "reading": "순서",
+      "easy_definition": "차례",
+      "etymology_dissection": "순할 순(順)+차례 서(序): 따르는 차례",
+      "example_sentence": "순서대로 하세요.",
+      "sentence_meaning": "차례를 지켜 하세요."
+    },
+    {
+      "word_korean": "순종",
+      "word_hanja": "順從",
+      "reading": "순종",
+      "easy_definition": "순하게 따름",
+      "etymology_dissection": "순할 순(順)+따를 종(從): 순하게 따름",
+      "example_sentence": "부모님께 순종합니다.",
+      "sentence_meaning": "부모님 말씀을 순하게 따릅니다."
+    },
+    {
+      "word_korean": "순조",
+      "word_hanja": "順調",
+      "reading": "순조",
+      "easy_definition": "일이 순하게 잘 됨",
+      "etymology_dissection": "순할 순(順)+고를 조(調): 순하게 잘 됨",
+      "example_sentence": "일이 순조롭게 진행됩니다.",
+      "sentence_meaning": "일이 순하게 잘 진행됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "순서를 지켜 차례대로 기다립니다. 일이 순조롭게 진행되어 다행입니다. 부모님 말씀을 순종하며 따릅니다.",
+    "passage_meaning": "순서, 순종, 순조 모두 '순하다', '따르다'를 뜻하는 順에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'순조'의 뜻은?",
+        "options": [
+          "일이 잘 안 됨",
+          "일이 순하게 잘 됨",
+          "일이 빠르게 됨",
+          "일이 크게 됨"
+        ],
+        "correct_answer": "일이 순하게 잘 됨",
+        "explanation": "순조(順調)는 일이 순하게 잘 되는 것입니다."
+      },
+      {
+        "question": "'順'의 뜻은?",
+        "options": [
+          "거스르다",
+          "순하다·따르다",
+          "빠르다",
+          "강하다"
+        ],
+        "correct_answer": "순하다·따르다",
+        "explanation": "順은 '순하다', '따르다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'순서'나 '순조'를 사용하여 문장을 써 보세요.",
+    "hint": "질서나 계획에 관한 내용을 담아 보세요.",
+    "example_answer": "계획을 세운 대로 순조롭게 일을 마쳤습니다.",
+    "key_vocabulary": [
+      "순서",
+      "순종"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "순서를 지킵시다.",
+      "일이 순조롭습니다.",
+      "부모님께 순종합니다."
+    ],
+    "pronunciation_tips": "'순'을 명확하게 발음하며 읽어 보세요."
+  }
+}

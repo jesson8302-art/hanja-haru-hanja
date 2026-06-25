@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "자",
+    "hanja_meaning": "글자",
+    "hanja_char": "字",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "집 안에서 태어나는 글자 — 글자 자(字)",
+    "etymology_story": "'글자 자(字)'는 집(宀) 안에 아이(子)가 있는 모습이에요. 집 안에서 아이를 낳듯, 뜻과 소리가 결합해 글자가 태어난다는 생각을 담았어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "문자(文字)",
+      "etymology_dissection": "글월 문(文)+글자 자(字)",
+      "easy_definition": "글로 쓴 기호",
+      "context_sentence": "문자를 보내요."
+    },
+    {
+      "word_korean": "한자(漢字)",
+      "etymology_dissection": "한나라 한(漢)+글자 자(字)",
+      "easy_definition": "중국에서 만들어진 글자",
+      "context_sentence": "한자를 배우면 어휘력이 높아져요."
+    },
+    {
+      "word_korean": "숫자(數字)",
+      "etymology_dissection": "셈 수(數)+글자 자(字)",
+      "easy_definition": "수를 나타내는 기호",
+      "context_sentence": "숫자로 계산해요."
+    },
+    {
+      "word_korean": "자막(字幕)",
+      "etymology_dissection": "글자 자(字)+장막 막(幕)",
+      "easy_definition": "화면에 나타나는 글",
+      "context_sentence": "영화에 자막이 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "글자의 탄생",
+    "passage_text": "**한자(漢字)**를 배우면 **문자(文字)** 세계가 넓어져요. **숫자(數字)**와 글자가 합쳐져 세상을 표현해요. **자막(字幕)**이 있으면 이해가 쉬워요.",
+    "quiz": {
+      "question": "'자막(字幕)'이란?",
+      "choices": [
+        "글자",
+        "화면에 나타나는 글",
+        "한자",
+        "숫자"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'자막(字幕)'=글자 자+장막 막, 화면에 나타나는 글자 표시예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "한자나 글자를 배워서 도움이 된 경험을 문장으로 써 보세요.",
+    "model_example": "한자를 배우니 숫자처럼 문자가 더 명확하게 보이고 자막도 더 잘 이해돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'글자 — 자(字)! 글자 — 자(字)!' 열 번 외쳐요!"
+  }
+}

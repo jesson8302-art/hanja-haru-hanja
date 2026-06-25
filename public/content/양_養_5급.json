@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "養",
+    "hanja_sound": "양",
+    "hanja_meaning": "기를",
+    "full_reading": "기를 양",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "養",
+    "sound": "양",
+    "meaning": "기를",
+    "stroke_count": 15,
+    "radical": "食",
+    "etymology_story": "養은 먹을 식(食)과 양 양(羊)이 합쳐진 글자입니다. 양에게 먹이를 주어 기르는 모습에서 '기르다', '영양', '양육하다'의 뜻이 생겼습니다.",
+    "memory_tip": "양(羊)에게 먹이(食)를 주어 기르는 것이 '양육(養)'입니다.",
+    "level_context": "5급 한자로, 기를을(를) 뜻하는 養입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "양육",
+      "word_hanja": "養育",
+      "reading": "양육",
+      "easy_definition": "길러서 키움",
+      "etymology_dissection": "기를 양(養)+기를 육(育): 기르고 키움",
+      "example_sentence": "자녀를 양육합니다.",
+      "sentence_meaning": "자녀를 길러서 키웁니다."
+    },
+    {
+      "word_korean": "영양",
+      "word_hanja": "營養",
+      "reading": "영양",
+      "easy_definition": "몸을 기르는 물질",
+      "etymology_dissection": "경영할 영(營)+기를 양(養): 기르는 물질",
+      "example_sentence": "영양을 균형 있게 섭취합니다.",
+      "sentence_meaning": "몸을 기르는 물질을 균형 있게 먹습니다."
+    },
+    {
+      "word_korean": "교양",
+      "word_hanja": "敎養",
+      "reading": "교양",
+      "easy_definition": "가르쳐 기름",
+      "etymology_dissection": "가르칠 교(敎)+기를 양(養): 가르쳐 기름",
+      "example_sentence": "교양 있는 사람이 됩시다.",
+      "sentence_meaning": "가르침을 받아 교양 있는 사람이 됩시다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "균형 잡힌 영양 섭취가 건강에 중요합니다. 자녀를 정성껏 양육합니다. 교양을 갖추면 사회생활에 도움이 됩니다.",
+    "passage_meaning": "양육, 영양, 교양 모두 '기르다'를 뜻하는 養에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'영양'의 뜻은?",
+        "options": [
+          "몸에 해로운 물질",
+          "몸을 기르는 물질",
+          "몸을 해치는 물질",
+          "쓸모없는 물질"
+        ],
+        "correct_answer": "몸을 기르는 물질",
+        "explanation": "영양(營養)은 몸을 기르는 물질입니다."
+      },
+      {
+        "question": "'養'의 뜻은?",
+        "options": [
+          "해치다",
+          "기르다",
+          "파괴하다",
+          "버리다"
+        ],
+        "correct_answer": "기르다",
+        "explanation": "養은 '기르다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'양육'이나 '영양'을 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 가족에 관한 내용을 담아 보세요.",
+    "example_answer": "균형 있는 영양 섭취로 건강한 몸을 만듭니다.",
+    "key_vocabulary": [
+      "양육",
+      "영양"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "자녀를 정성껏 양육합니다.",
+      "영양을 균형 있게 먹습니다.",
+      "교양 있는 사람이 됩시다."
+    ],
+    "pronunciation_tips": "'양'을 명확하게 발음하며 읽어 보세요."
+  }
+}

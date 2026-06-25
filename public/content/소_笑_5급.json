@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "笑",
+    "hanja_sound": "소",
+    "hanja_meaning": "웃을",
+    "full_reading": "웃을 소",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "笑",
+    "sound": "소",
+    "meaning": "웃을",
+    "stroke_count": 10,
+    "radical": "竹",
+    "etymology_story": "笑는 대나무(竹)와 눈 목(目)과 천천히 걸을 쇄(夭)가 합쳐진 글자입니다. 대나무처럼 굽어지는 사람의 웃음 모습에서 '웃다', '웃음'의 뜻이 생겼습니다.",
+    "memory_tip": "대나무(竹)처럼 구부러지며 웃는 모습이 '웃다(笑)'입니다.",
+    "level_context": "5급 한자로, 웃을을(를) 뜻하는 笑입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "미소",
+      "word_hanja": "微笑",
+      "reading": "미소",
+      "easy_definition": "살짝 웃음",
+      "etymology_dissection": "작을 미(微)+웃을 소(笑): 작은 웃음",
+      "example_sentence": "아기의 미소가 예쁩니다.",
+      "sentence_meaning": "아기의 살짝 웃는 모습이 예쁩니다."
+    },
+    {
+      "word_korean": "웃음",
+      "word_hanja": "笑",
+      "reading": "소",
+      "easy_definition": "기쁨의 표현",
+      "etymology_dissection": "웃을 소(笑): 웃음",
+      "example_sentence": "웃음이 가득한 하루입니다.",
+      "sentence_meaning": "기쁨이 가득한 하루입니다."
+    },
+    {
+      "word_korean": "냉소",
+      "word_hanja": "冷笑",
+      "reading": "냉소",
+      "easy_definition": "차갑게 비웃음",
+      "etymology_dissection": "찰 냉(冷)+웃을 소(笑): 차가운 웃음",
+      "example_sentence": "냉소적인 태도는 좋지 않습니다.",
+      "sentence_meaning": "차갑게 비웃는 태도는 좋지 않습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "아기의 미소는 보는 사람을 행복하게 합니다. 웃음이 넘치는 가정이 행복합니다. 냉소적인 태도보다 긍정적인 태도가 좋습니다.",
+    "passage_meaning": "미소, 냉소 모두 '웃다'를 뜻하는 笑에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'미소'의 뜻은?",
+        "options": [
+          "크게 소리 내어 웃음",
+          "살짝 웃음",
+          "차갑게 비웃음",
+          "울음"
+        ],
+        "correct_answer": "살짝 웃음",
+        "explanation": "미소(微笑)는 살짝 웃는 것입니다."
+      },
+      {
+        "question": "'笑'의 뜻은?",
+        "options": [
+          "울다",
+          "웃다",
+          "달리다",
+          "먹다"
+        ],
+        "correct_answer": "웃다",
+        "explanation": "笑는 '웃다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'미소'를 사용하여 문장을 써 보세요.",
+    "hint": "행복이나 표정에 관한 내용을 담아 보세요.",
+    "example_answer": "따뜻한 미소 하나가 사람의 마음을 녹입니다.",
+    "key_vocabulary": [
+      "미소",
+      "웃음"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "미소로 인사합니다.",
+      "웃음이 넘치는 하루입니다.",
+      "항상 밝은 표정을 지어요."
+    ],
+    "pronunciation_tips": "'소'을 명확하게 발음하며 읽어 보세요."
+  }
+}

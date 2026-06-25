@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "개",
+    "hanja_meaning": "열",
+    "hanja_char": "開",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "빗장을 두 손으로 열다 — 열 개(開)",
+    "etymology_story": "'열 개(開)'는 문(門) 안의 빗장(一)을 두 손(廾)으로 여는 모습이에요. 닫힌 문을 활짝 여는 것이 '열다(開)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "개방(開放)",
+      "etymology_dissection": "열 개(開)+놓을 방(放)",
+      "easy_definition": "열어서 자유롭게 하는 것",
+      "context_sentence": "공원이 개방됐어요."
+    },
+    {
+      "word_korean": "개발(開發)",
+      "etymology_dissection": "열 개(開)+필 발(發)",
+      "easy_definition": "새롭게 만들어 내는 것",
+      "context_sentence": "신기술을 개발해요."
+    },
+    {
+      "word_korean": "공개(公開)",
+      "etymology_dissection": "공평할 공(公)+열 개(開)",
+      "easy_definition": "모두에게 열어 보이는 것",
+      "context_sentence": "공개 발표를 했어요."
+    },
+    {
+      "word_korean": "개학(開學)",
+      "etymology_dissection": "열 개(開)+배울 학(學)",
+      "easy_definition": "학기가 시작되는 것",
+      "context_sentence": "개학이 설레요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "열림의 시작",
+    "passage_text": "**개방(開放)**된 마음이 성장을 만들어요. **개발(開發)**은 새로운 가능성을 여는 것이에요. **공개(公開)**적으로 말하는 용기를 가져요.",
+    "quiz": {
+      "question": "'개발(開發)'이란?",
+      "choices": [
+        "열어서 자유롭게",
+        "공개적으로",
+        "새롭게 만들어 내는 것",
+        "개학"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'개발(開發)'=열 개+필 발, 새로운 것을 열어 만들어내는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "새로운 것을 개발하거나 도전한 경험을 문장으로 써 보세요.",
+    "model_example": "개방된 마음으로 새로운 것을 개발하고 공개적으로 발표할 때 가장 성장해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'열 — 개(開)! 열 — 개(開)!' 열 번 외쳐요!"
+  }
+}

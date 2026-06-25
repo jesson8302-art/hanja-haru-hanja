@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "임",
+    "hanja_meaning": "맡길",
+    "hanja_char": "任",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "任 — 사람에게 짐을 맡기다",
+    "etymology_story": "人(사람 인)과 壬(짊어질 임)이 합쳐진 글자입니다. 사람이 무거운 짐을 짊어지는 모습에서 '맡기다', '임무를 지다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "임무",
+      "word_hanja": "任務",
+      "etymology_dissection": "任(맡길 임)+務(힘쓸 무) = 맡겨진 일",
+      "easy_definition": "맡겨진 중요한 역할이나 일",
+      "context_sentence": "군인의 **임무**는 나라를 지키는 것입니다."
+    },
+    {
+      "word_korean": "책임",
+      "word_hanja": "責任",
+      "etymology_dissection": "責(꾸짖을 책)+任(맡길 임) = 꾸짖음을 감당함",
+      "easy_definition": "맡은 일에 대한 의무와 결과를 짊어짐",
+      "context_sentence": "모든 행동에는 **책임**이 따릅니다."
+    },
+    {
+      "word_korean": "담임",
+      "word_hanja": "擔任",
+      "etymology_dissection": "擔(멜 담)+任(맡길 임) = 짊어지고 맡음",
+      "easy_definition": "학급이나 특정 업무를 전적으로 맡음",
+      "context_sentence": "우리 **담임** 선생님은 매우 친절하십니다."
+    },
+    {
+      "word_korean": "임기",
+      "word_hanja": "任期",
+      "etymology_dissection": "任(맡길 임)+期(기약할 기) = 맡은 기간",
+      "easy_definition": "직책을 맡아 일하는 정해진 기간",
+      "context_sentence": "대통령의 **임기**는 5년입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "임무를 다하는 사람들",
+    "passage_text": "우리 주변에는 각자 맡은 **임무**를 성실히 수행하는 사람들이 있습니다. 소방관은 화재에서 사람을 구하는 **임무**를, 의사는 환자를 치료하는 **임무**를 맡고 있습니다. 학교에서는 **담임** 선생님이 학급 운영의 **책임**을 집니다. 이처럼 각자의 자리에서 **임무**를 다할 때 사회는 원활하게 돌아갑니다.",
+    "quiz": {
+      "question": "담임 선생님의 역할로 알맞은 것은?",
+      "choices": [
+        "나라를 지키는 것",
+        "환자를 치료하는 것",
+        "학급 운영의 책임을 지는 것",
+        "화재를 진압하는 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 학교에서는 담임 선생님이 학급 운영의 책임을 진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'임무'나 '책임'을 사용해서 자신이 맡은 역할을 설명하는 문장을 써보세요.",
+    "model_example": "학생으로서 내 **임무**는 열심히 공부하고 친구들과 사이좋게 지내는 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "任(임) — 맡길 임! 임무·책임·담임·임기 모두 여기서! 잘했어요!"
+  }
+}

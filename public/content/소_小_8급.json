@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "소",
+    "hanja_meaning": "작을",
+    "hanja_char": "小",
+    "hanja_level": "8급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "세 점이 모여 '작다'를 표현한 글자 — 작을 소(小)",
+    "etymology_story": "'작을 소(小)'는 가운데 작은 점 하나와 양쪽에 삐쭉 나온 두 획으로 이루어져 있어요. 마치 '이 정도로 작아요!' 하고 손으로 표현하는 것 같죠? 크고 작음을 나타내는 한자는 함께 기억하면 더 좋아요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "소개(小介)",
+      "etymology_dissection": "작을 소(小) + 낄 개(介) → 실제는 '소개(紹介)'로 이을 소(紹) + 낄 개(介) = 사람 사이를 이어주는 것",
+      "easy_definition": "처음 만나는 사람에게 자신을 알리는 것",
+      "context_sentence": "오늘 새 친구에게 자기소개를 했어요."
+    },
+    {
+      "word_korean": "축소(縮小)",
+      "etymology_dissection": "줄일 축(縮) + 작을 소(小) = 줄여서 작게 만드는 것",
+      "easy_definition": "크기나 범위를 더 작게 줄이는 것",
+      "context_sentence": "그림을 축소해서 작게 인쇄했어요."
+    },
+    {
+      "word_korean": "최소(最小)",
+      "etymology_dissection": "가장 최(最) + 작을 소(小) = 가장 작은 것",
+      "easy_definition": "그것보다 더 작아질 수 없는 가장 작은 크기",
+      "context_sentence": "여기서 최소 10분은 걸려요."
+    },
+    {
+      "word_korean": "소문(小聞)",
+      "etymology_dissection": "작을 소(小) + 들을 문(聞) → 실제는 '소문(所聞)' 바 소(所) + 들을 문(聞) = 들려오는 이야기",
+      "easy_definition": "사람들 사이에 퍼지는 이야기",
+      "context_sentence": "좋은 소문이 퍼지도록 착하게 살아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "작은 것도 소중해요",
+    "passage_text": "선생님은 **최소(最小)** 하루에 한 번은 책을 읽으라고 하셨어요. 처음엔 글씨를 **축소(縮小)**해서 얇은 책부터 시작했어요. 책 읽기가 즐거워지니 책을 좋아한다는 **소문(小聞)**이 퍼졌어요.",
+    "quiz": {
+      "question": "'축소(縮小)'의 뜻으로 가장 알맞은 것은?",
+      "choices": [
+        "크게 늘리는 것",
+        "줄여서 작게 만드는 것",
+        "나누는 것",
+        "합치는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'축소(縮小)'는 '줄일 축 + 작을 소' = 줄여서 작게 만드는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 작은 것의 소중함에 대한 문장을 써 보세요.",
+    "model_example": "최소한의 것만 있어도 행복할 수 있다는 걸, 소풍 갔다가 소나기를 맞은 날 깨달았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'작을 — 소(小)! 작을 — 소(小)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

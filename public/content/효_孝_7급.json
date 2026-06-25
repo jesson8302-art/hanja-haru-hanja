@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "효",
+    "hanja_meaning": "효도",
+    "hanja_char": "孝",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "노인을 아이가 등에 업다 — 효도 효(孝)",
+    "etymology_story": "'효도 효(孝)'는 노인(老)의 아랫부분을 아이(子)가 받치고 있는 모습이에요. 자녀(子)가 부모(老)를 받들어 모시는 것이 '효도(孝)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "효도(孝道)",
+      "etymology_dissection": "효도 효(孝)+길 도(道)",
+      "easy_definition": "부모를 공경하는 것",
+      "context_sentence": "효도는 소중한 덕목이에요."
+    },
+    {
+      "word_korean": "효자(孝子)",
+      "etymology_dissection": "효도 효(孝)+아들 자(子)",
+      "easy_definition": "부모에게 잘 하는 자녀",
+      "context_sentence": "효자로 칭찬받아요."
+    },
+    {
+      "word_korean": "불효(不孝)",
+      "etymology_dissection": "아닐 불(不)+효도 효(孝)",
+      "easy_definition": "부모를 공경하지 않는 것",
+      "context_sentence": "불효를 하지 않도록 노력해요."
+    },
+    {
+      "word_korean": "효심(孝心)",
+      "etymology_dissection": "효도 효(孝)+마음 심(心)",
+      "easy_definition": "효도하려는 마음",
+      "context_sentence": "효심이 깊은 자녀가 돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "효의 마음",
+    "passage_text": "**효도(孝道)**는 세상에서 가장 아름다운 길이에요. **효심(孝心)**이 있으면 **효자(孝子)**가 돼요. **불효(不孝)**하지 않는 것도 효도예요.",
+    "quiz": {
+      "question": "'효심(孝心)'이란?",
+      "choices": [
+        "효도",
+        "불효",
+        "효도하려는 마음",
+        "효자"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'효심(孝心)'=효도 효+마음 심, 부모님께 잘 하려는 마음이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "부모님께 효도한 경험이나 앞으로의 다짐을 문장으로 써 보세요.",
+    "model_example": "효심을 가지고 매일 작은 것 하나씩 실천하면 효자라는 소리를 들을 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'효도 — 효(孝)! 효도 — 효(孝)!' 열 번 외쳐요!"
+  }
+}

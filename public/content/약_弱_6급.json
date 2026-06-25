@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "약",
+    "hanja_meaning": "약할",
+    "hanja_char": "弱",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "활이 늘어져 약하다 — 약할 약(弱)",
+    "etymology_story": "'약할 약(弱)'은 활(弓) 두 개에 장식(彡)이 달린 모습이에요. 늘어져 장식이 달린 활처럼 힘이 없는 것이 '약하다(弱)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "약점(弱點)",
+      "etymology_dissection": "약할 약(弱)+점 점(點)",
+      "easy_definition": "부족한 부분",
+      "context_sentence": "약점을 보완해요."
+    },
+    {
+      "word_korean": "약자(弱者)",
+      "etymology_dissection": "약할 약(弱)+사람 자(者)",
+      "easy_definition": "힘이 약한 사람",
+      "context_sentence": "약자를 도와요."
+    },
+    {
+      "word_korean": "빈약(貧弱)",
+      "etymology_dissection": "가난할 빈(貧)+약할 약(弱)",
+      "easy_definition": "가난하고 약한 것",
+      "context_sentence": "빈약한 시작이었어요."
+    },
+    {
+      "word_korean": "강약(強弱)",
+      "etymology_dissection": "강할 강(強)+약할 약(弱)",
+      "easy_definition": "강하고 약함",
+      "context_sentence": "음악의 강약을 살려요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "약함에서 강함으로",
+    "passage_text": "**약자(弱者)**를 도우는 것이 강함이에요. **약점(弱點)**을 알면 보완할 수 있어요. **강약(強弱)**을 조절하는 것이 실력이에요.",
+    "quiz": {
+      "question": "'약자(弱者)'란?",
+      "choices": [
+        "약점",
+        "빈약",
+        "힘이 약한 사람",
+        "강약"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'약자(弱者)'=약할 약+사람 자, 힘이 약하거나 어려운 처지의 사람이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "약점을 극복하거나 약자를 도운 경험을 문장으로 써 보세요.",
+    "model_example": "약점을 알고 보완하면 빈약한 시작도 강약이 풍부한 성장으로 이어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'약할 — 약(弱)! 약할 — 약(弱)!' 열 번 외쳐요!"
+  }
+}

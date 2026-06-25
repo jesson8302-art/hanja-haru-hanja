@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "晩",
+    "hanja_sound": "만",
+    "hanja_meaning": "늦을",
+    "full_reading": "늦을 만",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "晩",
+    "sound": "만",
+    "meaning": "늦을",
+    "stroke_count": 11,
+    "radical": "日",
+    "etymology_story": "晩은 해(日)와 면(免)이 합쳐진 글자입니다. 해가 기울어 늦어지는 모습에서 '늦다', '저녁'의 뜻이 생겼습니다.",
+    "memory_tip": "해(日)가 기울어 늦어지는(免) 것이 '晩'입니다.",
+    "level_context": "5급 한자로, 늦을을(를) 뜻하는 晩입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "만년",
+      "word_hanja": "晩年",
+      "reading": "만년",
+      "easy_definition": "나이 들어서의 때",
+      "etymology_dissection": "늦을 만(晩)+해 년(年): 늦은 나이",
+      "example_sentence": "만년의 삶이 행복합니다.",
+      "sentence_meaning": "나이 들어서의 삶이 행복합니다."
+    },
+    {
+      "word_korean": "만성",
+      "word_hanja": "晩成",
+      "reading": "만성",
+      "easy_definition": "늦게 이루어짐",
+      "etymology_dissection": "늦을 만(晩)+이룰 성(成): 늦게 이룸",
+      "example_sentence": "대기만성형 인재입니다.",
+      "sentence_meaning": "늦게 크게 이루는 사람입니다."
+    },
+    {
+      "word_korean": "만찬",
+      "word_hanja": "晩餐",
+      "reading": "만찬",
+      "easy_definition": "저녁에 먹는 풍성한 식사",
+      "etymology_dissection": "늦을 만(晩)+먹을 찬(餐): 늦게 먹는 식사",
+      "example_sentence": "공식 만찬이 열렸습니다.",
+      "sentence_meaning": "공식 저녁 식사가 열렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "늦게 피어난 꽃이 더 아름답다고 합니다. 대기만성형 인재도 결국 빛을 발합니다. 국제 행사에서 만찬이 열렸습니다.",
+    "passage_meaning": "만년, 만성, 만찬 모두 '늦다', '저녁'을 뜻하는 晩에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'만성'의 뜻은?",
+        "options": [
+          "일찍 이루어짐",
+          "늦게 이루어짐",
+          "빠르게 성장함",
+          "갑자기 이루어짐"
+        ],
+        "correct_answer": "늦게 이루어짐",
+        "explanation": "만성(晩成)은 늦게 이루어지는 것입니다."
+      },
+      {
+        "question": "'晩'의 뜻은?",
+        "options": [
+          "아침",
+          "빠르다",
+          "늦다·저녁",
+          "시작"
+        ],
+        "correct_answer": "늦다·저녁",
+        "explanation": "晩은 '늦다', '저녁'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'만년'이나 '만성'을 사용하여 문장을 써 보세요.",
+    "hint": "시간이나 성장과 관련된 내용을 담아 보세요.",
+    "example_answer": "대기만성이라고, 늦더라도 포기하지 않겠습니다.",
+    "key_vocabulary": [
+      "만년",
+      "만성"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "만년이 행복하기를 바랍니다.",
+      "대기만성도 훌륭합니다.",
+      "공식 만찬에 초대받았습니다."
+    ],
+    "pronunciation_tips": "'만'을 명확하게 발음하며 읽어 보세요."
+  }
+}

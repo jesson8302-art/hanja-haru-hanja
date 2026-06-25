@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "범",
+    "hanja_meaning": "법",
+    "hanja_char": "範",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "範 — 수레 틀처럼 본보기가 되다",
+    "etymology_story": "竹(대나무 죽)과 車(수레 차)와 氾(넘칠 범)이 합쳐진 글자입니다. 대나무로 만든 수레 틀처럼 기준이 되는 '본보기', '규범'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "규범",
+      "word_hanja": "規範",
+      "etymology_dissection": "規(법 규)+範(법 범) = 법과 본보기",
+      "easy_definition": "행동의 기준이 되는 규칙이나 원칙",
+      "context_sentence": "사회적 **규범**을 지켜야 합니다."
+    },
+    {
+      "word_korean": "모범",
+      "word_hanja": "模範",
+      "etymology_dissection": "模(본뜰 모)+範(법 범) = 본뜬 본보기",
+      "easy_definition": "다른 사람이 따를 만한 훌륭한 본보기",
+      "context_sentence": "선생님은 학생들의 **모범**이 되어야 합니다."
+    },
+    {
+      "word_korean": "범위",
+      "word_hanja": "範圍",
+      "etymology_dissection": "範(법 범)+圍(에울 위) = 법의 둘러싼 곳",
+      "easy_definition": "어떤 기준이나 한도 내의 영역",
+      "context_sentence": "시험 **범위**를 확인하세요."
+    },
+    {
+      "word_korean": "사범",
+      "word_hanja": "師範",
+      "etymology_dissection": "師(스승 사)+範(법 범) = 스승의 본보기",
+      "easy_definition": "가르치는 사람. 무술에서 지도자",
+      "context_sentence": "태권도 **사범**님께 배웁니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "규범과 자유",
+    "passage_text": "사회의 **규범**은 질서를 유지하게 해주지만, 동시에 개인의 자유를 제한합니다. 신호를 지키는 **규범**은 모든 사람의 안전을 위한 것입니다. **규범**이 없으면 강자만이 자신의 욕구를 실현하고 약자는 피해를 입습니다. 그러나 **규범**이 지나치게 엄격하면 창의성과 자유가 억압될 수 있습니다. **모범**이 되는 사람은 규칙을 강요받지 않아도 스스로 **규범**을 지킵니다.",
+    "quiz": {
+      "question": "규범의 역할로 글에서 설명된 것은?",
+      "choices": [
+        "강자의 권력을 강화한다",
+        "질서 유지와 약자 보호",
+        "창의성을 높인다",
+        "개인의 욕구를 최대화한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "규범은 질서를 유지하게 해주고 약자를 보호하는 역할을 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'모범'을 사용해서 자신이 본받고 싶은 인물에 대해 써보세요.",
+    "model_example": "저는 세종대왕을 **모범**으로 삼습니다. 백성을 생각하는 마음으로 한글을 창제한 그의 헌신이 정말 존경스럽습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "範(범) — 법 범! 규범·모범·범위·사범 모두 여기서! 잘했어요!"
+  }
+}

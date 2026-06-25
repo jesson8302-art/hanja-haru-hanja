@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "문",
+    "hanja_meaning": "물을",
+    "hanja_char": "問",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "문 앞에서 입으로 묻다 — 물을 문(問)",
+    "etymology_story": "'물을 문(問)'은 문(門) 안에 입(口)이 있는 모습이에요. 문 앞에서 안에 있는 사람에게 '누구세요?'라고 묻는 것에서 '묻다'는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "질문(質問)",
+      "etymology_dissection": "바탕 질(質)+물을 문(問)",
+      "easy_definition": "모르는 것을 묻는 것",
+      "context_sentence": "수업 시간에 질문을 많이 해요."
+    },
+    {
+      "word_korean": "문제(問題)",
+      "etymology_dissection": "물을 문(問)+제목 제(題)",
+      "easy_definition": "해결해야 할 것",
+      "context_sentence": "수학 문제를 풀었어요."
+    },
+    {
+      "word_korean": "방문(訪問)",
+      "etymology_dissection": "찾을 방(訪)+물을 문(問)",
+      "easy_definition": "남의 집을 찾아가는 것",
+      "context_sentence": "선생님 댁을 방문했어요."
+    },
+    {
+      "word_korean": "의문(疑問)",
+      "etymology_dissection": "의심할 의(疑)+물을 문(問)",
+      "easy_definition": "의심스러워 묻고 싶은 것",
+      "context_sentence": "의문이 생기면 물어봐요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "질문의 힘",
+    "passage_text": "**질문(質問)**을 많이 하는 사람이 더 많이 배워요. **문제(問題)**를 발견하는 것이 해결의 시작이에요. **의문(疑問)**을 갖는 것이 과학의 출발점이에요. **방문(訪問)**은 관계를 깊게 해요.",
+    "quiz": {
+      "question": "'의문(疑問)'이란?",
+      "choices": [
+        "해결해야 할 것",
+        "의심스러워 묻고 싶은 것",
+        "찾아가는 것",
+        "질문"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'의문(疑問)'=의심할 의+물을 문, 의심스러워 물어보고 싶은 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "궁금한 것을 질문해서 해결한 경험을 문장으로 써 보세요.",
+    "model_example": "수업 시간에 의문이 생길 때마다 질문을 했더니 문제가 풀리고 선생님도 방문하고 싶어졌어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'물을 — 문(問)! 물을 — 문(問)!' 열 번 외쳐요!"
+  }
+}

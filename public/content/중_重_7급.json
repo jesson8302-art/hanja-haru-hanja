@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "중",
+    "hanja_meaning": "무거울",
+    "hanja_char": "重",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 짐을 짊어지다 — 무거울 중(重)",
+    "etymology_story": "'무거울 중(重)'은 사람(人)이 짐(東)을 짊어지고 있는 모습이에요. 짐의 무게처럼 '무겁다, 중요하다'는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "중요(重要)",
+      "etymology_dissection": "무거울 중(重)+요할 요(要)",
+      "easy_definition": "매우 필요하고 중요한 것",
+      "context_sentence": "중요한 것을 먼저 해요."
+    },
+    {
+      "word_korean": "중심(重心)",
+      "etymology_dissection": "무거울 중(重)+마음 심(心)",
+      "easy_definition": "가장 중요한 부분",
+      "context_sentence": "중심을 잡아요."
+    },
+    {
+      "word_korean": "신중(愼重)",
+      "etymology_dissection": "삼갈 신(愼)+무거울 중(重)",
+      "easy_definition": "조심스럽게 생각하는 것",
+      "context_sentence": "신중하게 결정해요."
+    },
+    {
+      "word_korean": "체중(體重)",
+      "etymology_dissection": "몸 체(體)+무거울 중(重)",
+      "easy_definition": "몸무게",
+      "context_sentence": "체중 관리가 건강에 중요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "무게와 중요함",
+    "passage_text": "**중요(重要)**한 것에 집중해요. **중심(重心)**을 잡아야 흔들리지 않아요. **신중(愼重)**한 결정이 후회를 줄여요.",
+    "quiz": {
+      "question": "'신중(愼重)'이란?",
+      "choices": [
+        "무거운 것",
+        "중요한 것",
+        "조심스럽게 생각하는 것",
+        "체중"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'신중(愼重)'=삼갈 신+무거울 중, 무거운 마음으로 조심스럽게 생각하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "신중하게 결정해서 좋은 결과를 얻은 경험을 문장으로 써 보세요.",
+    "model_example": "중요한 결정일수록 신중하게 중심을 잡고 생각하면 후회 없는 선택이 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'무거울 — 중(重)! 무거울 — 중(重)!' 열 번 외쳐요!"
+  }
+}

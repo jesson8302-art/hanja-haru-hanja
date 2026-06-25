@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "가",
+    "hanja_meaning": "노래",
+    "hanja_char": "歌",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 음악"
+  },
+  "step_1_etymology": {
+    "visual_title": "하품하듯 입을 벌려 노래하다 — 노래 가(歌)",
+    "etymology_story": "'노래 가(歌)'는 목청껏 노래하다는 가(哥)와 하품하듯 크게 입을 벌리는 흠(欠)이 합쳐진 글자예요. 입을 크게 벌려 소리를 내는 것이 노래예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "가수(歌手)",
+      "etymology_dissection": "노래 가(歌)+손 수(手)",
+      "easy_definition": "노래를 직업으로 하는 사람",
+      "context_sentence": "좋아하는 가수의 콘서트에 갔어요."
+    },
+    {
+      "word_korean": "가요(歌謠)",
+      "etymology_dissection": "노래 가(歌)+노래 요(謠)",
+      "easy_definition": "대중이 즐겨 듣는 노래",
+      "context_sentence": "한국 가요가 세계에서 인기예요."
+    },
+    {
+      "word_korean": "국가(國歌)",
+      "etymology_dissection": "나라 국(國)+노래 가(歌)",
+      "easy_definition": "나라를 상징하는 노래",
+      "context_sentence": "경기 전에 국가를 부르며 가슴이 뜨거워져요."
+    },
+    {
+      "word_korean": "가사(歌詞)",
+      "etymology_dissection": "노래 가(歌)+말 사(詞)",
+      "easy_definition": "노래의 말, 가사",
+      "context_sentence": "가사를 외워서 따라 부를 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "노래의 힘",
+    "passage_text": "**가수(歌手)**가 부르는 **가요(歌謠)**는 마음을 움직여요. **국가(國歌)**를 부를 때는 나라 사랑이 느껴져요. **가사(歌詞)** 속에 삶의 이야기가 담겨 있어요.",
+    "quiz": {
+      "question": "'국가(國歌)'란?",
+      "choices": [
+        "나라의 역사",
+        "나라를 상징하는 노래",
+        "나라의 언어",
+        "나라의 꽃"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'국가(國歌)'=나라 국+노래 가, 나라를 대표하는 상징적인 노래예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 좋아하는 노래와 그 이유를 문장으로 써 보세요.",
+    "model_example": "가요의 가사를 외울 만큼 반복해서 듣다 보면, 그 노래가 내 인생 노래가 되는 것 같아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'노래 — 가(歌)! 노래 — 가(歌)!' 열 번 외쳐요!"
+  }
+}

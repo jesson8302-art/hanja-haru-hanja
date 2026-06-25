@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "건널",
+    "hanja_char": "濟",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "濟 — 물을 건너 어려움을 구하다",
+    "etymology_story": "水(물 수)와 齊(가지런할 제)가 합쳐진 글자입니다. 강을 건너는 모습에서 '건너다'는 뜻이 생겼고, 어려움을 헤쳐 나간다는 의미로 '구제하다'는 뜻도 갖게 되었습니다. 경제(經濟)는 세상을 다스리고 백성을 구한다는 뜻입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "경제",
+      "word_hanja": "經濟",
+      "etymology_dissection": "經(다스릴 경)+濟(건널 제) = 세상을 다스려 구함",
+      "easy_definition": "돈과 물건이 오가는 사회의 살림살이",
+      "context_sentence": "우리나라 **경제**가 꾸준히 성장하고 있습니다."
+    },
+    {
+      "word_korean": "구제",
+      "word_hanja": "救濟",
+      "etymology_dissection": "救(구할 구)+濟(건널 제) = 건져서 구함",
+      "easy_definition": "어려운 처지에 있는 사람을 도와줌",
+      "context_sentence": "정부는 재해를 입은 이재민을 **구제**하기 위해 지원금을 지급했습니다."
+    },
+    {
+      "word_korean": "제도",
+      "word_hanja": "濟度",
+      "etymology_dissection": "濟(건널 제)+度(건널 도) = 고통에서 건져냄",
+      "easy_definition": "불교에서 중생을 고통에서 구해 주는 일, 넓게는 어려운 사람을 도움",
+      "context_sentence": "절에서 스님들은 **제도**를 위해 기도합니다."
+    },
+    {
+      "word_korean": "자급자족",
+      "word_hanja": "自給自足",
+      "etymology_dissection": "스스로(自) 공급하고(給) 스스로(自) 충족함(足)",
+      "easy_definition": "필요한 것을 스스로 생산해서 해결하는 것",
+      "context_sentence": "이 마을은 텃밭 농사로 채소를 **자급자족**합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "경제란 무엇인가",
+    "passage_text": "**경제**는 우리 생활과 밀접한 관계가 있습니다. 시장에서 물건을 사고파는 것, 공장에서 물건을 만드는 것, 은행에 돈을 저축하는 것 모두 **경제** 활동입니다. 나라의 **경제**가 잘 돌아가면 일자리가 늘고 사람들의 생활이 풍요로워집니다. 반대로 **경제**가 어려워지면 실업자가 늘고 정부는 어려운 사람들을 **구제**하기 위해 지원 정책을 펼칩니다.",
+    "quiz": {
+      "question": "경제가 어려워질 때 정부가 하는 일은 무엇인가요?",
+      "choices": [
+        "세금을 더 많이 걷는다",
+        "어려운 사람들을 구제하기 위한 지원 정책을 펼친다",
+        "물가를 올린다",
+        "공장 문을 닫는다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 경제가 어려워지면 정부는 어려운 사람들을 구제하기 위해 지원 정책을 펼친다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'경제'를 사용해서 우리 주변의 경제 활동을 한 가지 설명해보세요.",
+    "model_example": "마트에서 과자를 사는 것도 작은 **경제** 활동의 하나입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "濟(제) — 건널 제! 경제·구제 모두 이 글자! 오늘도 최고예요!"
+  }
+}

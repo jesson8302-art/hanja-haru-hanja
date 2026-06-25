@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "極",
+    "hanja_sound": "극",
+    "hanja_meaning": "극진할",
+    "full_reading": "극진할 극",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "極",
+    "sound": "극",
+    "meaning": "극진할",
+    "stroke_count": 13,
+    "radical": "木",
+    "etymology_story": "極은 나무(木)와 다할 극(亟)이 합쳐진 글자입니다. 기둥의 맨 꼭대기, 즉 끝까지 다한 것에서 '극진하다', '지극하다', '극단'의 뜻이 생겼습니다.",
+    "memory_tip": "나무(木)의 맨 끝(亟)이 '극진하다', '극(極)'입니다.",
+    "level_context": "5급 한자로, 극진할을(를) 뜻하는 極입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "극단",
+      "word_hanja": "極端",
+      "reading": "극단",
+      "easy_definition": "지나치게 치우친 한쪽 끝",
+      "etymology_dissection": "극진할 극(極)+끝 단(端): 극의 끝",
+      "example_sentence": "극단적인 생각은 위험합니다.",
+      "sentence_meaning": "지나치게 한쪽으로 치우친 생각은 위험합니다."
+    },
+    {
+      "word_korean": "극복",
+      "word_hanja": "克服",
+      "reading": "극복",
+      "easy_definition": "어려움을 이겨내고 뛰어넘음",
+      "etymology_dissection": "이길 극(克)+따를 복(服): 이겨내어 따름",
+      "example_sentence": "어려움을 극복했습니다.",
+      "sentence_meaning": "힘든 상황을 이겨냈습니다."
+    },
+    {
+      "word_korean": "극도",
+      "word_hanja": "極度",
+      "reading": "극도",
+      "easy_definition": "정도가 지극히 심함",
+      "etymology_dissection": "극진할 극(極)+정도 도(度): 극의 정도",
+      "example_sentence": "극도로 피곤합니다.",
+      "sentence_meaning": "지극히 심하게 피곤합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "어떤 어려움도 포기하지 않으면 극복할 수 있습니다. 극단적인 생각보다는 균형 잡힌 시각이 필요합니다. 극도로 힘들 때는 잠시 쉬어 가는 것도 좋습니다.",
+    "passage_meaning": "어려움을 극복하되, 극단적이지 않은 균형 잡힌 시각을 가지는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'극복'의 뜻으로 알맞은 것은?",
+        "options": [
+          "어려움에 포기하는 것",
+          "어려움을 이겨내고 뛰어넘는 것",
+          "문제를 피하는 것",
+          "남에게 맡기는 것"
+        ],
+        "correct_answer": "어려움을 이겨내고 뛰어넘는 것",
+        "explanation": "극복(克服)은 어려움을 이겨내고 뛰어넘는 것입니다."
+      },
+      {
+        "question": "'극단'에서 '極'의 뜻은?",
+        "options": [
+          "가운데",
+          "극진하다·끝",
+          "부드럽다",
+          "보통이다"
+        ],
+        "correct_answer": "극진하다·끝",
+        "explanation": "극단(極端)의 極은 '극진하다', '끝'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'극복'이나 '극단'을 사용하여 문장을 써 보세요.",
+    "hint": "어려움이나 균형에 관한 내용을 담아 보세요.",
+    "example_answer": "포기하지 않고 어려움을 극복했습니다.",
+    "key_vocabulary": [
+      "극단",
+      "극복"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "어떤 어려움도 극복할 수 있습니다.",
+      "극단적인 판단은 피해야 합니다.",
+      "극도로 피곤할 때 쉬어야 합니다."
+    ],
+    "pronunciation_tips": "'극'을 명확하게 발음하며 읽어 보세요."
+  }
+}

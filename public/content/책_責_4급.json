@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "책",
+    "hanja_meaning": "꾸짖을",
+    "hanja_char": "責",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "責 — 가시로 찔러 잘못을 바로잡다",
+    "etymology_story": "朿(가시 자)와 貝(조개 패, 재물의 뜻)가 합쳐진 글자입니다. 잘못에 대해 가시처럼 따끔하게 꾸짖어 빚을 갚게 한다는 뜻에서 '꾸짖다', '책임지다'는 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "책임",
+      "word_hanja": "責任",
+      "etymology_dissection": "責(꾸짖을 책)+任(맡길 임) = 꾸짖음을 감당함",
+      "easy_definition": "맡은 일이나 행동에 대한 의무와 결과를 짊어짐",
+      "context_sentence": "자신의 행동에는 반드시 **책임**이 따릅니다."
+    },
+    {
+      "word_korean": "질책",
+      "word_hanja": "叱責",
+      "etymology_dissection": "叱(꾸짖을 질)+責(꾸짖을 책) = 크게 꾸짖음",
+      "easy_definition": "잘못을 강하게 나무라고 꾸짖음",
+      "context_sentence": "선생님께서 규칙을 어긴 학생을 **질책**하셨습니다."
+    },
+    {
+      "word_korean": "책무",
+      "word_hanja": "責務",
+      "etymology_dissection": "責(꾸짖을 책)+務(힘쓸 무) = 책임지고 힘써야 할 일",
+      "easy_definition": "마땅히 해야 할 의무와 임무",
+      "context_sentence": "시민으로서의 **책무**를 다해야 합니다."
+    },
+    {
+      "word_korean": "자책",
+      "word_hanja": "自責",
+      "etymology_dissection": "自(스스로 자)+責(꾸짖을 책) = 스스로 꾸짖음",
+      "easy_definition": "자신의 잘못을 스스로 나무라고 반성함",
+      "context_sentence": "실수했을 때 너무 **자책**하기보다는 개선 방법을 찾는 것이 좋습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "책임감 있는 사람",
+    "passage_text": "**책임**감이 강한 사람은 자신이 맡은 일을 끝까지 해냅니다. 실수했을 때 **자책**만 하기보다는 어떻게 개선할지 생각합니다. 반면 **책임**을 회피하는 사람은 문제가 생겼을 때 남 탓을 합니다. 사회가 건강하게 유지되려면 모든 구성원이 자신의 **책무**를 다해야 합니다. 작은 **책임**부터 충실히 이행하는 습관이 큰 인물을 만듭니다.",
+    "quiz": {
+      "question": "책임감 있는 사람의 태도로 알맞은 것은?",
+      "choices": [
+        "실수하면 남 탓을 한다",
+        "힘든 일은 피하고 쉬운 일만 한다",
+        "맡은 일을 끝까지 해내고 개선 방법을 찾는다",
+        "잘못을 감추고 모른 척한다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 책임감 있는 사람은 맡은 일을 끝까지 해내고, 실수했을 때 개선 방법을 찾는다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'책임'을 사용해서 자신이 맡은 일이나 역할에 대한 문장을 써보세요.",
+    "model_example": "반장으로서 교실을 깨끗이 유지하는 것은 내가 져야 할 소중한 **책임**입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "責(책) — 꾸짖을 책! 책임·자책·질책 모두 이 글자! 수고했어요!"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "친",
+    "hanja_meaning": "친할",
+    "hanja_char": "親",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "親 — 나무 위에서 자식을 내려다보는 부모",
+    "etymology_story": "親(친)은 설 립(立)과 나무 목(木), 볼 견(見)이 합쳐진 글자예요. 나무 위에 서서 자녀를 바라보는 부모 모습으로, '친하다·부모'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "친구(親舊)",
+      "etymology_dissection": "친할 친(親)+예 구(舊)",
+      "easy_definition": "오래 사귄 가까운 벗",
+      "context_sentence": "오늘도 친구와 함께 놀았어요."
+    },
+    {
+      "word_korean": "부모(父母)와 친(親)",
+      "etymology_dissection": "부모 친(親)",
+      "easy_definition": "어버이",
+      "context_sentence": "부모님(親)께 감사 편지를 썼어요."
+    },
+    {
+      "word_korean": "친절(親切)",
+      "etymology_dissection": "친할 친(親)+끊을 절(切)",
+      "easy_definition": "따뜻하고 다정하게 대함",
+      "context_sentence": "친절한 사람이 되고 싶어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "친절한 친구",
+    "passage_text": "새로 전학 온 아이가 혼자 있었어요. 유나는 용기를 내어 다가가 친구(親舊)가 되었어요. 친절(親切)하게 학교를 안내해 줬어요. 진심 어린 친절이 새로운 우정을 만들었어요.",
+    "quiz": {
+      "question": "'친절'의 뜻은?",
+      "choices": [
+        "따뜻하고 다정하게 대함",
+        "오래된 친구",
+        "부모님을 공경함",
+        "함께 공부하는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "친절(親切)은 '친할 친(親)+끊을 절(切)'로, 가깝게(친하게) 대하듯 따뜻하고 배려하는 태도예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "친절을 베풀었던 경험이나, 친절을 받아서 기뻤던 경험을 써 보세요.",
+    "model_example": "예) 버스에서 할머니께 자리를 양보했어요. 할머니가 고맙다고 웃어 주셔서 기분이 따뜻했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "親(친)! 친절한 어린이가 세상을 밝혀요! 훌륭해요! 🤝"
+  }
+}

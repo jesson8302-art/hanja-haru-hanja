@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "역",
+    "hanja_meaning": "부릴",
+    "hanja_char": "役",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "役 — 채찍으로 몰아 일을 시키다",
+    "etymology_story": "彳(조금 걸을 척)과 殳(창 수)가 합쳐진 글자입니다. 창이나 채찍으로 사람을 몰아 일을 시키는 모습에서 '부역', '역할'의 뜻이 생겼습니다. 오늘날은 강제적 의미보다 맡은 역할의 의미로 주로 씁니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "역할",
+      "word_hanja": "役割",
+      "etymology_dissection": "役(부릴 역)+割(나눌 할) = 나누어 맡은 일",
+      "easy_definition": "어떤 일에서 맡아 하는 기능이나 임무",
+      "context_sentence": "우리는 각자의 **역할**을 충실히 해야 합니다."
+    },
+    {
+      "word_korean": "주역",
+      "word_hanja": "主役",
+      "etymology_dissection": "主(주인 주)+役(부릴 역) = 주된 역할",
+      "easy_definition": "어떤 일에서 중심이 되는 역할이나 그 사람",
+      "context_sentence": "이번 공연에서 그녀가 **주역**을 맡았습니다."
+    },
+    {
+      "word_korean": "병역",
+      "word_hanja": "兵役",
+      "etymology_dissection": "兵(군사 병)+役(부릴 역) = 군인으로 일함",
+      "easy_definition": "나라를 지키기 위해 군인으로 복무하는 의무",
+      "context_sentence": "우리나라 남성은 **병역**의 의무를 집니다."
+    },
+    {
+      "word_korean": "역할극",
+      "word_hanja": "役割劇",
+      "etymology_dissection": "役割(역할)+劇(연극 극) = 역할을 맡아 하는 연극",
+      "easy_definition": "특정 상황을 설정하고 각자 역할을 맡아 하는 활동",
+      "context_sentence": "국어 시간에 **역할극**을 통해 이야기를 깊이 이해했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "역할의 중요성",
+    "passage_text": "사회는 각자 맡은 **역할**이 잘 이루어질 때 원활하게 돌아갑니다. 학교에서도 마찬가지입니다. 선생님은 가르치는 **역할**을, 학생은 배우는 **역할**을, 청소 당번은 교실을 깨끗이 하는 **역할**을 맡습니다. 모둠 활동에서도 **주역**이 있고 도움을 주는 역할이 있습니다. 어떤 **역할**이든 성실히 임할 때 더 좋은 결과가 생깁니다.",
+    "quiz": {
+      "question": "역할과 관련된 내용으로 옳지 않은 것은?",
+      "choices": [
+        "선생님은 가르치는 역할을 맡는다",
+        "사회는 각자의 역할이 잘 이루어질 때 원활하다",
+        "작은 역할은 중요하지 않다",
+        "어떤 역할이든 성실히 임하면 좋은 결과가 생긴다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서는 어떤 역할이든 성실히 임할 때 더 좋은 결과가 생긴다고 했으므로, 작은 역할이 중요하지 않다는 내용은 틀렸습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'역할'을 사용해서 모둠 활동이나 가족 안에서 자신의 역할을 써보세요.",
+    "model_example": "우리 가족 안에서 내 **역할**은 심부름도 잘 하고 동생을 도와주는 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "役(역) — 부릴 역! 역할·주역·병역 모두 여기서! 수고했어요!"
+  }
+}

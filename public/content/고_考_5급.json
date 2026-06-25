@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "考",
+    "hanja_sound": "고",
+    "hanja_meaning": "생각할",
+    "full_reading": "생각할 고",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "考",
+    "sound": "고",
+    "meaning": "생각할",
+    "stroke_count": 6,
+    "radical": "老",
+    "etymology_story": "考는 늙을 로(老)의 변형으로, 지팡이를 짚은 노인이 깊이 생각하는 모습을 나타냅니다. 오랜 경험을 바탕으로 깊이 생각하는 것에서 '생각하다', '고찰하다'의 뜻이 생겼습니다.",
+    "memory_tip": "지팡이를 짚은 노인처럼 깊이 생각하는 것이 '考'입니다.",
+    "level_context": "5급 한자로, 생각할을(를) 뜻하는 考입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "생각",
+      "word_hanja": "생각",
+      "reading": "생각",
+      "easy_definition": "마음속에서 헤아리는 일",
+      "etymology_dissection": "일상어로 考의 뜻",
+      "example_sentence": "깊이 생각하고 답했습니다.",
+      "sentence_meaning": "충분히 고민하고 답했습니다."
+    },
+    {
+      "word_korean": "고려",
+      "word_hanja": "考慮",
+      "reading": "고려",
+      "easy_definition": "여러 가지를 생각하고 헤아림",
+      "etymology_dissection": "생각할 고(考)+생각할 려(慮): 깊이 생각함",
+      "example_sentence": "모든 상황을 고려해야 합니다.",
+      "sentence_meaning": "모든 상황을 잘 생각해야 합니다."
+    },
+    {
+      "word_korean": "참고",
+      "word_hanja": "參考",
+      "reading": "참고",
+      "easy_definition": "도움이 될 자료를 살펴봄",
+      "etymology_dissection": "참여할 참(參)+생각할 고(考): 참여해 생각함",
+      "example_sentence": "책을 참고하여 보고서를 썼습니다.",
+      "sentence_meaning": "책을 보고 참고하여 보고서를 작성했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "보고서를 쓸 때는 여러 자료를 참고합니다. 중요한 결정을 내릴 때는 다양한 상황을 고려해야 합니다. 깊이 생각하고 판단하는 습관이 중요합니다.",
+    "passage_meaning": "중요한 결정을 내릴 때는 다양한 자료를 참고하고 여러 상황을 고려해야 합니다.",
+    "questions": [
+      {
+        "question": "'고려'의 뜻으로 알맞은 것은?",
+        "options": [
+          "빠르게 결정함",
+          "여러 가지를 생각하고 헤아림",
+          "무시하고 진행함",
+          "혼자서 결정함"
+        ],
+        "correct_answer": "여러 가지를 생각하고 헤아림",
+        "explanation": "고려(考慮)는 여러 가지를 생각하고 헤아리는 것입니다."
+      },
+      {
+        "question": "'참고'에서 '考'의 뜻은?",
+        "options": [
+          "참여하다",
+          "생각하다",
+          "만들다",
+          "보다"
+        ],
+        "correct_answer": "생각하다",
+        "explanation": "참고(參考)의 考는 '생각하다'로, 도움이 될 자료를 살펴보는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'고려'나 '참고'를 사용하여 문장을 만들어 보세요.",
+    "hint": "공부나 결정 과정과 관련된 내용을 담아 보세요.",
+    "example_answer": "다양한 의견을 고려하여 결정을 내렸습니다.",
+    "key_vocabulary": [
+      "생각",
+      "고려"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "여러 상황을 고려해야 합니다.",
+      "책을 참고하여 공부합시다.",
+      "깊이 생각하고 결정하세요."
+    ],
+    "pronunciation_tips": "'고'을 명확하게 발음하며 읽어 보세요."
+  }
+}

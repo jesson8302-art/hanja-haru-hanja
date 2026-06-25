@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "하",
+    "hanja_meaning": "아래",
+    "hanja_char": "下",
+    "hanja_level": "7급",
+    "linked_subject": "수학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "선 아래에 점 — 아래 하(下)",
+    "etymology_story": "'아래 하(下)'는 가로선 아래에 점을 찍어 '여기 아래야!'라고 표시한 글자예요. 위 상(上)과 반대되는 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "하교(下校)",
+      "etymology_dissection": "아래 하(下)+학교 교(校)",
+      "easy_definition": "학교에서 집으로 오는 것",
+      "context_sentence": "하교 후 놀이터에 가요."
+    },
+    {
+      "word_korean": "지하(地下)",
+      "etymology_dissection": "땅 지(地)+아래 하(下)",
+      "easy_definition": "땅 아래",
+      "context_sentence": "지하철을 타요."
+    },
+    {
+      "word_korean": "하강(下降)",
+      "etymology_dissection": "아래 하(下)+내릴 강(降)",
+      "easy_definition": "아래로 내려가는 것",
+      "context_sentence": "기온이 하강했어요."
+    },
+    {
+      "word_korean": "천하(天下)",
+      "etymology_dissection": "하늘 천(天)+아래 하(下)",
+      "easy_definition": "하늘 아래의 온 세상",
+      "context_sentence": "천하를 품은 꿈을 꿔요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "아래의 가치",
+    "passage_text": "**지하(地下)** 깊은 곳에도 생명이 있어요. **하강(下降)**은 다음 도약을 위한 준비예요. **하교(下校)** 후 시간을 알차게 써요. **천하(天下)**를 품은 큰 꿈을 가져요.",
+    "quiz": {
+      "question": "'천하(天下)'란?",
+      "choices": [
+        "지하",
+        "땅 아래",
+        "하늘 아래의 온 세상",
+        "하교"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'천하(天下)'=하늘 천+아래 하, 하늘 아래 모든 세상이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "천하를 품은 큰 꿈이나 위아래를 생각한 경험을 문장으로 써 보세요.",
+    "model_example": "지하부터 하늘까지, 아래가 튼튼해야 천하를 품은 꿈도 높이 날 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아래 — 하(下)! 아래 — 하(下)!' 열 번 외쳐요!"
+  }
+}

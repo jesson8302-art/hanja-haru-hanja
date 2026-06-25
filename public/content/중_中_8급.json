@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "중",
+    "hanja_meaning": "가운데",
+    "hanja_char": "中",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "딱 가운데를 꿰뚫는 화살 — 가운데 중(中)",
+    "etymology_story": "'가운데 중(中)'은 네모난 테두리의 한가운데를 화살이나 막대기가 꿰뚫고 지나가는 모습이에요. 과녁 한 가운데를 딱 맞춘 화살처럼, 무언가의 정중앙을 나타내는 글자랍니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "중심(中心)",
+      "etymology_dissection": "가운데 중(中) + 마음 심(心) = 가운데 마음",
+      "easy_definition": "가장 중요한 가운데 부분",
+      "context_sentence": "원의 중심에서 모든 방향이 같은 거리예요."
+    },
+    {
+      "word_korean": "중학교(中學校)",
+      "etymology_dissection": "가운데 중(中) + 배울 학(學) + 학교 교(校) = 가운데 학교",
+      "easy_definition": "초등학교와 고등학교 사이의 학교",
+      "context_sentence": "중학교에 가면 새 과목을 배워요."
+    },
+    {
+      "word_korean": "집중(集中)",
+      "etymology_dissection": "모을 집(集) + 가운데 중(中) = 한 가운데로 모으는 것",
+      "easy_definition": "한 곳에 생각이나 힘을 모으는 것",
+      "context_sentence": "시험 볼 때는 집중해야 해요."
+    },
+    {
+      "word_korean": "중간(中間)",
+      "etymology_dissection": "가운데 중(中) + 사이 간(間) = 가운데 사이",
+      "easy_definition": "둘 사이의 한가운데",
+      "context_sentence": "시험 중간에 화장실을 가면 안 돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "가운데가 중요해요",
+    "passage_text": "공부할 때 **집중(集中)**하면 훨씬 빨리 이해할 수 있어요. 뭔가를 잘 하려면 **중심(中心)**을 잡아야 해요. **중간(中間)** 정도만 해도 괜찮다고 생각하지 말고, 최선을 다해 보아요!",
+    "quiz": {
+      "question": "'집중(集中)'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "여러 곳으로 나누는 것",
+        "한 곳에 생각이나 힘을 모으는 것",
+        "중간에 멈추는 것",
+        "가운데에 앉는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'집중(集中)'은 '모을 집 + 가운데 중' = 한 가운데로 모은다는 뜻이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 집중해서 해낸 경험을 문장으로 써 보세요.",
+    "model_example": "피아노 연습할 때 집중하면 어려운 곡도 중간쯤에는 리듬이 느껴지기 시작해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'가운데 — 중(中)! 가운데 — 중(中)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

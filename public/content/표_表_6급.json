@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "표",
+    "hanja_meaning": "겉",
+    "hanja_char": "表",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "表 — 옷을 입은 사람의 겉모습",
+    "etymology_story": "表(표)는 털 모(毛)와 옷 의(衣)가 합쳐진 글자예요. 옷을 입은 겉모습처럼 '겉·드러내다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "표현(表現)",
+      "etymology_dissection": "겉 표(表)+나타날 현(現)",
+      "easy_definition": "생각이나 감정을 나타냄",
+      "context_sentence": "감사한 마음을 표현했어요."
+    },
+    {
+      "word_korean": "표면(表面)",
+      "etymology_dissection": "겉 표(表)+낯 면(面)",
+      "easy_definition": "겉으로 드러난 면",
+      "context_sentence": "지구 표면의 70%는 바다예요."
+    },
+    {
+      "word_korean": "발표(發表)",
+      "etymology_dissection": "필 발(發)+겉 표(表)",
+      "easy_definition": "여러 사람 앞에서 말함",
+      "context_sentence": "수업 시간에 발표를 잘 했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "감사를 표현해요",
+    "passage_text": "발표(發表) 시간에 부모님께 감사한 마음을 표현(表現)했어요. 마음속 생각을 겉으로 드러내는 것이 표현이에요. 표면(表面)적인 모습만 보지 말고 마음을 들여다봐야 해요.",
+    "quiz": {
+      "question": "'표현'의 뜻은?",
+      "choices": [
+        "생각이나 감정을 나타냄",
+        "비밀을 숨기는 것",
+        "표면을 닦는 것",
+        "발표 준비물"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "표현(表現)은 '겉 표(表)+나타날 현(現)'으로, 마음속 생각이나 느낌을 말·글·행동으로 나타내는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "고마운 사람에게 감사의 마음을 표현하는 짧은 편지를 써 보세요.",
+    "model_example": "예) 엄마께. 매일 맛있는 밥을 차려주셔서 감사해요. 엄마 덕분에 건강하게 자랄 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "表(표)! 마음을 표현할 줄 아는 어린이! 잘했어요! 💌"
+  }
+}

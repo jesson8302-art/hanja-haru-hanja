@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "이",
+    "hanja_meaning": "써",
+    "hanja_char": "以",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "以 — 쟁기를 손으로 쥐고 쓰다",
+    "etymology_story": "고대에 쟁기(사람+도구 모양)를 손으로 쥐고 사용하는 모습을 나타낸 글자입니다. '~을 가지고', '~로써', '~이후'의 뜻으로 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이상",
+      "word_hanja": "以上",
+      "etymology_dissection": "以(써 이)+上(위 상) = 그 위로써",
+      "easy_definition": "어떤 수량이나 정도를 포함하여 그 위",
+      "context_sentence": "키가 160cm **이상**이어야 합니다."
+    },
+    {
+      "word_korean": "이하",
+      "word_hanja": "以下",
+      "etymology_dissection": "以(써 이)+下(아래 하) = 그 아래로써",
+      "easy_definition": "어떤 수량이나 정도를 포함하여 그 아래",
+      "context_sentence": "12세 **이하** 어린이는 할인됩니다."
+    },
+    {
+      "word_korean": "이후",
+      "word_hanja": "以後",
+      "etymology_dissection": "以(써 이)+後(뒤 후) = 그 뒤로써",
+      "easy_definition": "어떤 때부터 그 뒤",
+      "context_sentence": "졸업 **이후** 계획을 세웠습니다."
+    },
+    {
+      "word_korean": "이전",
+      "word_hanja": "以前",
+      "etymology_dissection": "以(써 이)+前(앞 전) = 그 앞으로써",
+      "easy_definition": "어떤 때보다 앞선 때",
+      "context_sentence": "인터넷 발명 **이전**에는 우편으로 소식을 전했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "기준의 언어",
+    "passage_text": "**이상**, **이하**, **이전**, **이후**는 어떤 기준점을 중심으로 범위를 나타내는 말입니다. '**이상**'과 '**이하**'는 그 숫자를 포함합니다. 예를 들어 '10 **이상**'이면 10도 포함됩니다. 반면 '초과'와 '미만'은 그 숫자를 포함하지 않습니다. 법률이나 수학에서 이 구분은 매우 중요합니다. 일상에서도 기준을 정확히 표현하는 연습이 필요합니다.",
+    "quiz": {
+      "question": "'이상'에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "기준 숫자를 포함하지 않는다",
+        "기준 숫자를 포함한다",
+        "'초과'와 같은 말이다",
+        "아래 범위를 나타낸다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "이상은 그 숫자를 포함하여 그 위를 나타냅니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'이후'를 사용해서 미래 계획을 써보세요.",
+    "model_example": "중학교 졸업 **이후**에는 더 많은 책을 읽고 다양한 경험을 쌓고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "以(이) — 써 이! 이상·이하·이후·이전 모두 여기서! 잘했어요!"
+  }
+}

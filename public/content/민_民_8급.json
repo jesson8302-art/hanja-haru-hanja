@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "민",
+    "hanja_meaning": "백성",
+    "hanja_char": "民",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "눈에서 나온 '백성 민(民)'",
+    "etymology_story": "'백성 민(民)'은 날카로운 것으로 눈을 찌른 모습에서 나왔어요. 지배 아래 놓인 사람들을 뜻하다가 '나라를 이루는 일반 사람들'이 됐어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국민(國民)",
+      "etymology_dissection": "나라 국(國)+백성 민(民)",
+      "easy_definition": "한 나라를 이루는 모든 사람",
+      "context_sentence": "국민은 나라의 주인이에요."
+    },
+    {
+      "word_korean": "시민(市民)",
+      "etymology_dissection": "저자 시(市)+백성 민(民)",
+      "easy_definition": "도시에 사는 시민",
+      "context_sentence": "시민들이 함께 깨끗한 도시를 만들어요."
+    },
+    {
+      "word_korean": "민주(民主)",
+      "etymology_dissection": "백성 민(民)+주인 주(主)",
+      "easy_definition": "국민이 스스로 나라를 다스리는 정치",
+      "context_sentence": "민주주의 나라에서 국민이 지도자를 뽑아요."
+    },
+    {
+      "word_korean": "주민(住民)",
+      "etymology_dissection": "살 주(住)+백성 민(民)",
+      "easy_definition": "어떤 지역에 사는 사람",
+      "context_sentence": "우리 동네 주민들이 청소를 함께 했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리 모두 소중한 국민",
+    "passage_text": "**국민(國民)**은 나라의 주인이에요. **민주(民主)** 사회에서 **시민(市民)** 한 명 한 명의 의견이 중요해요. **주민(住民)**이 서로 돕는 마을이 살기 좋아요.",
+    "quiz": {
+      "question": "'민주(民主)'의 뜻은?",
+      "choices": [
+        "백성이 지도자를 따르는 것",
+        "국민이 스스로 나라를 다스리는 것",
+        "왕이 백성을 다스리는 것",
+        "군인이 나라를 이끄는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'민주(民主)'=백성 민+주인 주, 백성이 주인인 정치예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 국민으로서 할 수 있는 일을 문장으로 써 보세요.",
+    "model_example": "민주주의 나라의 국민으로서 주민과 함께 환경을 지키는 작은 실천이 시민의 역할이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'백성 — 민(民)! 백성 — 민(民)!' 열 번 외쳐요!"
+  }
+}

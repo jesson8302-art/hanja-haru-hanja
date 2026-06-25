@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "연",
+    "hanja_meaning": "그럴",
+    "hanja_char": "然",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "개고기를 불에 굽다 — 그럴 연(然)",
+    "etymology_story": "'그럴 연(然)'은 개고기(肰)를 불(火)에 굽는 모습이에요. '이렇게 하는 것이 자연스럽다'에서 '그렇다, 당연하다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자연(自然)",
+      "etymology_dissection": "스스로 자(自)+그럴 연(然)",
+      "easy_definition": "스스로 그러한 것, 자연",
+      "context_sentence": "자연을 사랑해요."
+    },
+    {
+      "word_korean": "당연(當然)",
+      "etymology_dissection": "마땅할 당(當)+그럴 연(然)",
+      "easy_definition": "마땅히 그러한 것",
+      "context_sentence": "당연히 해야 할 일을 해요."
+    },
+    {
+      "word_korean": "천연(天然)",
+      "etymology_dissection": "하늘 천(天)+그럴 연(然)",
+      "easy_definition": "하늘이 만든 자연 그대로",
+      "context_sentence": "천연 재료로 만든 음식이 건강해요."
+    },
+    {
+      "word_korean": "연후(然後)",
+      "etymology_dissection": "그럴 연(然)+뒤 후(後)",
+      "easy_definition": "그런 다음에",
+      "context_sentence": "공부를 하고 연후에 놀아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자연스러움",
+    "passage_text": "**자연(自然)**은 스스로 그렇게 되는 것이에요. **당연(當然)**히 해야 할 일을 먼저 하는 습관이 중요해요. **천연(天然)** 재료처럼 있는 그대로가 가장 아름다워요.",
+    "quiz": {
+      "question": "'당연(當然)'이란?",
+      "choices": [
+        "자연 그대로",
+        "마땅히 그러해야 하는 것",
+        "하늘이 만든 것",
+        "그런 다음"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'당연(當然)'=마땅할 당+그럴 연, 마땅히 그래야 하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "당연히 해야 하는 일인데 잘 실천한 경험을 문장으로 써 보세요.",
+    "model_example": "자연을 보호하는 것은 당연한 일인데, 천연 환경을 아끼는 실천이 가장 중요해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'그럴 — 연(然)! 그럴 — 연(然)!' 열 번 외쳐요!"
+  }
+}

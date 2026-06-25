@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "詩",
+    "hanja_sound": "시",
+    "hanja_meaning": "시",
+    "full_reading": "시 시",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "詩",
+    "sound": "시",
+    "meaning": "시",
+    "stroke_count": 13,
+    "radical": "言",
+    "etymology_story": "詩는 말(言)과 절 사(寺)가 합쳐진 글자입니다. 절의 종소리처럼 아름다운 리듬이 있는 말에서 '시', '시를 짓다'의 뜻이 생겼습니다.",
+    "memory_tip": "아름다운 리듬이 있는(寺) 말(言)이 '시(詩)'입니다.",
+    "level_context": "5급 한자로, 시을(를) 뜻하는 詩입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "시인",
+      "word_hanja": "詩人",
+      "reading": "시인",
+      "easy_definition": "시를 쓰는 사람",
+      "etymology_dissection": "시 시(詩)+사람 인(人): 시 쓰는 사람",
+      "example_sentence": "유명한 시인의 시를 읽었습니다.",
+      "sentence_meaning": "유명하게 시를 쓰는 분의 시를 읽었습니다."
+    },
+    {
+      "word_korean": "동시",
+      "word_hanja": "童詩",
+      "reading": "동시",
+      "easy_definition": "어린이를 위한 시",
+      "etymology_dissection": "아이 동(童)+시 시(詩): 아이의 시",
+      "example_sentence": "어릴 때 동시를 많이 읽었습니다.",
+      "sentence_meaning": "어릴 때 어린이를 위한 시를 많이 읽었습니다."
+    },
+    {
+      "word_korean": "시집",
+      "word_hanja": "詩集",
+      "reading": "시집",
+      "easy_definition": "시를 모은 책",
+      "etymology_dissection": "시 시(詩)+모을 집(集): 시 모음",
+      "example_sentence": "새 시집을 샀습니다.",
+      "sentence_meaning": "시를 모은 새 책을 샀습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "시인의 아름다운 시가 마음을 울립니다. 동시는 어린이의 순수한 감성을 담고 있습니다. 새로 나온 시집을 읽습니다.",
+    "passage_meaning": "시인, 동시, 시집 모두 '시'를 뜻하는 詩에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'시인'의 뜻은?",
+        "options": [
+          "소설 쓰는 사람",
+          "시를 쓰는 사람",
+          "그림 그리는 사람",
+          "음악 만드는 사람"
+        ],
+        "correct_answer": "시를 쓰는 사람",
+        "explanation": "시인(詩人)은 시를 쓰는 사람입니다."
+      },
+      {
+        "question": "'詩'의 뜻은?",
+        "options": [
+          "소설",
+          "시",
+          "일기",
+          "편지"
+        ],
+        "correct_answer": "시",
+        "explanation": "詩는 '시'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'시인'이나 '동시'를 사용하여 문장을 써 보세요.",
+    "hint": "문학이나 감성에 관한 내용을 담아 보세요.",
+    "example_answer": "유명 시인의 시집을 읽으며 감동을 받았습니다.",
+    "key_vocabulary": [
+      "시인",
+      "동시"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "시인의 시를 읽습니다.",
+      "동시가 아름답습니다.",
+      "시집을 선물받았습니다."
+    ],
+    "pronunciation_tips": "'시'을 명확하게 발음하며 읽어 보세요."
+  }
+}

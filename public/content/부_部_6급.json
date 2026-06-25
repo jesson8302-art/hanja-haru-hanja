@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "부",
+    "hanja_meaning": "떼",
+    "hanja_char": "部",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "지역의 무리 — 떼 부(部)",
+    "etymology_story": "'떼 부(部)'는 고을(邑)과 절름발이(咅)가 합쳐진 글자예요. 고을(邑)을 나누어 각자의 구역에 사는 무리(部)예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "부분(部分)",
+      "etymology_dissection": "떼 부(部)+나눌 분(分)",
+      "easy_definition": "전체의 일부",
+      "context_sentence": "부분만 완성했어요."
+    },
+    {
+      "word_korean": "학부모(學父母)",
+      "etymology_dissection": "배울 학(學)+아버지 부(父)+어머니 모(母)",
+      "easy_definition": "학생의 부모",
+      "context_sentence": "학부모 상담을 해요."
+    },
+    {
+      "word_korean": "전부(全部)",
+      "etymology_dissection": "온전 전(全)+떼 부(部)",
+      "easy_definition": "모두",
+      "context_sentence": "전부 다 했어요."
+    },
+    {
+      "word_korean": "내부(內部)",
+      "etymology_dissection": "안 내(內)+떼 부(部)",
+      "easy_definition": "안쪽",
+      "context_sentence": "내부를 살펴봐요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "부분과 전체",
+    "passage_text": "**부분(部分)**이 모여 전부(全部)가 돼요. **내부(內部)**를 잘 정비해야 겉도 빛나요.",
+    "quiz": {
+      "question": "'전부(全部)'란?",
+      "choices": [
+        "부분",
+        "내부",
+        "모두",
+        "학부모"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'전부(全部)'=온전 전+떼 부, 모든 부분, 즉 전체를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "부분적으로 노력한 것이 쌓여 전부가 된 경험을 문장으로 써 보세요.",
+    "model_example": "부분 부분 최선을 다하면 어느새 전부가 완성되는 놀라운 경험을 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'떼 — 부(部)! 떼 — 부(部)!' 열 번 외쳐요!"
+  }
+}

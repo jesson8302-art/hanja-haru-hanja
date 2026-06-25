@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "추",
+    "hanja_meaning": "가을",
+    "hanja_char": "秋",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "벼가 불처럼 익는 계절 — 가을 추(秋)",
+    "etymology_story": "'가을 추(秋)'는 벼(禾)와 불(火)이 합쳐진 글자예요. 벼가 황금빛 불꽃처럼 익어가는 계절이 '가을(秋)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "추석(秋夕)",
+      "etymology_dissection": "가을 추(秋)+저녁 석(夕)",
+      "easy_definition": "음력 8월 15일 한가위",
+      "context_sentence": "추석에 송편을 빚어요."
+    },
+    {
+      "word_korean": "춘추(春秋)",
+      "etymology_dissection": "봄 춘(春)+가을 추(秋)",
+      "easy_definition": "봄과 가을, 또는 나이",
+      "context_sentence": "춘추가 어떻게 되세요?"
+    },
+    {
+      "word_korean": "추수(秋收)",
+      "etymology_dissection": "가을 추(秋)+거둘 수(收)",
+      "easy_definition": "가을에 곡식을 거두는 것",
+      "context_sentence": "추수 감사제를 열어요."
+    },
+    {
+      "word_korean": "만추(晩秋)",
+      "etymology_dissection": "늦을 만(晩)+가을 추(秋)",
+      "easy_definition": "늦가을",
+      "context_sentence": "만추의 단풍이 아름다워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "가을의 결실",
+    "passage_text": "**추수(秋收)**는 봄에 심은 씨앗의 결실이에요. **추석(秋夕)**은 감사함을 나누는 날이에요. **만추(晩秋)**의 단풍처럼 인생도 가을에 더 아름다워요.",
+    "quiz": {
+      "question": "'추수(秋收)'란?",
+      "choices": [
+        "추석",
+        "가을에 곡식을 거두는 것",
+        "만추",
+        "봄과 가을"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'추수(秋收)'=가을 추+거둘 수, 가을에 곡식을 거두는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "노력의 결실이나 추수처럼 수확한 경험을 문장으로 써 보세요.",
+    "model_example": "봄에 심고 여름에 가꾼 노력이 가을 추수처럼 결실로 돌아올 때 가장 뿌듯해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'가을 — 추(秋)! 가을 — 추(秋)!' 열 번 외쳐요!"
+  }
+}

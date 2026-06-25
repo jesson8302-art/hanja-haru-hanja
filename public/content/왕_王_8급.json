@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "왕",
+    "hanja_meaning": "임금",
+    "hanja_char": "王",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 역사"
+  },
+  "step_1_etymology": {
+    "visual_title": "하늘·땅·사람을 잇는 존재 — 임금 왕(王)",
+    "etymology_story": "'임금 왕(王)'은 하늘·땅·사람, 세 층을 수직으로 잇는 선이에요. 하늘과 땅 사이 모든 것을 다스리는 사람이 왕이라는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "왕국(王國)",
+      "etymology_dissection": "임금 왕(王)+나라 국(國)",
+      "easy_definition": "왕이 다스리는 나라",
+      "context_sentence": "동화 속 왕국에 공주가 살아요."
+    },
+    {
+      "word_korean": "왕자(王子)",
+      "etymology_dissection": "임금 왕(王)+아들 자(子)",
+      "easy_definition": "왕의 아들",
+      "context_sentence": "용감한 왕자가 용을 물리쳤어요."
+    },
+    {
+      "word_korean": "왕비(王妃)",
+      "etymology_dissection": "임금 왕(王)+왕비 비(妃)",
+      "easy_definition": "왕의 아내",
+      "context_sentence": "왕비가 백성을 사랑했어요."
+    },
+    {
+      "word_korean": "대왕(大王)",
+      "etymology_dissection": "큰 대(大)+임금 왕(王)",
+      "easy_definition": "위대하고 훌륭한 왕",
+      "context_sentence": "세종대왕은 한글을 만든 대왕이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "왕의 책임",
+    "passage_text": "**대왕(大王)** 세종은 백성을 사랑해 한글을 만들었어요. **왕국(王國)**을 이끄는 것은 힘이 아닌 지혜예요. **왕자(王子)**도 **왕비(王妃)**도 백성을 위해 존재해요.",
+    "quiz": {
+      "question": "'대왕(大王)'의 뜻은?",
+      "choices": [
+        "왕의 아들",
+        "왕의 나라",
+        "위대하고 훌륭한 왕",
+        "왕의 아내"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'대왕(大王)'=큰 대+임금 왕, 매우 위대한 왕이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 왕이라면 백성을 위해 무엇을 할지 문장으로 써 보세요.",
+    "model_example": "내가 왕이 된다면 대왕처럼 모든 국민이 배울 수 있는 왕국을 만들 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'임금 — 왕(王)! 임금 — 왕(王)!' 열 번 외쳐요!"
+  }
+}

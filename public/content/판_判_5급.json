@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "판",
+    "hanja_meaning": "판단",
+    "hanja_char": "判",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "判 — 칼로 나누어 판단하다",
+    "etymology_story": "刀(칼 도)와 半(반 반)이 합쳐진 글자입니다. 칼로 딱 반을 나누듯 옳고 그름을 분명하게 가르는 모습에서 '판단하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "판단",
+      "word_hanja": "判斷",
+      "etymology_dissection": "判(판단할 판)+斷(끊을 단) = 끊어 판정함",
+      "easy_definition": "옳고 그름을 가려 결론을 내림",
+      "context_sentence": "충분한 정보를 바탕으로 **판단**해야 합니다."
+    },
+    {
+      "word_korean": "판결",
+      "word_hanja": "判決",
+      "etymology_dissection": "判(판단할 판)+決(결단할 결) = 판단하여 결정",
+      "easy_definition": "법원에서 내리는 최종 결정",
+      "context_sentence": "법원이 무죄 **판결**을 내렸습니다."
+    },
+    {
+      "word_korean": "비판",
+      "word_hanja": "批判",
+      "etymology_dissection": "批(칠 비)+判(판단할 판) = 따져 판단함",
+      "easy_definition": "옳고 그름을 따져 평가하거나 지적함",
+      "context_sentence": "건설적인 **비판**은 발전을 이끕니다."
+    },
+    {
+      "word_korean": "재판",
+      "word_hanja": "裁判",
+      "etymology_dissection": "裁(마를 재)+判(판단할 판) = 헤아려 판단함",
+      "easy_definition": "법원에서 범죄나 분쟁을 심리하는 절차",
+      "context_sentence": "공정한 **재판**은 민주주의의 기본입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공정한 재판",
+    "passage_text": "**재판**은 분쟁을 공정하게 해결하는 사회의 중요한 기능입니다. 법관은 감정이 아닌 증거와 법률을 바탕으로 **판단**해야 합니다. **판결**이 잘못되면 억울한 사람이 생깁니다. 따라서 **재판**은 1심, 2심, 3심의 3단계로 이루어져 **판결**을 여러 번 검토합니다. **비판**적 사고를 통해 증거를 꼼꼼히 살피는 것이 올바른 **판단**의 기초입니다.",
+    "quiz": {
+      "question": "재판이 1심, 2심, 3심으로 이루어지는 이유는?",
+      "choices": [
+        "시간을 오래 걸리게 하기 위해",
+        "판결을 여러 번 검토하여 억울한 사람이 없도록 하기 위해",
+        "판사를 많이 고용하기 위해",
+        "돈을 더 많이 걷기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 재판이 3단계로 이루어지는 것은 판결을 여러 번 검토하여 억울한 사람이 없도록 하기 위해서라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'판단'이나 '비판'을 사용해서 올바른 판단을 위해 중요한 것을 써보세요.",
+    "model_example": "어떤 일을 **판단**할 때 한쪽 말만 듣지 말고 다양한 시각에서 **비판**적으로 생각하는 것이 중요합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "判(판) — 판단할 판! 판단·판결·비판·재판 모두 여기서! 대단해요!"
+  }
+}

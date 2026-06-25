@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "병",
+    "hanja_meaning": "병",
+    "hanja_char": "病",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 침대에 누워 앓다 — 병 병(病)",
+    "etymology_story": "'병 병(病)'은 병들 녁(疒, 병상)과 쓸 고(丙)가 합쳐진 글자예요. 병상에 누워 고통받는 것이 '병(病)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "병원(病院)",
+      "etymology_dissection": "병 병(病)+집 원(院)",
+      "easy_definition": "아픈 사람을 치료하는 곳",
+      "context_sentence": "병원에 갔어요."
+    },
+    {
+      "word_korean": "질병(疾病)",
+      "etymology_dissection": "병 질(疾)+병 병(病)",
+      "easy_definition": "몸의 이상 상태",
+      "context_sentence": "질병을 예방해요."
+    },
+    {
+      "word_korean": "병문안(病問安)",
+      "etymology_dissection": "병 병(病)+물을 문(問)+편안 안(安)",
+      "easy_definition": "아픈 사람을 위문하는 것",
+      "context_sentence": "병문안을 갔어요."
+    },
+    {
+      "word_korean": "간병(看病)",
+      "etymology_dissection": "볼 간(看)+병 병(病)",
+      "easy_definition": "아픈 사람을 돌보는 것",
+      "context_sentence": "간병이 힘들어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "건강의 소중함",
+    "passage_text": "**질병(疾病)**을 예방하는 것이 **병원(病院)**에 가는 것보다 중요해요. **병문안(病問安)**이 아픈 사람을 위로해요.",
+    "quiz": {
+      "question": "'질병(疾病)'이란?",
+      "choices": [
+        "병원",
+        "병문안",
+        "몸의 이상 상태",
+        "간병"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'질병(疾病)'=병 질+병 병, 몸에 생기는 이상한 상태예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "건강을 지키기 위해 하는 노력을 문장으로 써 보세요.",
+    "model_example": "질병을 예방하면 병원 대신 병문안을 가는 여유가 생겨요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'병 — 병(病)! 병 — 병(病)!' 열 번 외쳐요!"
+  }
+}

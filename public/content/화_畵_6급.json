@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "그림",
+    "hanja_char": "畵",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "畵 — 붓으로 경계를 그어 그림을 완성하다",
+    "etymology_story": "畵(화)는 붓 율(聿)과 경계 전(田)이 합쳐진 글자예요. 붓으로 선을 그어 '그림·그리다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "회화(繪畵)",
+      "etymology_dissection": "그릴 회(繪)+그림 화(畵)",
+      "easy_definition": "물감 등으로 그린 그림",
+      "context_sentence": "미술관에서 유명한 회화를 감상했어요."
+    },
+    {
+      "word_korean": "만화(漫畵)",
+      "etymology_dissection": "넘칠 만(漫)+그림 화(畵)",
+      "easy_definition": "재미있게 그린 이야기 그림",
+      "context_sentence": "만화책을 즐겨 읽어요."
+    },
+    {
+      "word_korean": "화가(畵家)",
+      "etymology_dissection": "그림 화(畵)+집 가(家)",
+      "easy_definition": "그림을 그리는 사람",
+      "context_sentence": "유명한 화가의 전시회에 갔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "그림 속 이야기",
+    "passage_text": "미술관에서 회화(繪畵) 작품을 감상했어요. 화가(畵家)들이 붓으로 담아낸 이야기가 느껴졌어요. 집에 돌아와서 좋아하는 만화(漫畵) 캐릭터를 그려봤어요. 그림은 말보다 많은 것을 표현해요.",
+    "quiz": {
+      "question": "'화가'의 뜻은?",
+      "choices": [
+        "그림을 그리는 사람",
+        "글을 쓰는 사람",
+        "음악을 만드는 사람",
+        "조각을 하는 사람"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "화가(畵家)는 '그림 화(畵)+집 가(家)'로, 그림 그리기를 직업으로 하는 예술가예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 그림으로 표현하고 싶은 것을 글로 묘사해 보세요. 어떤 그림을 그리고 싶나요?",
+    "model_example": "예) 가족과 함께 바닷가에서 노는 장면을 그리고 싶어요. 파란 바다와 모래사장, 웃는 얼굴들을 그릴 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "畵(화)! 그림으로 세상을 아름답게! 훌륭해요! 🎨"
+  }
+}

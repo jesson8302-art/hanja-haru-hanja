@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "표",
+    "hanja_meaning": "표할",
+    "hanja_char": "標",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "標 — 나무 꼭대기에 표시를 하다",
+    "etymology_story": "木(나무 목)과 票(표 표)가 합쳐진 글자입니다. 나무 꼭대기에 표시를 하여 목표 지점을 나타내는 모습에서 '표시', '목표'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "목표",
+      "word_hanja": "目標",
+      "etymology_dissection": "目(눈 목)+標(표 표) = 눈으로 표시함",
+      "easy_definition": "이루고자 하는 대상이나 방향",
+      "context_sentence": "**목표**를 세우면 노력의 방향이 생깁니다."
+    },
+    {
+      "word_korean": "표준",
+      "word_hanja": "標準",
+      "etymology_dissection": "標(표 표)+準(기준 준) = 표시의 기준",
+      "easy_definition": "일반적으로 인정되는 기준",
+      "context_sentence": "**표준** 어를 올바르게 사용합니다."
+    },
+    {
+      "word_korean": "지표",
+      "word_hanja": "指標",
+      "etymology_dissection": "指(가리킬 지)+標(표 표) = 가리키는 표시",
+      "easy_definition": "상태나 수준을 나타내는 수치나 기준",
+      "context_sentence": "GDP는 경제 발전의 주요 **지표**입니다."
+    },
+    {
+      "word_korean": "이정표",
+      "word_hanja": "里程標",
+      "etymology_dissection": "里(마을 리)+程(길 정)+標(표 표) = 거리 표시",
+      "easy_definition": "방향이나 진행 과정을 알려주는 표지",
+      "context_sentence": "이 사건은 역사의 중요한 **이정표**가 되었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "목표 설정의 힘",
+    "passage_text": "연구에 따르면 구체적인 **목표**를 세운 사람이 그렇지 않은 사람보다 훨씬 높은 성취를 보입니다. SMART 원칙은 좋은 **목표**의 조건을 제시합니다: 구체적(Specific), 측정 가능한(Measurable), 달성 가능한(Achievable), 관련성 있는(Relevant), 시간 한정적인(Time-bound). **목표**가 없으면 어떤 방향으로 가든 의미가 없습니다. **이정표**를 세워 진행 과정을 확인하면 **목표** 달성 가능성이 높아집니다.",
+    "quiz": {
+      "question": "좋은 목표의 조건 SMART에 해당하지 않는 것은?",
+      "choices": [
+        "구체적",
+        "측정 가능한",
+        "어려운(Difficult)",
+        "달성 가능한"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "SMART에서 어려운(Difficult)은 해당하지 않습니다. 올바른 A는 달성 가능한(Achievable)입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'목표'를 사용해서 자신의 구체적인 목표와 그것을 이루기 위한 계획을 써보세요.",
+    "model_example": "저의 **목표**는 이번 학기 수학 성적을 10점 올리는 것입니다. 이를 위해 매일 30분씩 문제를 풀고 틀린 문제를 다시 분석할 계획입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "標(표) — 표 표! 목표·표준·지표·이정표 모두 여기서! 목표를 향해 잘했어요!"
+  }
+}

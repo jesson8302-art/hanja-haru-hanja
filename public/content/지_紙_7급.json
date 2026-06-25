@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "지",
+    "hanja_meaning": "종이",
+    "hanja_char": "紙",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "실처럼 얇게 만든 것 — 종이 지(紙)",
+    "etymology_story": "'종이 지(紙)'는 실(糸)과 씨 씨(氏)가 합쳐진 글자예요. 실처럼 가느다란 식물 섬유를 얇게 펴서 만든 것이 종이(紙)예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "종이(紙이)",
+      "etymology_dissection": "종이 지(紙)",
+      "easy_definition": "얇고 납작하게 만든 것",
+      "context_sentence": "종이에 그림을 그려요."
+    },
+    {
+      "word_korean": "신문지(新聞紙)",
+      "etymology_dissection": "새 신(新)+들을 문(聞)+종이 지(紙)",
+      "easy_definition": "신문 인쇄 종이",
+      "context_sentence": "신문지로 포장했어요."
+    },
+    {
+      "word_korean": "백지(白紙)",
+      "etymology_dissection": "흰 백(白)+종이 지(紙)",
+      "easy_definition": "아무것도 쓰지 않은 종이",
+      "context_sentence": "백지에 꿈을 적어요."
+    },
+    {
+      "word_korean": "지면(紙面)",
+      "etymology_dissection": "종이 지(紙)+낯 면(面)",
+      "easy_definition": "종이의 표면",
+      "context_sentence": "지면에 기사가 실렸어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "종이의 힘",
+    "passage_text": "**백지(白紙)**에는 무한한 가능성이 있어요. **신문지(新聞紙)**에는 세상이 담겨요. **지면(紙面)**에 기록된 것이 역사가 돼요.",
+    "quiz": {
+      "question": "'백지(白紙)'란?",
+      "choices": [
+        "신문지",
+        "아무것도 쓰지 않은 종이",
+        "지면",
+        "종이"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'백지(白紙)'=흰 백+종이 지, 아무것도 적히지 않은 하얀 종이예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "백지에 나의 꿈이나 계획을 쓴다면 무엇을 쓸지 문장으로 써 보세요.",
+    "model_example": "백지처럼 깨끗한 마음으로 지면 위에 나만의 이야기를 써 내려가고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'종이 — 지(紙)! 종이 — 지(紙)!' 열 번 외쳐요!"
+  }
+}

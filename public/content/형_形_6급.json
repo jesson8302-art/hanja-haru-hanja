@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "형",
+    "hanja_meaning": "모양",
+    "hanja_char": "形",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "形 — 틀로 찍어 낸 정해진 모양",
+    "etymology_story": "形(형)은 틀 개(幵)와 터럭 삼(彡)이 합쳐진 글자예요. 틀에 따라 만들어진 '모양·형태'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "형태(形態)",
+      "etymology_dissection": "모양 형(形)+모습 태(態)",
+      "easy_definition": "물건의 생김새",
+      "context_sentence": "눈송이의 형태는 제각각이에요."
+    },
+    {
+      "word_korean": "원형(圓形)",
+      "etymology_dissection": "둥글 원(圓)+모양 형(形)",
+      "easy_definition": "둥근 모양",
+      "context_sentence": "피자는 원형이에요."
+    },
+    {
+      "word_korean": "변형(變形)",
+      "etymology_dissection": "변할 변(變)+모양 형(形)",
+      "easy_definition": "모양이 달라짐",
+      "context_sentence": "열을 받으면 물질이 변형될 수 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "모양의 세계",
+    "passage_text": "세상의 모든 것에는 형태(形態)가 있어요. 해는 원형(圓形)이고, 피라미드는 삼각형이에요. 점토는 마음대로 변형(變形)할 수 있어요. 모양을 관찰하면 과학과 미술을 동시에 배울 수 있어요.",
+    "quiz": {
+      "question": "'원형'의 뜻은?",
+      "choices": [
+        "둥근 모양",
+        "네모난 모양",
+        "세모난 모양",
+        "길쭉한 모양"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "원형(圓形)은 '둥글 원(圓)+모양 형(形)'으로, 원처럼 둥근 형태를 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "주변에서 찾을 수 있는 다양한 모양(形)의 물건을 각 모양별로 한 가지씩 써 보세요.",
+    "model_example": "예) 원형: 시계. 사각형: 책상. 삼각형: 샌드위치. 별 모양: 쿠키."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "形(형)! 모양을 발견하는 눈을 키워요! 잘했어요! 🔷"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "식",
+    "hanja_meaning": "심을",
+    "hanja_char": "植",
+    "hanja_level": "7급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무를 곧게 세워 심다 — 심을 식(植)",
+    "etymology_story": "'심을 식(植)'은 나무(木)와 곧을 직(直)이 합쳐진 글자예요. 나무를 곧게 세워 땅에 꽂는 것이 '심는 것'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "식물(植物)",
+      "etymology_dissection": "심을 식(植)+만물 물(物)",
+      "easy_definition": "땅에 뿌리박고 사는 생물",
+      "context_sentence": "식물이 광합성을 해요."
+    },
+    {
+      "word_korean": "식수(植樹)",
+      "etymology_dissection": "심을 식(植)+나무 수(樹)",
+      "easy_definition": "나무를 심는 것",
+      "context_sentence": "식수 행사에 참여했어요."
+    },
+    {
+      "word_korean": "채식(菜食)",
+      "etymology_dissection": "채소 채(菜)+식물 식(植)",
+      "easy_definition": "채소 위주의 식사",
+      "context_sentence": "채식 위주로 먹으면 건강해요."
+    },
+    {
+      "word_korean": "이식(移植)",
+      "etymology_dissection": "옮길 이(移)+심을 식(植)",
+      "easy_definition": "옮겨 심는 것",
+      "context_sentence": "화분의 식물을 마당에 이식했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "심는 행위",
+    "passage_text": "**식물(植物)**을 키우면 책임감이 생겨요. **식수(植樹)** 행사에 참여하면 환경을 지키게 돼요. **이식(移植)**처럼 작은 씨앗도 환경을 바꾸면 크게 자라요.",
+    "quiz": {
+      "question": "'식수(植樹)'란?",
+      "choices": [
+        "식물",
+        "나무를 심는 것",
+        "채식",
+        "옮겨 심는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'식수(植樹)'=심을 식+나무 수, 나무를 심는 활동이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "식물을 기르거나 나무를 심은 경험을 문장으로 써 보세요.",
+    "model_example": "화분에 씨앗을 심고 식수 행사에 참여하면서 식물 하나가 환경을 바꾼다는 걸 알았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'심을 — 식(植)! 심을 — 식(植)!' 열 번 외쳐요!"
+  }
+}

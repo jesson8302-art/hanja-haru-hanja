@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "력",
+    "hanja_meaning": "힘",
+    "hanja_char": "力",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "팔 근육이 불끈 — 힘 력(力)",
+    "etymology_story": "'힘 력(力)'은 근육이 튀어나온 팔의 모습이에요. 힘을 쓸 때 근육이 불끈 솟아오르는 것을 표현했어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "능력(能力)",
+      "etymology_dissection": "능할 능(能)+힘 력(力)",
+      "easy_definition": "무언가를 할 수 있는 힘",
+      "context_sentence": "능력을 키워요."
+    },
+    {
+      "word_korean": "노력(努力)",
+      "etymology_dissection": "힘쓸 노(努)+힘 력(力)",
+      "easy_definition": "힘을 다해 애쓰는 것",
+      "context_sentence": "노력이 결실을 맺어요."
+    },
+    {
+      "word_korean": "체력(體力)",
+      "etymology_dissection": "몸 체(體)+힘 력(力)",
+      "easy_definition": "몸의 힘",
+      "context_sentence": "체력을 기르는 운동을 해요."
+    },
+    {
+      "word_korean": "협력(協力)",
+      "etymology_dissection": "도울 협(協)+힘 력(力)",
+      "easy_definition": "함께 힘을 합치는 것",
+      "context_sentence": "협력하면 못 할 일이 없어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "힘의 원천",
+    "passage_text": "**노력(努力)**이 **능력(能力)**이 돼요. **체력(體力)**이 있어야 **노력(努力)**도 할 수 있어요. **협력(協力)**하면 불가능도 가능해요.",
+    "quiz": {
+      "question": "'협력(協力)'이란?",
+      "choices": [
+        "혼자 힘",
+        "능력",
+        "함께 힘을 합치는 것",
+        "체력"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'협력(協力)'=도울 협+힘 력, 서로 힘을 합쳐 돕는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "협력해서 이룬 경험이나 팀워크의 소중함을 문장으로 써 보세요.",
+    "model_example": "노력과 체력을 협력으로 합치면 능력이 배가 되어 더 큰 목표를 이룰 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'힘 — 력(力)! 힘 — 력(力)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "정",
+    "hanja_meaning": "바를",
+    "hanja_char": "正",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "목표를 향해 한걸음 — 바를 정(正)",
+    "etymology_story": "'바를 정(正)'은 한 획(一, 목표)을 향해 발(止)로 걸어가는 모습이에요. 목표를 바라보며 곧게 걸어가는 것이 '바르다(正)'는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "정직(正直)",
+      "etymology_dissection": "바를 정(正)+곧을 직(直)",
+      "easy_definition": "바르고 곧은 것",
+      "context_sentence": "정직이 최선이에요."
+    },
+    {
+      "word_korean": "정답(正答)",
+      "etymology_dissection": "바를 정(正)+대답 답(答)",
+      "easy_definition": "옳은 답",
+      "context_sentence": "정답을 맞혔어요."
+    },
+    {
+      "word_korean": "교정(校正)",
+      "etymology_dissection": "학교 교(校)+바를 정(正)",
+      "easy_definition": "잘못을 고쳐 바르게 하는 것",
+      "context_sentence": "교정 과정이 글을 다듬어요."
+    },
+    {
+      "word_korean": "정의(正義)",
+      "etymology_dissection": "바를 정(正)+옳을 의(義)",
+      "easy_definition": "옳고 바른 도리",
+      "context_sentence": "정의로운 사회를 꿈꿔요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "바름의 힘",
+    "passage_text": "**정직(正直)**이 가장 강한 힘이에요. **정의(正義)**가 있는 사회가 아름다워요. **정답(正答)**은 성실한 공부에서 나와요.",
+    "quiz": {
+      "question": "'정의(正義)'란?",
+      "choices": [
+        "정답",
+        "옳고 바른 도리",
+        "교정",
+        "정직"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'정의(正義)'=바를 정+옳을 의, 옳고 바른 도리예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "정직하거나 정의로운 행동을 한 경험을 문장으로 써 보세요.",
+    "model_example": "정직하게 말했더니 정답처럼 문제가 풀리고 정의가 세워지는 경험을 했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'바를 — 정(正)! 바를 — 정(正)!' 열 번 외쳐요!"
+  }
+}

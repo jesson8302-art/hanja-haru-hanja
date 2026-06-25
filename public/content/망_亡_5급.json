@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "亡",
+    "hanja_sound": "망",
+    "hanja_meaning": "잃을",
+    "full_reading": "잃을 망",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "亡",
+    "sound": "망",
+    "meaning": "잃을",
+    "stroke_count": 3,
+    "radical": "亠",
+    "etymology_story": "亡은 무기를 들고 도망가는 사람의 모양을 본뜬 글자입니다. 몸을 숨기거나 도망가는 모습에서 '잃다', '망하다', '도망하다'의 뜻이 생겼습니다.",
+    "memory_tip": "도망가는 사람의 모양이 '亡'입니다.",
+    "level_context": "5급 한자로, 잃을을(를) 뜻하는 亡입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "멸망",
+      "word_hanja": "滅亡",
+      "reading": "멸망",
+      "easy_definition": "완전히 망하여 없어짐",
+      "etymology_dissection": "없앨 멸(滅)+잃을 망(亡): 없애어 망함",
+      "example_sentence": "나라가 멸망했습니다.",
+      "sentence_meaning": "나라가 완전히 망하여 없어졌습니다."
+    },
+    {
+      "word_korean": "망국",
+      "word_hanja": "亡國",
+      "reading": "망국",
+      "easy_definition": "망한 나라",
+      "etymology_dissection": "잃을 망(亡)+나라 국(國): 망한 나라",
+      "example_sentence": "망국의 역사를 기억합니다.",
+      "sentence_meaning": "망한 나라의 역사를 기억합니다."
+    },
+    {
+      "word_korean": "도망",
+      "word_hanja": "逃亡",
+      "reading": "도망",
+      "easy_definition": "달아남",
+      "etymology_dissection": "달아날 도(逃)+잃을 망(亡): 달아나 잃음",
+      "example_sentence": "도망치지 말고 맞서야 합니다.",
+      "sentence_meaning": "달아나지 말고 맞서야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "역사 속에서 여러 나라가 멸망했습니다. 망국의 아픔을 기억하여 나라를 소중히 여깁니다. 문제를 도망치면 더 커집니다.",
+    "passage_meaning": "멸망, 망국, 도망 모두 '망하다', '잃다'는 뜻의 亡에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'멸망'의 뜻으로 알맞은 것은?",
+        "options": [
+          "완전히 망하여 없어지는 것",
+          "새로 시작되는 것",
+          "강해지는 것",
+          "발전하는 것"
+        ],
+        "correct_answer": "완전히 망하여 없어지는 것",
+        "explanation": "멸망(滅亡)은 완전히 망하여 없어지는 것입니다."
+      },
+      {
+        "question": "'도망'에서 '亡'의 뜻은?",
+        "options": [
+          "달리다",
+          "잃다·망하다",
+          "싸우다",
+          "쉬다"
+        ],
+        "correct_answer": "잃다·망하다",
+        "explanation": "도망(逃亡)의 亡은 '잃다', '망하다'로, 달아나는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'멸망'이나 '도망'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 용기에 관한 내용을 담아 보세요.",
+    "example_answer": "어려움에서 도망치지 말고 용기 있게 맞서겠습니다.",
+    "key_vocabulary": [
+      "멸망",
+      "망국"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "역사 속 멸망을 교훈으로 삼습니다.",
+      "망국의 아픔을 기억합시다.",
+      "문제에서 도망치지 마세요."
+    ],
+    "pronunciation_tips": "'망'을 명확하게 발음하며 읽어 보세요."
+  }
+}

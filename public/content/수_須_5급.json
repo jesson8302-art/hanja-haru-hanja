@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "須",
+    "hanja_sound": "수",
+    "hanja_meaning": "모름지기",
+    "full_reading": "모름지기 수",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "須",
+    "sound": "수",
+    "meaning": "모름지기",
+    "stroke_count": 12,
+    "radical": "頁",
+    "etymology_story": "須는 머리(頁)와 수염 수(彡)가 합쳐진 글자입니다. 어른으로서 수염이 나면 마땅히 해야 할 것이 있다는 데서 '모름지기', '반드시'의 뜻이 생겼습니다.",
+    "memory_tip": "수염(彡) 난 어른(頁)이 마땅히 해야 할 것이 '모름지기(須)'입니다.",
+    "level_context": "5급 한자로, 모름지기을(를) 뜻하는 須입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "필수",
+      "word_hanja": "必須",
+      "reading": "필수",
+      "easy_definition": "반드시 있어야 함",
+      "etymology_dissection": "반드시 필(必)+모름지기 수(須): 반드시 있어야",
+      "example_sentence": "필수 과목을 이수했습니다.",
+      "sentence_meaning": "반드시 있어야 할 과목을 마쳤습니다."
+    },
+    {
+      "word_korean": "수요",
+      "word_hanja": "須要",
+      "reading": "수요",
+      "easy_definition": "반드시 필요함",
+      "etymology_dissection": "모름지기 수(須)+중요할 요(要): 반드시 요함",
+      "example_sentence": "이것은 수요 물품입니다.",
+      "sentence_meaning": "이것은 반드시 필요한 물품입니다."
+    },
+    {
+      "word_korean": "수지",
+      "word_hanja": "須知",
+      "reading": "수지",
+      "easy_definition": "반드시 알아야 할 것",
+      "etymology_dissection": "모름지기 수(須)+알 지(知): 반드시 앎",
+      "example_sentence": "안전 수지 사항을 숙지합니다.",
+      "sentence_meaning": "안전을 위해 반드시 알아야 할 것을 숙지합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "필수 과목은 반드시 이수해야 합니다. 생활 필수품을 구입합니다. 안전 수지 사항을 꼭 지킵니다.",
+    "passage_meaning": "필수, 수요, 수지 모두 '반드시', '모름지기'를 뜻하는 須에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'필수'의 뜻은?",
+        "options": [
+          "선택 가능한",
+          "반드시 있어야 하는",
+          "없어도 되는",
+          "싫어하는"
+        ],
+        "correct_answer": "반드시 있어야 하는",
+        "explanation": "필수(必須)는 반드시 있어야 하는 것입니다."
+      },
+      {
+        "question": "'須'의 뜻은?",
+        "options": [
+          "아마도",
+          "모름지기·반드시",
+          "가끔",
+          "천천히"
+        ],
+        "correct_answer": "모름지기·반드시",
+        "explanation": "須는 '모름지기', '반드시'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'필수'를 사용하여 문장을 써 보세요.",
+    "hint": "생활이나 교육에 관한 내용을 담아 보세요.",
+    "example_answer": "건강한 생활을 위한 필수 습관을 지킵니다.",
+    "key_vocabulary": [
+      "필수",
+      "수요"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "필수 과목을 이수해야 합니다.",
+      "필요한 물품을 준비합니다.",
+      "반드시 알아야 합니다."
+    ],
+    "pronunciation_tips": "'수'을 명확하게 발음하며 읽어 보세요."
+  }
+}

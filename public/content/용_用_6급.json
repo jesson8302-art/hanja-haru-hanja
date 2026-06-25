@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "용",
+    "hanja_meaning": "쓸",
+    "hanja_char": "用",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "用 — 울타리 안에서 쓰임을 다하다",
+    "etymology_story": "用(용)은 통(桶)의 옛 모양에서 왔어요. 무언가를 담아 '쓴다'는 뜻이에요. 물건을 담아 활용하는 그릇처럼, 用은 '쓰다·활용하다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사용(使用)",
+      "etymology_dissection": "시킬 사(使)+쓸 용(用)",
+      "easy_definition": "어떤 것을 실제로 씀",
+      "context_sentence": "우리는 매일 스마트폰을 사용해요."
+    },
+    {
+      "word_korean": "용도(用途)",
+      "etymology_dissection": "쓸 용(用)+길 도(途)",
+      "easy_definition": "물건을 쓰는 목적이나 방법",
+      "context_sentence": "이 가위의 용도는 종이 자르기예요."
+    },
+    {
+      "word_korean": "활용(活用)",
+      "etymology_dissection": "살 활(活)+쓸 용(用)",
+      "easy_definition": "잘 살려서 씀",
+      "context_sentence": "배운 단어를 문장에 활용해 보세요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "用의 다양한 쓰임새",
+    "passage_text": "用이 들어간 낱말은 일상 곳곳에 있어요. '사용', '이용', '활용'처럼 무언가를 쓰거나 도움이 될 때 用이 등장해요. 용돈(用돈)도 '쓸 돈'이라는 뜻이지요.",
+    "quiz": {
+      "question": "'사용'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "어떤 것을 실제로 씀",
+        "물건을 새로 만듦",
+        "물건을 버림",
+        "물건을 숨김"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "사용(使用)은 '시킬 사(使)+쓸 용(用)'으로, 어떤 것을 실제로 이용한다는 뜻이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 내가 사용한 물건 세 가지를 쓰고, 각 물건의 용도를 한 문장으로 설명해 보세요.",
+    "model_example": "예) 연필 — 글씨를 쓸 때 사용해요. 컵 — 물을 마실 때 사용해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "用(용)! 쓰임이 있는 사람이 되자! 오늘도 잘했어요! 🌟"
+  }
+}

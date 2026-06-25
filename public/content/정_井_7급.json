@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "정",
+    "hanja_meaning": "우물",
+    "hanja_char": "井",
+    "hanja_level": "7급",
+    "linked_subject": "사회, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "우물을 위에서 본 모양 — 우물 정(井)",
+    "etymology_story": "'우물 정(井)'은 우물을 위에서 내려다본 모습이에요. 네 개의 구획과 가운데 구멍이 바로 우물이에요! 정(井)자 모양의 구획으로 땅을 나누던 제도(井田制)도 있었어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "우물(井물)",
+      "etymology_dissection": "우물 정(井)+물 수",
+      "easy_definition": "물을 긷는 깊은 구덩이",
+      "context_sentence": "우물에서 물을 길었어요."
+    },
+    {
+      "word_korean": "정수(井水)",
+      "etymology_dissection": "우물 정(井)+물 수(水)",
+      "easy_definition": "우물물",
+      "context_sentence": "깨끗한 정수를 마셔요."
+    },
+    {
+      "word_korean": "유정(油井)",
+      "etymology_dissection": "기름 유(油)+우물 정(井)",
+      "easy_definition": "기름을 뽑아내는 구멍",
+      "context_sentence": "사막에 유정이 있어요."
+    },
+    {
+      "word_korean": "정전제(井田制)",
+      "etymology_dissection": "우물 정(井)+밭 전(田)+법 제(制)",
+      "easy_definition": "정(井)자 모양으로 땅을 나눈 옛 제도",
+      "context_sentence": "역사 시간에 정전제를 배웠어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우물의 지혜",
+    "passage_text": "우물(井)처럼 한 곳을 깊이 파면 물(지식)이 나와요. **유정(油井)**은 깊이 뚫어야 기름이 나와요. 한 분야를 깊이 파는 전문가가 되세요!",
+    "quiz": {
+      "question": "'유정(油井)'이란?",
+      "choices": [
+        "우물",
+        "기름을 뽑아내는 구멍",
+        "깨끗한 물",
+        "정전제"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'유정(油井)'=기름 유+우물 정, 기름을 뽑아내는 우물이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "한 가지를 꾸준히 깊이 파고든 경험을 문장으로 써 보세요.",
+    "model_example": "우물을 깊이 팔수록 맑은 물이 나오듯, 한 분야를 꾸준히 공부하면 전문가가 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'우물 — 정(井)! 우물 — 정(井)!' 열 번 외쳐요!"
+  }
+}

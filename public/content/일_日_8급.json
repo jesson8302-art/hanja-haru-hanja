@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "일",
+    "hanja_meaning": "날",
+    "hanja_char": "日",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "동그란 해를 그대로 그린 '날 일(日)'",
+    "etymology_story": "'날 일(日)'은 둥근 해를 그린 글자예요. 옛날 사람들은 해가 뜨면 '하루'가 시작된다고 생각했어요. 그래서 '해'와 '날' 두 가지 뜻을 모두 갖게 되었답니다. 해가 없으면 낮도, 날도 없겠죠!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "일출(日出)",
+      "etymology_dissection": "날 일(日) + 날 출(出) = 해가 나오는 것",
+      "easy_definition": "아침에 해가 떠오르는 것",
+      "context_sentence": "새해 첫날 일출을 보러 동해에 갔어요."
+    },
+    {
+      "word_korean": "일기(日記)",
+      "etymology_dissection": "날 일(日) + 기록할 기(記) = 날마다 기록하는 것",
+      "easy_definition": "하루 동안 있었던 일을 적는 글",
+      "context_sentence": "나는 매일 자기 전에 일기를 써요."
+    },
+    {
+      "word_korean": "생일(生日)",
+      "etymology_dissection": "날 생(生) + 날 일(日) = 태어난 날",
+      "easy_definition": "태어난 날을 기념하는 날",
+      "context_sentence": "생일에 케이크를 먹으면 행복해요."
+    },
+    {
+      "word_korean": "일요일(日曜日)",
+      "etymology_dissection": "날 일(日) + 빛날 요(曜) + 날 일(日) = 해의 날",
+      "easy_definition": "한 주의 마지막 날, 쉬는 날",
+      "context_sentence": "일요일에는 가족과 함께 놀아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "하루를 빛내는 해",
+    "passage_text": "새해 첫날 바닷가에서 **일출(日出)**을 보았어요. 눈부신 해가 솟아오르자 모두 박수를 쳤죠. 집에 돌아와 그 감동을 **일기(日記)**에 적었어요. 오늘 같은 멋진 날은 **생일(生日)**처럼 소중하게 기억될 거예요.",
+    "quiz": {
+      "question": "'일기(日記)'를 쓰는 이유로 가장 알맞은 것은?",
+      "choices": [
+        "수학 공부를 하려고",
+        "하루 동안 있었던 일을 기록하려고",
+        "친구에게 편지를 쓰려고",
+        "숙제를 하려고"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'일기(日記)'는 '날 일 + 기록할 기' = 날마다 있었던 일을 기록하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 '일출', '일기', '생일' 중 하나를 골라 나에게 소중한 날에 대한 문장을 써 보세요.",
+    "model_example": "내 생일이 다가올 때마다 일기에 소원을 적어요. 그 소원이 언젠가는 꼭 이루어질 것 같아서요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'날 — 일(日)! 날 — 일(日)!' 열 번 크게 외쳐요! 보관함에 저장하는 것도 잊지 마세요!"
+  }
+}

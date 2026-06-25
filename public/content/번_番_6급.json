@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "번",
+    "hanja_meaning": "차례",
+    "hanja_char": "番",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "발이 교대로 밭을 가다 — 차례 번(番)",
+    "etymology_story": "'차례 번(番)'은 여덟 팔(八)과 밭 전(田), 발(禸)이 합쳐진 글자예요. 발이 교대로 밭을 갈아가는 것에서 '차례, 번'이라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "번호(番號)",
+      "etymology_dissection": "차례 번(番)+이름 호(號)",
+      "easy_definition": "차례를 나타내는 수",
+      "context_sentence": "번호를 불러요."
+    },
+    {
+      "word_korean": "순번(順番)",
+      "etymology_dissection": "순할 순(順)+차례 번(番)",
+      "easy_definition": "순서대로의 차례",
+      "context_sentence": "순번을 지켜요."
+    },
+    {
+      "word_korean": "교번(交番)",
+      "etymology_dissection": "사귈 교(交)+차례 번(番)",
+      "easy_definition": "교대로 번갈아 하는 것",
+      "context_sentence": "교번 근무예요."
+    },
+    {
+      "word_korean": "번갈아(番갈아)",
+      "etymology_dissection": "차례 번(番)",
+      "easy_definition": "교대로 하는 것",
+      "context_sentence": "번갈아 가며 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "차례를 지키는 것",
+    "passage_text": "**번호(番號)**를 기다리는 인내가 차례를 지켜요. **순번(順番)**대로 하면 공정해요. 교대로 하는 **교번(交番)**이 피로를 줄여요.",
+    "quiz": {
+      "question": "'순번(順番)'이란?",
+      "choices": [
+        "번호",
+        "교번",
+        "순서에 따른 차례",
+        "번갈아"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'순번(順番)'=순할 순+차례 번, 순서에 따른 차례예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "차례를 지켜서 좋은 결과가 생긴 경험을 문장으로 써 보세요.",
+    "model_example": "순번을 지키고 번호를 기다리면 모두가 교번처럼 공정하게 기회를 얻어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'차례 — 번(番)! 차례 — 번(番)!' 열 번 외쳐요!"
+  }
+}

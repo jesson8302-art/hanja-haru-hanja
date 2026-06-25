@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "다",
+    "hanja_meaning": "많을",
+    "hanja_char": "多",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "저녁이 두 번 겹치면 — 많을 다(多)",
+    "etymology_story": "'많을 다(多)'는 저녁 석(夕)이 두 개 겹쳐진 글자예요. 저녁이 거듭될 만큼 시간이 많이 지난 것에서 '많다'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "다수(多數)",
+      "etymology_dissection": "많을 다(多)+셈 수(數)",
+      "easy_definition": "많은 수",
+      "context_sentence": "다수결로 결정해요."
+    },
+    {
+      "word_korean": "다양(多樣)",
+      "etymology_dissection": "많을 다(多)+모양 양(樣)",
+      "easy_definition": "여러 가지 종류",
+      "context_sentence": "다양한 경험을 해요."
+    },
+    {
+      "word_korean": "다음(多음)",
+      "etymology_dissection": "많을 다(多)+",
+      "easy_definition": "그 다음에",
+      "context_sentence": "다음 기회를 노려요."
+    },
+    {
+      "word_korean": "과다(過多)",
+      "etymology_dissection": "지날 과(過)+많을 다(多)",
+      "easy_definition": "너무 많은 것",
+      "context_sentence": "과다 섭취를 조심해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "다양함의 가치",
+    "passage_text": "**다양(多樣)**한 경험이 세상을 풍요롭게 해요. **다수(多數)**의 의견을 존중해요. **과다(過多)**하게 욕심 부리지 않아요.",
+    "quiz": {
+      "question": "'다양(多樣)'이란?",
+      "choices": [
+        "다수결",
+        "너무 많은 것",
+        "여러 가지 종류",
+        "다음"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'다양(多樣)'=많을 다+모양 양, 여러 가지 다른 종류가 많은 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "다양한 경험이나 도전을 한 것을 문장으로 써 보세요.",
+    "model_example": "다양한 경험을 많이 쌓으면 과다한 걱정 없이 다수의 문제를 해결할 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'많을 — 다(多)! 많을 — 다(多)!' 열 번 외쳐요!"
+  }
+}

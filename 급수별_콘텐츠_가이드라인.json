@@ -1,0 +1,153 @@
+{
+  "_comment_schema_version": "1.0 — 한자능력검정시험(한국어문회) 기준 8급~1급",
+
+  "level_definitions": {
+    "8급": {
+      "hanja_level": "8급",
+      "target_audience": "초등 1~2학년 / 한자 입문",
+      "vocabulary_scope": "기초 50자 범위 내 최빈도 한자어",
+      "tone": "마치 엄마나 선생님이 그림책을 읽어 주듯, 아주 다정하고 쉬운 말로 이야기해요.",
+      "sentence_style": "5~8단어 이내 초단문. 비유는 장난감·음식·동물 등 구체적 사물로만 사용.",
+      "passage_length": "3문장 내외",
+      "quiz_difficulty": "낱말의 뜻을 그림이나 쉬운 상황으로 유추하는 수준",
+      "linked_subjects": ["국어"],
+      "example_hanja_words": ["학교", "선생님", "어머니", "강산", "동생"]
+    },
+    "7급": {
+      "hanja_level": "7급",
+      "target_audience": "초등 2~3학년",
+      "vocabulary_scope": "100자 범위 내 일상 생활 밀착 한자어",
+      "tone": "친근하고 밝은 말투. 일상 소재(가족, 학교, 자연)를 중심으로 예시.",
+      "sentence_style": "8~12단어 이내 단문 위주. 간단한 이유 설명 포함.",
+      "passage_length": "3~4문장 내외",
+      "quiz_difficulty": "문장 속 단어의 뜻을 문맥으로 파악하는 수준",
+      "linked_subjects": ["국어", "바른생활"],
+      "example_hanja_words": ["공부", "친구", "자연", "동물", "학생"]
+    },
+    "6급": {
+      "hanja_level": "6급",
+      "target_audience": "초등 3~4학년",
+      "vocabulary_scope": "150~225자 범위 내 초등 교과 기초 한자어",
+      "tone": "다정하고 구체적인 일상 비유 사용. 호기심을 자극하는 질문형 문장 활용.",
+      "sentence_style": "10~15단어 이내 명료한 단문. 원인-결과 구조 도입.",
+      "passage_length": "4~5문장 내외",
+      "quiz_difficulty": "단어의 속뜻(음+뜻 분해)을 유추하는 수준",
+      "linked_subjects": ["국어", "사회", "도덕"],
+      "example_hanja_words": ["사회", "문화", "환경", "전통", "생활"]
+    },
+    "5급": {
+      "hanja_level": "5급",
+      "target_audience": "초등 4~5학년",
+      "vocabulary_scope": "300~500자 범위 내 초등 교과 도구어",
+      "tone": "이성적이고 흥미로운 사실 제시. 논리적 인과관계가 드러나는 설명 위주.",
+      "sentence_style": "12~18단어의 복문 구조 포함. 접속어(따라서, 반면에) 활용.",
+      "passage_length": "5문장 내외",
+      "quiz_difficulty": "문맥 속 단어의 쓰임과 유사 의미 구별",
+      "linked_subjects": ["국어", "사회", "과학", "도덕"],
+      "example_hanja_words": ["관계", "변화", "원인", "결과", "현상"]
+    },
+    "4급": {
+      "hanja_level": "4급",
+      "target_audience": "초등 5~6학년 / 중학교 1학년",
+      "vocabulary_scope": "500~750자 범위 내 교과 학업 도구어",
+      "tone": "논리적 추론을 유도하는 설명 어조. 지적 호기심을 자극하는 톤.",
+      "sentence_style": "15~20단어의 논리적 복문. 비교·대조·인과 구조 활용.",
+      "passage_length": "5문장 내외",
+      "quiz_difficulty": "문맥 속 개념의 적용과 속뜻 유추",
+      "linked_subjects": ["국어", "사회", "과학", "도덕", "역사"],
+      "example_hanja_words": ["사고", "의사", "사상", "사려", "감상"]
+    },
+    "3급": {
+      "hanja_level": "3급",
+      "target_audience": "중학교 1~3학년",
+      "vocabulary_scope": "750~1000자 범위 내 중등 교과 전문어",
+      "tone": "본격적인 학술·설명 어조. 논증적·분석적 텍스트 구조.",
+      "sentence_style": "20단어 이상의 복합 문장. 정의·예시·반론 구조 포함.",
+      "passage_length": "5~6문장 내외",
+      "quiz_difficulty": "추상 개념의 문맥 내 정확한 의미 구별 및 비판적 이해",
+      "linked_subjects": ["국어", "역사", "사회", "과학", "도덕", "수학"],
+      "example_hanja_words": ["논리", "추론", "개념", "분석", "판단"]
+    },
+    "2급": {
+      "hanja_level": "2급",
+      "target_audience": "고등학교 1~2학년",
+      "vocabulary_scope": "1000~1500자 범위 내 고등 학술·인문 어휘",
+      "tone": "심층적이고 분석적인 어조. 다양한 관점과 맥락 제시.",
+      "sentence_style": "다층 복문. 학술 텍스트 관습적 구조(주장-근거-예시-반론) 포함.",
+      "passage_length": "6문장 내외",
+      "quiz_difficulty": "고급 어휘의 함의(含意)와 맥락 의존적 의미 해석",
+      "linked_subjects": ["국어", "윤리", "한국사", "경제", "철학"],
+      "example_hanja_words": ["이념", "가치", "체계", "전제", "귀납"]
+    },
+    "1급": {
+      "hanja_level": "1급",
+      "target_audience": "고등학교 3학년 / 대학 / 성인",
+      "vocabulary_scope": "1500~2000자 범위 내 전문 학술어·고전 어휘",
+      "tone": "전문 학술 담론 수준의 정밀하고 엄정한 어조.",
+      "sentence_style": "심화 복문·내포문. 학술 논문·고전 해제에 준하는 구조.",
+      "passage_length": "6~7문장 내외",
+      "quiz_difficulty": "한자어 조어(造語) 원리 응용 및 고전 문맥 내 의미 해석",
+      "linked_subjects": ["문학", "철학", "한문", "역사", "법학"],
+      "example_hanja_words": ["형이상학", "변증법", "인식론", "존재론", "연역"]
+    }
+  },
+
+  "json_schema": {
+    "_description": "콘텐츠 생성 엔진이 출력해야 하는 JSON 구조 (target_level 필드 삭제, hanja_level 필드로 통일)",
+    "daily_metadata": {
+      "hanja_sound": "한자의 소리(음)",
+      "hanja_meaning": "한자의 뜻(훈)",
+      "hanja_level": "급수 (예: '4급')",
+      "linked_subject": "연계 교과 과목명"
+    },
+    "step_1_etymology": {
+      "visual_title": "호기심을 유도하는 제목",
+      "etymology_story": "소리와 뜻 중심의 어원 이야기 (급수별 tone 준수)"
+    },
+    "step_2_words": [
+      {
+        "word_korean": "단어 표기",
+        "etymology_dissection": "음뜻 기반 속뜻 분해 풀이",
+        "easy_definition": "해당 급수 수준에 맞는 뜻풀이",
+        "context_sentence": "실용 예문 (최근 학습 단어 포함 시 자연스럽게 삽입)"
+      }
+    ],
+    "step_3_reading_comprehension": {
+      "passage_title": "독해 지문 제목",
+      "passage_text": "핵심 단어 3개 이상 + 최근 학습 단어 포함 지문 (급수별 passage_length 준수)",
+      "quiz": {
+        "question": "4지선다 문항",
+        "choices": ["보기 1", "보기 2", "보기 3", "보기 4"],
+        "correct_answer_index": 0,
+        "detailed_explanation": "친절한 해설 (급수별 quiz_difficulty 준수)"
+      }
+    },
+    "step_4_writing_challenge": {
+      "mission_guideline": "작문 미션 안내",
+      "model_example": "모범 예문"
+    },
+    "step_5_vocal_review": {
+      "cheer_message": "낭독 유도 격려 문구"
+    }
+  },
+
+  "mypage_settings_spec": {
+    "_description": "마이페이지 급수 설정 UI 및 데이터 스펙",
+    "field_name": "hanja_level",
+    "field_type": "string (enum)",
+    "allowed_values": ["8급", "7급", "6급", "5급", "4급", "3급", "2급", "1급"],
+    "default_value": "6급",
+    "display_labels": {
+      "8급": "8급 — 한자 첫걸음 (초등 저학년)",
+      "7급": "7급 — 기초 다지기 (초등 2~3학년)",
+      "6급": "6급 — 교과서 속 한자 (초등 3~4학년)",
+      "5급": "5급 — 어휘력 키우기 (초등 4~5학년)",
+      "4급": "4급 — 사고력·표현력 (초등 5~6학년 / 중1)",
+      "3급": "3급 — 교과 학술어 (중학교)",
+      "2급": "2급 — 인문·사회 심화 (고등학교)",
+      "1급": "1급 — 고전·전문 어휘 (고3 / 성인)"
+    },
+    "content_file_naming_convention": "{음}_{漢字}_{급수}.json",
+    "content_file_example": "사_思_4급.json"
+  }
+}

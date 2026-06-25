@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "감",
+    "hanja_meaning": "느낄",
+    "hanja_char": "感",
+    "hanja_level": "4급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "철이 심장을 찌를 때 나오는 감정 — 느낄 감(感)",
+    "etymology_story": "'느낄 감(感)'은 날카로운 것(咸)이 마음(心)을 건드리는 모습이에요. 무언가 강렬한 것이 마음에 닿을 때 '감(感)'이 생겨요. 감동, 감사, 감정 모두 여기서 출발해요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "감수성(感受性)",
+      "etymology_dissection": "느낄 감(感) + 받을 수(受) + 성질 성(性) = 감정을 받아들이는 성질",
+      "easy_definition": "예술이나 자연에서 아름다움을 느끼는 능력",
+      "context_sentence": "감수성이 풍부한 사람은 글쓰기를 잘해요."
+    },
+    {
+      "word_korean": "감화(感化)",
+      "etymology_dissection": "느낄 감(感) + 될 화(化) = 마음이 움직여 변하는 것",
+      "easy_definition": "감동을 받아 마음이나 행동이 달라지는 것",
+      "context_sentence": "선생님의 말씀에 감화를 받아 공부를 더 열심히 했어요."
+    },
+    {
+      "word_korean": "직감(直感)",
+      "etymology_dissection": "곧을 직(直) + 느낄 감(感) = 바로 느끼는 것",
+      "easy_definition": "생각하기 전에 즉각적으로 느끼는 것",
+      "context_sentence": "직감적으로 뭔가 잘못됐다는 걸 알았어요."
+    },
+    {
+      "word_korean": "감각(感覺)",
+      "etymology_dissection": "느낄 감(感) + 깨달을 각(覺) = 느끼고 깨닫는 것",
+      "easy_definition": "눈·귀·코·피부 등이 자극을 느끼는 능력",
+      "context_sentence": "음악 감각이 뛰어난 사람이 악기도 잘 배워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "감수성을 키우다",
+    "passage_text": "**감수성(感受性)**이 풍부한 사람은 작은 것에서도 아름다움을 찾아요. **직감(直感)**은 경험이 쌓일수록 더 정확해져요. 좋은 책이나 예술은 우리를 **감화(感化)**시켜요. 뛰어난 **감각(感覺)**은 의도적인 훈련으로 키울 수 있어요.",
+    "quiz": {
+      "question": "'감화(感化)'의 뜻으로 가장 알맞은 것은?",
+      "choices": [
+        "마음이 굳어지는 것",
+        "감동을 받아 마음이나 행동이 달라지는 것",
+        "느낌이 없어지는 것",
+        "감각이 사라지는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'감화(感化)'는 '느낄 감 + 될 화' = 감동으로 마음이 변하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나를 감화시킨 사람이나 경험을 떠올려 그 영향을 구체적으로 써 보세요.",
+    "model_example": "선생님의 진심 어린 격려에 감화되어, 포기하려던 그림을 계속 그리기로 결심했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'느낄 — 감(感)! 느낄 — 감(感)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

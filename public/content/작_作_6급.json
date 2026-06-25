@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "작",
+    "hanja_meaning": "지을",
+    "hanja_char": "作",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "作 — 사람이 손으로 무언가를 만들다",
+    "etymology_story": "作(작)은 사람 인(人/亻)과 비롯할 乍(사)가 합쳐진 글자예요. 사람이 처음으로 무언가를 만들어 내는 모습으로, '짓다·만들다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "작품(作品)",
+      "etymology_dissection": "지을 작(作)+물건 품(品)",
+      "easy_definition": "만들어 낸 예술 결과물",
+      "context_sentence": "미술 시간에 멋진 작품을 완성했어요."
+    },
+    {
+      "word_korean": "작문(作文)",
+      "etymology_dissection": "지을 작(作)+글 문(文)",
+      "easy_definition": "글을 짓고 쓰는 것",
+      "context_sentence": "오늘 작문 숙제는 일기 쓰기예요."
+    },
+    {
+      "word_korean": "창작(創作)",
+      "etymology_dissection": "비롯할 창(創)+지을 작(作)",
+      "easy_definition": "새롭게 만들어 냄",
+      "context_sentence": "어린이 창작 그림 대회에 참가했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나만의 작품",
+    "passage_text": "미술 시간이에요. 선생님이 자유 창작(創作) 활동을 하라고 하셨어요. 서준이는 점토로 강아지 모양을 만들었어요. 완성된 작품(作品)을 보며 뿌듯함을 느꼈어요. 작문(作文) 시간에도 그 기쁨을 글로 썼어요.",
+    "quiz": {
+      "question": "'작품'의 뜻은?",
+      "choices": [
+        "만들어 낸 예술 결과물",
+        "재료를 구입하는 것",
+        "그림 도구의 이름",
+        "전시회 장소"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "작품(作品)은 '지을 작(作)+물건 품(品)'으로, 어떤 것을 만들어 낸 결과물을 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 만들고 싶은 작품(作品)을 상상해서 어떤 재료로 무엇을 만들지 써 보세요.",
+    "model_example": "예) 저는 종이접기로 장미꽃을 만들고 싶어요. 빨간 색종이로 꽃잎을 정성껏 접겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "作(작)! 무엇이든 만들 수 있어요! 창작하는 어린이, 최고! 🎨"
+  }
+}

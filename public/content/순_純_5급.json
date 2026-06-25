@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "純",
+    "hanja_sound": "순",
+    "hanja_meaning": "순수할",
+    "full_reading": "순수할 순",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "純",
+    "sound": "순",
+    "meaning": "순수할",
+    "stroke_count": 10,
+    "radical": "糸",
+    "etymology_story": "純은 실(糸)과 둔할 둔(屯)이 합쳐진 글자입니다. 가장 깨끗하고 섞임 없는 실처럼 '순수하다', '순수'의 뜻이 생겼습니다.",
+    "memory_tip": "다른 것이 섞이지 않은 깨끗한 실(糸)이 '순수하다(純)'입니다.",
+    "level_context": "5급 한자로, 순수할을(를) 뜻하는 純입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "순수",
+      "word_hanja": "純粹",
+      "reading": "순수",
+      "easy_definition": "섞임 없이 깨끗함",
+      "etymology_dissection": "순수할 순(純)+순수할 수(粹): 순수하고 순수",
+      "example_sentence": "순수한 마음으로 도왔습니다.",
+      "sentence_meaning": "아무 대가 없이 깨끗한 마음으로 도왔습니다."
+    },
+    {
+      "word_korean": "순금",
+      "word_hanja": "純金",
+      "reading": "순금",
+      "easy_definition": "섞임 없는 금",
+      "etymology_dissection": "순수할 순(純)+금 금(金): 순수한 금",
+      "example_sentence": "순금으로 만든 반지입니다.",
+      "sentence_meaning": "섞임 없는 금으로 만든 반지입니다."
+    },
+    {
+      "word_korean": "단순",
+      "word_hanja": "單純",
+      "reading": "단순",
+      "easy_definition": "간단하고 복잡하지 않음",
+      "etymology_dissection": "홀 단(單)+순수할 순(純): 하나의 순수함",
+      "example_sentence": "문제가 단순합니다.",
+      "sentence_meaning": "문제가 간단하고 복잡하지 않습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "순수한 마음으로 봉사하는 것이 아름답습니다. 순금은 가치가 높습니다. 복잡한 문제를 단순하게 생각하면 쉬워집니다.",
+    "passage_meaning": "순수, 순금, 단순 모두 '순수하다', '섞임 없다'를 뜻하는 純에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'단순'의 뜻은?",
+        "options": [
+          "복잡한",
+          "간단하고 복잡하지 않은",
+          "어려운",
+          "특별한"
+        ],
+        "correct_answer": "간단하고 복잡하지 않은",
+        "explanation": "단순(單純)은 간단하고 복잡하지 않은 것입니다."
+      },
+      {
+        "question": "'純'의 뜻은?",
+        "options": [
+          "섞이다",
+          "순수하다·깨끗하다",
+          "복잡하다",
+          "어렵다"
+        ],
+        "correct_answer": "순수하다·깨끗하다",
+        "explanation": "純은 '순수하다', '깨끗하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'순수'나 '단순'을 사용하여 문장을 써 보세요.",
+    "hint": "마음이나 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "순수한 마음으로 친구를 돕는 것이 진정한 우정입니다.",
+    "key_vocabulary": [
+      "순수",
+      "순금"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "순수한 마음을 가지세요.",
+      "단순하게 생각하세요.",
+      "순금처럼 진실합니다."
+    ],
+    "pronunciation_tips": "'순'을 명확하게 발음하며 읽어 보세요."
+  }
+}

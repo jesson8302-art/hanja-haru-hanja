@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "세",
+    "hanja_meaning": "기세",
+    "hanja_char": "勢",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "勢 — 흙을 다지며 힘을 기르다",
+    "etymology_story": "埶(심을 예, 힘차게 심는 모양)와 力(힘 력)이 합쳐진 글자입니다. 흙을 힘차게 다져 무언가를 심는 강한 힘에서 '기세', '형세'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "세력",
+      "word_hanja": "勢力",
+      "etymology_dissection": "勢(기세 세)+力(힘 력) = 기세의 힘",
+      "easy_definition": "어떤 집단이 가진 힘이나 영향력",
+      "context_sentence": "그 회사는 큰 **세력**을 가지고 있습니다."
+    },
+    {
+      "word_korean": "형세",
+      "word_hanja": "形勢",
+      "etymology_dissection": "形(형상 형)+勢(기세 세) = 모양의 기세",
+      "easy_definition": "어떤 일이 벌어지는 상황이나 형편",
+      "context_sentence": "**형세**를 보아 결정합시다."
+    },
+    {
+      "word_korean": "기세",
+      "word_hanja": "氣勢",
+      "etymology_dissection": "氣(기운 기)+勢(기세 세) = 기운과 기세",
+      "easy_definition": "힘차게 뻗치는 기운",
+      "context_sentence": "축구팀이 **기세**를 잡아 역전했습니다."
+    },
+    {
+      "word_korean": "태세",
+      "word_hanja": "態勢",
+      "etymology_dissection": "態(모양 태)+勢(기세 세) = 모양과 기세",
+      "easy_definition": "어떤 일에 대응하는 자세나 준비 상태",
+      "context_sentence": "비상사태에 대비한 **태세**를 갖췄습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "흐름을 읽는 지혜",
+    "passage_text": "역사에서 성공한 지도자들은 **형세**를 읽는 눈이 있었습니다. 큰 **세력**을 가졌어도 **형세**를 잘못 읽으면 무너졌습니다. 나폴레옹은 **기세** 좋게 러시아를 침공했지만 혹한과 보급 문제로 패했습니다. 반면 현명한 지도자는 **형세**가 불리할 때 전략적으로 물러서는 **태세**를 취했습니다. 오늘날 사회와 경제에서도 **세력**의 변화를 읽고 적응하는 능력이 중요합니다.",
+    "quiz": {
+      "question": "나폴레옹의 러시아 원정 실패 원인으로 글에서 언급된 것은?",
+      "choices": [
+        "병력 부족",
+        "혹한과 보급 문제",
+        "전염병",
+        "러시아 기병대"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 나폴레옹은 혹한과 보급 문제로 패했다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'기세'를 사용해서 어떤 상황에서 기세가 중요한지 써보세요.",
+    "model_example": "스포츠에서 **기세**는 매우 중요합니다. 연속으로 점수를 내다 보면 팀 전체에 에너지가 넘쳐 더 좋은 경기를 펼치게 됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "勢(세) — 기세 세! 세력·형세·기세·태세 모두 여기서! 기세 좋게 잘했어요!"
+  }
+}

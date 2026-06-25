@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "固",
+    "hanja_sound": "고",
+    "hanja_meaning": "굳을",
+    "full_reading": "굳을 고",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "固",
+    "sound": "고",
+    "meaning": "굳을",
+    "stroke_count": 8,
+    "radical": "囗",
+    "etymology_story": "固는 에워쌀 위(囗)와 오래될 고(古)가 합쳐진 글자입니다. 오래된 것이 단단히 에워싸여 굳어진 모습에서 '굳다', '단단하다'의 뜻이 생겼습니다.",
+    "memory_tip": "오래된(古) 것이 에워싸여(囗) 굳어지는 것이 '固'입니다.",
+    "level_context": "5급 한자로, 굳을을(를) 뜻하는 固입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "고집",
+      "word_hanja": "固執",
+      "reading": "고집",
+      "easy_definition": "자기 생각을 굳게 지킴",
+      "etymology_dissection": "굳을 고(固)+잡을 집(執): 굳게 잡음",
+      "example_sentence": "고집을 부리면 안 됩니다.",
+      "sentence_meaning": "자기 생각만 고집하면 안 됩니다."
+    },
+    {
+      "word_korean": "확고",
+      "word_hanja": "確固",
+      "reading": "확고",
+      "easy_definition": "굳고 확실함",
+      "etymology_dissection": "확실할 확(確)+굳을 고(固): 확실하고 굳음",
+      "example_sentence": "확고한 의지가 있습니다.",
+      "sentence_meaning": "굳고 확실한 의지가 있습니다."
+    },
+    {
+      "word_korean": "고정",
+      "word_hanja": "固定",
+      "reading": "고정",
+      "easy_definition": "움직이지 않게 단단히 함",
+      "etymology_dissection": "굳을 고(固)+정할 정(定): 굳혀 정함",
+      "example_sentence": "선반을 벽에 고정했습니다.",
+      "sentence_meaning": "선반을 벽에 단단히 붙였습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "확고한 신념으로 꿈을 향해 나아갑니다. 고집만 부리면 발전하기 어렵습니다. 선반을 고정시켜 안전하게 사용합니다.",
+    "passage_meaning": "확고한 의지를 가지되, 고집을 부리지 않고 유연하게 생각하는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'고집'의 뜻으로 알맞은 것은?",
+        "options": [
+          "유연하게 생각하는 것",
+          "자기 생각을 굳게 지키는 것",
+          "남의 말을 잘 듣는 것",
+          "쉽게 포기하는 것"
+        ],
+        "correct_answer": "자기 생각을 굳게 지키는 것",
+        "explanation": "고집(固執)은 자기 생각을 굳게 지키는 것입니다."
+      },
+      {
+        "question": "'확고'에서 '固'의 뜻은?",
+        "options": [
+          "부드럽다",
+          "굳다",
+          "빠르다",
+          "느리다"
+        ],
+        "correct_answer": "굳다",
+        "explanation": "확고(確固)의 固는 '굳다'로, 굳고 확실한 상태를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'확고'나 '고정'을 사용하여 문장을 만들어 보세요.",
+    "hint": "목표나 신념에 관한 내용을 담아 보세요.",
+    "example_answer": "확고한 목표를 가지고 공부합니다.",
+    "key_vocabulary": [
+      "고집",
+      "확고"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "확고한 신념을 가지세요.",
+      "고집을 버리고 경청합시다.",
+      "사진을 벽에 고정했습니다."
+    ],
+    "pronunciation_tips": "'고'을 명확하게 발음하며 읽어 보세요."
+  }
+}

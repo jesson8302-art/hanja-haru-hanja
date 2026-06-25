@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "품",
+    "hanja_meaning": "물건",
+    "hanja_char": "品",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "品 — 세 개의 입이 모인 물건들",
+    "etymology_story": "세 개의 口(입 구)가 모인 글자입니다. 여러 가지 물건들이 모여 있는 모습에서 '물건', '품격', '종류'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "품질",
+      "word_hanja": "品質",
+      "etymology_dissection": "品(물건 품)+質(바탕 질) = 물건의 바탕",
+      "easy_definition": "물건의 좋고 나쁜 정도",
+      "context_sentence": "높은 **품질**의 제품이 소비자에게 사랑받습니다."
+    },
+    {
+      "word_korean": "작품",
+      "word_hanja": "作品",
+      "etymology_dissection": "作(지을 작)+品(물건 품) = 만든 것",
+      "easy_definition": "예술가나 문학가가 만들어낸 창작물",
+      "context_sentence": "이 미술 **작품**은 유명한 화가의 것입니다."
+    },
+    {
+      "word_korean": "품위",
+      "word_hanja": "品位",
+      "etymology_dissection": "品(물건 품)+位(자리 위) = 물건의 자리",
+      "easy_definition": "사람이나 물건이 갖춘 격조와 위엄",
+      "context_sentence": "말과 행동에 **품위**가 있어야 합니다."
+    },
+    {
+      "word_korean": "상품",
+      "word_hanja": "商品",
+      "etymology_dissection": "商(장사 상)+品(물건 품) = 장사하는 물건",
+      "easy_definition": "판매를 목적으로 만든 물건",
+      "context_sentence": "이 가게의 **상품**은 모두 국내산입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "품질 vs 가격",
+    "passage_text": "소비자는 **상품**을 살 때 **품질**과 가격을 함께 고려합니다. 값싸고 **품질** 좋은 제품이 이상적이지만, 일반적으로 높은 **품질**에는 높은 가격이 따릅니다. 예술 **작품**의 경우 **품질**을 수치로 측정하기 어렵습니다. 중요한 것은 가격 대비 가치입니다. 때로는 비싸더라도 오래 쓸 수 있는 높은 **품질**의 물건이 더 경제적일 수 있습니다.",
+    "quiz": {
+      "question": "소비자가 상품을 살 때 고려해야 할 것으로 글에서 언급된 것은?",
+      "choices": [
+        "색깔과 디자인",
+        "품질과 가격",
+        "브랜드와 유행",
+        "광고와 평판"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 소비자는 상품을 살 때 품질과 가격을 함께 고려한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'품질'이나 '작품'을 사용해서 좋은 물건이나 예술 작품을 고르는 기준에 대해 써보세요.",
+    "model_example": "책을 고를 때 예쁜 표지보다 내용의 **품질**을 먼저 보는 것이, 좋은 **작품**을 만나는 지름길입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "品(품) — 물건 품! 품질·작품·품위·상품 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "차",
+    "hanja_meaning": "다를",
+    "hanja_char": "差",
+    "hanja_level": "5급",
+    "linked_subject": "수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "差 — 양손에 든 벼이삭이 달라 차이가 생기다",
+    "etymology_story": "羊(양 양, 어긋남)과 工(장인 공)이 합쳐진 글자입니다. 높낮이가 어긋나 있는 모습에서 '다르다', '차이', '착오'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "차이",
+      "word_hanja": "差異",
+      "etymology_dissection": "差(다를 차)+異(다를 이) = 다르고 다름",
+      "easy_definition": "서로 다른 점",
+      "context_sentence": "두 제품의 **차이**를 비교해보세요."
+    },
+    {
+      "word_korean": "격차",
+      "word_hanja": "格差",
+      "etymology_dissection": "格(격식 격)+差(다를 차) = 격의 차이",
+      "easy_definition": "수준이나 정도의 큰 차이",
+      "context_sentence": "빈부 **격차**가 사회 문제가 되고 있습니다."
+    },
+    {
+      "word_korean": "오차",
+      "word_hanja": "誤差",
+      "etymology_dissection": "誤(그르칠 오)+差(다를 차) = 잘못된 차이",
+      "easy_definition": "측정값과 실제값의 차이",
+      "context_sentence": "실험에서 **오차**를 줄이는 것이 중요합니다."
+    },
+    {
+      "word_korean": "편차",
+      "word_hanja": "偏差",
+      "etymology_dissection": "偏(치우칠 편)+差(다를 차) = 치우친 차이",
+      "easy_definition": "평균값에서 벗어난 정도",
+      "context_sentence": "표준 **편차**는 자료의 분포 정도를 나타냅니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "격차 사회",
+    "passage_text": "현대 사회의 중요한 문제 중 하나는 경제적 **격차**입니다. 상위 1%가 전체 부의 절반 이상을 가지고 있다는 통계가 있습니다. 교육 기회의 **격차**는 다시 경제적 **격차**를 낳는 악순환이 생깁니다. **격차**를 완전히 없앨 수는 없지만, 그 **격차**가 너무 크면 사회 안정이 위협받습니다. 공정한 기회의 평등을 통해 **격차**를 줄이는 것이 사회의 과제입니다.",
+    "quiz": {
+      "question": "글에서 격차 문제가 심각한 이유로 언급된 것은?",
+      "choices": [
+        "격차가 없으면 발전이 없어서",
+        "격차가 너무 크면 사회 안정이 위협받기 때문",
+        "격차는 자연스러운 현상이라서",
+        "격차가 있어야 경쟁이 생겨서"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 격차가 너무 크면 사회 안정이 위협받는다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'차이'를 사용해서 사람들 사이의 다양성이 오히려 좋은 점을 써보세요.",
+    "model_example": "사람마다 생각의 **차이**가 있기에 더 다양한 아이디어가 나오고, 서로에게서 배울 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "差(차) — 다를 차! 차이·격차·오차·편차 모두 여기서! 잘했어요!"
+  }
+}

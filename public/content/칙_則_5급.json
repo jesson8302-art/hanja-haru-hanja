@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "칙",
+    "hanja_meaning": "법칙",
+    "hanja_char": "則",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "則 — 솥에 칼로 법도를 새기다",
+    "etymology_story": "鼎(솥 정, 貝로 변형)과 刀(칼 도)가 합쳐진 글자입니다. 솥에 규칙을 새기듯 법도를 정하는 모습에서 '법칙', '곧'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "규칙",
+      "word_hanja": "規則",
+      "etymology_dissection": "規(법 규)+則(법칙 칙) = 법과 법칙",
+      "easy_definition": "행동의 기준이 되는 정해진 원칙",
+      "context_sentence": "**규칙**을 지켜야 공정한 게임이 됩니다."
+    },
+    {
+      "word_korean": "원칙",
+      "word_hanja": "原則",
+      "etymology_dissection": "原(근원 원)+則(법칙 칙) = 근본 법칙",
+      "easy_definition": "기본이 되는 원리나 규범",
+      "context_sentence": "어떤 상황에도 지켜야 할 **원칙**이 있습니다."
+    },
+    {
+      "word_korean": "법칙",
+      "word_hanja": "法則",
+      "etymology_dissection": "法(법 법)+則(법칙 칙) = 법의 법칙",
+      "easy_definition": "자연 현상에서 일정하게 성립하는 규칙",
+      "context_sentence": "만유인력의 **법칙**은 뉴턴이 발견했습니다."
+    },
+    {
+      "word_korean": "준칙",
+      "word_hanja": "準則",
+      "etymology_dissection": "準(준할 준)+則(법칙 칙) = 기준의 법칙",
+      "easy_definition": "일정한 기준이 되는 원칙",
+      "context_sentence": "이 **준칙**을 따라야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자연의 법칙",
+    "passage_text": "자연은 정확한 **법칙**으로 운행됩니다. 뉴턴의 운동 **법칙**, 에너지 보존 **법칙**, 열역학 **법칙** 등이 대표적입니다. 이 **법칙**들은 수백 년의 관찰과 실험으로 검증되었습니다. 자연의 **법칙**을 이해하면 우주를 예측할 수 있습니다. 이를 통해 인공위성을 쏘고, 날씨를 예보하며, 약을 개발합니다. 인간 사회의 **규칙**도 자연의 **법칙**처럼 모두가 함께 따를 때 힘을 발휘합니다.",
+    "quiz": {
+      "question": "자연의 법칙을 이해하면 가능한 것으로 글에서 언급된 것은?",
+      "choices": [
+        "신의 뜻을 알 수 있다",
+        "우주를 예측하고 인공위성을 쏘는 것",
+        "영원히 살 수 있는 것",
+        "자연재해를 막는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "자연의 법칙을 이해하면 우주를 예측하고 인공위성을 쏘며 날씨를 예보할 수 있다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'원칙'을 사용해서 자신이 삶에서 지키는 원칙을 써보세요.",
+    "model_example": "저의 삶의 **원칙**은 '남에게 대접받고 싶은 대로 남을 대접하라'입니다. 이 하나의 **원칙**만 지켜도 인간 관계가 훨씬 좋아집니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "則(칙) — 법칙 칙! 규칙·원칙·법칙·준칙 모두 여기서! 원칙대로 잘했어요!"
+  }
+}

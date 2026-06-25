@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "潔",
+    "hanja_sound": "결",
+    "hanja_meaning": "깨끗할",
+    "full_reading": "깨끗할 결",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "潔",
+    "sound": "결",
+    "meaning": "깨끗할",
+    "stroke_count": 15,
+    "radical": "水",
+    "etymology_story": "潔은 물(水)과 깨끗함을 뜻하는 契(계)가 합쳐진 글자입니다. 물로 씻어 깨끗하게 만드는 모습에서 '깨끗하다', '청렴하다'의 뜻이 생겼습니다.",
+    "memory_tip": "물(水)로 씻어 깨끗하게 만드는 것이 '潔'입니다.",
+    "level_context": "5급 한자로, 깨끗할을(를) 뜻하는 潔입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "청결",
+      "word_hanja": "淸潔",
+      "reading": "청결",
+      "easy_definition": "깨끗하고 더러움이 없는 상태",
+      "etymology_dissection": "맑을 청(淸)+깨끗할 결(潔): 맑고 깨끗함",
+      "example_sentence": "청결한 환경이 건강을 지킵니다.",
+      "sentence_meaning": "깨끗한 환경이 건강을 지킵니다."
+    },
+    {
+      "word_korean": "결백",
+      "word_hanja": "潔白",
+      "reading": "결백",
+      "easy_definition": "잘못이 없고 깨끗함",
+      "etymology_dissection": "깨끗할 결(潔)+흰 백(白): 깨끗하고 희다",
+      "example_sentence": "그는 결백을 주장했습니다.",
+      "sentence_meaning": "그는 잘못이 없다고 주장했습니다."
+    },
+    {
+      "word_korean": "순결",
+      "word_hanja": "純潔",
+      "reading": "순결",
+      "easy_definition": "순수하고 깨끗함",
+      "etymology_dissection": "순수할 순(純)+깨끗할 결(潔): 순수하게 깨끗함",
+      "example_sentence": "순결한 마음으로 봉사했습니다.",
+      "sentence_meaning": "순수하고 깨끗한 마음으로 봉사했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "청결한 환경은 건강의 기본입니다. 순결한 마음으로 행동하는 사람은 결백하게 살아갑니다. 매일 손을 씻고 청결을 유지하는 것이 중요합니다.",
+    "passage_meaning": "청결한 환경을 유지하고 순결한 마음으로 생활하는 것이 건강하고 바른 삶의 기초입니다.",
+    "questions": [
+      {
+        "question": "'청결'의 뜻으로 알맞은 것은?",
+        "options": [
+          "더럽고 어지러운 상태",
+          "깨끗하고 더러움이 없는 상태",
+          "화려하고 아름다운 상태",
+          "복잡하고 바쁜 상태"
+        ],
+        "correct_answer": "깨끗하고 더러움이 없는 상태",
+        "explanation": "청결(淸潔)은 깨끗하고 더러움이 없는 상태입니다."
+      },
+      {
+        "question": "'결백'에서 '潔'의 뜻은?",
+        "options": [
+          "어둡다",
+          "크다",
+          "깨끗하다",
+          "빠르다"
+        ],
+        "correct_answer": "깨끗하다",
+        "explanation": "결백(潔白)의 潔은 '깨끗하다'로, 잘못이 없이 깨끗함을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'청결'이나 '순결'을 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 마음과 관련된 내용을 담아 보세요.",
+    "example_answer": "청결한 환경을 위해 매일 청소를 합니다.",
+    "key_vocabulary": [
+      "청결",
+      "결백"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "청결은 건강의 첫걸음입니다.",
+      "결백한 사람은 당당합니다.",
+      "순결한 마음으로 남을 도웁시다."
+    ],
+    "pronunciation_tips": "'결'을 명확하게 발음하며 읽어 보세요."
+  }
+}

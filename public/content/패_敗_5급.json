@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "패",
+    "hanja_meaning": "패할",
+    "hanja_char": "敗",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "敗 — 조개를 쳐서 부수다",
+    "etymology_story": "貝(조개 패, 재물)와 攴(칠 복)이 합쳐진 글자입니다. 재물을 쳐서 부수는 모습에서 '지다', '실패하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "패배",
+      "word_hanja": "敗北",
+      "etymology_dissection": "敗(패할 패)+北(달아날 북) = 져서 달아남",
+      "easy_definition": "싸움이나 경쟁에서 짐",
+      "context_sentence": "**패배**를 통해 많은 것을 배울 수 있습니다."
+    },
+    {
+      "word_korean": "실패",
+      "word_hanja": "失敗",
+      "etymology_dissection": "失(잃을 실)+敗(패할 패) = 잃고 짐",
+      "easy_definition": "하려던 일이 잘못되거나 뜻대로 안 됨",
+      "context_sentence": "**실패**는 성공의 어머니입니다."
+    },
+    {
+      "word_korean": "부패",
+      "word_hanja": "腐敗",
+      "etymology_dissection": "腐(썩을 부)+敗(패할 패) = 썩어서 망가짐",
+      "easy_definition": "음식이 썩거나, 도덕이나 조직이 타락함",
+      "context_sentence": "음식이 **부패**하기 전에 냉장고에 보관하세요."
+    },
+    {
+      "word_korean": "승패",
+      "word_hanja": "勝敗",
+      "etymology_dissection": "勝(이길 승)+敗(패할 패) = 이기고 짐",
+      "easy_definition": "이기는 것과 지는 것",
+      "context_sentence": "스포츠의 **승패**보다 최선을 다하는 과정이 더 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "실패에서 배우기",
+    "passage_text": "많은 위인들이 수많은 **실패** 끝에 성공했습니다. 에디슨은 전구를 발명하기까지 수천 번 **실패**했습니다. 그는 '나는 실패한 게 아니라 작동하지 않는 방법을 발견한 것'이라고 말했습니다. **패배**를 인정하고 원인을 분석하는 사람이 결국 성장합니다. **승패**에만 집착하기보다 과정에서 무엇을 배웠는지가 더 중요합니다.",
+    "quiz": {
+      "question": "에디슨이 실패를 바라보는 태도로 알맞은 것은?",
+      "choices": [
+        "실패는 창피한 것이다",
+        "실패는 작동하지 않는 방법을 발견한 것이다",
+        "실패는 재능이 없다는 증거다",
+        "실패하면 포기해야 한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "에디슨은 실패를 '작동하지 않는 방법을 발견한 것'이라고 긍정적으로 바라봤습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'실패'를 사용해서 실패를 통해 배운 경험이나 생각을 써보세요.",
+    "model_example": "수학 시험에서 **실패**한 후 내가 어디서 틀렸는지 꼼꼼히 살펴보았더니 다음 번에는 훨씬 잘 풀 수 있었습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "敗(패) — 패할 패! 패배·실패·승패 모두 여기서! 훌륭해요!"
+  }
+}

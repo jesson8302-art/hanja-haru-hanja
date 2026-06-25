@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "언",
+    "hanja_meaning": "말씀",
+    "hanja_char": "言",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "입에서 나오는 말 — 말씀 언(言)",
+    "etymology_story": "'말씀 언(言)'은 피리(舌) 위에 음파(가로획)가 세 개 있는 모습이에요. 혀에서 소리가 물결처럼 퍼지는 것이 '말씀(言)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "언어(言語)",
+      "etymology_dissection": "말씀 언(言)+말씀 어(語)",
+      "easy_definition": "사람이 의사소통하는 수단",
+      "context_sentence": "언어 능력을 키워요."
+    },
+    {
+      "word_korean": "발언(發言)",
+      "etymology_dissection": "필 발(發)+말씀 언(言)",
+      "easy_definition": "의견을 말하는 것",
+      "context_sentence": "자신있게 발언해요."
+    },
+    {
+      "word_korean": "명언(名言)",
+      "etymology_dissection": "이름 명(名)+말씀 언(言)",
+      "easy_definition": "유명한 좋은 말",
+      "context_sentence": "명언을 외워요."
+    },
+    {
+      "word_korean": "언론(言論)",
+      "etymology_dissection": "말씀 언(言)+말할 론(論)",
+      "easy_definition": "표현의 자유",
+      "context_sentence": "언론의 자유를 지켜요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "말의 힘",
+    "passage_text": "**언어(言語)**는 생각을 전하는 도구예요. **명언(名言)**은 지혜의 결정체예요. **발언(發言)**은 용기가 필요해요.",
+    "quiz": {
+      "question": "'명언(名言)'이란?",
+      "choices": [
+        "언어",
+        "발언",
+        "유명하고 좋은 말",
+        "언론"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'명언(名言)'=이름 명+말씀 언, 이름난 좋은 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "좋아하는 명언이나 기억에 남는 말을 문장으로 써 보세요.",
+    "model_example": "언어를 다듬고 발언할 용기를 가지면 언젠가 나의 말도 명언이 될 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'말씀 — 언(言)! 말씀 — 언(言)!' 열 번 외쳐요!"
+  }
+}

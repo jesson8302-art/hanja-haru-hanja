@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "랑",
+    "hanja_meaning": "밝을",
+    "hanja_char": "朗",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "朗 — 달이 밝게 빛나다",
+    "etymology_story": "月(달 월)과 郎(사내 랑)이 합쳐진 글자입니다. 달이 밝게 빛나는 모습에서 '밝다', '낭랑하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "낭독",
+      "word_hanja": "朗讀",
+      "etymology_dissection": "朗(밝을 랑)+讀(읽을 독) = 밝게 읽음",
+      "easy_definition": "소리 내어 맑고 분명하게 읽음",
+      "context_sentence": "**낭독**하면 집중력이 높아집니다."
+    },
+    {
+      "word_korean": "낭보",
+      "word_hanja": "朗報",
+      "etymology_dissection": "朗(밝을 랑)+報(갚을 보) = 밝은 소식",
+      "easy_definition": "기쁜 소식",
+      "context_sentence": "합격 **낭보**가 전해졌습니다."
+    },
+    {
+      "word_korean": "명랑",
+      "word_hanja": "明朗",
+      "etymology_dissection": "明(밝을 명)+朗(밝을 랑) = 밝고 밝음",
+      "easy_definition": "성격이 밝고 쾌활함",
+      "context_sentence": "**명랑**한 성격이 주변을 밝게 합니다."
+    },
+    {
+      "word_korean": "낭랑",
+      "word_hanja": "朗朗",
+      "etymology_dissection": "朗(밝을 랑)+朗(밝을 랑) = 매우 밝음",
+      "easy_definition": "소리가 맑고 분명함",
+      "context_sentence": "**낭랑**한 목소리로 발표했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "낭독의 효과",
+    "passage_text": "**낭독**은 단순히 소리를 내어 읽는 것이 아닙니다. 뇌과학 연구에 따르면 **낭독**할 때 시각, 청각, 발성 기관이 모두 활성화됩니다. 이는 묵독보다 더 많은 뇌 영역을 자극합니다. 조선 시대 서당에서 학생들이 큰 소리로 책을 읽은 것도 이 효과를 경험적으로 알았기 때문입니다. **명랑**한 목소리로 **낭독**하면 기억 효과가 높아집니다. 매일 10분 **낭독**을 실천해보세요.",
+    "quiz": {
+      "question": "낭독의 효과로 글에서 설명한 것은?",
+      "choices": [
+        "눈이 피로해진다",
+        "시각, 청각, 발성 기관이 모두 활성화된다",
+        "낭독하면 졸음이 온다",
+        "글씨 쓰기가 좋아진다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "낭독할 때 시각, 청각, 발성 기관이 모두 활성화된다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'낭독'을 사용해서 책을 소리 내어 읽어본 경험이나 그 효과를 써보세요.",
+    "model_example": "어려운 시를 **낭독**하면서 리듬과 의미가 동시에 느껴져 그냥 읽을 때보다 훨씬 오래 기억됐습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "朗(랑) — 밝을 랑! 낭독·낭보·명랑·낭랑 모두 여기서! 낭랑하게 잘했어요!"
+  }
+}

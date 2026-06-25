@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "외",
+    "hanja_meaning": "바깥",
+    "hanja_char": "外",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "저녁에 점치는 행위로 표현한 '바깥 외(外)'",
+    "etymology_story": "'바깥 외(外)'는 저녁(夕)에 점(卜)을 치는 모습이에요. 낮에 하지 않고 밖에서 점치는 것처럼, 일반적인 것에서 벗어난 바깥을 뜻하게 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "외국(外國)",
+      "etymology_dissection": "바깥 외(外) + 나라 국(國) = 바깥 나라",
+      "easy_definition": "자기 나라가 아닌 다른 나라",
+      "context_sentence": "외국 여행을 가서 새로운 문화를 배웠어요."
+    },
+    {
+      "word_korean": "실외(室外)",
+      "etymology_dissection": "집 실(室) + 바깥 외(外) = 방 밖",
+      "easy_definition": "건물 밖 바깥",
+      "context_sentence": "날씨가 좋으면 실외에서 체육을 해요."
+    },
+    {
+      "word_korean": "해외(海外)",
+      "etymology_dissection": "바다 해(海) + 바깥 외(外) = 바다 밖",
+      "easy_definition": "다른 나라, 국외",
+      "context_sentence": "해외여행을 통해 세계를 배울 수 있어요."
+    },
+    {
+      "word_korean": "외모(外貌)",
+      "etymology_dissection": "바깥 외(外) + 모양 모(貌) = 겉으로 보이는 모양",
+      "easy_definition": "겉으로 드러나는 생김새",
+      "context_sentence": "외모보다 마음씨가 더 중요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "바깥 세상",
+    "passage_text": "**실외(室外)**에서 뛰놀면 몸이 건강해져요. **외국(外國)**에 나가면 더 넓은 세상을 만나요. **해외(海外)** 친구를 사귀면 다양한 문화를 배울 수 있어요. **외모(外貌)**보다 내면의 아름다움이 더 오래가요.",
+    "quiz": {
+      "question": "'해외(海外)'의 뜻은?",
+      "choices": [
+        "바다 안",
+        "방 안",
+        "다른 나라, 국외",
+        "학교 밖"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'해외(海外)'는 '바다 해 + 바깥 외' = 바다 밖, 즉 다른 나라를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 가보고 싶은 외국이나 해외 여행지에 대해 문장으로 써 보세요.",
+    "model_example": "언젠가 해외여행을 통해 외국의 문화를 직접 경험하고, 세상을 더 넓게 바라보고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'바깥 — 외(外)! 바깥 — 외(外)!' 열 번 외쳐요!"
+  }
+}

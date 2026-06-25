@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "단",
+    "hanja_meaning": "짧을",
+    "hanja_char": "短",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "화살이 짧다 — 짧을 단(短)",
+    "etymology_story": "'짧을 단(短)'은 화살(矢)과 콩 두(豆)가 합쳐진 글자예요. 화살 하나의 길이만큼 짧은 콩처럼, 길지 않은 것이 '짧다(短)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "단점(短點)",
+      "etymology_dissection": "짧을 단(短)+점 점(點)",
+      "easy_definition": "부족한 점",
+      "context_sentence": "단점을 보완해요."
+    },
+    {
+      "word_korean": "단기(短期)",
+      "etymology_dissection": "짧을 단(短)+기약 기(期)",
+      "easy_definition": "짧은 기간",
+      "context_sentence": "단기 목표를 세워요."
+    },
+    {
+      "word_korean": "장단(長短)",
+      "etymology_dissection": "길 장(長)+짧을 단(短)",
+      "easy_definition": "길고 짧음",
+      "context_sentence": "장단이 있어요."
+    },
+    {
+      "word_korean": "단문(短文)",
+      "etymology_dissection": "짧을 단(短)+글월 문(文)",
+      "easy_definition": "짧은 글",
+      "context_sentence": "단문으로 요약해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "짧음의 가치",
+    "passage_text": "**단점(短點)**을 알면 보완할 수 있어요. **단기(短期)** 목표를 달성하며 자신감을 키워요. **단문(短文)**으로 핵심을 전달해요.",
+    "quiz": {
+      "question": "'단기(短期)'란?",
+      "choices": [
+        "짧은 글",
+        "짧은 기간",
+        "단점",
+        "장단"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'단기(短期)'=짧을 단+기약 기, 짧은 기간을 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "단기 목표를 세우고 달성한 경험을 문장으로 써 보세요.",
+    "model_example": "단점을 알고 단기 목표로 하나씩 보완하면 장단의 균형을 이룰 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'짧을 — 단(短)! 짧을 — 단(短)!' 열 번 외쳐요!"
+  }
+}

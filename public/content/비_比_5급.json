@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "比",
+    "hanja_sound": "비",
+    "hanja_meaning": "견줄",
+    "full_reading": "견줄 비",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "比",
+    "sound": "비",
+    "meaning": "견줄",
+    "stroke_count": 4,
+    "radical": "比",
+    "etymology_story": "比는 두 사람이 나란히 서 있는 모양을 본뜬 글자입니다. 나란히 서서 서로 견주는 모습에서 '견주다', '비교하다'의 뜻이 생겼습니다.",
+    "memory_tip": "두 사람이 나란히 서서 견주는 것이 '比'입니다.",
+    "level_context": "5급 한자로, 견줄을(를) 뜻하는 比입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "비율",
+      "word_hanja": "比率",
+      "reading": "비율",
+      "easy_definition": "두 수량을 비교한 것",
+      "etymology_dissection": "견줄 비(比)+비율 률(率): 견주는 비율",
+      "example_sentence": "성공 비율이 높습니다.",
+      "sentence_meaning": "성공하는 비율이 높습니다."
+    },
+    {
+      "word_korean": "비례",
+      "word_hanja": "比例",
+      "reading": "비례",
+      "easy_definition": "두 양이 일정한 관계로 변함",
+      "etymology_dissection": "견줄 비(比)+법칙 례(例): 견주는 법칙",
+      "example_sentence": "키와 몸무게가 비례합니다.",
+      "sentence_meaning": "키와 몸무게가 일정한 관계로 같이 변합니다."
+    },
+    {
+      "word_korean": "대비",
+      "word_hanja": "對比",
+      "reading": "대비",
+      "easy_definition": "서로 맞대어 견줌",
+      "etymology_dissection": "맞설 대(對)+견줄 비(比): 맞대어 견줌",
+      "example_sentence": "두 색을 대비시켰습니다.",
+      "sentence_meaning": "두 색을 맞대어 견주었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "수학에서 비율은 중요한 개념입니다. 노력과 성취는 비례합니다. 두 색을 대비시키면 효과가 강조됩니다.",
+    "passage_meaning": "비율, 비례, 대비 모두 '견주다'는 뜻의 比에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'비율'의 뜻으로 알맞은 것은?",
+        "options": [
+          "하나의 수",
+          "두 수량을 비교한 것",
+          "더하는 수",
+          "빼는 수"
+        ],
+        "correct_answer": "두 수량을 비교한 것",
+        "explanation": "비율(比率)은 두 수량을 비교한 것입니다."
+      },
+      {
+        "question": "'比'의 뜻은?",
+        "options": [
+          "같다",
+          "견주다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "견주다",
+        "explanation": "比는 '견주다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'비율'이나 '비례'를 사용하여 문장을 써 보세요.",
+    "hint": "수학이나 과학과 관련된 내용을 담아 보세요.",
+    "example_answer": "노력의 양에 비례하여 성과가 나타납니다.",
+    "key_vocabulary": [
+      "비율",
+      "비례"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "성공 비율을 높이겠습니다.",
+      "노력과 결과는 비례합니다.",
+      "두 색의 대비가 아름답습니다."
+    ],
+    "pronunciation_tips": "'비'을 명확하게 발음하며 읽어 보세요."
+  }
+}

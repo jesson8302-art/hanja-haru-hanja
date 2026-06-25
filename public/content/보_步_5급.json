@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "步",
+    "hanja_sound": "보",
+    "hanja_meaning": "걸음",
+    "full_reading": "걸음 보",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "步",
+    "sound": "보",
+    "meaning": "걸음",
+    "stroke_count": 7,
+    "radical": "止",
+    "etymology_story": "步는 발(止)의 모양을 본뜬 글자입니다. 왼발과 오른발을 번갈아 내딛는 모습에서 '걷다', '걸음', '진보하다'의 뜻이 생겼습니다.",
+    "memory_tip": "두 발(止)을 번갈아 내딛는 것이 '걸음(步)'입니다.",
+    "level_context": "5급 한자로, 걸음을(를) 뜻하는 步입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "진보",
+      "word_hanja": "進步",
+      "reading": "진보",
+      "easy_definition": "앞으로 나아가 발전함",
+      "etymology_dissection": "나아갈 진(進)+걸음 보(步): 나아가는 걸음",
+      "example_sentence": "과학이 크게 진보했습니다.",
+      "sentence_meaning": "과학이 크게 앞으로 나아가 발전했습니다."
+    },
+    {
+      "word_korean": "보행",
+      "word_hanja": "步行",
+      "reading": "보행",
+      "easy_definition": "걸어다님",
+      "etymology_dissection": "걸음 보(步)+행할 행(行): 걸어 다님",
+      "example_sentence": "보행자를 보호해야 합니다.",
+      "sentence_meaning": "걸어다니는 사람을 보호해야 합니다."
+    },
+    {
+      "word_korean": "양보",
+      "word_hanja": "讓步",
+      "reading": "양보",
+      "easy_definition": "자기 것을 남에게 물러서 줌",
+      "etymology_dissection": "사양할 양(讓)+걸음 보(步): 물러서는 걸음",
+      "example_sentence": "자리를 양보했습니다.",
+      "sentence_meaning": "자리를 남에게 내주었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "과학 기술이 크게 진보했습니다. 보행자 안전을 위한 도로 설계가 중요합니다. 어른께 자리를 양보하는 것은 아름다운 행동입니다.",
+    "passage_meaning": "진보, 보행, 양보 모두 '걷다', '걸음'을 뜻하는 步에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'진보'의 뜻으로 알맞은 것은?",
+        "options": [
+          "뒤로 물러남",
+          "앞으로 나아가 발전함",
+          "멈추어 서 있음",
+          "옆으로 움직임"
+        ],
+        "correct_answer": "앞으로 나아가 발전함",
+        "explanation": "진보(進步)는 앞으로 나아가 발전하는 것입니다."
+      },
+      {
+        "question": "'양보'에서 '步'의 뜻은?",
+        "options": [
+          "뛰다",
+          "걸음·걷다",
+          "날다",
+          "달리다"
+        ],
+        "correct_answer": "걸음·걷다",
+        "explanation": "양보(讓步)의 步는 '걸음'으로, 한 걸음 물러서서 남에게 주는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'양보'나 '보행'을 사용하여 문장을 써 보세요.",
+    "hint": "배려나 안전과 관련된 내용을 담아 보세요.",
+    "example_answer": "어른께 자리를 양보하는 것은 기본 예의입니다.",
+    "key_vocabulary": [
+      "진보",
+      "보행"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "양보는 아름다운 행동입니다.",
+      "보행자 안전을 지킵시다.",
+      "과학이 크게 진보했습니다."
+    ],
+    "pronunciation_tips": "'보'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "심",
+    "hanja_meaning": "마음",
+    "hanja_char": "心",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "심장 모양을 그대로 담은 '마음 심(心)'",
+    "etymology_story": "'마음 심(心)'은 사람의 심장을 그린 글자예요. 심장이 두근두근 뛸 때 감정이 생긴다고 생각한 옛사람들은 마음의 자리를 심장이라고 여겼어요. 그래서 감정과 생각에 관련된 한자 대부분에 심(心)이 들어간답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "관심(關心)",
+      "etymology_dissection": "관계할 관(關) + 마음 심(心) = 마음이 연결되는 것",
+      "easy_definition": "어떤 것에 마음이 끌려 신경 쓰는 것",
+      "context_sentence": "친구의 고민에 관심을 가져야 해요."
+    },
+    {
+      "word_korean": "호기심(好奇心)",
+      "etymology_dissection": "좋을 호(好) + 기이할 기(奇) + 마음 심(心) = 신기한 것을 좋아하는 마음",
+      "easy_definition": "새롭고 신기한 것에 끌리는 마음",
+      "context_sentence": "과학자는 강한 호기심에서 발견을 시작해요."
+    },
+    {
+      "word_korean": "결심(決心)",
+      "etymology_dissection": "결단할 결(決) + 마음 심(心) = 마음을 굳게 정하는 것",
+      "easy_definition": "어떤 일을 하기로 마음을 단단히 정하는 것",
+      "context_sentence": "새 학기에 열심히 공부하겠다고 결심했어요."
+    },
+    {
+      "word_korean": "중심(中心)",
+      "etymology_dissection": "가운데 중(中) + 마음 심(心) = 가장 중요한 가운데",
+      "easy_definition": "어떤 것의 가장 핵심이 되는 부분",
+      "context_sentence": "지구는 태양계의 중심이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "마음이 자라는 이야기",
+    "passage_text": "**호기심(好奇心)**이 많은 아이는 무엇이든 열심히 배워요. **관심(關心)**을 가지면 작은 것도 소중하게 보여요. 좋은 사람이 되겠다는 **결심(決心)**은 삶의 **중심(中心)**이 돼요.",
+    "quiz": {
+      "question": "'결심(決心)'의 뜻으로 가장 알맞은 것은?",
+      "choices": [
+        "마음이 흔들리는 것",
+        "어떤 일을 하기로 마음을 단단히 정하는 것",
+        "마음이 약해지는 것",
+        "마음이 나누어지는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'결심(決心)'은 '결단할 결 + 마음 심' = 마음을 굳게 결단하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내 마음속 다짐을 담은 문장을 써 보세요.",
+    "model_example": "호기심을 잃지 않겠다는 결심이 내 공부의 중심이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'마음 — 심(心)! 마음 — 심(心)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "준",
+    "hanja_meaning": "준할",
+    "hanja_char": "準",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "準 — 물처럼 평평한 기준",
+    "etymology_story": "水(물 수)와 隼(새매 준)이 합쳐진 글자입니다. 물이 고르게 수평을 이루는 모습에서 '기준', '준거'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기준",
+      "word_hanja": "基準",
+      "etymology_dissection": "基(터 기)+準(준할 준) = 기반의 기준",
+      "easy_definition": "판단이나 비교의 근거가 되는 표준",
+      "context_sentence": "명확한 **기준**이 있어야 공정합니다."
+    },
+    {
+      "word_korean": "수준",
+      "word_hanja": "水準",
+      "etymology_dissection": "水(물 수)+準(준할 준) = 물의 기준",
+      "easy_definition": "높이나 정도의 기준",
+      "context_sentence": "**수준** 높은 교육을 받고 싶습니다."
+    },
+    {
+      "word_korean": "표준",
+      "word_hanja": "標準",
+      "etymology_dissection": "標(표 표)+準(준할 준) = 표의 기준",
+      "easy_definition": "일반적으로 인정되는 기준",
+      "context_sentence": "**표준** 어는 모든 국민이 공통으로 쓰는 말입니다."
+    },
+    {
+      "word_korean": "준비",
+      "word_hanja": "準備",
+      "etymology_dissection": "準(준할 준)+備(갖출 비) = 기준을 갖춤",
+      "easy_definition": "미리 마련하여 갖춤",
+      "context_sentence": "충분한 **준비**가 성공의 열쇠입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "표준의 필요성",
+    "passage_text": "**표준**은 혼란을 방지하고 효율을 높입니다. 나라마다 다른 전압 **기준** 때문에 해외 여행 시 어댑터가 필요합니다. 언어에서도 **표준**어가 있어야 소통이 원활합니다. 국제 **표준**은 세계 무역과 기술 교류를 쉽게 합니다. 교육에서도 학습 **수준**에 맞는 **기준**이 필요합니다. 그러나 **표준**이 다양성을 억압하면 안 됩니다. **표준**은 소통의 도구이지 획일화의 수단이 되어서는 안 됩니다.",
+    "quiz": {
+      "question": "표준의 필요성으로 글에서 언급된 것은?",
+      "choices": [
+        "모두를 같게 만들기 위해",
+        "혼란을 방지하고 효율을 높이기 위해",
+        "창의성을 억압하기 위해",
+        "경쟁을 없애기 위해"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 표준은 혼란을 방지하고 효율을 높인다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'기준'을 사용해서 어떤 일을 판단할 때 자신이 사용하는 기준에 대해 써보세요.",
+    "model_example": "친구를 사귈 때 저의 **기준**은 솔직하고 상대방을 존중하는 사람인가입니다. 외모나 재산보다 이 **기준**이 더 중요합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "準(준) — 준할 준! 기준·수준·표준·준비 모두 여기서! 기준에 맞게 잘했어요!"
+  }
+}

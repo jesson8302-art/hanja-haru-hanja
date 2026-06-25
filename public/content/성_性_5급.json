@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "성",
+    "hanja_meaning": "성품",
+    "hanja_char": "性",
+    "hanja_level": "5급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "性 — 마음에서 타고난 본성",
+    "etymology_story": "心(마음 심)과 生(날 생)이 합쳐진 글자입니다. 태어날 때부터 마음속에 지닌 본래의 성질을 뜻합니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성격",
+      "word_hanja": "性格",
+      "etymology_dissection": "性(성품 성)+格(격식 격) = 성품의 틀",
+      "easy_definition": "한 사람이 가진 고유한 마음의 특성",
+      "context_sentence": "밝은 **성격**은 주변 사람들을 행복하게 합니다."
+    },
+    {
+      "word_korean": "성질",
+      "word_hanja": "性質",
+      "etymology_dissection": "性(성품 성)+質(바탕 질) = 성품의 바탕",
+      "easy_definition": "사람이나 물건이 가진 본래의 특성",
+      "context_sentence": "물의 **성질** 중 하나는 아래로 흐른다는 것입니다."
+    },
+    {
+      "word_korean": "본성",
+      "word_hanja": "本性",
+      "etymology_dissection": "本(근본 본)+性(성품 성) = 근본적인 성품",
+      "easy_definition": "타고난 본래의 성질",
+      "context_sentence": "인간의 **본성**은 선하다는 것이 맹자의 생각입니다."
+    },
+    {
+      "word_korean": "감수성",
+      "word_hanja": "感受性",
+      "etymology_dissection": "感(느낄 감)+受(받을 수)+性(성품 성) = 느끼고 받아들이는 성품",
+      "easy_definition": "아름다움이나 감정을 섬세하게 느끼는 능력",
+      "context_sentence": "예술 작품을 감상하면 **감수성**이 풍부해집니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "맹자와 순자의 논쟁",
+    "passage_text": "인간의 **본성**에 대해 동양 철학자들은 다양한 의견을 가졌습니다. 맹자는 인간의 **본성**은 선하다고 주장했습니다. 반면 순자는 인간의 **본성**은 악하므로 교육과 예절로 교화해야 한다고 했습니다. 오늘날 심리학에서는 **성격**이 유전(타고남)과 환경(경험) 모두에 의해 형성된다고 봅니다. 우리의 **감수성**과 **성격**은 끊임없이 성장할 수 있습니다.",
+    "quiz": {
+      "question": "순자가 본성에 대해 주장한 내용은?",
+      "choices": [
+        "인간의 본성은 선하다",
+        "인간의 본성은 악하므로 교육이 필요하다",
+        "인간의 본성은 변하지 않는다",
+        "인간의 본성은 알 수 없다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "순자는 인간의 본성은 악하므로 교육과 예절로 교화해야 한다고 주장했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'성격'이나 '본성'을 사용해서 자신의 성격이나 장단점을 설명해보세요.",
+    "model_example": "저의 **성격**은 활발하고 호기심이 많아서 새로운 것을 배울 때 즐겁지만, 때로는 너무 산만하다는 단점도 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "性(성) — 성품 성! 성격·성질·본성·감수성 모두 여기서! 잘했어요!"
+  }
+}

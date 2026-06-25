@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "師",
+    "hanja_sound": "사",
+    "hanja_meaning": "스승",
+    "full_reading": "스승 사",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "師",
+    "sound": "사",
+    "meaning": "스승",
+    "stroke_count": 10,
+    "radical": "巾",
+    "etymology_story": "師는 깃발(師)과 언덕(阜)이 합쳐진 글자입니다. 군대를 이끄는 장수처럼 여러 사람을 이끄는 모습에서 '스승', '군대', '장수'의 뜻이 생겼습니다.",
+    "memory_tip": "군대(師)를 이끄는 것처럼 제자를 이끄는 것이 '스승'입니다.",
+    "level_context": "5급 한자로, 스승을(를) 뜻하는 師입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "스승",
+      "word_hanja": "師",
+      "reading": "사",
+      "easy_definition": "가르치는 사람",
+      "etymology_dissection": "스승 사(師): 스승",
+      "example_sentence": "스승의 은혜에 감사합니다.",
+      "sentence_meaning": "가르쳐 주신 분의 은혜에 감사합니다."
+    },
+    {
+      "word_korean": "교사",
+      "word_hanja": "敎師",
+      "reading": "교사",
+      "easy_definition": "학교에서 가르치는 사람",
+      "etymology_dissection": "가르칠 교(敎)+스승 사(師): 가르치는 스승",
+      "example_sentence": "교사가 수업을 진행했습니다.",
+      "sentence_meaning": "가르치는 사람이 수업을 이끌었습니다."
+    },
+    {
+      "word_korean": "강사",
+      "word_hanja": "講師",
+      "reading": "강사",
+      "easy_definition": "강의하는 사람",
+      "etymology_dissection": "강의 강(講)+스승 사(師): 강의하는 스승",
+      "example_sentence": "강사가 강의를 시작했습니다.",
+      "sentence_meaning": "강의하는 사람이 강의를 시작했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "교사의 헌신으로 학생들이 성장합니다. 강사의 강의가 매우 유익했습니다. 스승의 가르침은 평생 기억에 남습니다.",
+    "passage_meaning": "교사, 강사 모두 '스승'을 뜻하는 師에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'교사'의 뜻은?",
+        "options": [
+          "학생",
+          "학교에서 가르치는 사람",
+          "의사",
+          "상인"
+        ],
+        "correct_answer": "학교에서 가르치는 사람",
+        "explanation": "교사(敎師)는 학교에서 가르치는 사람입니다."
+      },
+      {
+        "question": "'師'의 뜻은?",
+        "options": [
+          "제자",
+          "스승",
+          "친구",
+          "적"
+        ],
+        "correct_answer": "스승",
+        "explanation": "師는 '스승'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'교사'나 '강사'를 사용하여 문장을 써 보세요.",
+    "hint": "가르침이나 교육에 관한 내용을 담아 보세요.",
+    "example_answer": "교사의 헌신으로 많은 것을 배웠습니다.",
+    "key_vocabulary": [
+      "스승",
+      "교사"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "선생님께 감사드립니다.",
+      "교사의 역할이 중요합니다.",
+      "강사의 강의가 유익했습니다."
+    ],
+    "pronunciation_tips": "'사'을 명확하게 발음하며 읽어 보세요."
+  }
+}

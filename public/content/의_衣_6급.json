@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "의",
+    "hanja_meaning": "옷",
+    "hanja_char": "衣",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "衣 — 옷깃을 여민 사람의 모양",
+    "etymology_story": "衣(의)는 사람이 옷깃을 여민 모양을 본뜬 글자예요. '옷'을 뜻하며, 옷과 관련된 한자에 많이 쓰여요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의복(衣服)",
+      "etymology_dissection": "옷 의(衣)+옷 복(服)",
+      "easy_definition": "몸에 입는 옷",
+      "context_sentence": "추운 날씨에는 따뜻한 의복이 필요해요."
+    },
+    {
+      "word_korean": "의류(衣類)",
+      "etymology_dissection": "옷 의(衣)+무리 류(類)",
+      "easy_definition": "옷의 종류를 통틀어 부르는 말",
+      "context_sentence": "백화점 의류 매장에서 코트를 샀어요."
+    },
+    {
+      "word_korean": "백의(白衣)",
+      "etymology_dissection": "흰 백(白)+옷 의(衣)",
+      "easy_definition": "흰 옷",
+      "context_sentence": "의사와 간호사는 백의를 입어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "계절에 맞는 옷",
+    "passage_text": "겨울이 되면 두꺼운 의복(衣服)이 필요해요. 옷장에는 여러 종류의 의류(衣類)가 있어요. 병원에서는 의사 선생님이 하얀 백의(白衣)를 입고 있어요. 옷은 우리 몸을 보호해 줘요.",
+    "quiz": {
+      "question": "'백의'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "흰 옷",
+        "파란 옷",
+        "따뜻한 옷",
+        "비를 막는 옷"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "백의(白衣)는 '흰 백(白)+옷 의(衣)'로, 하얀 옷을 뜻해요. 병원에서 일하는 분들이 많이 입어요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "계절별로 어떤 의복이 필요한지 봄·여름·가을·겨울로 나누어 써 보세요.",
+    "model_example": "예) 봄: 가벼운 재킷. 여름: 반팔 티셔츠. 가을: 긴팔 셔츠. 겨울: 두꺼운 코트."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "衣(의)! 알맞은 옷을 챙겨 입는 지혜로운 어린이! 잘했어요! 👕"
+  }
+}

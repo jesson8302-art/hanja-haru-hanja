@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "등",
+    "hanja_meaning": "오를",
+    "hanja_char": "登",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "제사 그릇을 들고 높이 오르다 — 오를 등(登)",
+    "etymology_story": "'오를 등(登)'은 제사 그릇(豆)을 두 발(癶)로 밟고 올라가는 모습이에요. 발을 내딛으며 위로 올라가는 행위가 '登'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "등산(登山)",
+      "etymology_dissection": "오를 등(登)+메 산(山)",
+      "easy_definition": "산을 오르는 것",
+      "context_sentence": "주말에 가족과 등산을 갔어요."
+    },
+    {
+      "word_korean": "등교(登校)",
+      "etymology_dissection": "오를 등(登)+학교 교(校)",
+      "easy_definition": "학교에 가는 것",
+      "context_sentence": "매일 아침 등교 준비를 해요."
+    },
+    {
+      "word_korean": "등장(登場)",
+      "etymology_dissection": "오를 등(登)+마당 장(場)",
+      "easy_definition": "무대나 장면에 나타나는 것",
+      "context_sentence": "주인공이 드디어 등장했어요."
+    },
+    {
+      "word_korean": "등록(登錄)",
+      "etymology_dissection": "오를 등(登)+기록할 록(錄)",
+      "easy_definition": "이름을 올려 기록하는 것",
+      "context_sentence": "수업 등록을 마쳤어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "더 높이",
+    "passage_text": "**등산(登山)**을 하면 정상에 올랐을 때의 기쁨이 최고예요. 아침마다 **등교(登校)**할 때 새로운 만남이 기다려요. **등장(登場)** 순간을 위해 충분히 준비하고 **등록(登錄)**해요.",
+    "quiz": {
+      "question": "'등교(登校)'란?",
+      "choices": [
+        "산 오르기",
+        "학교에 가는 것",
+        "무대에 나타나는 것",
+        "이름 기록하기"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'등교(登校)'=오를 등+학교 교, 학교에 오르는 것(가는 것)이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "목표를 향해 한 걸음씩 올라가는 경험을 문장으로 써 보세요.",
+    "model_example": "등산처럼 등교도 한 걸음씩 쌓이면 정상에 오르는 기쁨이 찾아와요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'오를 — 등(登)! 오를 — 등(登)!' 열 번 외쳐요!"
+  }
+}

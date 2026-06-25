@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "계",
+    "hanja_meaning": "셈",
+    "hanja_char": "計",
+    "hanja_level": "5급",
+    "linked_subject": "수학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "말로 수를 세는 '셈 계(計)'",
+    "etymology_story": "'셈 계(計)'는 말씀 언(言)과 열 십(十)이 합쳐진 글자예요. 말로 열(十)까지 세는 것에서 계산과 계획의 의미가 나왔어요. '계획'은 머릿속에서 말로 미리 세어 보는 것이랍니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "계획(計劃)",
+      "etymology_dissection": "셈 계(計) + 그을 획(劃) = 미리 세어 선을 긋는 것",
+      "easy_definition": "앞으로 할 일을 미리 생각하고 정하는 것",
+      "context_sentence": "방학 계획을 잘 세워야 알차게 보낼 수 있어요."
+    },
+    {
+      "word_korean": "계산(計算)",
+      "etymology_dissection": "셈 계(計) + 셀 산(算) = 수를 세는 것",
+      "easy_definition": "수나 양을 더하고 빼고 곱하고 나누는 것",
+      "context_sentence": "계산이 빠른 사람이 시장에서 유리해요."
+    },
+    {
+      "word_korean": "통계(統計)",
+      "etymology_dissection": "거느릴 통(統) + 셈 계(計) = 숫자를 모아 세는 것",
+      "easy_definition": "자료를 모아 수치로 나타내는 것",
+      "context_sentence": "통계에 따르면 독서량이 성적에 영향을 줘요."
+    },
+    {
+      "word_korean": "시계(時計)",
+      "etymology_dissection": "때 시(時) + 셈 계(計) = 시간을 세는 것",
+      "easy_definition": "시간을 알려 주는 기구",
+      "context_sentence": "시계를 보며 약속 시간을 지켜요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "계획이 있는 삶",
+    "passage_text": "성공한 사람들은 하나같이 **계획(計劃)**을 세우는 습관이 있어요. **통계(統計)**에 따르면 목표와 계획이 있는 학생이 더 좋은 결과를 얻는다고 해요. 매일 **시계(時計)**를 보며 시간을 아껴 쓰고, 빠른 **계산(計算)** 능력도 길러 보아요.",
+    "quiz": {
+      "question": "'통계(統計)'란 무엇인가요?",
+      "choices": [
+        "시간을 재는 것",
+        "자료를 모아 수치로 나타내는 것",
+        "혼자 계산하는 것",
+        "계획을 세우는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'통계(統計)'는 '거느릴 통 + 셈 계' = 여러 자료를 모아서 숫자로 정리하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 계획을 잘 세웠거나 세우고 싶은 일에 대한 문장을 써 보세요.",
+    "model_example": "여름방학 계획을 세울 때 시계를 보며 하루를 시간별로 계산해 봤더니, 훨씬 알차게 쓸 수 있었어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'셈 — 계(計)! 셈 — 계(計)!' 열 번 외쳐요! 보관함에 저장하세요!"
+  }
+}

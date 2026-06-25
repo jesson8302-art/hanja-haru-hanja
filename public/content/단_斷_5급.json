@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "斷",
+    "hanja_sound": "단",
+    "hanja_meaning": "끊을",
+    "full_reading": "끊을 단",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "斷",
+    "sound": "단",
+    "meaning": "끊을",
+    "stroke_count": 18,
+    "radical": "斤",
+    "etymology_story": "斷은 도끼(斤)와 실을 자르는 모습이 합쳐진 글자입니다. 도끼로 힘차게 끊어내는 모습에서 '끊다', '결단하다'의 뜻이 생겼습니다.",
+    "memory_tip": "도끼(斤)로 힘차게 끊어내는 것이 '斷'입니다.",
+    "level_context": "5급 한자로, 끊을을(를) 뜻하는 斷입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "결단",
+      "word_hanja": "決斷",
+      "reading": "결단",
+      "easy_definition": "결심하여 딱 끊음",
+      "etymology_dissection": "결정할 결(決)+끊을 단(斷): 결정하여 끊음",
+      "example_sentence": "결단을 내렸습니다.",
+      "sentence_meaning": "결심하여 딱 결정했습니다."
+    },
+    {
+      "word_korean": "단절",
+      "word_hanja": "斷絶",
+      "reading": "단절",
+      "easy_definition": "완전히 끊어짐",
+      "etymology_dissection": "끊을 단(斷)+끊을 절(絶): 완전히 끊김",
+      "example_sentence": "연락이 단절되었습니다.",
+      "sentence_meaning": "연락이 완전히 끊겼습니다."
+    },
+    {
+      "word_korean": "판단",
+      "word_hanja": "判斷",
+      "reading": "판단",
+      "easy_definition": "사물을 분별하여 결정함",
+      "etymology_dissection": "나눌 판(判)+끊을 단(斷): 나누어 끊어 결정함",
+      "example_sentence": "올바른 판단이 필요합니다.",
+      "sentence_meaning": "사물을 잘 분별하여 결정하는 것이 필요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "어려운 상황에서 용기 있는 결단이 필요합니다. 오랜 인연이 단절되면 슬픕니다. 올바른 판단을 위해 충분히 생각해야 합니다.",
+    "passage_meaning": "결단, 단절, 판단 모두 '끊다'는 뜻의 斷에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'판단'의 뜻으로 알맞은 것은?",
+        "options": [
+          "막연히 생각하는 것",
+          "사물을 분별하여 결정하는 것",
+          "아무것도 하지 않는 것",
+          "무조건 따르는 것"
+        ],
+        "correct_answer": "사물을 분별하여 결정하는 것",
+        "explanation": "판단(判斷)은 사물을 분별하여 결정하는 것입니다."
+      },
+      {
+        "question": "'결단'에서 '斷'의 뜻은?",
+        "options": [
+          "시작하다",
+          "끊다·결정하다",
+          "계속하다",
+          "포기하다"
+        ],
+        "correct_answer": "끊다·결정하다",
+        "explanation": "결단(決斷)의 斷은 '끊다', '결정하다'로, 결심하여 딱 결정하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'결단'이나 '판단'을 사용하여 문장을 써 보세요.",
+    "hint": "결정이나 선택에 관한 내용을 담아 보세요.",
+    "example_answer": "용기 있는 결단이 상황을 바꿀 수 있습니다.",
+    "key_vocabulary": [
+      "결단",
+      "단절"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "올바른 판단을 하기 위해 생각합니다.",
+      "결단을 내리는 것이 중요합니다.",
+      "단절을 피하기 위해 소통합니다."
+    ],
+    "pronunciation_tips": "'단'을 명확하게 발음하며 읽어 보세요."
+  }
+}

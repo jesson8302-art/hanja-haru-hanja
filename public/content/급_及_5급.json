@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "급",
+    "hanja_meaning": "미칠",
+    "hanja_char": "及",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "及 — 손이 사람에게 닿다",
+    "etymology_story": "손(又)이 앞의 사람에게 뻗어 닿는 모습을 본뜬 글자입니다. '이르다', '미치다', '그리고'의 뜻으로 쓰입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "언급",
+      "word_hanja": "言及",
+      "etymology_dissection": "言(말씀 언)+及(미칠 급) = 말이 미침",
+      "easy_definition": "어떤 것에 대해 말함",
+      "context_sentence": "선생님이 시험 범위를 **언급**했습니다."
+    },
+    {
+      "word_korean": "보급",
+      "word_hanja": "普及",
+      "etymology_dissection": "普(넓을 보)+及(미칠 급) = 널리 미침",
+      "easy_definition": "널리 퍼뜨려 많은 곳에 이르게 함",
+      "context_sentence": "스마트폰이 빠르게 **보급**되었습니다."
+    },
+    {
+      "word_korean": "미급",
+      "word_hanja": "未及",
+      "etymology_dissection": "未(아닐 미)+及(미칠 급) = 이르지 못함",
+      "easy_definition": "아직 이르지 못함",
+      "context_sentence": "실력이 아직 기준에 **미급**합니다."
+    },
+    {
+      "word_korean": "급기야",
+      "word_hanja": "及其也",
+      "etymology_dissection": "及(미칠 급)+其(그 기)+也(어조사 야) = 마침내 이르러",
+      "easy_definition": "어떤 상황이 마침내 어느 지경에 이름",
+      "context_sentence": "문제가 커져서 **급기야** 선생님께 알려졌습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "보급의 힘",
+    "passage_text": "기술의 **보급**은 사회를 크게 변화시킵니다. 인쇄술의 **보급**은 책을 대중화시켜 지식을 널리 퍼뜨렸습니다. 인터넷의 **보급**은 정보 접근을 민주화했습니다. 그러나 기술이 **보급**될 때 긍정적인 면만 있는 것은 아닙니다. SNS의 **보급**은 소통을 쉽게 했지만 가짜 정보도 쉽게 퍼지게 했습니다. 기술을 어떻게 사용할지에 대해 **언급**하는 것이 중요합니다.",
+    "quiz": {
+      "question": "인쇄술 보급의 효과로 글에서 언급된 것은?",
+      "choices": [
+        "전쟁을 막았다",
+        "책을 대중화시켜 지식을 널리 퍼뜨렸다",
+        "인터넷을 발명했다",
+        "정부를 강하게 만들었다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 인쇄술의 보급은 책을 대중화시켜 지식을 널리 퍼뜨렸다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'보급'을 사용해서 어떤 좋은 것이 더 많이 퍼졌으면 하는지 써보세요.",
+    "model_example": "환경 친화적인 생활 습관이 더 널리 **보급**되어 지구를 건강하게 지킬 수 있으면 좋겠습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "及(급) — 미칠 급! 언급·보급·급기야 모두 여기서! 수고했어요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "歸",
+    "hanja_sound": "귀",
+    "hanja_meaning": "돌아갈",
+    "full_reading": "돌아갈 귀",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "歸",
+    "sound": "귀",
+    "meaning": "돌아갈",
+    "stroke_count": 18,
+    "radical": "止",
+    "etymology_story": "歸는 발(止)과 빗자루(帚), 그리고 부수가 합쳐진 글자입니다. 집으로 돌아가는 모습에서 '돌아가다', '귀환하다'의 뜻이 생겼습니다.",
+    "memory_tip": "집으로 빗자루를 들고 돌아가는 것이 '歸'입니다.",
+    "level_context": "5급 한자로, 돌아갈을(를) 뜻하는 歸입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "귀가",
+      "word_hanja": "歸家",
+      "reading": "귀가",
+      "easy_definition": "집으로 돌아감",
+      "etymology_dissection": "돌아갈 귀(歸)+집 가(家): 집으로 돌아감",
+      "example_sentence": "늦은 귀가는 위험합니다.",
+      "sentence_meaning": "늦게 집으로 돌아오는 것은 위험합니다."
+    },
+    {
+      "word_korean": "귀국",
+      "word_hanja": "歸國",
+      "reading": "귀국",
+      "easy_definition": "자기 나라로 돌아옴",
+      "etymology_dissection": "돌아갈 귀(歸)+나라 국(國): 나라로 돌아옴",
+      "example_sentence": "유학 후 귀국했습니다.",
+      "sentence_meaning": "공부를 마치고 자기 나라로 돌아왔습니다."
+    },
+    {
+      "word_korean": "복귀",
+      "word_hanja": "復歸",
+      "reading": "복귀",
+      "easy_definition": "원래 상태나 자리로 돌아옴",
+      "etymology_dissection": "다시 복(復)+돌아갈 귀(歸): 다시 돌아옴",
+      "example_sentence": "부상에서 복귀한 선수가 경기했습니다.",
+      "sentence_meaning": "부상을 회복하고 원래 자리로 돌아온 선수가 경기했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "밤늦은 귀가는 부모님을 걱정시킵니다. 오랜 유학 끝에 귀국하면 가족이 반겨줍니다. 부상에서 복귀한 선수가 힘찬 경기를 펼쳤습니다.",
+    "passage_meaning": "귀가, 귀국, 복귀 모두 '돌아가다'는 뜻의 歸에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'귀국'의 뜻으로 알맞은 것은?",
+        "options": [
+          "외국으로 떠남",
+          "자기 나라로 돌아옴",
+          "여행을 시작함",
+          "공부를 시작함"
+        ],
+        "correct_answer": "자기 나라로 돌아옴",
+        "explanation": "귀국(歸國)은 자기 나라로 돌아오는 것입니다."
+      },
+      {
+        "question": "'복귀'에서 '歸'의 뜻은?",
+        "options": [
+          "떠나다",
+          "돌아가다",
+          "시작하다",
+          "끝내다"
+        ],
+        "correct_answer": "돌아가다",
+        "explanation": "복귀(復歸)의 歸는 '돌아가다'로, 원래 상태로 돌아오는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'귀가'나 '귀국'을 사용하여 문장을 써 보세요.",
+    "hint": "돌아오는 상황을 담아 보세요.",
+    "example_answer": "유학을 마치고 귀국하니 부모님이 반겨주셨습니다.",
+    "key_vocabulary": [
+      "귀가",
+      "귀국"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "안전하게 귀가하세요.",
+      "오랜만에 귀국했습니다.",
+      "부상에서 복귀한 선수를 응원합니다."
+    ],
+    "pronunciation_tips": "'귀'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "嚴",
+    "hanja_sound": "엄",
+    "hanja_meaning": "엄할",
+    "full_reading": "엄할 엄",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "嚴",
+    "sound": "엄",
+    "meaning": "엄할",
+    "stroke_count": 20,
+    "radical": "口",
+    "etymology_story": "嚴은 바위(厂) 위에 소리(音)들이 있는 모습입니다. 바위처럼 단단하고 엄숙한 모습에서 '엄하다', '엄격하다'의 뜻이 생겼습니다.",
+    "memory_tip": "바위(厂)처럼 단단하고 엄숙한(口) 것이 '엄하다(嚴)'입니다.",
+    "level_context": "5급 한자로, 엄할을(를) 뜻하는 嚴입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "엄격",
+      "word_hanja": "嚴格",
+      "reading": "엄격",
+      "easy_definition": "엄하고 철저함",
+      "etymology_dissection": "엄할 엄(嚴)+격식 격(格): 엄한 격식",
+      "example_sentence": "엄격한 기준이 필요합니다.",
+      "sentence_meaning": "엄하고 철저한 기준이 필요합니다."
+    },
+    {
+      "word_korean": "엄수",
+      "word_hanja": "嚴守",
+      "reading": "엄수",
+      "easy_definition": "엄하게 지킴",
+      "etymology_dissection": "엄할 엄(嚴)+지킬 수(守): 엄하게 지킴",
+      "example_sentence": "시간을 엄수합니다.",
+      "sentence_meaning": "시간을 엄하게 지킵니다."
+    },
+    {
+      "word_korean": "위엄",
+      "word_hanja": "威嚴",
+      "reading": "위엄",
+      "easy_definition": "위세 있고 엄함",
+      "etymology_dissection": "위세 위(威)+엄할 엄(嚴): 위세와 엄함",
+      "example_sentence": "선생님의 위엄이 대단합니다.",
+      "sentence_meaning": "선생님의 위세 있고 엄한 모습이 대단합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "엄격한 훈련이 실력을 키웁니다. 약속 시간을 엄수하는 것이 예의입니다. 어른의 위엄 있는 모습이 존경스럽습니다.",
+    "passage_meaning": "엄격, 엄수, 위엄 모두 '엄하다'를 뜻하는 嚴에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'엄수'의 뜻은?",
+        "options": [
+          "규칙을 어기는 것",
+          "엄하게 지키는 것",
+          "규칙을 만드는 것",
+          "규칙을 없애는 것"
+        ],
+        "correct_answer": "엄하게 지키는 것",
+        "explanation": "엄수(嚴守)는 엄하게 지키는 것입니다."
+      },
+      {
+        "question": "'嚴'의 뜻은?",
+        "options": [
+          "관대하다",
+          "엄하다",
+          "부드럽다",
+          "약하다"
+        ],
+        "correct_answer": "엄하다",
+        "explanation": "嚴은 '엄하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'엄격'이나 '엄수'를 사용하여 문장을 써 보세요.",
+    "hint": "규칙이나 훈련에 관한 내용을 담아 보세요.",
+    "example_answer": "엄격한 훈련을 통해 실력을 키웠습니다.",
+    "key_vocabulary": [
+      "엄격",
+      "엄수"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "엄격한 기준을 지킵니다.",
+      "시간을 엄수합니다.",
+      "위엄 있는 태도를 보입니다."
+    ],
+    "pronunciation_tips": "'엄'을 명확하게 발음하며 읽어 보세요."
+  }
+}

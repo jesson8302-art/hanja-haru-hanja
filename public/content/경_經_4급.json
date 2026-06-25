@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "경",
+    "hanja_meaning": "날실",
+    "hanja_char": "經",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "經 — 씨실을 꿰어 세상을 엮다",
+    "etymology_story": "糸(실 사)와 巠(물줄기 경)이 합쳐진 글자입니다. 베를 짤 때 세로로 놓이는 '날실'을 뜻했으며, 이것이 모든 것을 꿰뚫는 기준이 된다는 뜻으로 '다스리다', '경험하다'는 의미로 확장되었습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "경험",
+      "word_hanja": "經驗",
+      "etymology_dissection": "經(날실 경)+驗(증험할 험) = 직접 겪어봄",
+      "easy_definition": "직접 겪거나 해본 일",
+      "context_sentence": "다양한 **경험**이 사람을 성장시킵니다."
+    },
+    {
+      "word_korean": "경제",
+      "word_hanja": "經濟",
+      "etymology_dissection": "經(다스릴 경)+濟(구제할 제) = 세상을 다스려 구함",
+      "easy_definition": "사회의 생산·소비·분배 활동 전체",
+      "context_sentence": "**경제**를 잘 알면 현명한 소비자가 될 수 있습니다."
+    },
+    {
+      "word_korean": "경로",
+      "word_hanja": "經路",
+      "etymology_dissection": "經(날실 경)+路(길 로) = 지나는 길",
+      "easy_definition": "지나가는 길이나 순서",
+      "context_sentence": "여행 **경로**를 미리 계획하면 더 알차게 즐길 수 있습니다."
+    },
+    {
+      "word_korean": "신경",
+      "word_hanja": "神經",
+      "etymology_dissection": "神(귀신 신)+經(날실 경) = 몸을 꿰뚫는 줄",
+      "easy_definition": "몸 전체에 퍼져 신호를 전달하는 조직",
+      "context_sentence": "손을 다쳐서 **신경**이 눌렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "경험이 최고의 스승",
+    "passage_text": "옛 어른들은 '백문이 불여일견'이라 했습니다. 백 번 듣는 것보다 한 번 직접 **경험**하는 것이 낫다는 뜻입니다. 책으로 수영을 배울 수 없듯, 많은 것들은 직접 겪어봐야 알 수 있습니다. 이처럼 다양한 **경험**은 우리에게 지식과 지혜를 줍니다. 또한 **경험**을 통해 얻은 교훈은 평생 기억에 남습니다.",
+    "quiz": {
+      "question": "'백문이 불여일견'의 뜻으로 알맞은 것은?",
+      "choices": [
+        "백 번 말하는 것이 한 번 듣는 것보다 낫다",
+        "백 번 듣는 것이 한 번 직접 경험하는 것보다 낫다",
+        "한 번 경험하는 것이 백 번 듣는 것보다 낫다",
+        "백 번 쓰는 것이 한 번 읽는 것보다 낫다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'백문이 불여일견'은 백 번 듣는 것(百聞)이 한 번 직접 보는 것(一見)만 못하다는 뜻으로, 직접 경험하는 것의 중요성을 강조합니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'경험'을 사용해서 자신이 직접 해보고 배운 것을 문장으로 써보세요.",
+    "model_example": "자전거 타기는 책으로 배우는 것보다 직접 타보는 **경험**을 통해야 진짜 실력이 생깁니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "經(경) — 날실 경! 경험·경제·경로 모두 이 글자에서! 대단해요!"
+  }
+}

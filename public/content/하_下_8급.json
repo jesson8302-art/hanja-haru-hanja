@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "하",
+    "hanja_meaning": "아래",
+    "hanja_char": "下",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "선 아래에 점이 있는 '아래 하(下)'",
+    "etymology_story": "'아래 하(下)'는 가로선 아래에 점 하나를 찍어 '여기 아래야!'라고 표시한 글자예요. 上(상)과 반대 위치에 점을 찍어 반대 뜻을 만들었어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "하늘(下--)",
+      "etymology_dissection": "아래 하(下)에서 온 말",
+      "easy_definition": "우리 말 '하늘'은 옛날에 '아래'에서 왔다는 설도 있어요",
+      "context_sentence": "파란 하늘을 올려다봐요."
+    },
+    {
+      "word_korean": "지하(地下)",
+      "etymology_dissection": "땅 지(地) + 아래 하(下) = 땅 아래",
+      "easy_definition": "땅 밑",
+      "context_sentence": "지하철은 땅 아래로 다녀요."
+    },
+    {
+      "word_korean": "하강(下降)",
+      "etymology_dissection": "아래 하(下) + 내릴 강(降) = 아래로 내려오는 것",
+      "easy_definition": "높은 곳에서 낮은 곳으로 내려오는 것",
+      "context_sentence": "기온이 하강하면 옷을 따뜻하게 입어요."
+    },
+    {
+      "word_korean": "천하(天下)",
+      "etymology_dissection": "하늘 천(天) + 아래 하(下) = 하늘 아래",
+      "easy_definition": "하늘 아래 온 세상",
+      "context_sentence": "이순신 장군은 천하무적 장수였어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "아래에서 위로",
+    "passage_text": "**지하(地下)** 세계에도 신기한 생물들이 살아요. 겨울이 되면 기온이 **하강(下降)**해요. **천하(天下)**를 다스리는 것은 힘이 아니라 지혜와 덕이에요.",
+    "quiz": {
+      "question": "'지하(地下)'의 뜻은?",
+      "choices": [
+        "하늘 위",
+        "땅 위",
+        "땅 아래",
+        "바다 위"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'지하(地下)'는 '땅 지 + 아래 하' = 땅 아래를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "땅 위와 땅 아래 세계에 대해 궁금한 점을 문장으로 써 보세요.",
+    "model_example": "지하철을 타고 지하로 내려가면, 그 아래 천하에 또 다른 세상이 펼쳐지는 것 같아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'아래 — 하(下)! 아래 — 하(下)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "識",
+    "hanja_sound": "식",
+    "hanja_meaning": "알",
+    "full_reading": "알 식",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "識",
+    "sound": "식",
+    "meaning": "알",
+    "stroke_count": 19,
+    "radical": "言",
+    "etymology_story": "識은 말(言)과 창 과(戈) 그리고 소리 음(音)이 합쳐진 글자입니다. 말과 소리로 분별하여 아는 모습에서 '알다', '지식', '기록하다'의 뜻이 생겼습니다.",
+    "memory_tip": "말(言)로 분별하여 아는(戈+音) 것이 '알다(識)'입니다.",
+    "level_context": "5급 한자로, 알을(를) 뜻하는 識입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "지식",
+      "word_hanja": "知識",
+      "reading": "지식",
+      "easy_definition": "알고 있는 것",
+      "etymology_dissection": "알 지(知)+알 식(識): 알고 앎",
+      "example_sentence": "지식을 쌓아야 합니다.",
+      "sentence_meaning": "알고 있는 것들을 쌓아야 합니다."
+    },
+    {
+      "word_korean": "상식",
+      "word_hanja": "常識",
+      "reading": "상식",
+      "easy_definition": "보통 알아야 할 지식",
+      "etymology_dissection": "항상 상(常)+알 식(識): 항상 알아야",
+      "example_sentence": "상식이 풍부합니다.",
+      "sentence_meaning": "보통 알아야 할 지식이 풍부합니다."
+    },
+    {
+      "word_korean": "인식",
+      "word_hanja": "認識",
+      "reading": "인식",
+      "easy_definition": "알아서 깨달음",
+      "etymology_dissection": "알 인(認)+알 식(識): 알아 깨달음",
+      "example_sentence": "문제를 인식했습니다.",
+      "sentence_meaning": "문제가 있다는 것을 알아 깨달았습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "지식은 힘입니다. 다양한 상식을 갖추면 생활에 도움이 됩니다. 문제를 정확하게 인식해야 해결할 수 있습니다.",
+    "passage_meaning": "지식, 상식, 인식 모두 '알다', '지식'을 뜻하는 識에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'인식'의 뜻은?",
+        "options": [
+          "모르는 것",
+          "알아서 깨닫는 것",
+          "잊는 것",
+          "포기하는 것"
+        ],
+        "correct_answer": "알아서 깨닫는 것",
+        "explanation": "인식(認識)은 알아서 깨닫는 것입니다."
+      },
+      {
+        "question": "'識'의 뜻은?",
+        "options": [
+          "모르다",
+          "알다·지식",
+          "잊다",
+          "헷갈리다"
+        ],
+        "correct_answer": "알다·지식",
+        "explanation": "識은 '알다', '지식'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'지식'이나 '상식'을 사용하여 문장을 써 보세요.",
+    "hint": "공부나 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "폭넓은 지식과 상식을 갖추면 생활이 풍요로워집니다.",
+    "key_vocabulary": [
+      "지식",
+      "상식"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "지식을 쌓습니다.",
+      "상식을 넓히세요.",
+      "문제를 인식합니다."
+    ],
+    "pronunciation_tips": "'식'을 명확하게 발음하며 읽어 보세요."
+  }
+}

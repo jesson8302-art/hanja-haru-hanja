@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "태",
+    "hanja_meaning": "클",
+    "hanja_char": "太",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "太 — 사람보다 더 큰 위대함",
+    "etymology_story": "太(태)는 클 대(大)에 점 하나를 더한 글자예요. 단순히 큰 것보다 더욱 크고 위대한 것을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "태양(太陽)",
+      "etymology_dissection": "클 태(太)+볕 양(陽)",
+      "easy_definition": "하늘의 해",
+      "context_sentence": "태양은 지구에 빛과 열을 줘요."
+    },
+    {
+      "word_korean": "태평(太平)",
+      "etymology_dissection": "클 태(太)+평평할 평(平)",
+      "easy_definition": "크게 평화로운 상태",
+      "context_sentence": "태평성대는 모두 행복한 시대예요."
+    },
+    {
+      "word_korean": "태극(太極)",
+      "etymology_dissection": "클 태(太)+끝 극(極)",
+      "easy_definition": "우주의 근원",
+      "context_sentence": "태극기에는 태극 문양이 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "태양의 고마움",
+    "passage_text": "태양(太陽)이 없으면 지구에 생명이 살 수 없어요. 태양은 빛과 온기를 줘서 식물이 자라게 해요. 태양 덕분에 인간이 태평(太平)하게 살 수 있어요. 우리나라 태극기(太極旗)도 태극의 원리를 담고 있어요.",
+    "quiz": {
+      "question": "'태양'이 지구에 주는 것은?",
+      "choices": [
+        "빛과 열",
+        "비와 바람",
+        "산소와 물",
+        "소리와 진동"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "태양(太陽)은 지구에 빛(光)과 열(熱)을 공급해 모든 생명이 살 수 있게 해주는 별이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "태양이 없는 세상을 상상해서 어떤 일이 일어날지 써 보세요.",
+    "model_example": "예) 태양이 없으면 지구는 캄캄해질 거예요. 식물이 자라지 못하고 모든 생명이 살기 어려워질 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "太(태)! 태양처럼 빛나는 어린이! 오늘도 잘했어요! ☀️"
+  }
+}

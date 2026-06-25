@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "체",
+    "hanja_meaning": "몸",
+    "hanja_char": "體",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "體 — 뼈와 살로 이루어진 몸 전체",
+    "etymology_story": "體(체)는 뼈 골(骨)과 풍성할 풍(豐)이 합쳐진 글자예요. 뼈와 살이 가득한 '몸 전체'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신체(身體)",
+      "etymology_dissection": "몸 신(身)+몸 체(體)",
+      "easy_definition": "사람의 몸 전체",
+      "context_sentence": "신체 검사에서 키를 쟀어요."
+    },
+    {
+      "word_korean": "체력(體力)",
+      "etymology_dissection": "몸 체(體)+힘 력(力)",
+      "easy_definition": "몸의 힘과 건강",
+      "context_sentence": "체력을 키우려면 꾸준히 운동해야 해요."
+    },
+    {
+      "word_korean": "체온(體溫)",
+      "etymology_dissection": "몸 체(體)+따뜻할 온(溫)",
+      "easy_definition": "몸의 온도",
+      "context_sentence": "열이 나서 체온을 쟀어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "건강한 몸",
+    "passage_text": "신체(身體)가 건강해야 공부도 잘할 수 있어요. 체력(體力)을 키우려면 매일 운동하고 잘 먹어야 해요. 아플 때는 체온(體溫)을 재서 열이 있는지 확인해요.",
+    "quiz": {
+      "question": "'체력'의 뜻은?",
+      "choices": [
+        "몸의 힘과 건강",
+        "뼈의 강도",
+        "마음의 힘",
+        "기억력"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "체력(體力)은 '몸 체(體)+힘 력(力)'으로, 몸이 건강하게 활동할 수 있는 에너지와 힘이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "체력을 키우기 위한 나만의 운동 계획을 써 보세요. 어떤 운동을 얼마나 할 건지 구체적으로 써 주세요.",
+    "model_example": "예) 월·수·금: 줄넘기 100개. 화·목: 30분 자전거 타기. 주말: 가족과 30분 산책."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "體(체)! 건강한 몸이 최고의 선물! 잘했어요! 💪"
+  }
+}

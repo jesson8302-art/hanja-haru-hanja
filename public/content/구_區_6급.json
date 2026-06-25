@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "구",
+    "hanja_meaning": "구분할",
+    "hanja_char": "區",
+    "hanja_level": "6급",
+    "linked_subject": "사회, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "여러 곳을 나누다 — 구분할 구(區)",
+    "etymology_story": "'구분할 구(區)'는 여러 칸(品)을 네모(匚)로 나눈 모습이에요. 여러 칸으로 나누고 구별하는 것이 '구분(區)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "구역(區域)",
+      "etymology_dissection": "구분할 구(區)+땅 역(域)",
+      "easy_definition": "나뉜 땅의 범위",
+      "context_sentence": "금연 구역이에요."
+    },
+    {
+      "word_korean": "구별(區別)",
+      "etymology_dissection": "구분할 구(區)+다를 별(別)",
+      "easy_definition": "나누어 다르게 보는 것",
+      "context_sentence": "종류를 구별해요."
+    },
+    {
+      "word_korean": "구청(區廳)",
+      "etymology_dissection": "구분할 구(區)+관청 청(廳)",
+      "easy_definition": "구를 관할하는 행정기관",
+      "context_sentence": "구청에서 서류를 발급해요."
+    },
+    {
+      "word_korean": "지구(地區)",
+      "etymology_dissection": "땅 지(地)+구분할 구(區)",
+      "easy_definition": "특정 구역의 땅",
+      "context_sentence": "우리 지구에 편의점이 없어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "구분의 지혜",
+    "passage_text": "**구별(區別)**하는 능력이 판단력이에요. **구역(區域)**을 지켜야 질서가 생겨요. **구청(區廳)**은 우리 지역 행정의 중심이에요.",
+    "quiz": {
+      "question": "'구별(區別)'이란?",
+      "choices": [
+        "구청",
+        "구역",
+        "나누어 다르게 보는 것",
+        "지구"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'구별(區別)'=구분할 구+다를 별, 나누어 서로 다름을 아는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "비슷해 보이는 것을 구별하거나 구분한 경험을 문장으로 써 보세요.",
+    "model_example": "구역을 나누고 구별하는 눈이 생기면 복잡한 세상도 질서 있게 보여요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'구분할 — 구(區)! 구분할 — 구(區)!' 열 번 외쳐요!"
+  }
+}

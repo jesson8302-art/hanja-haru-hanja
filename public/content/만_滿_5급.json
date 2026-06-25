@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "滿",
+    "hanja_sound": "만",
+    "hanja_meaning": "찰",
+    "full_reading": "찰 만",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "滿",
+    "sound": "만",
+    "meaning": "찰",
+    "stroke_count": 14,
+    "radical": "水",
+    "etymology_story": "滿은 물(水)과 차다를 뜻하는 㒼(만)이 합쳐진 글자입니다. 그릇에 물이 가득 찬 모습에서 '차다', '가득 찼다', '만족하다'의 뜻이 생겼습니다.",
+    "memory_tip": "그릇에 물(水)이 가득 찬(㒼) 것이 '滿'입니다.",
+    "level_context": "5급 한자로, 찰을(를) 뜻하는 滿입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "만족",
+      "word_hanja": "滿足",
+      "reading": "만족",
+      "easy_definition": "흡족하게 가득 참",
+      "etymology_dissection": "찰 만(滿)+발 족(足): 발까지 가득 찬 느낌",
+      "example_sentence": "결과에 만족합니다.",
+      "sentence_meaning": "결과가 흡족하게 가득 찼습니다."
+    },
+    {
+      "word_korean": "충만",
+      "word_hanja": "充滿",
+      "reading": "충만",
+      "easy_definition": "가득 차고 넘침",
+      "etymology_dissection": "채울 충(充)+찰 만(滿): 채워 가득 참",
+      "example_sentence": "행복으로 충만합니다.",
+      "sentence_meaning": "행복이 가득 차고 넘칩니다."
+    },
+    {
+      "word_korean": "만원",
+      "word_hanja": "滿員",
+      "reading": "만원",
+      "easy_definition": "정원이 가득 참",
+      "etymology_dissection": "찰 만(滿)+사람 원(員): 사람이 가득 참",
+      "example_sentence": "버스가 만원입니다.",
+      "sentence_meaning": "버스에 사람이 가득 찼습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "열심히 한 일에 만족감을 느낍니다. 행복으로 충만한 하루를 보냅니다. 주말 버스는 만원이어서 자리가 없습니다.",
+    "passage_meaning": "만족, 충만, 만원 모두 '가득 차다'는 뜻의 滿에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'만족'의 뜻으로 알맞은 것은?",
+        "options": [
+          "아쉽고 부족한 느낌",
+          "흡족하게 가득 찬 느낌",
+          "불편한 느낌",
+          "모자란 느낌"
+        ],
+        "correct_answer": "흡족하게 가득 찬 느낌",
+        "explanation": "만족(滿足)은 흡족하게 가득 찬 느낌입니다."
+      },
+      {
+        "question": "'충만'에서 '滿'의 뜻은?",
+        "options": [
+          "비다",
+          "가득 차다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "가득 차다",
+        "explanation": "충만(充滿)의 滿은 '가득 차다'로, 가득 차고 넘치는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'만족'이나 '충만'을 사용하여 문장을 써 보세요.",
+    "hint": "감정이나 일상과 관련된 내용을 담아 보세요.",
+    "example_answer": "오늘도 행복으로 충만한 하루입니다.",
+    "key_vocabulary": [
+      "만족",
+      "충만"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "노력 끝에 만족스러운 결과를 얻었습니다.",
+      "희망으로 충만하게 살겠습니다.",
+      "버스가 만원이라 택시를 탔습니다."
+    ],
+    "pronunciation_tips": "'만'을 명확하게 발음하며 읽어 보세요."
+  }
+}

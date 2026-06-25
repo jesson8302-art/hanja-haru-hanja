@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "안",
+    "hanja_meaning": "편안할",
+    "hanja_char": "安",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "지붕 아래 여자가 있으면 편안하다 — 편안할 안(安)",
+    "etymology_story": "'편안할 안(安)'은 집(宀) 안에 여자(女)가 있는 모습이에요. 가정에 여성의 따뜻함이 있으면 집이 편안해진다는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "안전(安全)",
+      "etymology_dissection": "편안할 안(安)+온전 전(全)",
+      "easy_definition": "위험하지 않고 온전한 것",
+      "context_sentence": "안전모를 쓰고 자전거를 타요."
+    },
+    {
+      "word_korean": "안심(安心)",
+      "etymology_dissection": "편안할 안(安)+마음 심(心)",
+      "easy_definition": "마음이 편한 것",
+      "context_sentence": "부모님이 안심하도록 연락해요."
+    },
+    {
+      "word_korean": "불안(不安)",
+      "etymology_dissection": "아닐 불(不)+편안할 안(安)",
+      "easy_definition": "편하지 않은 걱정",
+      "context_sentence": "발표 전에 불안했어요."
+    },
+    {
+      "word_korean": "안정(安定)",
+      "etymology_dissection": "편안할 안(安)+정할 정(定)",
+      "easy_definition": "흔들리지 않고 안정된 것",
+      "context_sentence": "마음이 안정돼야 집중해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "편안함의 힘",
+    "passage_text": "**안전(安全)**이 최우선이에요. **안심(安心)**할 수 있는 환경이 중요해요. **불안(不安)**할 때는 **안정(安定)**을 찾는 방법을 배워요.",
+    "quiz": {
+      "question": "'안심(安心)'이란?",
+      "choices": [
+        "위험한 것",
+        "걱정이 없고 마음이 편한 것",
+        "불안한 것",
+        "안정된 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'안심(安心)'=편안할 안+마음 심, 마음이 놓여 편안한 상태예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "안심했던 경험이나 누군가를 안심시킨 경험을 문장으로 써 보세요.",
+    "model_example": "안전하게 귀가해서 부모님이 안심할 수 있도록 항상 연락하는 습관이 안정된 생활을 만들어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'편안할 — 안(安)! 편안할 — 안(安)!' 열 번 외쳐요!"
+  }
+}

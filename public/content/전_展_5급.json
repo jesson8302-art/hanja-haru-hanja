@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "펼",
+    "hanja_char": "展",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "展 — 옷을 펼쳐 보이다",
+    "etymology_story": "尸(주검 시, 펼쳐진 모양)와 衣(옷 의, 변형)가 합쳐진 글자입니다. 옷을 넓게 펼치는 모습에서 '펼치다', '전시하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "발전",
+      "word_hanja": "發展",
+      "etymology_dissection": "發(필 발)+展(펼 전) = 피어 펼쳐짐",
+      "easy_definition": "더 좋은 방향으로 나아가고 커짐",
+      "context_sentence": "기술이 빠르게 **발전**하고 있습니다."
+    },
+    {
+      "word_korean": "전시",
+      "word_hanja": "展示",
+      "etymology_dissection": "展(펼 전)+示(보일 시) = 펼쳐 보임",
+      "easy_definition": "여러 사람에게 물건이나 작품을 보여줌",
+      "context_sentence": "미술관에서 **전시**가 열립니다."
+    },
+    {
+      "word_korean": "전개",
+      "word_hanja": "展開",
+      "etymology_dissection": "展(펼 전)+開(열 개) = 펼쳐 열음",
+      "easy_definition": "내용이나 활동을 펼쳐 나감",
+      "context_sentence": "이야기가 흥미롭게 **전개**되었습니다."
+    },
+    {
+      "word_korean": "진전",
+      "word_hanja": "進展",
+      "etymology_dissection": "進(나아갈 진)+展(펼 전) = 나아가 펼쳐짐",
+      "easy_definition": "일이 더 진행되어 발전함",
+      "context_sentence": "협상에 **진전**이 있었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "전시의 역사",
+    "passage_text": "인류 최초의 **전시**는 아마 동굴 벽화였을 것입니다. 고대 이집트의 신전 벽화, 그리스의 조각들도 일종의 **전시**였습니다. 근대 박물관과 미술관은 18세기 유럽에서 **발전**했습니다. 과거에는 왕과 귀족만 즐기던 예술 작품을 일반 시민도 볼 수 있게 된 것입니다. 오늘날 온라인 **전시**의 **발전**으로 집에서도 세계 최고의 박물관 소장품을 볼 수 있습니다.",
+    "quiz": {
+      "question": "근대 박물관과 미술관의 의의는?",
+      "choices": [
+        "왕족만을 위한 공간이 되었다",
+        "과거에 왕족만 즐기던 예술을 일반 시민도 볼 수 있게 되었다",
+        "비용이 무료가 되었다",
+        "전시 기간이 길어졌다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "근대 박물관과 미술관은 왕과 귀족만 즐기던 예술 작품을 일반 시민도 볼 수 있게 했다는 의의가 있습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'발전'을 사용해서 앞으로 더 발전하고 싶은 분야에 대해 써보세요.",
+    "model_example": "글쓰기 실력이 더욱 **발전**하기 위해 매일 일기를 쓰고, 좋은 책을 읽으며 표현력을 키울 것입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "展(전) — 펼 전! 발전·전시·전개·진전 모두 여기서! 쭉쭉 발전했어요!"
+  }
+}

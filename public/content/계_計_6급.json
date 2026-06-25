@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "계",
+    "hanja_meaning": "셀",
+    "hanja_char": "計",
+    "hanja_level": "6급",
+    "linked_subject": "수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "말로 수를 세다 — 셀 계(計)",
+    "etymology_story": "'셀 계(計)'는 말씀 언(言)과 열 십(十)이 합쳐진 글자예요. 말로 하나씩 수를 세는 것이 '계산하다(計)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "계획(計劃)",
+      "etymology_dissection": "셀 계(計)+그을 획(劃)",
+      "easy_definition": "미리 방법을 정해 두는 것",
+      "context_sentence": "계획을 세워요."
+    },
+    {
+      "word_korean": "계산(計算)",
+      "etymology_dissection": "셀 계(計)+셈 산(算)",
+      "easy_definition": "수를 더하고 빼는 것",
+      "context_sentence": "정확하게 계산해요."
+    },
+    {
+      "word_korean": "시계(時計)",
+      "etymology_dissection": "때 시(時)+셀 계(計)",
+      "easy_definition": "시간을 재는 도구",
+      "context_sentence": "시계가 멈췄어요."
+    },
+    {
+      "word_korean": "합계(合計)",
+      "etymology_dissection": "합할 합(合)+셀 계(計)",
+      "easy_definition": "모두 더한 값",
+      "context_sentence": "합계를 구해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "계획의 힘",
+    "passage_text": "**계획(計劃)**을 잘 세우면 **계산(計算)**이 맞아요. **시계(時計)**처럼 정확하게 시간을 관리해요. **합계(合計)**를 구하면 전체가 보여요.",
+    "quiz": {
+      "question": "'계획(計劃)'이란?",
+      "choices": [
+        "계산",
+        "합계",
+        "미리 방법을 정해 두는 것",
+        "시계"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'계획(計劃)'=셀 계+그을 획, 미리 방법과 순서를 정해두는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "계획을 세우고 실천한 경험을 문장으로 써 보세요.",
+    "model_example": "계획을 세우고 합계를 확인하며 시계를 보는 습관이 목표 달성의 지름길이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'셀 — 계(計)! 셀 — 계(計)!' 열 번 외쳐요!"
+  }
+}

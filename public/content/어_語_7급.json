@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "어",
+    "hanja_meaning": "말씀",
+    "hanja_char": "語",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "내 말(言)을 지켜주다 — 말씀 어(語)",
+    "etymology_story": "'말씀 어(語)'는 말씀 언(言)과 나 오(吾)가 합쳐진 글자예요. 내(吾)가 하는 말(言)이 바로 '말씀(語)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국어(國語)",
+      "etymology_dissection": "나라 국(國)+말씀 어(語)",
+      "easy_definition": "우리나라 언어",
+      "context_sentence": "국어 실력이 모든 공부의 기초예요."
+    },
+    {
+      "word_korean": "어학(語學)",
+      "etymology_dissection": "말씀 어(語)+배울 학(學)",
+      "easy_definition": "언어를 배우는 학문",
+      "context_sentence": "어학 공부를 열심히 해요."
+    },
+    {
+      "word_korean": "용어(用語)",
+      "etymology_dissection": "쓸 용(用)+말씀 어(語)",
+      "easy_definition": "특정 분야에서 쓰는 말",
+      "context_sentence": "과학 용어를 익혀요."
+    },
+    {
+      "word_korean": "어휘(語彙)",
+      "etymology_dissection": "말씀 어(語)+모을 휘(彙)",
+      "easy_definition": "단어들의 모음",
+      "context_sentence": "어휘력을 늘리면 글쓰기가 쉬워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "언어의 힘",
+    "passage_text": "**국어(國語)**는 모든 학습의 기본이에요. **어학(語學)** 실력이 좋으면 세계와 소통해요. **어휘(語彙)**가 풍부하면 생각이 깊어져요. **용어(用語)**를 알면 공부가 쉬워요.",
+    "quiz": {
+      "question": "'어휘(語彙)'란?",
+      "choices": [
+        "한 단어",
+        "과학 용어",
+        "단어들의 모음",
+        "국어"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'어휘(語彙)'=말씀 어+모을 휘, 단어들을 모아 놓은 집합이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어휘력을 늘리기 위해 하는 노력을 문장으로 써 보세요.",
+    "model_example": "국어 어휘를 매일 세 개씩 익히면서 어학 실력이 쑥쑥 늘었어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'말씀 — 어(語)! 말씀 — 어(語)!' 열 번 외쳐요!"
+  }
+}

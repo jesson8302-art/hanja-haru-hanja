@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "근",
+    "hanja_meaning": "가까울",
+    "hanja_char": "近",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "가까운 길 — 가까울 근(近)",
+    "etymology_story": "'가까울 근(近)'은 도끼(斤)와 걸을 착(辶)이 합쳐진 글자예요. 도끼로 나무를 베는 가까운 거리를 걸어가는 것이 '가깝다(近)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "근처(近處)",
+      "etymology_dissection": "가까울 근(近)+곳 처(處)",
+      "easy_definition": "가까운 곳",
+      "context_sentence": "학교 근처에 살아요."
+    },
+    {
+      "word_korean": "근래(近來)",
+      "etymology_dissection": "가까울 근(近)+올 래(來)",
+      "easy_definition": "최근에",
+      "context_sentence": "근래에 비가 많이 왔어요."
+    },
+    {
+      "word_korean": "최근(最近)",
+      "etymology_dissection": "가장 최(最)+가까울 근(近)",
+      "easy_definition": "가장 가까운 때, 요즘",
+      "context_sentence": "최근 건강을 챙겨요."
+    },
+    {
+      "word_korean": "친근(親近)",
+      "etymology_dissection": "친할 친(親)+가까울 근(近)",
+      "easy_definition": "가깝고 친한 것",
+      "context_sentence": "친근하게 인사해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "가까움의 소중함",
+    "passage_text": "**근처(近處)**의 소중한 것을 발견해요. **최근(最近)** 배운 것을 복습해요. **친근(親近)**한 사람이 되는 것이 인생의 재산이에요.",
+    "quiz": {
+      "question": "'친근(親近)'이란?",
+      "choices": [
+        "근처",
+        "최근",
+        "가깝고 친한 것",
+        "근래"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'친근(親近)'=친할 친+가까울 근, 친하고 가까운 느낌이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "가까운 사람(친근한 사람)에게 고마움을 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "최근에 근처 친구에게 친근하게 다가갔더니 좋은 친구가 생겼어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'가까울 — 근(近)! 가까울 — 근(近)!' 열 번 외쳐요!"
+  }
+}

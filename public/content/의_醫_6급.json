@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "의",
+    "hanja_meaning": "의원",
+    "hanja_char": "醫",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "醫 — 상자와 화살과 술로 병을 고치다",
+    "etymology_story": "醫(의)는 화살통(矢)·손(殳)·술통(酉)이 합쳐진 글자예요. 옛날 의원이 화살 상처를 술로 소독하고 치료한 데서 '의원·의학'을 뜻하게 되었어요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "의사(醫師)",
+      "etymology_dissection": "의원 의(醫)+스승 사(師)",
+      "easy_definition": "병을 고쳐주는 전문가",
+      "context_sentence": "아픈 배를 고치러 의사 선생님께 갔어요."
+    },
+    {
+      "word_korean": "의학(醫學)",
+      "etymology_dissection": "의원 의(醫)+배울 학(學)",
+      "easy_definition": "병을 연구하고 치료하는 학문",
+      "context_sentence": "의학이 발달해서 많은 병을 고칠 수 있어요."
+    },
+    {
+      "word_korean": "의원(醫院)",
+      "etymology_dissection": "의원 의(醫)+집 원(院)",
+      "easy_definition": "동네에 있는 작은 병원",
+      "context_sentence": "감기에 걸려 동네 의원에 갔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "의사를 꿈꾸는 아이",
+    "passage_text": "다은이는 커서 의사(醫師)가 되고 싶어요. 의학(醫學)을 열심히 공부해서 아픈 사람들을 도와주고 싶어요. 오늘은 감기가 심해 의원(醫院)에 갔어요. 의사 선생님을 보며 더욱 꿈을 키웠어요.",
+    "quiz": {
+      "question": "'의학'의 뜻은?",
+      "choices": [
+        "병을 연구하고 치료하는 학문",
+        "요리를 배우는 것",
+        "운동을 연구하는 것",
+        "법을 공부하는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "의학(醫學)은 '의원 의(醫)+배울 학(學)'으로, 병의 원인과 치료를 연구하는 학문이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 의사라면 어떤 병을 치료하고 싶은지, 그 이유와 함께 써 보세요.",
+    "model_example": "예) 저는 암을 치료하는 의사가 되고 싶어요. 많은 분들이 암으로 힘들어하시기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "醫(의)! 병을 고치는 멋진 꿈을 키우자! 잘했어요! 🩺"
+  }
+}

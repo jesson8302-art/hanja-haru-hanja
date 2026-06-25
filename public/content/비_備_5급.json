@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "備",
+    "hanja_sound": "비",
+    "hanja_meaning": "갖출",
+    "full_reading": "갖출 비",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "備",
+    "sound": "비",
+    "meaning": "갖출",
+    "stroke_count": 12,
+    "radical": "人",
+    "etymology_story": "備는 사람(人)과 도구 통에 화살이 가득 찬 모습이 합쳐진 글자입니다. 필요한 것을 미리 갖추는 모습에서 '갖추다', '준비하다', '대비하다'의 뜻이 생겼습니다.",
+    "memory_tip": "화살을 가득 갖춘(人) 것처럼 '준비하다'가 '備'입니다.",
+    "level_context": "5급 한자로, 갖출을(를) 뜻하는 備입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "준비",
+      "word_hanja": "準備",
+      "reading": "준비",
+      "easy_definition": "미리 갖춤",
+      "etymology_dissection": "준 준(準)+갖출 비(備): 준하여 갖춤",
+      "example_sentence": "여행 준비를 했습니다.",
+      "sentence_meaning": "여행에 필요한 것을 미리 갖췄습니다."
+    },
+    {
+      "word_korean": "설비",
+      "word_hanja": "設備",
+      "reading": "설비",
+      "easy_definition": "설치된 기구나 시설",
+      "etymology_dissection": "베풀 설(設)+갖출 비(備): 설치하여 갖춤",
+      "example_sentence": "최신 설비를 갖췄습니다.",
+      "sentence_meaning": "최신 기구와 시설을 갖췄습니다."
+    },
+    {
+      "word_korean": "방비",
+      "word_hanja": "防備",
+      "reading": "방비",
+      "easy_definition": "위험을 막기 위해 갖춤",
+      "etymology_dissection": "막을 방(防)+갖출 비(備): 막을 것을 갖춤",
+      "example_sentence": "적의 침입에 방비했습니다.",
+      "sentence_meaning": "적이 침입하지 못하도록 미리 갖췄습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "여행을 떠나기 전에 준비를 철저히 합니다. 최신 설비가 있는 체육관에서 운동합니다. 안전을 위한 방비가 중요합니다.",
+    "passage_meaning": "준비, 설비, 방비 모두 '갖추다', '준비하다'는 뜻의 備에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'준비'의 뜻으로 알맞은 것은?",
+        "options": [
+          "미리 갖추는 것",
+          "나중에 생각하는 것",
+          "아무것도 하지 않는 것",
+          "포기하는 것"
+        ],
+        "correct_answer": "미리 갖추는 것",
+        "explanation": "준비(準備)는 미리 갖추는 것입니다."
+      },
+      {
+        "question": "'설비'에서 '備'의 뜻은?",
+        "options": [
+          "설치",
+          "갖추다",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "갖추다",
+        "explanation": "설비(設備)의 備는 '갖추다'로, 설치된 기구나 시설을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'준비'나 '설비'를 사용하여 문장을 써 보세요.",
+    "hint": "여행이나 시설과 관련된 내용을 담아 보세요.",
+    "example_answer": "철저한 준비가 성공의 비결입니다.",
+    "key_vocabulary": [
+      "준비",
+      "설비"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "여행 준비를 시작합니다.",
+      "최신 설비가 편리합니다.",
+      "방비가 잘 되어 있습니다."
+    ],
+    "pronunciation_tips": "'비'을 명확하게 발음하며 읽어 보세요."
+  }
+}

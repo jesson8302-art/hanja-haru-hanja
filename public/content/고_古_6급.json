@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "고",
+    "hanja_meaning": "옛",
+    "hanja_char": "古",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "열 세대를 이어온 것 — 옛 고(古)",
+    "etymology_story": "'옛 고(古)'는 열 십(十)과 입 구(口)가 합쳐진 글자예요. 열 세대를 이어 입(口)으로 전해온 이야기가 바로 '옛것(古)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "고대(古代)",
+      "etymology_dissection": "옛 고(古)+시대 대(代)",
+      "easy_definition": "아주 오랜 옛날",
+      "context_sentence": "고대 문명을 배워요."
+    },
+    {
+      "word_korean": "고전(古典)",
+      "etymology_dissection": "옛 고(古)+법 전(典)",
+      "easy_definition": "오래되어 가치 있는 작품",
+      "context_sentence": "고전을 읽어요."
+    },
+    {
+      "word_korean": "고궁(古宮)",
+      "etymology_dissection": "옛 고(古)+집 궁(宮)",
+      "easy_definition": "오래된 궁궐",
+      "context_sentence": "고궁을 견학했어요."
+    },
+    {
+      "word_korean": "복고(復古)",
+      "etymology_dissection": "돌아올 복(復)+옛 고(古)",
+      "easy_definition": "옛것으로 돌아가는 것",
+      "context_sentence": "복고 패션이 유행이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "역사의 지혜",
+    "passage_text": "**고전(古典)**에는 오랜 지혜가 담겨있어요. **고대(古代)**를 공부하면 현재를 이해해요. **고궁(古宮)**은 살아있는 역사 교실이에요.",
+    "quiz": {
+      "question": "'고전(古典)'이란?",
+      "choices": [
+        "고대",
+        "복고 패션",
+        "오래되어 가치 있는 작품",
+        "고궁"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'고전(古典)'=옛 고+법 전, 오랜 세월이 지나도 가치 있는 작품이나 법칙이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "옛것(역사, 전통)에서 배운 지혜를 문장으로 써 보세요.",
+    "model_example": "고전을 읽고 고궁을 걸으면 고대의 지혜가 현재에도 살아있음을 느껴요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'옛 — 고(古)! 옛 — 고(古)!' 열 번 외쳐요!"
+  }
+}

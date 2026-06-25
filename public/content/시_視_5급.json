@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "視",
+    "hanja_sound": "시",
+    "hanja_meaning": "볼",
+    "full_reading": "볼 시",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "視",
+    "sound": "시",
+    "meaning": "볼",
+    "stroke_count": 11,
+    "radical": "見",
+    "etymology_story": "視는 볼 견(見)과 보일 시(示)가 합쳐진 글자입니다. 눈으로 자세히 살펴보는 모습에서 '보다', '살피다'의 뜻이 생겼습니다.",
+    "memory_tip": "눈(見)으로 자세히 살피는(示) 것이 '보다(視)'입니다.",
+    "level_context": "5급 한자로, 볼을(를) 뜻하는 視입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "시력",
+      "word_hanja": "視力",
+      "reading": "시력",
+      "easy_definition": "눈이 보는 힘",
+      "etymology_dissection": "볼 시(視)+힘 력(力): 보는 힘",
+      "example_sentence": "시력 검사를 받았습니다.",
+      "sentence_meaning": "눈이 보는 힘을 검사받았습니다."
+    },
+    {
+      "word_korean": "중시",
+      "word_hanja": "重視",
+      "reading": "중시",
+      "easy_definition": "중요하게 여겨봄",
+      "etymology_dissection": "중할 중(重)+볼 시(視): 중요하게 봄",
+      "example_sentence": "건강을 중시합니다.",
+      "sentence_meaning": "건강을 중요하게 여겨봅니다."
+    },
+    {
+      "word_korean": "시청",
+      "word_hanja": "視聽",
+      "reading": "시청",
+      "easy_definition": "보고 들음",
+      "etymology_dissection": "볼 시(視)+들을 청(聽): 보고 들음",
+      "example_sentence": "TV를 시청합니다.",
+      "sentence_meaning": "TV를 보고 듣습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "시력이 나빠지지 않도록 눈을 보호해야 합니다. 건강을 중시하여 운동합니다. 저녁에 TV를 시청합니다.",
+    "passage_meaning": "시력, 중시, 시청 모두 '보다', '살피다'를 뜻하는 視에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'중시'의 뜻은?",
+        "options": [
+          "무시하는 것",
+          "중요하게 여기는 것",
+          "싫어하는 것",
+          "잊는 것"
+        ],
+        "correct_answer": "중요하게 여기는 것",
+        "explanation": "중시(重視)는 중요하게 여기는 것입니다."
+      },
+      {
+        "question": "'視'의 뜻은?",
+        "options": [
+          "듣다",
+          "보다·살피다",
+          "먹다",
+          "달리다"
+        ],
+        "correct_answer": "보다·살피다",
+        "explanation": "視는 '보다', '살피다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'시력'이나 '중시'를 사용하여 문장을 써 보세요.",
+    "hint": "건강이나 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "눈 건강을 중시하여 시력을 보호합니다.",
+    "key_vocabulary": [
+      "시력",
+      "중시"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "시력을 보호하세요.",
+      "건강을 중시합시다.",
+      "TV 시청 시간을 조절합니다."
+    ],
+    "pronunciation_tips": "'시'을 명확하게 발음하며 읽어 보세요."
+  }
+}

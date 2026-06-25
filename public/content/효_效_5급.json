@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "효",
+    "hanja_meaning": "본받을",
+    "hanja_char": "效",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "效 — 가르침을 본받아 힘쓰다",
+    "etymology_story": "交(사귈 교)와 攴(칠 복)이 합쳐진 글자입니다. 스승의 가르침을 본받아 힘써 행동하는 모습에서 '본받다', '효과'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "효과",
+      "word_hanja": "效果",
+      "etymology_dissection": "效(본받을 효)+果(열매 과) = 본받아 맺은 열매",
+      "easy_definition": "어떤 행동이 나타내는 결과나 작용",
+      "context_sentence": "약을 먹고 **효과**가 나타났습니다."
+    },
+    {
+      "word_korean": "효율",
+      "word_hanja": "效率",
+      "etymology_dissection": "效(본받을 효)+率(비율 률) = 효과의 비율",
+      "easy_definition": "들인 노력에 비해 얻은 결과의 비율",
+      "context_sentence": "공부할 때 **효율**을 높이려면 집중력이 중요합니다."
+    },
+    {
+      "word_korean": "효능",
+      "word_hanja": "效能",
+      "etymology_dissection": "效(본받을 효)+能(능할 능) = 효과와 능력",
+      "easy_definition": "어떤 것이 가진 효험과 능력",
+      "context_sentence": "이 약의 **효능**이 뛰어납니다."
+    },
+    {
+      "word_korean": "유효",
+      "word_hanja": "有效",
+      "etymology_dissection": "有(있을 유)+效(본받을 효) = 효력이 있음",
+      "easy_definition": "효력이나 효과가 있음",
+      "context_sentence": "이 쿠폰은 이번 달까지 **유효**합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "효율적인 공부법",
+    "passage_text": "같은 시간을 공부해도 **효율**에 따라 결과가 달라집니다. 단순히 오래 앉아 있는 것보다 집중해서 짧게 공부하는 것이 더 **효과**적일 수 있습니다. 뇌 과학 연구에 따르면 25분 집중, 5분 휴식을 반복하는 '포모도로 기법'이 학습 **효율**을 높인다고 합니다. 자신에게 맞는 **효과**적인 공부법을 찾는 것이 중요합니다.",
+    "quiz": {
+      "question": "포모도로 기법의 핵심 방식은?",
+      "choices": [
+        "1시간 집중, 1시간 휴식",
+        "25분 집중, 5분 휴식 반복",
+        "공부와 휴식을 섞지 않음",
+        "밤에만 집중해서 공부"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "뇌 과학 연구에서 언급된 포모도로 기법은 25분 집중, 5분 휴식을 반복하는 방식입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'효과'나 '효율'을 사용해서 자신만의 공부법이나 습관에 대해 써보세요.",
+    "model_example": "공부 전에 책상을 정리하면 집중력이 높아져 **효율**이 올라가는 **효과**를 느낍니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "效(효) — 본받을 효! 효과·효율·효능·유효 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "방",
+    "hanja_meaning": "놓을",
+    "hanja_char": "放",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "양을 풀어놓다 — 놓을 방(放)",
+    "etymology_story": "'놓을 방(放)'은 방(方)과 두드릴 복(攴)이 합쳐진 글자예요. 가축을 사방으로 풀어놓는 것이 '놓다, 풀어주다(放)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "방학(放學)",
+      "etymology_dissection": "놓을 방(放)+배울 학(學)",
+      "easy_definition": "학교가 쉬는 기간",
+      "context_sentence": "방학이 기다려요."
+    },
+    {
+      "word_korean": "해방(解放)",
+      "etymology_dissection": "풀 해(解)+놓을 방(放)",
+      "easy_definition": "속박에서 풀어주는 것",
+      "context_sentence": "광복절은 해방의 날이에요."
+    },
+    {
+      "word_korean": "방송(放送)",
+      "etymology_dissection": "놓을 방(放)+보낼 송(送)",
+      "easy_definition": "전파로 내보내는 것",
+      "context_sentence": "방송을 봐요."
+    },
+    {
+      "word_korean": "개방(開放)",
+      "etymology_dissection": "열 개(開)+놓을 방(放)",
+      "easy_definition": "열어서 자유롭게 하는 것",
+      "context_sentence": "도서관이 개방됐어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자유의 의미",
+    "passage_text": "**방학(放學)**은 자유롭게 성장하는 시간이에요. **해방(解放)**은 자유의 출발이에요. **방송(放送)**은 정보를 자유롭게 퍼뜨려요.",
+    "quiz": {
+      "question": "'해방(解放)'이란?",
+      "choices": [
+        "방학",
+        "방송",
+        "속박에서 풀어주는 것",
+        "개방"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'해방(解放)'=풀 해+놓을 방, 속박이나 억압에서 벗어나 자유로워지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "자유나 해방감을 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "방학처럼 해방된 시간을 방송보다 개방된 마음으로 보내면 진짜 자유예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'놓을 — 방(放)! 놓을 — 방(放)!' 열 번 외쳐요!"
+  }
+}

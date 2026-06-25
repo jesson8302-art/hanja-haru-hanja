@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "감",
+    "hanja_meaning": "느낄",
+    "hanja_char": "感",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "마음이 움직여 느끼다 — 느낄 감(感)",
+    "etymology_story": "'느낄 감(感)'은 함(咸, 다함께)과 마음(心)이 합쳐진 글자예요. 온 마음이 함께 움직이는 것이 '느끼는 것(感)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "감사(感謝)",
+      "etymology_dissection": "느낄 감(感)+사례할 사(謝)",
+      "easy_definition": "고마운 마음을 표현하는 것",
+      "context_sentence": "감사 편지를 썼어요."
+    },
+    {
+      "word_korean": "감동(感動)",
+      "etymology_dissection": "느낄 감(感)+움직일 동(動)",
+      "easy_definition": "마음이 깊이 움직이는 것",
+      "context_sentence": "영화를 보고 감동받았어요."
+    },
+    {
+      "word_korean": "감정(感情)",
+      "etymology_dissection": "느낄 감(感)+뜻 정(情)",
+      "easy_definition": "기쁨, 슬픔 등의 마음 상태",
+      "context_sentence": "감정을 솔직히 표현해요."
+    },
+    {
+      "word_korean": "오감(五感)",
+      "etymology_dissection": "다섯 오(五)+느낄 감(感)",
+      "easy_definition": "시각·청각·후각·미각·촉각",
+      "context_sentence": "오감으로 세상을 느껴요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "감동의 힘",
+    "passage_text": "**감사(感謝)**하는 마음이 행복을 만들어요. **감동(感動)**을 받으면 삶이 풍요로워져요. **오감(五感)**을 열면 세상이 더 아름답게 느껴져요.",
+    "quiz": {
+      "question": "'오감(五感)'이란?",
+      "choices": [
+        "다섯 가지 감정",
+        "시각·청각·후각·미각·촉각",
+        "감동",
+        "감사"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'오감(五感)'=다섯 오+느낄 감, 인간의 다섯 가지 감각이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "최근 감동받은 경험이나 감사한 일을 문장으로 써 보세요.",
+    "model_example": "오감을 열고 주변을 느끼면 감동과 감사가 넘치는 하루가 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'느낄 — 감(感)! 느낄 — 감(感)!' 열 번 외쳐요!"
+  }
+}

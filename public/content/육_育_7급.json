@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "육",
+    "hanja_meaning": "기를",
+    "hanja_char": "育",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "아이가 거꾸로 태어나 양육하다 — 기를 육(育)",
+    "etymology_story": "'기를 육(育)'은 아이가 거꾸로 태어나는 모습(子거꾸로)과 고기(月)가 합쳐진 글자예요. 태어난 아이에게 먹이고 키우는 것이 '기르는 것(育)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "교육(敎育)",
+      "etymology_dissection": "가르칠 교(敎)+기를 육(育)",
+      "easy_definition": "가르쳐서 기르는 것",
+      "context_sentence": "좋은 교육이 미래를 바꿔요."
+    },
+    {
+      "word_korean": "육아(育兒)",
+      "etymology_dissection": "기를 육(育)+아이 아(兒)",
+      "easy_definition": "아이를 기르는 것",
+      "context_sentence": "육아는 사랑의 실천이에요."
+    },
+    {
+      "word_korean": "체육(體育)",
+      "etymology_dissection": "몸 체(體)+기를 육(育)",
+      "easy_definition": "몸을 기르는 교육",
+      "context_sentence": "체육 시간에 축구를 해요."
+    },
+    {
+      "word_korean": "양육(養育)",
+      "etymology_dissection": "기를 양(養)+기를 육(育)",
+      "easy_definition": "먹이고 돌보며 기르는 것",
+      "context_sentence": "부모님이 우리를 양육해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "기름의 사랑",
+    "passage_text": "**교육(敎育)**은 가장 큰 선물이에요. **체육(體育)**으로 건강한 몸을 만들어요. **육아(育兒)**는 사랑과 인내로 이루어져요. **양육(養育)**해주신 부모님께 감사해요.",
+    "quiz": {
+      "question": "'체육(體育)'이란?",
+      "choices": [
+        "아이 기르는 것",
+        "몸을 기르는 교육",
+        "먹이고 기르는 것",
+        "가르쳐 기르는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'체육(體育)'=몸 체+기를 육, 몸을 기르고 단련하는 교육이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나를 기르고 교육해준 사람에 대한 감사를 문장으로 써 보세요.",
+    "model_example": "교육으로 마음을, 체육으로 몸을 기른 지금의 나는 양육해주신 부모님의 사랑 덕분이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'기를 — 육(育)! 기를 — 육(育)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "無",
+    "hanja_sound": "무",
+    "hanja_meaning": "없을",
+    "full_reading": "없을 무",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "無",
+    "sound": "무",
+    "meaning": "없을",
+    "stroke_count": 12,
+    "radical": "火",
+    "etymology_story": "無는 사람이 춤추는 모습을 본뜬 글자였으나, 후에 '없다'의 뜻으로 쓰이게 되었습니다. '없다', '아무것도 없는'의 뜻입니다.",
+    "memory_tip": "아무것도 없는 것이 '無(없다)'입니다.",
+    "level_context": "5급 한자로, 없을을(를) 뜻하는 無입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "무한",
+      "word_hanja": "無限",
+      "reading": "무한",
+      "easy_definition": "끝이 없음",
+      "etymology_dissection": "없을 무(無)+끝 한(限): 끝이 없음",
+      "example_sentence": "우주는 무한합니다.",
+      "sentence_meaning": "우주는 끝이 없습니다."
+    },
+    {
+      "word_korean": "무관",
+      "word_hanja": "無關",
+      "reading": "무관",
+      "easy_definition": "관계가 없음",
+      "etymology_dissection": "없을 무(無)+관계할 관(關): 관계가 없음",
+      "example_sentence": "이 문제와는 무관합니다.",
+      "sentence_meaning": "이 문제와는 관계가 없습니다."
+    },
+    {
+      "word_korean": "무한도전",
+      "word_hanja": "無限挑戰",
+      "reading": "무한도전",
+      "easy_definition": "끝없이 도전함",
+      "etymology_dissection": "없을 무(無)+한계 한(限)+도전 도전",
+      "example_sentence": "무한도전 정신이 필요합니다.",
+      "sentence_meaning": "끝없이 도전하는 정신이 필요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "우주의 무한함에 감탄합니다. 이 사건과 나는 무관합니다. 무한한 가능성을 믿고 도전합니다.",
+    "passage_meaning": "무한, 무관 등 '없다'는 뜻의 無는 많은 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'무한'의 뜻으로 알맞은 것은?",
+        "options": [
+          "끝이 있는 것",
+          "끝이 없는 것",
+          "아주 작은 것",
+          "분명한 것"
+        ],
+        "correct_answer": "끝이 없는 것",
+        "explanation": "무한(無限)은 끝이 없는 것입니다."
+      },
+      {
+        "question": "'무관'에서 '無'의 뜻은?",
+        "options": [
+          "있다",
+          "없다",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "없다",
+        "explanation": "무관(無關)의 無는 '없다'로, 관계가 없는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'무한'이나 '무관'을 사용하여 문장을 써 보세요.",
+    "hint": "가능성이나 관계에 관한 내용을 담아 보세요.",
+    "example_answer": "우주는 무한한 가능성을 품고 있습니다.",
+    "key_vocabulary": [
+      "무한",
+      "무관"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "무한한 가능성을 믿습니다.",
+      "이 문제와 무관합니다.",
+      "끝없이 도전하겠습니다."
+    ],
+    "pronunciation_tips": "'무'을 명확하게 발음하며 읽어 보세요."
+  }
+}

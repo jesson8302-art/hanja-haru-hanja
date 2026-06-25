@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "광",
+    "hanja_meaning": "빛",
+    "hanja_char": "光",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "불꽃이 빛나다 — 빛 광(光)",
+    "etymology_story": "'빛 광(光)'은 불꽃(火)을 사람(儿)이 머리에 이고 있는 모습이에요. 머리 위의 불빛처럼 환하게 빛나는 것이 '빛(光)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "광선(光線)",
+      "etymology_dissection": "빛 광(光)+줄 선(線)",
+      "easy_definition": "빛의 줄기",
+      "context_sentence": "빛광선이 눈에 들어와요."
+    },
+    {
+      "word_korean": "광고(廣告)",
+      "etymology_dissection": "넓을 광(廣)+알릴 고(告)",
+      "easy_definition": "널리 알리는 것",
+      "context_sentence": "광고를 보고 제품을 샀어요."
+    },
+    {
+      "word_korean": "관광(觀光)",
+      "etymology_dissection": "볼 관(觀)+빛 광(光)",
+      "easy_definition": "다른 곳의 풍경을 보러 가는 것",
+      "context_sentence": "제주도로 관광을 갔어요."
+    },
+    {
+      "word_korean": "형광(螢光)",
+      "etymology_dissection": "반딧불 형(螢)+빛 광(光)",
+      "easy_definition": "반딧불처럼 빛나는 것",
+      "context_sentence": "형광펜으로 표시해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빛의 세계",
+    "passage_text": "**관광(觀光)**으로 새로운 빛을 발견해요. **형광(螢光)**처럼 존재감을 빛내요. **광선(光線)**처럼 곧고 밝게 살아요.",
+    "quiz": {
+      "question": "'관광(觀光)'이란?",
+      "choices": [
+        "빛의 줄기",
+        "광고",
+        "다른 곳의 풍경을 보러 가는 것",
+        "형광"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'관광(觀光)'=볼 관+빛 광, 다른 곳의 아름다운 빛(풍경)을 보러 가는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "빛처럼 밝고 긍정적이었던 경험을 문장으로 써 보세요.",
+    "model_example": "관광지의 빛과 풍경처럼 어디서든 형광처럼 밝게 빛나는 사람이 되고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'빛 — 광(光)! 빛 — 광(光)!' 열 번 외쳐요!"
+  }
+}

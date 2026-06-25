@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "사",
+    "hanja_meaning": "하여금",
+    "hanja_char": "使",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 무언가를 시키다 — 하여금 사(使)",
+    "etymology_story": "'하여금 사(使)'는 사람(人)과 관리 리(吏)가 합쳐진 글자예요. 관리가 사람을 시켜서 일을 하게 하는 것이 '하여금, 시키다(使)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사용(使用)",
+      "etymology_dissection": "하여금 사(使)+쓸 용(用)",
+      "easy_definition": "이용하는 것",
+      "context_sentence": "도구를 사용해요."
+    },
+    {
+      "word_korean": "대사(大使)",
+      "etymology_dissection": "클 대(大)+하여금 사(使)",
+      "easy_definition": "외국에 파견된 대표",
+      "context_sentence": "대사관을 방문했어요."
+    },
+    {
+      "word_korean": "사명(使命)",
+      "etymology_dissection": "하여금 사(使)+목숨 명(命)",
+      "easy_definition": "맡겨진 임무",
+      "context_sentence": "사명감을 가져요."
+    },
+    {
+      "word_korean": "천사(天使)",
+      "etymology_dissection": "하늘 천(天)+하여금 사(使)",
+      "easy_definition": "하늘의 사자",
+      "context_sentence": "천사처럼 착해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사명의 힘",
+    "passage_text": "**사명(使命)**감이 있으면 어려워도 포기하지 않아요. **사용(使用)**하는 것은 책임을 져야 해요. **천사(天使)**처럼 선한 영향력을 미쳐요.",
+    "quiz": {
+      "question": "'사명(使命)'이란?",
+      "choices": [
+        "사용",
+        "대사",
+        "맡겨진 임무",
+        "천사"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'사명(使命)'=하여금 사+목숨 명, 목숨을 걸 만큼 중요한 맡겨진 임무예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "사명감을 가지고 한 일이나 책임을 다한 경험을 문장으로 써 보세요.",
+    "model_example": "천사처럼 사명감으로 행동하면 사용하는 모든 것이 빛을 발해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'하여금 — 사(使)! 하여금 — 사(使)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "영",
+    "hanja_meaning": "길",
+    "hanja_char": "永",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 길게 흐르다 — 길 영(永)",
+    "etymology_story": "'길 영(永)'은 물이 갈라져 길게 흐르는 모습이에요. 강물처럼 멀리 흐르는 것에서 '길다, 영원하다(永)'는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "영원(永遠)",
+      "etymology_dissection": "길 영(永)+멀 원(遠)",
+      "easy_definition": "끝없이 오래가는 것",
+      "context_sentence": "영원한 우정이에요."
+    },
+    {
+      "word_korean": "영구(永久)",
+      "etymology_dissection": "길 영(永)+오랠 구(久)",
+      "easy_definition": "매우 오래가는 것",
+      "context_sentence": "영구적인 해결을 원해요."
+    },
+    {
+      "word_korean": "영속(永續)",
+      "etymology_dissection": "길 영(永)+이을 속(續)",
+      "easy_definition": "계속 이어지는 것",
+      "context_sentence": "영속 가능한 발전을 해요."
+    },
+    {
+      "word_korean": "영생(永生)",
+      "etymology_dissection": "길 영(永)+날 생(生)",
+      "easy_definition": "영원히 사는 것",
+      "context_sentence": "사랑은 영생해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "영원의 의미",
+    "passage_text": "**영원(永遠)**한 것은 진심이에요. **영구(永久)**적인 해결책이 최선이에요. 좋은 것은 **영속(永續)**되도록 노력해요.",
+    "quiz": {
+      "question": "'영원(永遠)'이란?",
+      "choices": [
+        "영구",
+        "영속",
+        "끝없이 오래가는 것",
+        "영생"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'영원(永遠)'=길 영+멀 원, 끝없이 길게 이어지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "영원히 간직하고 싶은 소중한 것을 문장으로 써 보세요.",
+    "model_example": "진심과 노력은 영원히 남고, 사랑은 영생처럼 영구적으로 이어져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'길 — 영(永)! 길 — 영(永)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "伯",
+    "hanja_sound": "백",
+    "hanja_meaning": "맏",
+    "full_reading": "맏 백",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "伯",
+    "sound": "백",
+    "meaning": "맏",
+    "stroke_count": 7,
+    "radical": "人",
+    "etymology_story": "伯은 사람(人)과 흰 백(白)이 합쳐진 글자입니다. 흰 머리카락을 가진 맏형처럼 가장 윗사람을 나타내며 '맏', '우두머리'의 뜻이 생겼습니다.",
+    "memory_tip": "흰 머리(白)를 가진 사람(人)처럼 맏이인 것이 '伯'입니다.",
+    "level_context": "5급 한자로, 맏을(를) 뜻하는 伯입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "백부",
+      "word_hanja": "伯父",
+      "reading": "백부",
+      "easy_definition": "아버지의 큰형",
+      "etymology_dissection": "맏 백(伯)+아비 부(父): 맏 아버지",
+      "example_sentence": "백부님께 인사드렸습니다.",
+      "sentence_meaning": "아버지의 큰 형님께 인사드렸습니다."
+    },
+    {
+      "word_korean": "패권",
+      "word_hanja": "覇權",
+      "reading": "패권",
+      "easy_definition": "최고의 권력이나 우위",
+      "etymology_dissection": "패자 패(覇)+권세 권(權): 패자의 권세",
+      "example_sentence": "패권 다툼이 일어났습니다.",
+      "sentence_meaning": "최고의 권력을 차지하려는 다툼이 일어났습니다."
+    },
+    {
+      "word_korean": "백모",
+      "word_hanja": "伯母",
+      "reading": "백모",
+      "easy_definition": "아버지의 큰형 아내",
+      "etymology_dissection": "맏 백(伯)+어미 모(母): 맏어미",
+      "example_sentence": "백모님께 선물을 드렸습니다.",
+      "sentence_meaning": "아버지의 큰형 아내께 선물을 드렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "명절에 백부님과 백모님께 인사드렸습니다. 패권을 두고 다투기보다 협력하는 것이 더 좋습니다. 가족 간의 예의를 지키는 것이 중요합니다.",
+    "passage_meaning": "伯은 '맏', '우두머리'를 뜻하며, 가족 호칭에 중요하게 쓰입니다.",
+    "questions": [
+      {
+        "question": "'백부'의 뜻으로 알맞은 것은?",
+        "options": [
+          "아버지의 동생",
+          "아버지의 큰형",
+          "어머니의 오빠",
+          "어머니의 동생"
+        ],
+        "correct_answer": "아버지의 큰형",
+        "explanation": "백부(伯父)는 아버지의 큰형입니다."
+      },
+      {
+        "question": "'伯'의 뜻은?",
+        "options": [
+          "작다",
+          "맏·우두머리",
+          "느리다",
+          "아래"
+        ],
+        "correct_answer": "맏·우두머리",
+        "explanation": "伯은 '맏', '우두머리'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'백부'나 '백모'를 사용하여 문장을 써 보세요.",
+    "hint": "가족이나 예의에 관한 내용을 담아 보세요.",
+    "example_answer": "명절에 백부님과 백모님께 세배를 드렸습니다.",
+    "key_vocabulary": [
+      "백부",
+      "패권"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "백부님이 선물을 주셨습니다.",
+      "백모님의 음식이 맛있었습니다.",
+      "어른들께 인사드리는 것이 예의입니다."
+    ],
+    "pronunciation_tips": "'백'을 명확하게 발음하며 읽어 보세요."
+  }
+}

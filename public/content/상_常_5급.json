@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "常",
+    "hanja_sound": "상",
+    "hanja_meaning": "항상",
+    "full_reading": "항상 상",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "常",
+    "sound": "상",
+    "meaning": "항상",
+    "stroke_count": 11,
+    "radical": "巾",
+    "etymology_story": "常은 천(巾)과 향상 상(尚)이 합쳐진 글자입니다. 항상 걸쳐 있는 옷처럼 변하지 않고 늘 있는 것에서 '항상', '보통', '일상'의 뜻이 생겼습니다.",
+    "memory_tip": "항상(尚) 걸치는 천(巾)처럼 변하지 않는 것이 '常'입니다.",
+    "level_context": "5급 한자로, 항상을(를) 뜻하는 常입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "일상",
+      "word_hanja": "日常",
+      "reading": "일상",
+      "easy_definition": "날마다의 보통 생활",
+      "etymology_dissection": "날 일(日)+항상 상(常): 날마다 항상",
+      "example_sentence": "일상이 즐거워야 행복합니다.",
+      "sentence_meaning": "날마다의 보통 생활이 즐거워야 합니다."
+    },
+    {
+      "word_korean": "정상",
+      "word_hanja": "正常",
+      "reading": "정상",
+      "easy_definition": "올바르고 보통임",
+      "etymology_dissection": "바를 정(正)+항상 상(常): 올바르게 항상",
+      "example_sentence": "정상적인 상태입니다.",
+      "sentence_meaning": "올바르고 보통의 상태입니다."
+    },
+    {
+      "word_korean": "비상",
+      "word_hanja": "非常",
+      "reading": "비상",
+      "easy_definition": "보통이 아닌 위급함",
+      "etymology_dissection": "아닐 비(非)+항상 상(常): 항상이 아님",
+      "example_sentence": "비상 상황이 발생했습니다.",
+      "sentence_meaning": "보통이 아닌 위급한 상황이 발생했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "일상의 소소한 행복이 중요합니다. 정상적인 상태를 유지하면 건강합니다. 비상 상황에 대비하는 것이 필요합니다.",
+    "passage_meaning": "일상, 정상, 비상 모두 '항상', '보통'을 뜻하는 常에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'정상'의 뜻은?",
+        "options": [
+          "특별하고 희귀함",
+          "올바르고 보통임",
+          "위험하고 급함",
+          "어렵고 힘듦"
+        ],
+        "correct_answer": "올바르고 보통임",
+        "explanation": "정상(正常)은 올바르고 보통인 것입니다."
+      },
+      {
+        "question": "'常'의 뜻은?",
+        "options": [
+          "특별하다",
+          "항상",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "항상",
+        "explanation": "常은 '항상'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'일상'이나 '정상'을 사용하여 문장을 써 보세요.",
+    "hint": "생활이나 건강에 관한 내용을 담아 보세요.",
+    "example_answer": "일상의 작은 행복을 소중히 여깁니다.",
+    "key_vocabulary": [
+      "일상",
+      "정상"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "일상을 소중히 여기세요.",
+      "정상적인 생활을 유지합시다.",
+      "비상 대비가 중요합니다."
+    ],
+    "pronunciation_tips": "'상'을 명확하게 발음하며 읽어 보세요."
+  }
+}

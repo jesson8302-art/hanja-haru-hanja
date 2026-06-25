@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "免",
+    "hanja_sound": "면",
+    "hanja_meaning": "면할",
+    "full_reading": "면할 면",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "免",
+    "sound": "면",
+    "meaning": "면할",
+    "stroke_count": 8,
+    "radical": "儿",
+    "etymology_story": "免은 사람이 위험에서 벗어나는 모습을 본뜬 글자입니다. 위험에서 빠져나가는 모습에서 '면하다', '벗어나다', '면제'의 뜻이 생겼습니다.",
+    "memory_tip": "위험에서 빠져나가는 것이 '면하다(免)'입니다.",
+    "level_context": "5급 한자로, 면할을(를) 뜻하는 免입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "면제",
+      "word_hanja": "免除",
+      "reading": "면제",
+      "easy_definition": "의무나 부담을 없애 줌",
+      "etymology_dissection": "면할 면(免)+덜 제(除): 면하여 덜어줌",
+      "example_sentence": "병역이 면제되었습니다.",
+      "sentence_meaning": "군대 가는 의무가 없어졌습니다."
+    },
+    {
+      "word_korean": "면허",
+      "word_hanja": "免許",
+      "reading": "면허",
+      "easy_definition": "어떤 일을 허락받아 할 수 있는 자격",
+      "etymology_dissection": "면할 면(免)+허락할 허(許): 허락하여 면함",
+      "example_sentence": "운전 면허를 취득했습니다.",
+      "sentence_meaning": "운전할 수 있는 자격을 얻었습니다."
+    },
+    {
+      "word_korean": "사면",
+      "word_hanja": "赦免",
+      "reading": "사면",
+      "easy_definition": "죄를 용서하여 풀어줌",
+      "etymology_dissection": "용서할 사(赦)+면할 면(免): 용서하여 풀어줌",
+      "example_sentence": "국가 기념일에 사면이 이루어졌습니다.",
+      "sentence_meaning": "국가 기념일에 죄인을 용서하여 풀어주었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "운전 면허를 취득하면 자동차를 운전할 수 있습니다. 면제를 받으면 해당 의무가 없어집니다. 사면은 국가가 죄를 용서하는 것입니다.",
+    "passage_meaning": "면제, 면허, 사면 모두 '면하다', '벗어나다'는 뜻의 免에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'면허'의 뜻으로 알맞은 것은?",
+        "options": [
+          "금지된 자격",
+          "어떤 일을 허락받아 할 수 있는 자격",
+          "시험에 떨어진 것",
+          "의무를 늘리는 것"
+        ],
+        "correct_answer": "어떤 일을 허락받아 할 수 있는 자격",
+        "explanation": "면허(免許)는 어떤 일을 허락받아 할 수 있는 자격입니다."
+      },
+      {
+        "question": "'면제'에서 '免'의 뜻은?",
+        "options": [
+          "더하다",
+          "면하다·벗어나다",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "면하다·벗어나다",
+        "explanation": "면제(免除)의 免은 '면하다', '벗어나다'로, 의무를 없애 주는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'면허'나 '면제'를 사용하여 문장을 써 보세요.",
+    "hint": "자격이나 의무에 관한 내용을 담아 보세요.",
+    "example_answer": "운전 면허 시험에 합격했습니다.",
+    "key_vocabulary": [
+      "면제",
+      "면허"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "운전 면허를 취득했습니다.",
+      "이 경우에는 면제가 됩니다.",
+      "국경일에 특별 사면을 했습니다."
+    ],
+    "pronunciation_tips": "'면'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "授",
+    "hanja_sound": "수",
+    "hanja_meaning": "줄",
+    "full_reading": "줄 수",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "授",
+    "sound": "수",
+    "meaning": "줄",
+    "stroke_count": 11,
+    "radical": "手",
+    "etymology_story": "授는 손(手)과 받을 수(受)가 합쳐진 글자입니다. 손으로 건네주는 모습에서 '주다', '가르치다'의 뜻이 생겼습니다.",
+    "memory_tip": "손(手)으로 건네주는(受) 것이 '주다(授)'입니다.",
+    "level_context": "5급 한자로, 줄을(를) 뜻하는 授입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수여",
+      "word_hanja": "授與",
+      "reading": "수여",
+      "easy_definition": "상이나 직위를 줌",
+      "etymology_dissection": "줄 수(授)+줄 여(與): 주고 줌",
+      "example_sentence": "상장을 수여했습니다.",
+      "sentence_meaning": "상장을 공식적으로 줬습니다."
+    },
+    {
+      "word_korean": "교수",
+      "word_hanja": "敎授",
+      "reading": "교수",
+      "easy_definition": "대학에서 가르치는 사람",
+      "etymology_dissection": "가르칠 교(敎)+줄 수(授): 가르쳐 줌",
+      "example_sentence": "교수님이 강의합니다.",
+      "sentence_meaning": "대학에서 가르치는 분이 강의합니다."
+    },
+    {
+      "word_korean": "전수",
+      "word_hanja": "傳授",
+      "reading": "전수",
+      "easy_definition": "기술을 전해 줌",
+      "etymology_dissection": "전할 전(傳)+줄 수(授): 전해 줌",
+      "example_sentence": "비법을 전수받았습니다.",
+      "sentence_meaning": "비법을 전해 받았습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "졸업식에서 졸업장을 수여합니다. 교수님의 강의가 유익합니다. 스승에게 전수받은 기술로 일합니다.",
+    "passage_meaning": "수여, 교수, 전수 모두 '주다', '가르치다'를 뜻하는 授에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'전수'의 뜻은?",
+        "options": [
+          "기술을 배우는 것",
+          "기술을 전해 주는 것",
+          "기술을 만드는 것",
+          "기술을 사는 것"
+        ],
+        "correct_answer": "기술을 전해 주는 것",
+        "explanation": "전수(傳授)는 기술을 전해 주는 것입니다."
+      },
+      {
+        "question": "'授'의 뜻은?",
+        "options": [
+          "받다",
+          "주다·가르치다",
+          "버리다",
+          "빼앗다"
+        ],
+        "correct_answer": "주다·가르치다",
+        "explanation": "授는 '주다', '가르치다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'교수'나 '전수'를 사용하여 문장을 써 보세요.",
+    "hint": "교육이나 기술에 관한 내용을 담아 보세요.",
+    "example_answer": "장인이 제자에게 비법을 전수해 주었습니다.",
+    "key_vocabulary": [
+      "수여",
+      "교수"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "교수님의 강의가 좋습니다.",
+      "졸업장을 수여받았습니다.",
+      "기술을 전수받았습니다."
+    ],
+    "pronunciation_tips": "'수'을 명확하게 발음하며 읽어 보세요."
+  }
+}

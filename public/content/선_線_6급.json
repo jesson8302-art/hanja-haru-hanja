@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "선",
+    "hanja_meaning": "줄",
+    "hanja_char": "線",
+    "hanja_level": "6급",
+    "linked_subject": "수학, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "실처럼 가느다란 줄 — 줄 선(線)",
+    "etymology_story": "'줄 선(線)'은 실(糸)과 샘 천(泉)이 합쳐진 글자예요. 샘에서 흘러나오는 실처럼 가늘고 긴 것이 '줄(線)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "직선(直線)",
+      "etymology_dissection": "곧을 직(直)+줄 선(線)",
+      "easy_definition": "곧은 줄",
+      "context_sentence": "직선으로 그어요."
+    },
+    {
+      "word_korean": "곡선(曲線)",
+      "etymology_dissection": "굽을 곡(曲)+줄 선(線)",
+      "easy_definition": "굽은 줄",
+      "context_sentence": "곡선이 우아해요."
+    },
+    {
+      "word_korean": "노선(路線)",
+      "etymology_dissection": "길 로(路)+줄 선(線)",
+      "easy_definition": "버스나 전철이 다니는 길",
+      "context_sentence": "버스 노선을 확인해요."
+    },
+    {
+      "word_korean": "선로(線路)",
+      "etymology_dissection": "줄 선(線)+길 로(路)",
+      "easy_definition": "기차가 다니는 길",
+      "context_sentence": "선로에 들어가면 위험해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "선의 세계",
+    "passage_text": "**직선(直線)**처럼 곧게 살아요. **곡선(曲線)**처럼 유연함도 필요해요. **노선(路線)**을 정하면 방향을 잃지 않아요.",
+    "quiz": {
+      "question": "'노선(路線)'이란?",
+      "choices": [
+        "직선",
+        "곡선",
+        "버스나 전철이 다니는 정해진 길",
+        "선로"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'노선(路線)'=길 로+줄 선, 정해진 이동 경로예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "삶의 노선(방향)을 생각하거나 직선처럼 곧게 산 경험을 문장으로 써 보세요.",
+    "model_example": "직선처럼 곧고 곡선처럼 유연하게, 노선을 정해 나만의 길을 걸어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'줄 — 선(線)! 줄 — 선(線)!' 열 번 외쳐요!"
+  }
+}

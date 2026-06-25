@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "선",
+    "hanja_meaning": "먼저",
+    "hanja_char": "先",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "발이 앞서 나가는 '먼저 선(先)'",
+    "etymology_story": "'먼저 선(先)'은 발(止→儿) 위에 사람이 있는 글자예요. 앞서서 걸어가는 사람의 발처럼, 남보다 앞서 나가는 것이 바로 '선(先)'이에요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "선생(先生)",
+      "etymology_dissection": "먼저 선(先) + 날 생(生) = 먼저 태어난 사람",
+      "easy_definition": "먼저 배워 가르쳐 주는 사람",
+      "context_sentence": "선생님의 가르침으로 많이 성장했어요."
+    },
+    {
+      "word_korean": "선수(先手)",
+      "etymology_dissection": "먼저 선(先) + 손 수(手) = 먼저 손을 쓰는 것",
+      "easy_definition": "운동 경기에서 대표로 나서는 사람",
+      "context_sentence": "우리 학교 야구 선수가 홈런을 쳤어요."
+    },
+    {
+      "word_korean": "선조(先祖)",
+      "etymology_dissection": "먼저 선(先) + 할아버지 조(祖) = 먼저 산 조상",
+      "easy_definition": "먼 옛날의 조상",
+      "context_sentence": "선조들의 지혜가 오늘날 우리에게 전해져요."
+    },
+    {
+      "word_korean": "우선(優先)",
+      "etymology_dissection": "넉넉할 우(優) + 먼저 선(先) = 더 먼저 하는 것",
+      "easy_definition": "다른 것보다 먼저 챙기는 것",
+      "context_sentence": "안전이 무엇보다 우선이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "먼저 생각하기",
+    "passage_text": "**선생(先生)**님은 먼저 배워 우리에게 가르쳐 주시는 분이에요. **선조(先祖)**들이 남긴 문화유산을 소중히 여겨야 해요. 무슨 일이든 **우선** 순위를 정해서 중요한 것부터 하는 습관이 중요해요.",
+    "quiz": {
+      "question": "'우선(優先)'의 뜻은?",
+      "choices": [
+        "나중에 하는 것",
+        "다른 것보다 먼저 챙기는 것",
+        "천천히 하는 것",
+        "선생님"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'우선(優先)'은 '넉넉할 우 + 먼저 선' = 다른 것보다 더 먼저 하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 오늘 가장 우선해야 할 일을 문장으로 써 보세요.",
+    "model_example": "선생님의 가르침처럼, 나도 선조의 지혜를 배우는 것을 우선으로 삼을게요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'먼저 — 선(先)! 먼저 — 선(先)!' 열 번 외쳐요!"
+  }
+}

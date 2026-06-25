@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "운",
+    "hanja_meaning": "옮길",
+    "hanja_char": "運",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 체육"
+  },
+  "step_1_etymology": {
+    "visual_title": "運 — 쉬지 않고 굴러 나아가다",
+    "etymology_story": "運(운)은 쉬엄쉬엄 갈 착(辶)과 군사 군(軍)이 합쳐진 글자예요. 군대가 이동하듯 '나르고 움직인다'는 뜻이에요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "운동(運動)",
+      "etymology_dissection": "옮길 운(運)+움직일 동(動)",
+      "easy_definition": "몸을 움직이는 활동",
+      "context_sentence": "매일 아침 운동을 하면 건강해져요."
+    },
+    {
+      "word_korean": "운반(運搬)",
+      "etymology_dissection": "옮길 운(運)+옮길 반(搬)",
+      "easy_definition": "물건을 한 곳에서 다른 곳으로 옮김",
+      "context_sentence": "트럭으로 짐을 운반했어요."
+    },
+    {
+      "word_korean": "행운(幸運)",
+      "etymology_dissection": "다행 행(幸)+옮길 운(運)",
+      "easy_definition": "좋은 일이 생기는 운",
+      "context_sentence": "네잎클로버는 행운을 가져다 준대요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "운동회 날",
+    "passage_text": "우리 학교 운동회(運動會) 날이에요. 친구들이 달리기, 줄다리기 등 여러 운동(運動)을 해요. 행운(幸運)을 빌어주는 응원 소리가 운동장에 가득 울려 퍼졌어요.",
+    "quiz": {
+      "question": "'운동'의 뜻은?",
+      "choices": [
+        "몸을 움직이는 활동",
+        "물건을 옮기는 일",
+        "음식을 먹는 것",
+        "책을 읽는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "운동(運動)은 '옮길 운(運)+움직일 동(動)'으로, 몸을 활발하게 움직이는 활동을 말해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 좋아하는 운동을 한 가지 골라 '운동 소개 글'을 써 보세요. 어떤 운동인지, 왜 좋은지 설명해 보세요.",
+    "model_example": "예) 저는 수영을 좋아해요. 수영은 몸 전체를 움직이는 운동이라 건강에 좋아요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "運(운)! 운동으로 건강하게! 오늘도 훌륭했어요! 🏃"
+  }
+}

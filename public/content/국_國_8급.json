@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "국",
+    "hanja_meaning": "나라",
+    "hanja_char": "國",
+    "hanja_level": "8급",
+    "linked_subject": "사회, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "울타리 안에 사람과 땅이 있는 나라 — 나라 국(國)",
+    "etymology_story": "'나라 국(國)'은 네모난 테두리(□) 안에 사람과 땅을 뜻하는 글자들이 들어 있는 모습이에요. 나라는 땅과 사람과 경계선이 함께 있어야 만들어진다는 생각이 담겨 있답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국어(國語)",
+      "etymology_dissection": "나라 국(國) + 말씀 어(語) = 나라의 말",
+      "easy_definition": "우리나라의 공식 언어, 한국어",
+      "context_sentence": "국어 시간에 글쓰기를 배웠어요."
+    },
+    {
+      "word_korean": "국기(國旗)",
+      "etymology_dissection": "나라 국(國) + 기 기(旗) = 나라를 나타내는 깃발",
+      "easy_definition": "나라를 상징하는 깃발",
+      "context_sentence": "태극기는 우리나라 국기예요."
+    },
+    {
+      "word_korean": "외국(外國)",
+      "etymology_dissection": "바깥 외(外) + 나라 국(國) = 바깥 나라",
+      "easy_definition": "우리나라가 아닌 다른 나라",
+      "context_sentence": "외국에 가면 다른 언어를 써야 해요."
+    },
+    {
+      "word_korean": "국민(國民)",
+      "etymology_dissection": "나라 국(國) + 백성 민(民) = 나라의 백성",
+      "easy_definition": "한 나라에 속해 있는 모든 사람들",
+      "context_sentence": "모든 국민은 나라를 지킬 의무가 있어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리나라를 사랑해요",
+    "passage_text": "**국민(國民)** 모두는 **국어(國語)**를 사용해요. 올림픽에서 **국기(國旗)**인 태극기를 보면 가슴이 벅차올라요. **외국(外國)** 친구들도 우리 문화에 관심이 많답니다.",
+    "quiz": {
+      "question": "'국기(國旗)'란 무엇인가요?",
+      "choices": [
+        "나라의 노래",
+        "나라를 상징하는 깃발",
+        "나라의 꽃",
+        "나라의 음식"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'국기(國旗)'는 '나라 국 + 기 기' = 나라를 나타내는 깃발이에요! 우리나라 국기는 태극기예요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 우리나라에 대한 내 생각이나 자랑스러운 점을 써 보세요.",
+    "model_example": "나는 국어 공부가 쉽지 않지만, 우리 국민 모두가 같은 언어로 이야기할 수 있다는 게 정말 소중하다고 느껴요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'나라 — 국(國)! 나라 — 국(國)!' 열 번 크게 외쳐요! 보관함에 저장해 두세요!"
+  }
+}

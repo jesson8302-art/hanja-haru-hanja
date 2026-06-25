@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "類",
+    "hanja_sound": "류",
+    "hanja_meaning": "무리",
+    "full_reading": "무리 류",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "類",
+    "sound": "류",
+    "meaning": "무리",
+    "stroke_count": 19,
+    "radical": "頁",
+    "etymology_story": "類는 머리(頁)와 쌀(米), 개(犬)가 합쳐진 글자입니다. 비슷한 것끼리 모아 분류하는 모습에서 '무리', '종류', '비슷하다'의 뜻이 생겼습니다.",
+    "memory_tip": "비슷한 것끼리 모은 것이 '무리', '種類(종류)'입니다.",
+    "level_context": "5급 한자로, 무리을(를) 뜻하는 類입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "종류",
+      "word_hanja": "種類",
+      "reading": "종류",
+      "easy_definition": "여러 가지의 갈래",
+      "etymology_dissection": "씨앗 종(種)+무리 류(類): 씨앗별 무리",
+      "example_sentence": "식물의 종류가 다양합니다.",
+      "sentence_meaning": "식물에는 여러 가지 갈래가 있습니다."
+    },
+    {
+      "word_korean": "분류",
+      "word_hanja": "分類",
+      "reading": "분류",
+      "easy_definition": "종류별로 나눔",
+      "etymology_dissection": "나눌 분(分)+무리 류(類): 나누어 무리 지음",
+      "example_sentence": "쓰레기를 분류합니다.",
+      "sentence_meaning": "쓰레기를 종류별로 나눕니다."
+    },
+    {
+      "word_korean": "유사",
+      "word_hanja": "類似",
+      "reading": "유사",
+      "easy_definition": "서로 비슷함",
+      "etymology_dissection": "무리 류(類)+닮을 사(似): 무리처럼 닮음",
+      "example_sentence": "두 작품이 유사합니다.",
+      "sentence_meaning": "두 작품이 서로 비슷합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "식물의 종류는 매우 다양합니다. 쓰레기를 분류하면 재활용하기 쉬워집니다. 두 사람의 성격이 유사해서 금방 친해졌습니다.",
+    "passage_meaning": "종류, 분류, 유사 모두 '무리', '비슷하다'는 뜻의 類에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'분류'의 뜻으로 알맞은 것은?",
+        "options": [
+          "하나로 합침",
+          "종류별로 나눔",
+          "섞는 것",
+          "모두 버리는 것"
+        ],
+        "correct_answer": "종류별로 나눔",
+        "explanation": "분류(分類)는 종류별로 나누는 것입니다."
+      },
+      {
+        "question": "'유사'에서 '類'의 뜻은?",
+        "options": [
+          "다르다",
+          "비슷하다·무리",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "비슷하다·무리",
+        "explanation": "유사(類似)의 類는 '비슷하다', '무리'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'종류'나 '분류'를 사용하여 문장을 써 보세요.",
+    "hint": "자연이나 환경과 관련된 내용을 담아 보세요.",
+    "example_answer": "쓰레기를 종류별로 분류하여 버립니다.",
+    "key_vocabulary": [
+      "종류",
+      "분류"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "식물의 종류는 매우 다양합니다.",
+      "분류를 잘하면 정리가 쉬워집니다.",
+      "두 그림이 유사합니다."
+    ],
+    "pronunciation_tips": "'류'을 명확하게 발음하며 읽어 보세요."
+  }
+}

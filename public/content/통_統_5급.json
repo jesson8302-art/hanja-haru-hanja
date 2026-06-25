@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "통",
+    "hanja_meaning": "거느릴",
+    "hanja_char": "統",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "統 — 실을 하나로 이어 거느리다",
+    "etymology_story": "糸(실 사)와 充(채울 충)이 합쳐진 글자입니다. 여러 실을 하나로 모아 잇는 모습에서 '거느리다', '통합하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "통일",
+      "word_hanja": "統一",
+      "etymology_dissection": "統(거느릴 통)+一(한 일) = 하나로 거느림",
+      "easy_definition": "나뉜 것을 하나로 합침",
+      "context_sentence": "한국의 **통일**은 많은 사람들의 소망입니다."
+    },
+    {
+      "word_korean": "전통",
+      "word_hanja": "傳統",
+      "etymology_dissection": "傳(전할 전)+統(거느릴 통) = 이어 전해지는 것",
+      "easy_definition": "대대로 전해 내려오는 풍속이나 방식",
+      "context_sentence": "**전통** 문화를 계승하는 것이 중요합니다."
+    },
+    {
+      "word_korean": "통계",
+      "word_hanja": "統計",
+      "etymology_dissection": "統(거느릴 통)+計(셀 계) = 모아 셈함",
+      "easy_definition": "자료를 수집하여 수치로 정리한 것",
+      "context_sentence": "**통계**로 보면 독서량이 줄고 있습니다."
+    },
+    {
+      "word_korean": "대통령",
+      "word_hanja": "大統領",
+      "etymology_dissection": "大(큰 대)+統(거느릴 통)+領(거느릴 령) = 크게 거느리는 우두머리",
+      "easy_definition": "국가의 최고 지도자",
+      "context_sentence": "**대통령**은 국민이 직접 선출합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "통계의 힘과 한계",
+    "passage_text": "**통계**는 복잡한 사회 현상을 숫자로 요약하여 보여주는 강력한 도구입니다. 정부는 **통계**를 바탕으로 정책을 세우고, 기업은 **통계**로 시장을 분석합니다. 그러나 **통계**에도 한계가 있습니다. 어떻게 자료를 수집하느냐에 따라 다른 결과가 나올 수 있고, **통계**를 잘못 해석하면 오히려 판단을 그르칠 수 있습니다. '거짓말에는 세 종류가 있다: 거짓말, 새빨간 거짓말, 그리고 **통계**'라는 말도 있습니다.",
+    "quiz": {
+      "question": "통계의 한계로 글에서 언급된 것은?",
+      "choices": [
+        "통계는 항상 정확하다",
+        "자료 수집 방법에 따라 결과가 달라질 수 있다",
+        "통계는 정부만 사용할 수 있다",
+        "통계는 경제에만 적용된다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 어떻게 자료를 수집하느냐에 따라 다른 결과가 나올 수 있다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'전통'을 사용해서 지키고 싶은 우리 전통에 대해 써보세요.",
+    "model_example": "설날에 가족이 모여 떡국을 먹는 **전통**은 가족의 유대를 강화하는 소중한 문화입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "統(통) — 거느릴 통! 통일·전통·통계·대통령 모두 여기서! 멋져요!"
+  }
+}

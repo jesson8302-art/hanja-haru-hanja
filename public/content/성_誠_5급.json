@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "誠",
+    "hanja_sound": "성",
+    "hanja_meaning": "정성",
+    "full_reading": "정성 성",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "誠",
+    "sound": "성",
+    "meaning": "정성",
+    "stroke_count": 14,
+    "radical": "言",
+    "etymology_story": "誠은 말(言)과 이룰 성(成)이 합쳐진 글자입니다. 말을 이루어내는 진심 어린 마음에서 '정성', '진실하다'의 뜻이 생겼습니다.",
+    "memory_tip": "말(言)로 이루어내는(成) 진심이 '정성(誠)'입니다.",
+    "level_context": "5급 한자로, 정성을(를) 뜻하는 誠입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성실",
+      "word_hanja": "誠實",
+      "reading": "성실",
+      "easy_definition": "정성스럽고 진실함",
+      "etymology_dissection": "정성 성(誠)+열매 실(實): 정성의 열매",
+      "example_sentence": "성실한 사람이 됩시다.",
+      "sentence_meaning": "정성스럽고 진실한 사람이 됩시다."
+    },
+    {
+      "word_korean": "충성",
+      "word_hanja": "忠誠",
+      "reading": "충성",
+      "easy_definition": "온 마음으로 정성을 다함",
+      "etymology_dissection": "충성 충(忠)+정성 성(誠): 충심과 정성",
+      "example_sentence": "나라에 충성했습니다.",
+      "sentence_meaning": "나라를 위해 온 마음으로 정성을 다했습니다."
+    },
+    {
+      "word_korean": "정성",
+      "word_hanja": "精誠",
+      "reading": "정성",
+      "easy_definition": "온 마음을 기울임",
+      "etymology_dissection": "정수 정(精)+정성 성(誠): 순수한 정성",
+      "example_sentence": "정성껏 만들었습니다.",
+      "sentence_meaning": "온 마음을 기울여 만들었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "성실한 태도가 성공의 기반입니다. 군인들이 나라에 충성합니다. 정성껏 만든 음식이 더 맛있습니다.",
+    "passage_meaning": "성실, 충성, 정성 모두 '정성', '진실하다'를 뜻하는 誠에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'성실'의 뜻은?",
+        "options": [
+          "게으름",
+          "정성스럽고 진실함",
+          "빠름",
+          "강함"
+        ],
+        "correct_answer": "정성스럽고 진실함",
+        "explanation": "성실(誠實)은 정성스럽고 진실한 것입니다."
+      },
+      {
+        "question": "'誠'의 뜻은?",
+        "options": [
+          "거짓",
+          "정성·진실",
+          "빠르다",
+          "강하다"
+        ],
+        "correct_answer": "정성·진실",
+        "explanation": "誠은 '정성', '진실'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'성실'이나 '정성'을 사용하여 문장을 써 보세요.",
+    "hint": "노력이나 진심에 관한 내용을 담아 보세요.",
+    "example_answer": "성실하게 노력하면 원하는 목표를 이룰 수 있습니다.",
+    "key_vocabulary": [
+      "성실",
+      "충성"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "성실하게 공부합시다.",
+      "정성껏 준비했습니다.",
+      "나라에 충성합니다."
+    ],
+    "pronunciation_tips": "'성'을 명확하게 발음하며 읽어 보세요."
+  }
+}

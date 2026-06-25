@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "구",
+    "hanja_meaning": "연구",
+    "hanja_char": "究",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "究 — 굴속을 끝까지 파헤치다",
+    "etymology_story": "穴(구멍 혈)과 九(아홉 구, 소리)가 합쳐진 글자입니다. 구멍의 끝까지 파고 들어가는 모습에서 '끝까지 연구하다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "연구",
+      "word_hanja": "研究",
+      "etymology_dissection": "研(갈 연)+究(연구할 구) = 갈고 파헤침",
+      "easy_definition": "어떤 것을 깊이 조사하고 탐구하는 일",
+      "context_sentence": "과학자들이 새로운 약을 **연구**하고 있습니다."
+    },
+    {
+      "word_korean": "탐구",
+      "word_hanja": "探究",
+      "etymology_dissection": "探(찾을 탐)+究(연구할 구) = 찾아 파헤침",
+      "easy_definition": "진리나 사실을 깊이 있게 찾아 연구함",
+      "context_sentence": "과학 수업에서 현상을 **탐구**합니다."
+    },
+    {
+      "word_korean": "추구",
+      "word_hanja": "追究",
+      "etymology_dissection": "追(쫓을 추)+究(연구할 구) = 쫓아 파헤침",
+      "easy_definition": "목표나 뜻하는 바를 끝까지 파고듦",
+      "context_sentence": "자신이 원하는 삶을 끝까지 **추구**하는 것이 중요합니다."
+    },
+    {
+      "word_korean": "학구",
+      "word_hanja": "學究",
+      "etymology_dissection": "學(배울 학)+究(연구할 구) = 배우며 연구함",
+      "easy_definition": "배움을 깊이 추구하는 자세",
+      "context_sentence": "**학구**적인 자세로 공부하면 실력이 늘어납니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "연구자의 삶",
+    "passage_text": "**연구**자는 아직 밝혀지지 않은 것을 끝까지 파고드는 사람들입니다. 마리 퀴리는 방사성 물질을 **연구**하다 노벨상을 두 번 받았습니다. **연구**는 때로 오랜 시간이 걸리고 실패도 많지만, 그 끈기가 인류의 지식을 넓혀왔습니다. **탐구** 정신을 가진 사람은 당연해 보이는 것도 '왜?'라고 묻습니다. 이 **추구**하는 자세가 발견과 발명을 이끕니다.",
+    "quiz": {
+      "question": "마리 퀴리에 대한 설명으로 옳은 것은?",
+      "choices": [
+        "노벨상을 한 번 받았다",
+        "방사성 물질을 연구했다",
+        "연구보다 교육에 집중했다",
+        "노벨 물리학상만 받았다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "마리 퀴리는 방사성 물질을 연구하다 노벨상을 두 번 받았다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'탐구'나 '연구'를 사용해서 자신이 깊이 파고들어 알고 싶은 것에 대해 써보세요.",
+    "model_example": "우주의 블랙홀이 어떻게 생겨나는지를 **탐구**하고, 언젠가 그것을 직접 **연구**하는 과학자가 되고 싶습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "究(구) — 연구할 구! 연구·탐구·추구·학구 모두 여기서! 잘했어요!"
+  }
+}

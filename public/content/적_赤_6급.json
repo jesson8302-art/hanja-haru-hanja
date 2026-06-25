@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "적",
+    "hanja_meaning": "붉을",
+    "hanja_char": "赤",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "赤 — 불 위에 올라선 사람, 붉다",
+    "etymology_story": "大(큰 대, 사람)와 火(불 화)가 합쳐진 글자입니다. 사람이 불 위에 있는 것처럼 온몸이 붉어지는 모습에서 '붉다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "적색",
+      "word_hanja": "赤色",
+      "etymology_dissection": "赤(붉을 적)+色(빛 색) = 붉은 빛",
+      "easy_definition": "빨간색",
+      "context_sentence": "신호등의 **적색**은 정지를 의미합니다."
+    },
+    {
+      "word_korean": "적자",
+      "word_hanja": "赤字",
+      "etymology_dissection": "赤(붉을 적)+字(글자 자) = 붉은 글자",
+      "easy_definition": "지출이 수입보다 많아 손해가 나는 상태",
+      "context_sentence": "이번 달 **적자**가 발생했습니다."
+    },
+    {
+      "word_korean": "적도",
+      "word_hanja": "赤道",
+      "etymology_dissection": "赤(붉을 적)+道(길 도) = 붉은 길",
+      "easy_definition": "지구를 둘러싸는 가상의 선, 위도 0도",
+      "context_sentence": "**적도** 근방은 일 년 내내 덥습니다."
+    },
+    {
+      "word_korean": "적혈구",
+      "word_hanja": "赤血球",
+      "etymology_dissection": "赤(붉을 적)+血(피 혈)+球(공 구) = 붉은 피 공",
+      "easy_definition": "혈액 속에서 산소를 운반하는 세포",
+      "context_sentence": "**적혈구**가 부족하면 빈혈이 생깁니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "적도와 기후",
+    "passage_text": "**적도**는 지구를 가로지르는 위도 0도의 선입니다. **적도** 부근은 태양이 거의 수직으로 내리쬐어 일 년 내내 고온다습합니다. 브라질, 콩고, 인도네시아 등이 **적도** 주변에 위치하며 열대 우림이 발달해 있습니다. 이 지역의 생물 다양성은 지구상 어느 곳보다 풍부합니다. **적도**에서 멀어질수록 계절 변화가 뚜렷해집니다.",
+    "quiz": {
+      "question": "적도 부근의 기후 특징으로 옳은 것은?",
+      "choices": [
+        "일 년 내내 춥다",
+        "태양이 수직으로 내리쬐어 고온다습하다",
+        "사막이 발달한다",
+        "계절 변화가 뚜렷하다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "적도 부근은 태양이 거의 수직으로 내리쬐어 일 년 내내 고온다습하다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'적색'이나 '적도'를 사용해서 자연이나 지구에 대한 문장을 써보세요.",
+    "model_example": "지도에서 **적도**를 기준으로 위아래로 펼쳐진 세계를 보면, 지구가 얼마나 다양한 기후와 생명을 품고 있는지 느낄 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "赤(적) — 붉을 적! 적색·적자·적도·적혈구 모두 여기서! 잘했어요!"
+  }
+}

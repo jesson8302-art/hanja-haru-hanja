@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "사",
+    "hanja_meaning": "모일",
+    "hanja_char": "社",
+    "hanja_level": "6급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "땅의 신에게 모이다 — 모일 사(社)",
+    "etymology_story": "'모일 사(社)'는 신(示)과 흙 토(土)가 합쳐진 글자예요. 땅의 신(示)에게 제사를 드리러 마을 사람들이 모이는 것이 '모임(社)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사회(社會)",
+      "etymology_dissection": "모일 사(社)+모일 회(會)",
+      "easy_definition": "여러 사람이 이루는 집단",
+      "context_sentence": "사회에 기여해요."
+    },
+    {
+      "word_korean": "회사(會社)",
+      "etymology_dissection": "모일 회(會)+모일 사(社)",
+      "easy_definition": "일을 위해 사람이 모인 곳",
+      "context_sentence": "회사에 다녀요."
+    },
+    {
+      "word_korean": "사원(社員)",
+      "etymology_dissection": "모일 사(社)+구성원 원(員)",
+      "easy_definition": "회사의 구성원",
+      "context_sentence": "사원이 됐어요."
+    },
+    {
+      "word_korean": "신사(神社)",
+      "etymology_dissection": "귀신 신(神)+모일 사(社)",
+      "easy_definition": "신을 모시는 곳",
+      "context_sentence": "신사를 견학했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "함께 모이는 힘",
+    "passage_text": "**사회(社會)**는 함께 만들어가요. **회사(會社)**에서 협력이 중요해요. 좋은 **사원(社員)**이 되는 것이 꿈이에요.",
+    "quiz": {
+      "question": "'사회(社會)'란?",
+      "choices": [
+        "회사",
+        "신사",
+        "여러 사람이 이루는 집단",
+        "사원"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'사회(社會)'=모일 사+모일 회, 여러 사람이 함께 모여 이루는 집단이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "사회에 기여하고 싶은 방법을 문장으로 써 보세요.",
+    "model_example": "사회는 모든 회사와 사원이 함께 만들어가는 것이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'모일 — 사(社)! 모일 — 사(社)!' 열 번 외쳐요!"
+  }
+}

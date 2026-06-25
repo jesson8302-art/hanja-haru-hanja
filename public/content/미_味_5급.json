@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "味",
+    "hanja_sound": "미",
+    "hanja_meaning": "맛",
+    "full_reading": "맛 미",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "味",
+    "sound": "미",
+    "meaning": "맛",
+    "stroke_count": 8,
+    "radical": "口",
+    "etymology_story": "味는 입(口)과 아직 미(未)가 합쳐진 글자입니다. 입으로 아직 알 수 없는 맛을 느끼는 모습에서 '맛', '맛보다'의 뜻이 생겼습니다.",
+    "memory_tip": "입(口)으로 느끼는 '맛'이 '味'입니다.",
+    "level_context": "5급 한자로, 맛을(를) 뜻하는 味입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "흥미",
+      "word_hanja": "興味",
+      "reading": "흥미",
+      "easy_definition": "재미있고 관심이 생기는 마음",
+      "etymology_dissection": "흥할 흥(興)+맛 미(味): 흥나는 맛",
+      "example_sentence": "과학에 흥미가 있습니다.",
+      "sentence_meaning": "과학에 재미있고 관심이 생깁니다."
+    },
+    {
+      "word_korean": "의미",
+      "word_hanja": "意味",
+      "reading": "의미",
+      "easy_definition": "말이나 행동의 뜻",
+      "etymology_dissection": "뜻 의(意)+맛 미(味): 뜻의 맛",
+      "example_sentence": "이 말의 의미가 뭔가요?",
+      "sentence_meaning": "이 말의 뜻이 무엇인가요?"
+    },
+    {
+      "word_korean": "취미",
+      "word_hanja": "趣味",
+      "reading": "취미",
+      "easy_definition": "즐겨 하는 것",
+      "etymology_dissection": "뜻 취(趣)+맛 미(味): 즐기는 맛",
+      "example_sentence": "독서가 제 취미입니다.",
+      "sentence_meaning": "책 읽기가 제가 즐겨 하는 것입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "흥미로운 책을 읽으면 시간 가는 줄 모릅니다. 말 한마디의 의미를 잘 생각하고 말해야 합니다. 건전한 취미는 삶을 풍요롭게 만듭니다.",
+    "passage_meaning": "흥미, 의미, 취미 모두 '맛', '느낌'을 뜻하는 味에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'흥미'의 뜻으로 알맞은 것은?",
+        "options": [
+          "지루하고 싫은 마음",
+          "재미있고 관심이 생기는 마음",
+          "걱정되는 마음",
+          "슬픈 마음"
+        ],
+        "correct_answer": "재미있고 관심이 생기는 마음",
+        "explanation": "흥미(興味)는 재미있고 관심이 생기는 마음입니다."
+      },
+      {
+        "question": "'취미'에서 '味'의 뜻은?",
+        "options": [
+          "직업",
+          "맛·즐기는 것",
+          "공부",
+          "경쟁"
+        ],
+        "correct_answer": "맛·즐기는 것",
+        "explanation": "취미(趣味)의 味는 '맛', '즐기는 것'으로, 즐겨 하는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'흥미'나 '취미'를 사용하여 문장을 써 보세요.",
+    "hint": "관심사나 여가 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "독서는 제가 가장 좋아하는 취미입니다.",
+    "key_vocabulary": [
+      "흥미",
+      "의미"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "과학에 흥미를 갖게 되었습니다.",
+      "이 말의 의미가 무엇인가요?",
+      "취미 생활이 삶을 풍요롭게 합니다."
+    ],
+    "pronunciation_tips": "'미'을 명확하게 발음하며 읽어 보세요."
+  }
+}

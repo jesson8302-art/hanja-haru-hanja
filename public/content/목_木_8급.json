@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "목",
+    "hanja_meaning": "나무",
+    "hanja_char": "木",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "뿌리, 줄기, 가지까지 다 담긴 '나무 목(木)'",
+    "etymology_story": "'나무 목(木)'은 가운데 굵은 선이 줄기, 위로 뻗은 선들이 가지, 아래로 뻗은 선들이 뿌리를 나타내요. 나무 한 그루 전체를 한 글자에 담은 셈이죠! 정말 멋지지 않나요?"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "목재(木材)",
+      "etymology_dissection": "나무 목(木) + 재료 재(材) = 나무로 된 재료",
+      "easy_definition": "건물이나 물건을 만드는 데 쓰는 나무",
+      "context_sentence": "집을 짓는 데 목재가 많이 필요해요."
+    },
+    {
+      "word_korean": "수목(樹木)",
+      "etymology_dissection": "나무 수(樹) + 나무 목(木) = 나무",
+      "easy_definition": "살아 있는 나무들을 통틀어 부르는 말",
+      "context_sentence": "공원에는 다양한 수목이 자라고 있어요."
+    },
+    {
+      "word_korean": "목요일(木曜日)",
+      "etymology_dissection": "나무 목(木) + 빛날 요(曜) + 날 일(日) = 나무의 날",
+      "easy_definition": "한 주의 다섯 번째 날",
+      "context_sentence": "목요일에는 음악 시간이 있어서 좋아요."
+    },
+    {
+      "word_korean": "식목일(植木日)",
+      "etymology_dissection": "심을 식(植) + 나무 목(木) + 날 일(日) = 나무 심는 날",
+      "easy_definition": "나무를 심는 날 (4월 5일)",
+      "context_sentence": "식목일에 친구들과 나무를 심었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나무가 있어서 행복해요",
+    "passage_text": "**식목일(植木日)**에 우리 학교 앞에 **수목(樹木)**을 심었어요. 선생님은 나무가 자라면 **목재(木材)**가 되어 우리 생활에 도움이 된다고 하셨어요. 우리가 심은 나무가 쑥쑥 자라기를 기대해요!",
+    "quiz": {
+      "question": "'식목일(植木日)'은 어떤 날인가요?",
+      "choices": [
+        "책을 읽는 날",
+        "나무를 심는 날",
+        "운동하는 날",
+        "청소하는 날"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'식목일'은 '심을 식 + 나무 목 + 날 일' = 나무를 심는 날이에요! 4월 5일이랍니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 나무나 식물에 대한 내 생각이나 경험을 써 보세요.",
+    "model_example": "식목일에 심은 나무가 언젠가 큰 수목이 되어 새들의 집이 되었으면 좋겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'나무 — 목(木)! 나무 — 목(木)!' 열 번 외쳐요! 잘 했어요, 보관함에 저장하세요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "리",
+    "hanja_meaning": "다스릴",
+    "hanja_char": "理",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "옥을 갈아 다스리다 — 다스릴 리(理)",
+    "etymology_story": "'다스릴 리(理)'는 옥(王/玉)과 마을 리(里)가 합쳐진 글자예요. 옥(玉)의 결을 따라 잘 다듬는 것처럼 '다스리다, 이치'라는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이유(理由)",
+      "etymology_dissection": "다스릴 리(理)+말미암을 유(由)",
+      "easy_definition": "일의 까닭",
+      "context_sentence": "이유를 말해요."
+    },
+    {
+      "word_korean": "이해(理解)",
+      "etymology_dissection": "다스릴 리(理)+풀 해(解)",
+      "easy_definition": "이치를 풀어 아는 것",
+      "context_sentence": "이해가 됐어요."
+    },
+    {
+      "word_korean": "관리(管理)",
+      "etymology_dissection": "대롱 관(管)+다스릴 리(理)",
+      "easy_definition": "잘 다루어 다스리는 것",
+      "context_sentence": "건강 관리가 중요해요."
+    },
+    {
+      "word_korean": "원리(原理)",
+      "etymology_dissection": "근원 원(原)+다스릴 리(理)",
+      "easy_definition": "근본이 되는 이치",
+      "context_sentence": "원리를 알면 쉬워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이치의 세계",
+    "passage_text": "**이해(理解)**가 되면 외울 필요가 없어요. **원리(原理)**를 알면 응용할 수 있어요. **관리(管理)**를 잘 하는 사람이 성공해요.",
+    "quiz": {
+      "question": "'원리(原理)'란?",
+      "choices": [
+        "이유",
+        "이해",
+        "근본이 되는 이치",
+        "관리"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'원리(原理)'=근원 원+다스릴 리, 근본이 되는 이치나 법칙이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "원리를 이해해서 더 잘 할 수 있게 된 경험을 문장으로 써 보세요.",
+    "model_example": "원리를 알면 이해가 되고, 이해가 되면 관리도 이유 없이 쉬워져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'다스릴 — 리(理)! 다스릴 — 리(理)!' 열 번 외쳐요!"
+  }
+}

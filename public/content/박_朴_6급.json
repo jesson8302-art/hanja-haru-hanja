@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "박",
+    "hanja_meaning": "성씨",
+    "hanja_char": "朴",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "박달나무 — 성씨 박(朴)",
+    "etymology_story": "'성씨 박(朴)'은 나무(木)와 점(卜)이 합쳐진 글자예요. 껍질이 박처럼 거칠고 단단한 나무를 나타내요. 한국에서 가장 많은 성씨 중 하나예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "박씨(朴氏)",
+      "etymology_dissection": "성씨 박(朴)+성씨 씨(氏)",
+      "easy_definition": "박 씨 성을 가진 사람",
+      "context_sentence": "박씨는 신라 시조예요."
+    },
+    {
+      "word_korean": "순박(淳朴)",
+      "etymology_dissection": "맑을 순(淳)+성씨 박(朴)",
+      "easy_definition": "꾸밈없이 소박한 것",
+      "context_sentence": "순박한 마음이 좋아요."
+    },
+    {
+      "word_korean": "소박(素朴)",
+      "etymology_dissection": "흰 소(素)+성씨 박(朴)",
+      "easy_definition": "꾸밈없이 단순한 것",
+      "context_sentence": "소박한 삶이 행복해요."
+    },
+    {
+      "word_korean": "박애(博愛)",
+      "etymology_dissection": "넓을 박(博)+사랑 애(愛)",
+      "easy_definition": "모든 이를 사랑하는 마음",
+      "context_sentence": "박애 정신을 실천해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "순박한 마음",
+    "passage_text": "**순박(淳朴)**하고 **소박(素朴)**한 마음이 가장 아름다워요. 박달나무처럼 단단한 심지를 가져요. **박애(博愛)** 정신으로 모두를 사랑해요.",
+    "quiz": {
+      "question": "'소박(素朴)'이란?",
+      "choices": [
+        "성씨",
+        "꾸밈없이 단순한 것",
+        "박달나무",
+        "순박"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'소박(素朴)'=흰 소+성씨 박, 꾸밈없이 단순하고 수수한 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "소박하거나 순박한 삶이나 사람에 대해 문장으로 써 보세요.",
+    "model_example": "박달나무처럼 단단하고 순박하게, 소박하게 살아가는 것이 가장 행복한 삶이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'성씨 — 박(朴)! 성씨 — 박(朴)!' 열 번 외쳐요!"
+  }
+}

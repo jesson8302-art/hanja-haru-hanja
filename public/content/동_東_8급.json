@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "동녘",
+    "hanja_char": "東",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무 사이로 해가 뜨는 '동녘 동(東)'",
+    "etymology_story": "'동녘 동(東)'은 나무(木) 사이로 해(日)가 떠오르는 모습이에요. 해가 뜨는 방향이 동쪽이라는 걸 이 글자 하나로 표현한 거예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동서(東西)",
+      "etymology_dissection": "동녘 동(東) + 서녘 서(西) = 동쪽과 서쪽",
+      "easy_definition": "동쪽과 서쪽을 함께 이르는 말, 또는 세계 전체",
+      "context_sentence": "동서 문화 교류가 활발해졌어요."
+    },
+    {
+      "word_korean": "동양(東洋)",
+      "etymology_dissection": "동녘 동(東) + 바다 양(洋) = 동쪽 바다",
+      "easy_definition": "아시아 지역을 이르는 말",
+      "context_sentence": "동양 철학에는 깊은 지혜가 담겨 있어요."
+    },
+    {
+      "word_korean": "동쪽(東쪽)",
+      "etymology_dissection": "동녘 동(東) = 해가 뜨는 방향",
+      "easy_definition": "나침반에서 해가 뜨는 방향",
+      "context_sentence": "아침마다 동쪽에서 해가 떠요."
+    },
+    {
+      "word_korean": "동해(東海)",
+      "etymology_dissection": "동녘 동(東) + 바다 해(海) = 동쪽 바다",
+      "easy_definition": "우리나라 동쪽에 있는 바다",
+      "context_sentence": "동해의 일출은 정말 아름다워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "해가 뜨는 곳",
+    "passage_text": "매일 아침 **동쪽(東쪽)**에서 해가 떠요. **동해(東海)**의 일출은 우리나라 최고의 명소 중 하나예요. **동양(東洋)**과 서양의 **동서(東西)** 문화가 만나 더 풍요로운 세상이 만들어지고 있어요.",
+    "quiz": {
+      "question": "'동양(東洋)'이란?",
+      "choices": [
+        "유럽 지역",
+        "아메리카 대륙",
+        "아시아 지역",
+        "아프리카 지역"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'동양(東洋)'은 '동녘 동 + 바다 양' = 동쪽 바다 건너의 아시아 지역이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "동해나 동쪽 방향에 대한 내 경험이나 느낌을 문장으로 써 보세요.",
+    "model_example": "동해에서 본 일출처럼, 동양의 아름다운 자연이 동서 모든 사람의 마음을 감동시켜요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'동녘 — 동(東)! 동녘 — 동(東)!' 열 번 외쳐요!"
+  }
+}

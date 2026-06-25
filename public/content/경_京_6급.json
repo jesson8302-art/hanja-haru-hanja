@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "경",
+    "hanja_meaning": "서울",
+    "hanja_char": "京",
+    "hanja_level": "6급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "높은 곳에 세운 큰 건물 — 서울 경(京)",
+    "etymology_story": "'서울 경(京)'은 높은 언덕(丄) 위에 큰 건물이 우뚝 서 있는 모습이에요. 높은 곳에 우뚝 선 도시가 '수도, 서울'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "서울(京)",
+      "etymology_dissection": "서울 경(京)",
+      "easy_definition": "대한민국의 수도",
+      "context_sentence": "서울에 경복궁이 있어요."
+    },
+    {
+      "word_korean": "경복궁(景福宮)",
+      "etymology_dissection": "볕 경(景)+복 복(福)+집 궁(宮)",
+      "easy_definition": "조선 시대의 궁궐",
+      "context_sentence": "경복궁을 견학했어요."
+    },
+    {
+      "word_korean": "상경(上京)",
+      "etymology_dissection": "위 상(上)+서울 경(京)",
+      "easy_definition": "서울로 올라가는 것",
+      "context_sentence": "상경해서 대학에 다녀요."
+    },
+    {
+      "word_korean": "경성(京城)",
+      "etymology_dissection": "서울 경(京)+성 성(城)",
+      "easy_definition": "서울의 옛 이름",
+      "context_sentence": "경성은 서울의 일제강점기 이름이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "수도 서울",
+    "passage_text": "**서울(京)**은 대한민국의 수도예요. **경복궁(景福宮)**은 조선의 역사를 품은 곳이에요. **상경(上京)**하여 꿈을 이루는 사람들이 많아요.",
+    "quiz": {
+      "question": "'상경(上京)'이란?",
+      "choices": [
+        "서울의 옛 이름",
+        "서울로 올라가는 것",
+        "경복궁",
+        "수도"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'상경(上京)'=위 상+서울 경, 서울(수도)로 올라가는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "서울이나 수도에 대한 경험이나 생각을 문장으로 써 보세요.",
+    "model_example": "서울에 상경해서 경복궁을 처음 본 날, 역사가 살아 숨 쉬는 느낌을 받았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'서울 — 경(京)! 서울 — 경(京)!' 열 번 외쳐요!"
+  }
+}

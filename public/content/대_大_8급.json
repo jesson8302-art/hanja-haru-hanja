@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "대",
+    "hanja_meaning": "큰",
+    "hanja_char": "大",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 팔 벌리고 '이만큼 크다!' — 큰 대(大)",
+    "etymology_story": "'큰 대(大)'는 사람이 두 팔을 활짝 벌린 모습을 그린 글자예요. '이 정도로 크다!'라고 표현하는 것처럼요. 어른이 아이에게 크기를 보여주는 모습이 담겨 있답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "대화(大話)",
+      "etymology_dissection": "큰 대(大) + 말씀 화(話) = 큰 이야기 → 서로 주고받는 이야기",
+      "easy_definition": "서로 이야기를 주고받는 것",
+      "context_sentence": "친구와 대화를 나누면 기분이 좋아져요."
+    },
+    {
+      "word_korean": "대표(代表)",
+      "etymology_dissection": "대신할 대(代) + 겉 표(表) = 대신 나서서 나타내는 것",
+      "easy_definition": "여럿을 대신해서 앞에 나서는 것",
+      "context_sentence": "우리 반 대표가 학교 운동회에서 달렸어요."
+    },
+    {
+      "word_korean": "위대(偉大)",
+      "etymology_dissection": "클 위(偉) + 큰 대(大) = 매우 크고 훌륭함",
+      "easy_definition": "보통과 다르게 뛰어나고 훌륭한",
+      "context_sentence": "세종대왕은 위대한 왕이에요."
+    },
+    {
+      "word_korean": "대자연(大自然)",
+      "etymology_dissection": "큰 대(大) + 스스로 자(自) + 그럴 연(然) = 넓고 큰 자연",
+      "easy_definition": "산, 강, 바다 등 크고 넓은 자연 전체",
+      "context_sentence": "대자연 속에서 산책하면 마음이 편해져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "크게, 더 크게!",
+    "passage_text": "**대자연(大自然)**을 보면 우리가 얼마나 작은 존재인지 느껴져요. 그런데 **위대(偉大)**한 사람들은 작은 일에서도 큰 가치를 찾았어요. 진정한 **대화(大話)**는 큰 소리가 아니라 마음에서 나오는 것이에요.",
+    "quiz": {
+      "question": "'위대(偉大)하다'는 말의 뜻은?",
+      "choices": [
+        "무섭고 험한",
+        "보통보다 뛰어나고 훌륭한",
+        "크고 무거운",
+        "빠르고 강한"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'위대(偉大)'는 '클 위 + 큰 대' = 매우 크고 훌륭하다는 뜻이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 크다고 느끼는 것이나 위대하다고 생각하는 사람에 대해 써 보세요.",
+    "model_example": "나는 어려운 이웃을 평생 도운 우리 동네 할머니가 위대한 분이라고 생각해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'큰 — 대(大)! 큰 — 대(大)!' 열 번 외치고 보관함에 저장하세요!"
+  }
+}

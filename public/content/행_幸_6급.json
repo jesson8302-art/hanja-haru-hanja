@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "행",
+    "hanja_meaning": "다행",
+    "hanja_char": "幸",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "幸 — 수갑에서 벗어난 다행스러움",
+    "etymology_story": "幸(행)은 수갑 모양을 나타낸 글자로, 위기에서 벗어난 안도감을 뜻해요. '다행이다·운이 좋다'를 의미해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "행복(幸福)",
+      "etymology_dissection": "다행 행(幸)+복 복(福)",
+      "easy_definition": "기쁘고 만족스러운 상태",
+      "context_sentence": "가족과 함께할 때 가장 행복해요."
+    },
+    {
+      "word_korean": "다행(多幸)",
+      "etymology_dissection": "많을 다(多)+다행 행(幸) — 실제로는 '다행히'",
+      "easy_definition": "일이 잘 풀린 것",
+      "context_sentence": "다행히 시험을 잘 봤어요."
+    },
+    {
+      "word_korean": "불행(不幸)",
+      "etymology_dissection": "아닐 불(不)+다행 행(幸)",
+      "easy_definition": "운이 나쁘거나 슬픈 상태",
+      "context_sentence": "불행한 일이 없길 바라요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "행복의 의미",
+    "passage_text": "행복(幸福)이란 무엇일까요? 큰 것이 아니어도 돼요. 맛있는 밥을 먹을 때, 친구와 웃을 때, 시험을 잘 봐서 다행(多幸)일 때 모두 행복이에요. 불행(不幸)한 일도 생기지만, 그것을 이겨내면 더 강해져요.",
+    "quiz": {
+      "question": "'행복'의 뜻은?",
+      "choices": [
+        "기쁘고 만족스러운 상태",
+        "운이 나쁜 상태",
+        "슬픈 상태",
+        "어려운 상황"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "행복(幸福)은 '다행 행(幸)+복 복(福)'으로, 만족스럽고 기쁜 마음 상태를 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나를 행복하게 만드는 것 세 가지를 써 보고, 왜 그것이 행복한지 각각 설명해 보세요.",
+    "model_example": "예) 1. 강아지와 놀 때 — 털이 보들보들하고 귀여워서. 2. 책 읽을 때 — 이야기 속에 빠져들어서."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "幸(행)! 작은 것에서도 행복을 찾아요! 훌륭해요! 😊"
+  }
+}

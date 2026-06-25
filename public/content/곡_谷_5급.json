@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "谷",
+    "hanja_sound": "곡",
+    "hanja_meaning": "골",
+    "full_reading": "골 곡",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "谷",
+    "sound": "곡",
+    "meaning": "골",
+    "stroke_count": 7,
+    "radical": "谷",
+    "etymology_story": "谷은 물이 흐르는 골짜기의 모양을 본뜬 글자입니다. 산과 산 사이에 물이 흐르는 좁은 땅, 즉 '골짜기'를 나타냅니다.",
+    "memory_tip": "산 사이에 물이 흐르는 골짜기의 모양이 '谷'입니다.",
+    "level_context": "5급 한자로, 골을(를) 뜻하는 谷입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "계곡",
+      "word_hanja": "溪谷",
+      "reading": "계곡",
+      "easy_definition": "산 사이로 흐르는 냇물과 골짜기",
+      "etymology_dissection": "냇물 계(溪)+골 곡(谷): 냇물이 흐르는 골",
+      "example_sentence": "여름에 계곡에서 물놀이를 했습니다.",
+      "sentence_meaning": "여름에 산 골짜기에서 물놀이를 즐겼습니다."
+    },
+    {
+      "word_korean": "골짜기",
+      "word_hanja": "골짜기",
+      "reading": "골짜기",
+      "easy_definition": "산과 산 사이의 움푹 들어간 곳",
+      "etymology_dissection": "일상어로 谷의 뜻",
+      "example_sentence": "깊은 골짜기에 안개가 피었습니다.",
+      "sentence_meaning": "깊은 산 사이의 움푹한 곳에 안개가 피었습니다."
+    },
+    {
+      "word_korean": "산곡",
+      "word_hanja": "山谷",
+      "reading": "산곡",
+      "easy_definition": "산과 골짜기",
+      "etymology_dissection": "뫼 산(山)+골 곡(谷): 산과 골",
+      "example_sentence": "산곡에 메아리가 울려 퍼졌습니다.",
+      "sentence_meaning": "산과 골짜기에 메아리가 울렸습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "여름이면 시원한 계곡을 찾는 사람들이 많습니다. 깊은 골짜기에는 맑은 물이 흐릅니다. 산곡에는 다양한 동식물이 살고 있습니다.",
+    "passage_meaning": "여름 계곡은 시원하고, 깊은 골짜기에는 맑은 물이 흘러 다양한 생물이 삽니다.",
+    "questions": [
+      {
+        "question": "'계곡'의 뜻으로 알맞은 것은?",
+        "options": [
+          "넓은 들판",
+          "산 사이로 흐르는 냇물과 골짜기",
+          "큰 강",
+          "도시의 공원"
+        ],
+        "correct_answer": "산 사이로 흐르는 냇물과 골짜기",
+        "explanation": "계곡(溪谷)은 산 사이로 흐르는 냇물과 골짜기입니다."
+      },
+      {
+        "question": "'谷'의 뜻으로 알맞은 것은?",
+        "options": [
+          "바다",
+          "사막",
+          "골짜기",
+          "평원"
+        ],
+        "correct_answer": "골짜기",
+        "explanation": "谷은 산과 산 사이의 골짜기를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'계곡'이나 '골짜기'를 사용하여 자연에 대한 문장을 써 보세요.",
+    "hint": "여행이나 야외 활동 경험을 담아 보세요.",
+    "example_answer": "여름 방학에 가족과 계곡으로 놀러 갔습니다.",
+    "key_vocabulary": [
+      "계곡",
+      "골짜기"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "계곡의 물이 정말 시원했습니다.",
+      "깊은 골짜기에 안개가 피었습니다.",
+      "산곡에서 새소리가 들렸습니다."
+    ],
+    "pronunciation_tips": "'곡'을 명확하게 발음하며 읽어 보세요."
+  }
+}

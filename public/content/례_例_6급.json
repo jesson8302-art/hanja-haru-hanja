@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "례",
+    "hanja_meaning": "법식",
+    "hanja_char": "例",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 본보기를 세우다 — 법식 례(例)",
+    "etymology_story": "'법식 례(例)'는 사람(人)과 열 열(列)이 합쳐진 글자예요. 사람이 나란히 줄 서서 본보기가 되는 것이 '법식, 사례(例)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "예외(例外)",
+      "etymology_dissection": "법식 례(例)+바깥 외(外)",
+      "easy_definition": "규칙에서 벗어나는 것",
+      "context_sentence": "예외를 두지 않아요."
+    },
+    {
+      "word_korean": "사례(事例)",
+      "etymology_dissection": "일 사(事)+법식 례(例)",
+      "easy_definition": "구체적인 예",
+      "context_sentence": "사례를 들어 설명해요."
+    },
+    {
+      "word_korean": "선례(先例)",
+      "etymology_dissection": "먼저 선(先)+법식 례(例)",
+      "easy_definition": "먼저 있었던 예",
+      "context_sentence": "선례를 참고해요."
+    },
+    {
+      "word_korean": "전례(前例)",
+      "etymology_dissection": "앞 전(前)+법식 례(例)",
+      "easy_definition": "이전에 있던 예",
+      "context_sentence": "전례 없는 일이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "사례의 힘",
+    "passage_text": "**사례(事例)**를 들면 이해가 쉬워요. **선례(先例)**에서 지혜를 배워요. **예외(例外)**없이 규칙을 지켜요.",
+    "quiz": {
+      "question": "'사례(事例)'란?",
+      "choices": [
+        "예외",
+        "선례",
+        "구체적인 예",
+        "전례"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'사례(事例)'=일 사+법식 례, 어떤 일의 구체적인 예를 뜻해요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "사례를 들어 설명한 경험이나 선례에서 배운 것을 문장으로 써 보세요.",
+    "model_example": "사례를 들어 설명하면 선례나 전례처럼 이해가 빨라지고 예외도 줄어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'법식 — 례(例)! 법식 — 례(例)!' 열 번 외쳐요!"
+  }
+}

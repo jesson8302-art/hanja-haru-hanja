@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "익",
+    "hanja_meaning": "더할",
+    "hanja_char": "益",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "益 — 그릇이 넘쳐 이익이 되다",
+    "etymology_story": "皿(그릇 명)과 水(물 수, 여기서는 넘치는 모양)가 합쳐진 글자입니다. 그릇에 물이 가득 차 넘치는 모습에서 '더하다', '이익'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이익",
+      "word_hanja": "利益",
+      "etymology_dissection": "利(이로울 리)+益(더할 익) = 이롭고 더함",
+      "easy_definition": "경제적 활동에서 남는 이득",
+      "context_sentence": "장사를 해서 **이익**을 남겼습니다."
+    },
+    {
+      "word_korean": "유익",
+      "word_hanja": "有益",
+      "etymology_dissection": "有(있을 유)+益(더할 익) = 이익이 있음",
+      "easy_definition": "도움이 되고 보탬이 됨",
+      "context_sentence": "**유익**한 책을 읽는 것이 좋습니다."
+    },
+    {
+      "word_korean": "공익",
+      "word_hanja": "公益",
+      "etymology_dissection": "公(공평할 공)+益(더할 익) = 공공의 이익",
+      "easy_definition": "사회 전체의 이익과 이로움",
+      "context_sentence": "환경 보호는 **공익**을 위한 활동입니다."
+    },
+    {
+      "word_korean": "손익",
+      "word_hanja": "損益",
+      "etymology_dissection": "損(덜 손)+益(더할 익) = 손해와 이익",
+      "easy_definition": "손해와 이익을 아울러 이르는 말",
+      "context_sentence": "장사를 시작하기 전에 **손익**을 잘 따져봐야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "공익과 사익",
+    "passage_text": "이익에는 개인의 이익(사익)과 사회 전체의 이익(**공익**)이 있습니다. 때로는 이 둘이 충돌하기도 합니다. 예를 들어 공장 건설은 기업에 **이익**이 되지만 주변 환경을 오염시켜 **공익**을 해칠 수 있습니다. 민주주의 사회에서는 **공익**을 위해 개인의 이익을 일부 제한할 수 있습니다. **유익**한 사회를 만들기 위해서는 개인의 이익과 **공익**의 균형을 찾아야 합니다.",
+    "quiz": {
+      "question": "공익을 위해 개인 이익을 제한하는 예로 알맞은 것은?",
+      "choices": [
+        "세금을 걷는 것",
+        "개인이 원하는 물건을 사는 것",
+        "친구와 노는 것",
+        "좋아하는 음식을 먹는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "세금을 걷는 것은 개인의 재산 일부를 공공(공익)을 위해 내게 하는 것으로, 개인 이익을 공익을 위해 제한하는 예입니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'공익'이나 '유익'을 사용해서 사회에 도움이 되는 활동을 써보세요.",
+    "model_example": "플라스틱 사용을 줄이는 환경 운동은 모든 사람에게 **유익**한 **공익** 활동입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "益(익) — 더할 익! 이익·유익·공익 모두 여기서! 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "공",
+    "hanja_meaning": "함께",
+    "hanja_char": "共",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "두 손으로 함께 들다 — 함께 공(共)",
+    "etymology_story": "'함께 공(共)'은 물건(廿)을 두 손(廾)으로 같이 드는 모습이에요. 여럿이 함께 힘을 합쳐 드는 것이 '함께(共)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "공동(共同)",
+      "etymology_dissection": "함께 공(共)+같을 동(同)",
+      "easy_definition": "함께 같이 하는 것",
+      "context_sentence": "공동 작업을 해요."
+    },
+    {
+      "word_korean": "공유(共有)",
+      "etymology_dissection": "함께 공(共)+있을 유(有)",
+      "easy_definition": "함께 가지는 것",
+      "context_sentence": "공유 자전거가 편리해요."
+    },
+    {
+      "word_korean": "공감(共感)",
+      "etymology_dissection": "함께 공(共)+느낄 감(感)",
+      "easy_definition": "같은 감정을 느끼는 것",
+      "context_sentence": "친구의 말에 공감해요."
+    },
+    {
+      "word_korean": "공존(共存)",
+      "etymology_dissection": "함께 공(共)+있을 존(存)",
+      "easy_definition": "함께 살아가는 것",
+      "context_sentence": "사람과 자연이 공존해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "함께의 힘",
+    "passage_text": "**공감(共感)**하면 친구가 생겨요. **공동(共同)**으로 하면 더 쉬워요. **공유(共有)**하면 모두가 풍요로워요. **공존(共存)**이 평화를 만들어요.",
+    "quiz": {
+      "question": "'공감(共感)'이란?",
+      "choices": [
+        "공동 작업",
+        "함께 가지는 것",
+        "같은 감정을 느끼는 것",
+        "공존"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'공감(共感)'=함께 공+느낄 감, 같은 감정을 함께 느끼는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "함께해서 더 좋았던 경험을 문장으로 써 보세요.",
+    "model_example": "공감하고 공유하고 공동으로 도전하면 서로 공존하는 아름다운 세상이 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'함께 — 공(共)! 함께 — 공(共)!' 열 번 외쳐요!"
+  }
+}

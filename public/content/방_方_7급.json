@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "방",
+    "hanja_meaning": "모",
+    "hanja_char": "方",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "쟁기 모양의 '모 방(方)'",
+    "etymology_story": "'모 방(方)'은 두 쟁기를 나란히 놓은 모양이에요. 쟁기가 가는 방향에서 '방향', 네모진 모양에서 '네모'라는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "방향(方向)",
+      "etymology_dissection": "모 방(方)+향할 향(向)",
+      "easy_definition": "향해 있는 쪽",
+      "context_sentence": "바른 방향으로 나아가요."
+    },
+    {
+      "word_korean": "방법(方法)",
+      "etymology_dissection": "모 방(方)+법 법(法)",
+      "easy_definition": "어떤 일을 하는 방식",
+      "context_sentence": "공부 방법을 바꿔봐요."
+    },
+    {
+      "word_korean": "지방(地方)",
+      "etymology_dissection": "땅 지(地)+모 방(方)",
+      "easy_definition": "서울 이외의 지역",
+      "context_sentence": "지방 여행이 즐거워요."
+    },
+    {
+      "word_korean": "사방(四方)",
+      "etymology_dissection": "넉 사(四)+모 방(方)",
+      "easy_definition": "동서남북 모든 방향",
+      "context_sentence": "사방이 산으로 둘러싸였어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "방향을 찾아서",
+    "passage_text": "올바른 **방향(方向)**을 잡으면 좋은 **방법(方法)**이 보여요. **지방(地方)**에도 아름다운 곳이 많아요. **사방(四方)** 어디서든 배울 수 있어요.",
+    "quiz": {
+      "question": "'방법(方法)'이란?",
+      "choices": [
+        "방향",
+        "어떤 일을 하는 방식",
+        "지역",
+        "사방"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'방법(方法)'=모 방+법 법, 일을 하는 방식이나 수단이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어려운 문제를 해결하기 위해 방법을 찾은 경험을 문장으로 써 보세요.",
+    "model_example": "공부 방향을 바꾸고 방법을 새로 찾았더니 사방이 밝아지는 것 같았어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'모 — 방(方)! 모 — 방(方)!' 열 번 외쳐요!"
+  }
+}

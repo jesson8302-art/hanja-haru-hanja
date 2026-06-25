@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "세",
+    "hanja_meaning": "세금",
+    "hanja_char": "稅",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "稅 — 곡식으로 바치는 나라의 몫",
+    "etymology_story": "禾(벼 화)와 兌(바꿀 태)가 합쳐진 글자입니다. 수확한 벼 중 일부를 나라에 바꾸어(납부하여) 바친 데서 '세금'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "세금",
+      "word_hanja": "稅金",
+      "etymology_dissection": "稅(세금 세)+金(쇠 금) = 나라에 바치는 돈",
+      "easy_definition": "국가 운영을 위해 국민이 내는 돈",
+      "context_sentence": "**세금**으로 도로, 학교, 공원이 만들어집니다."
+    },
+    {
+      "word_korean": "납세",
+      "word_hanja": "納稅",
+      "etymology_dissection": "納(들일 납)+稅(세금 세) = 세금을 냄",
+      "easy_definition": "세금을 국가에 납부하는 것",
+      "context_sentence": "성실한 **납세**는 국민의 의무입니다."
+    },
+    {
+      "word_korean": "세율",
+      "word_hanja": "稅率",
+      "etymology_dissection": "稅(세금 세)+率(비율 률) = 세금 비율",
+      "easy_definition": "세금을 매기는 비율",
+      "context_sentence": "소득이 높을수록 **세율**이 높아집니다."
+    },
+    {
+      "word_korean": "면세",
+      "word_hanja": "免稅",
+      "etymology_dissection": "免(면할 면)+稅(세금 세) = 세금을 면함",
+      "easy_definition": "세금을 내지 않아도 되는 것",
+      "context_sentence": "**면세** 구역에서 물건을 구입했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "세금은 왜 내야 할까",
+    "passage_text": "**세금**은 국가가 국민을 위한 서비스를 제공하기 위해 필요합니다. 도로, 학교, 병원, 경찰, 소방서는 모두 **세금**으로 운영됩니다. 성실한 **납세**는 민주주의 사회에서 국민의 중요한 의무입니다. **세율**은 소득이나 재산에 따라 다르게 적용됩니다. **면세** 혜택은 특별한 경우에만 주어집니다.",
+    "quiz": {
+      "question": "세금의 용도로 글에서 언급되지 않은 것은?",
+      "choices": [
+        "도로",
+        "학교",
+        "개인 저축",
+        "소방서"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "개인 저축은 개인이 하는 것으로 세금과 관련이 없습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'세금'을 사용해서 세금이 우리 생활에 어떻게 쓰이는지 설명해보세요.",
+    "model_example": "우리가 매일 다니는 도로와 등교하는 학교는 모두 국민이 낸 **세금**으로 만들어집니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "稅(세) — 세금 세! 세금·납세·세율 모두 여기서! 잘했어요!"
+  }
+}

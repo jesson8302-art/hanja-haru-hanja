@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "전",
+    "hanja_meaning": "온전할",
+    "hanja_char": "全",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람이 옥처럼 완전하다 — 온전할 전(全)",
+    "etymology_story": "'온전할 전(全)'은 들어올 입(入)과 왕(王, 옥의 의미)이 합쳐진 글자예요. 흠 없는 옥처럼 완전하고 온전하다는 뜻이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "전체(全體)",
+      "etymology_dissection": "온전할 전(全)+몸 체(體)",
+      "easy_definition": "모든 것",
+      "context_sentence": "전체를 이해해야 해요."
+    },
+    {
+      "word_korean": "안전(安全)",
+      "etymology_dissection": "편안할 안(安)+온전할 전(全)",
+      "easy_definition": "위험이 없이 온전한 것",
+      "context_sentence": "안전을 최우선으로 해요."
+    },
+    {
+      "word_korean": "전국(全國)",
+      "etymology_dissection": "온전할 전(全)+나라 국(國)",
+      "easy_definition": "나라 전체",
+      "context_sentence": "전국 대회에 나갔어요."
+    },
+    {
+      "word_korean": "완전(完全)",
+      "etymology_dissection": "완전할 완(完)+온전할 전(全)",
+      "easy_definition": "빠짐없이 완벽한 것",
+      "context_sentence": "완전한 준비가 필요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "온전함의 가치",
+    "passage_text": "**안전(安全)**이 **완전(完全)**한 삶의 기초예요. **전국(全國)**이 하나로 뭉칠 때 힘이 나요. **전체(全體)**를 보는 시각이 문제 해결을 도와요.",
+    "quiz": {
+      "question": "'완전(完全)'이란?",
+      "choices": [
+        "일부",
+        "온전하지 않은 것",
+        "빠짐없이 완벽한 것",
+        "전국"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'완전(完全)'=완전할 완+온전할 전, 빠짐없이 완벽한 상태예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "완전히 준비하거나 온전히 집중한 경험을 문장으로 써 보세요.",
+    "model_example": "안전을 위해 완전한 준비를 갖추면 전국 어디서도 자신있게 활동할 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'온전할 — 전(全)! 온전할 — 전(全)!' 열 번 외쳐요!"
+  }
+}

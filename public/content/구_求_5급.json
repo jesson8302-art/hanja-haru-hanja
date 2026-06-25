@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "求",
+    "hanja_sound": "구",
+    "hanja_meaning": "구할",
+    "full_reading": "구할 구",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "求",
+    "sound": "구",
+    "meaning": "구할",
+    "stroke_count": 7,
+    "radical": "水",
+    "etymology_story": "求는 가죽(毛)의 변형으로, 모피를 구하는 모습에서 '구하다', '요구하다', '원하다'의 뜻이 생겼습니다.",
+    "memory_tip": "필요한 것을 찾아 '구하는' 것이 '求'입니다.",
+    "level_context": "5급 한자로, 구할을(를) 뜻하는 求입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "요구",
+      "word_hanja": "要求",
+      "reading": "요구",
+      "easy_definition": "필요한 것을 달라고 함",
+      "etymology_dissection": "요긴할 요(要)+구할 구(求): 필요한 것을 구함",
+      "example_sentence": "무리한 요구를 하지 마세요.",
+      "sentence_meaning": "지나친 것을 달라고 하지 마세요."
+    },
+    {
+      "word_korean": "욕구",
+      "word_hanja": "欲求",
+      "reading": "욕구",
+      "easy_definition": "원하고 바라는 마음",
+      "etymology_dissection": "바랄 욕(欲)+구할 구(求): 원하여 구함",
+      "example_sentence": "식욕은 기본적인 욕구입니다.",
+      "sentence_meaning": "먹고 싶은 것은 기본적인 바람입니다."
+    },
+    {
+      "word_korean": "구직",
+      "word_hanja": "求職",
+      "reading": "구직",
+      "easy_definition": "직장을 구함",
+      "etymology_dissection": "구할 구(求)+직업 직(職): 직장을 구함",
+      "example_sentence": "구직 활동을 시작했습니다.",
+      "sentence_meaning": "직장 찾는 활동을 시작했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "사람에게는 다양한 욕구가 있습니다. 무리한 요구보다는 정중하게 부탁하는 것이 좋습니다. 졸업 후 구직 활동을 시작합니다.",
+    "passage_meaning": "욕구를 올바르게 표현하고, 정중한 방법으로 요구하며, 구직 활동에 성실히 임하는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'요구'의 뜻으로 알맞은 것은?",
+        "options": [
+          "마음대로 받는 것",
+          "필요한 것을 달라고 하는 것",
+          "아무것도 원하지 않는 것",
+          "혼자 만드는 것"
+        ],
+        "correct_answer": "필요한 것을 달라고 하는 것",
+        "explanation": "요구(要求)는 필요한 것을 달라고 하는 것입니다."
+      },
+      {
+        "question": "'구직'에서 '求'의 뜻은?",
+        "options": [
+          "만들다",
+          "구하다",
+          "팔다",
+          "빌리다"
+        ],
+        "correct_answer": "구하다",
+        "explanation": "구직(求職)의 求는 '구하다'로, 직장을 구하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'요구'나 '욕구'를 사용하여 문장을 만들어 보세요.",
+    "hint": "필요와 바람에 관한 내용을 담아 보세요.",
+    "example_answer": "사람에게는 다양한 욕구가 있습니다.",
+    "key_vocabulary": [
+      "요구",
+      "욕구"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "무리한 요구는 삼가야 합니다.",
+      "기본적인 욕구를 충족해야 합니다.",
+      "열심히 구직 활동을 합니다."
+    ],
+    "pronunciation_tips": "'구'을 명확하게 발음하며 읽어 보세요."
+  }
+}

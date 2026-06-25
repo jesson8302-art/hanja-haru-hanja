@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "회",
+    "hanja_meaning": "모일",
+    "hanja_char": "會",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "會 — 많은 사람이 한자리에 모이다",
+    "etymology_story": "會(회)는 솥 증(曾)의 변형으로, 사람들이 함께 음식을 나누는 모양이에요. '모이다·만나다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "사회(社會)",
+      "etymology_dissection": "모일 사(社)+모일 회(會)",
+      "easy_definition": "사람들이 모여 이루는 집단",
+      "context_sentence": "우리는 사회 속에서 함께 살아요."
+    },
+    {
+      "word_korean": "회의(會議)",
+      "etymology_dissection": "모일 회(會)+의논할 의(議)",
+      "easy_definition": "여럿이 모여 토의함",
+      "context_sentence": "학급 회의를 열었어요."
+    },
+    {
+      "word_korean": "기회(機會)",
+      "etymology_dissection": "틀 기(機)+모일 회(會)",
+      "easy_definition": "좋은 때나 상황",
+      "context_sentence": "이 기회를 놓치지 마세요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "학급 회의",
+    "passage_text": "오늘 학급 회의(會議)를 열었어요. 운동회 종목을 정하는 안건이었어요. 모두가 의견을 내는 것이 민주적인 사회(社會)의 모습이에요. 이런 기회(機會)에 민주주의를 배워요.",
+    "quiz": {
+      "question": "'회의'의 뜻은?",
+      "choices": [
+        "여럿이 모여 토의함",
+        "혼자 생각하는 것",
+        "글을 쓰는 것",
+        "책을 읽는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "회의(會議)는 '모일 회(會)+의논할 의(議)'로, 여러 사람이 모여 어떤 문제를 함께 의논하는 것이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 참여하고 싶은 모임(會)을 한 가지 만들어 소개해 보세요. 어떤 모임인지, 누가 모이는지 써 주세요.",
+    "model_example": "예) 독서 모임을 만들고 싶어요. 매주 같은 책을 읽고, 느낀 점을 친구들과 이야기하는 모임이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "會(회)! 함께 모이면 더 강해져요! 훌륭해요! 👥"
+  }
+}

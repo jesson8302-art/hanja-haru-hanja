@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "향",
+    "hanja_meaning": "향할",
+    "hanja_char": "向",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "向 — 집이 북쪽을 향해 난 창문",
+    "etymology_story": "向(향)은 집 면(宀)과 입 구(口)가 합쳐진 글자예요. 집의 창문이 특정 방향을 향한 모양으로 '향하다·방향'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "방향(方向)",
+      "etymology_dissection": "방향 방(方)+향할 향(向)",
+      "easy_definition": "나아가는 쪽",
+      "context_sentence": "길을 잃었을 때 방향을 확인해요."
+    },
+    {
+      "word_korean": "향상(向上)",
+      "etymology_dissection": "향할 향(向)+위 상(上)",
+      "easy_definition": "위를 향해 발전함",
+      "context_sentence": "꾸준히 노력하면 성적이 향상돼요."
+    },
+    {
+      "word_korean": "지향(志向)",
+      "etymology_dissection": "뜻 지(志)+향할 향(向)",
+      "easy_definition": "목표를 향해 나아감",
+      "context_sentence": "우리 학교는 창의성을 지향해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "목표를 향해",
+    "passage_text": "성공하려면 분명한 방향(方向)이 있어야 해요. 매일 조금씩 향상(向上)되는 것을 목표로 해요. 내가 지향(志向)하는 꿈을 향해 한 걸음씩 나아가면 돼요.",
+    "quiz": {
+      "question": "'향상'의 뜻은?",
+      "choices": [
+        "위를 향해 발전함",
+        "아래로 내려가는 것",
+        "방향을 바꾸는 것",
+        "멈추는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "향상(向上)은 '향할 향(向)+위 상(上)'으로, 실력이나 상태가 더 좋아지는 것을 뜻해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 향상(向上)시키고 싶은 것 한 가지를 쓰고, 어떻게 노력할지 계획을 써 보세요.",
+    "model_example": "예) 영어 읽기를 향상시키고 싶어요. 매일 영어 동화책 한 권씩 소리 내어 읽을 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "向(향)! 꿈을 향해 앞으로! 잘했어요! 🎯"
+  }
+}

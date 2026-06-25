@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "격",
+    "hanja_meaning": "격식",
+    "hanja_char": "格",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "格 — 나무가 곧게 자라는 기준",
+    "etymology_story": "木(나무 목)과 各(각각 각)이 합쳐진 글자입니다. 나무가 규칙 있게 자라는 모습에서 '격식', '기준', '자격'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "자격",
+      "word_hanja": "資格",
+      "etymology_dissection": "資(재물 자)+格(격식 격) = 자질과 격식",
+      "easy_definition": "어떤 일을 하는 데 필요한 능력과 조건",
+      "context_sentence": "운전을 하려면 운전면허 **자격**이 필요합니다."
+    },
+    {
+      "word_korean": "성격",
+      "word_hanja": "性格",
+      "etymology_dissection": "性(성품 성)+格(격식 격) = 성품의 틀",
+      "easy_definition": "한 사람이 가진 고유한 마음의 특성",
+      "context_sentence": "긍정적인 **성격**을 갖추도록 노력하겠습니다."
+    },
+    {
+      "word_korean": "가격",
+      "word_hanja": "價格",
+      "etymology_dissection": "價(값 가)+格(격식 격) = 값의 기준",
+      "easy_definition": "물건의 값",
+      "context_sentence": "마트에서 **가격**을 비교하고 현명하게 구매합니다."
+    },
+    {
+      "word_korean": "인격",
+      "word_hanja": "人格",
+      "etymology_dissection": "人(사람 인)+格(격식 격) = 사람의 됨됨이",
+      "easy_definition": "한 사람의 도덕적 품성 전체",
+      "context_sentence": "훌륭한 **인격**을 갖춘 사람이 진정한 리더입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "자격의 의미",
+    "passage_text": "**자격**이란 어떤 일을 할 수 있는 권리나 능력의 기준입니다. 의사 **자격**, 운전 **자격**, 교사 **자격** 등 많은 직업에는 일정한 **자격**이 필요합니다. 이는 사회 구성원을 보호하기 위한 최소한의 기준입니다. **인격**은 특별한 시험이 없지만, 일상에서 말과 행동으로 드러나는 사람의 됨됨이입니다. **자격**증보다 **인격**이 더 중요한 경우도 많습니다.",
+    "quiz": {
+      "question": "자격이 필요한 이유로 가장 알맞은 것은?",
+      "choices": [
+        "더 많은 돈을 벌기 위해",
+        "사회 구성원을 보호하기 위한 최소한의 기준이므로",
+        "시험이 재미있어서",
+        "정부가 강제로 만들어서"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 자격은 사회 구성원을 보호하기 위한 최소한의 기준이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'인격'을 사용해서 존경하는 사람의 훌륭한 품성을 설명해보세요.",
+    "model_example": "우리 선생님은 학생들을 항상 존중하고 배려하시는 훌륭한 **인격**의 소유자입니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "格(격) — 격식 격! 자격·성격·가격·인격 모두 여기서! 멋져요!"
+  }
+}

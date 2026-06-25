@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "수",
+    "hanja_meaning": "나무",
+    "hanja_char": "樹",
+    "hanja_level": "6급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "나무를 심어 세우다 — 나무 수(樹)",
+    "etymology_story": "'나무 수(樹)'는 나무(木)와 북鼓 모양(尌)이 합쳐진 글자예요. 북처럼 단단히 서 있는 나무가 '수(樹)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수목(樹木)",
+      "etymology_dissection": "나무 수(樹)+나무 목(木)",
+      "easy_definition": "나무들",
+      "context_sentence": "수목원에 갔어요."
+    },
+    {
+      "word_korean": "식수(植樹)",
+      "etymology_dissection": "심을 식(植)+나무 수(樹)",
+      "easy_definition": "나무를 심는 것",
+      "context_sentence": "식수를 했어요."
+    },
+    {
+      "word_korean": "수령(樹齡)",
+      "etymology_dissection": "나무 수(樹)+나이 령(齡)",
+      "easy_definition": "나무의 나이",
+      "context_sentence": "수령 500년이에요."
+    },
+    {
+      "word_korean": "가로수(街路樹)",
+      "etymology_dissection": "거리 가(街)+길 로(路)+나무 수(樹)",
+      "easy_definition": "길가에 심은 나무",
+      "context_sentence": "가로수가 그늘을 줘요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나무의 지혜",
+    "passage_text": "**식수(植樹)**로 환경을 가꿔요. **가로수(街路樹)**는 도시의 허파예요. **수령(樹齡)** 500년 나무처럼 오래오래 단단히 자라요.",
+    "quiz": {
+      "question": "'가로수(街路樹)'란?",
+      "choices": [
+        "수목원",
+        "식수",
+        "길가에 심은 나무",
+        "수령"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'가로수(街路樹)'=거리 가+길 로+나무 수, 길가에 줄지어 심은 나무예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나무나 자연 환경에 대한 소중함을 문장으로 써 보세요.",
+    "model_example": "수령 수백 년 나무처럼, 가로수 하나가 도시 전체에 그늘을 주듯 나도 주변에 힘이 되고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'나무 — 수(樹)! 나무 — 수(樹)!' 열 번 외쳐요!"
+  }
+}

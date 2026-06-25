@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "조",
+    "hanja_meaning": "할아버지",
+    "hanja_char": "祖",
+    "hanja_level": "7급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "신에게 제사 지내는 조상 — 할아버지 조(祖)",
+    "etymology_story": "'할아버지 조(祖)'는 신(示)과 또 차(且)가 합쳐진 글자예요. 제사(示)를 지내며 이어받는 대(且)가 '조상(祖上)'의 개념을 만들었어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "조상(祖上)",
+      "etymology_dissection": "할아버지 조(祖)+위 상(上)",
+      "easy_definition": "나보다 앞서 살았던 어른들",
+      "context_sentence": "조상을 기억해요."
+    },
+    {
+      "word_korean": "조국(祖國)",
+      "etymology_dissection": "할아버지 조(祖)+나라 국(國)",
+      "easy_definition": "태어난 나라",
+      "context_sentence": "조국을 사랑해요."
+    },
+    {
+      "word_korean": "선조(先祖)",
+      "etymology_dissection": "먼저 선(先)+할아버지 조(祖)",
+      "easy_definition": "먼 옛날의 조상",
+      "context_sentence": "선조의 지혜를 배워요."
+    },
+    {
+      "word_korean": "시조(始祖)",
+      "etymology_dissection": "비롯할 시(始)+할아버지 조(祖)",
+      "easy_definition": "처음 시작한 조상",
+      "context_sentence": "우리 민족의 시조는 단군이에요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "뿌리의 소중함",
+    "passage_text": "**선조(先祖)**와 **시조(始祖)**의 지혜가 오늘의 우리를 만들었어요. **조상(祖上)**을 기억하는 것이 **조국(祖國)**을 사랑하는 첫걸음이에요.",
+    "quiz": {
+      "question": "'시조(始祖)'란?",
+      "choices": [
+        "선조",
+        "할아버지",
+        "처음 시작한 조상",
+        "조국"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'시조(始祖)'=비롯할 시+할아버지 조, 맨 처음 시작한 조상이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 뿌리(가족, 조상, 고향)에 대해 문장으로 써 보세요.",
+    "model_example": "조상의 지혜가 담긴 조국을 사랑하며 선조의 뜻을 이어가겠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'할아버지 — 조(祖)! 할아버지 — 조(祖)!' 열 번 외쳐요!"
+  }
+}

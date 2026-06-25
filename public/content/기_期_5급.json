@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "期",
+    "hanja_sound": "기",
+    "hanja_meaning": "기약할",
+    "full_reading": "기약할 기",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "期",
+    "sound": "기",
+    "meaning": "기약할",
+    "stroke_count": 12,
+    "radical": "月",
+    "etymology_story": "期는 달(月)과 정하다를 뜻하는 其(기)가 합쳐진 글자입니다. 달을 보며 때를 정하고 기약하는 모습에서 '기약하다', '기간', '시기'의 뜻이 생겼습니다.",
+    "memory_tip": "달(月)을 보며 때(其)를 정하는 것이 '기약하다'입니다.",
+    "level_context": "5급 한자로, 기약할을(를) 뜻하는 期입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기간",
+      "word_hanja": "期間",
+      "reading": "기간",
+      "easy_definition": "정해진 시작과 끝 사이의 시간",
+      "etymology_dissection": "기약할 기(期)+사이 간(間): 기약한 사이",
+      "example_sentence": "방학 기간에 여행을 갑니다.",
+      "sentence_meaning": "방학인 기간 동안 여행을 갑니다."
+    },
+    {
+      "word_korean": "기한",
+      "word_hanja": "期限",
+      "reading": "기한",
+      "easy_definition": "정해진 끝 날짜",
+      "etymology_dissection": "기약할 기(期)+한계 한(限): 기약의 한계",
+      "example_sentence": "제출 기한을 지켜야 합니다.",
+      "sentence_meaning": "내야 하는 마지막 날짜를 지켜야 합니다."
+    },
+    {
+      "word_korean": "학기",
+      "word_hanja": "學期",
+      "reading": "학기",
+      "easy_definition": "학교의 한 학기 기간",
+      "etymology_dissection": "배울 학(學)+기약할 기(期): 배우는 기간",
+      "example_sentence": "2학기가 시작되었습니다.",
+      "sentence_meaning": "두 번째 학기가 시작되었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "2학기 기간 동안 열심히 공부하겠습니다. 숙제 제출 기한은 금요일까지입니다. 방학 기간에 많은 것을 배울 수 있습니다.",
+    "passage_meaning": "기간, 기한, 학기 모두 '때', '기간'을 뜻하는 期에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'기한'의 뜻으로 알맞은 것은?",
+        "options": [
+          "시작 날짜",
+          "정해진 끝 날짜",
+          "중간 날짜",
+          "시험 날짜"
+        ],
+        "correct_answer": "정해진 끝 날짜",
+        "explanation": "기한(期限)은 정해진 끝 날짜입니다."
+      },
+      {
+        "question": "'학기'에서 '期'의 뜻은?",
+        "options": [
+          "학교",
+          "기약하다·기간",
+          "공부",
+          "선생님"
+        ],
+        "correct_answer": "기약하다·기간",
+        "explanation": "학기(學期)의 期는 '기약하다', '기간'으로, 학교에서 정해진 학습 기간을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'기간'이나 '기한'을 사용하여 문장을 써 보세요.",
+    "hint": "시간 관리나 계획에 관한 내용을 담아 보세요.",
+    "example_answer": "숙제 제출 기한은 다음 주 월요일입니다.",
+    "key_vocabulary": [
+      "기간",
+      "기한"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "방학 기간을 알차게 보냅시다.",
+      "기한 안에 제출해야 합니다.",
+      "이번 학기에 더 열심히 할 것입니다."
+    ],
+    "pronunciation_tips": "'기'을 명확하게 발음하며 읽어 보세요."
+  }
+}

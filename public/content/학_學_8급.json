@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "학",
+    "hanja_meaning": "배울",
+    "hanja_char": "學",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "지붕 아래서 자식이 공부하는 모습 — 배울 학(學)",
+    "etymology_story": "'배울 학(學)'은 위에 지붕, 아래에 아이(子)가 있어요. 지붕 아래서 아이가 책을 펼쳐 놓고 공부하는 모습이에요! 옛날 서당의 풍경이 이 글자 하나에 고스란히 담겨 있답니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "학교(學校)",
+      "etymology_dissection": "배울 학(學) + 학교 교(校) = 배움이 이루어지는 곳",
+      "easy_definition": "선생님과 학생들이 모여 공부하는 곳",
+      "context_sentence": "학교에서 친구들과 함께 공부해요."
+    },
+    {
+      "word_korean": "학생(學生)",
+      "etymology_dissection": "배울 학(學) + 날 생(生) = 배우며 살아가는 사람",
+      "easy_definition": "공부하는 사람, 학교에 다니는 어린이나 청소년",
+      "context_sentence": "우리는 모두 학생이에요."
+    },
+    {
+      "word_korean": "수학(數學)",
+      "etymology_dissection": "셀 수(數) + 배울 학(學) = 수를 배우는 학문",
+      "easy_definition": "숫자와 계산을 다루는 과목",
+      "context_sentence": "수학 시간에 곱셈을 배웠어요."
+    },
+    {
+      "word_korean": "과학(科學)",
+      "etymology_dissection": "과목 과(科) + 배울 학(學) = 자연의 원리를 배우는 학문",
+      "easy_definition": "자연의 법칙과 현상을 연구하는 학문",
+      "context_sentence": "과학 시간에 식물 실험을 했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "배움의 즐거움",
+    "passage_text": "**학생(學生)**이라면 누구나 **학교(學校)**에서 여러 과목을 배워요. **수학(數學)**은 어렵지만 규칙을 찾으면 재미있어요. **과학(科學)**은 세상의 신기한 원리를 알게 해 주죠. 배우는 것 자체가 정말 즐거운 일이에요!",
+    "quiz": {
+      "question": "'학생(學生)'은 어떤 사람인가요?",
+      "choices": [
+        "선생님을 가르치는 사람",
+        "공부하며 살아가는 사람",
+        "학교를 만든 사람",
+        "돈을 버는 사람"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'학생(學生)'은 '배울 학 + 날 생' = 배우며 살아가는 사람이에요! 여러분 모두가 학생이랍니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 '학교', '학생', '수학', '과학' 중 하나를 골라 학교에서 배우는 즐거움을 담은 문장을 써 보세요.",
+    "model_example": "수학은 처음엔 어렵지만, 풀어낼 때의 기쁨이 있어서 학생으로서 포기하지 않고 계속 도전하고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'배울 — 학(學)! 배울 — 학(學)!' 열 번 크게 외쳐요! 오늘도 정말 잘 했어요, 보관함에 저장하세요!"
+  }
+}

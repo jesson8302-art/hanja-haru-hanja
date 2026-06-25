@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "査",
+    "hanja_sound": "사",
+    "hanja_meaning": "조사할",
+    "full_reading": "조사할 사",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "査",
+    "sound": "사",
+    "meaning": "조사할",
+    "stroke_count": 9,
+    "radical": "木",
+    "etymology_story": "査는 나무(木)와 또 차(且)가 합쳐진 글자입니다. 나무를 살펴보듯 자세히 조사하는 모습에서 '조사하다'의 뜻이 생겼습니다.",
+    "memory_tip": "나무(木)를 꼼꼼히 살펴보듯 '조사하다'입니다.",
+    "level_context": "5급 한자로, 조사할을(를) 뜻하는 査입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "조사",
+      "word_hanja": "調査",
+      "reading": "조사",
+      "easy_definition": "자세히 알아봄",
+      "etymology_dissection": "고를 조(調)+조사할 사(査): 고루 조사",
+      "example_sentence": "사고 원인을 조사했습니다.",
+      "sentence_meaning": "사고 원인을 자세히 알아봤습니다."
+    },
+    {
+      "word_korean": "검사",
+      "word_hanja": "檢査",
+      "reading": "검사",
+      "easy_definition": "꼼꼼히 살펴봄",
+      "etymology_dissection": "검열할 검(檢)+조사할 사(査): 검열하여 조사",
+      "example_sentence": "건강 검사를 받았습니다.",
+      "sentence_meaning": "건강을 꼼꼼히 살펴봤습니다."
+    },
+    {
+      "word_korean": "수사",
+      "word_hanja": "搜査",
+      "reading": "수사",
+      "easy_definition": "범죄를 찾아 조사함",
+      "etymology_dissection": "찾을 수(搜)+조사할 사(査): 찾아 조사",
+      "example_sentence": "경찰이 수사했습니다.",
+      "sentence_meaning": "경찰이 범죄를 찾아 조사했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "경찰이 사건을 수사했습니다. 건강 검사는 정기적으로 받아야 합니다. 원인 조사를 통해 문제를 해결합니다.",
+    "passage_meaning": "조사, 검사, 수사 모두 '조사하다'는 뜻의 査에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'수사'의 뜻은?",
+        "options": [
+          "집을 청소함",
+          "범죄를 찾아 조사함",
+          "공부를 함",
+          "요리를 함"
+        ],
+        "correct_answer": "범죄를 찾아 조사함",
+        "explanation": "수사(搜査)는 범죄를 찾아 조사하는 것입니다."
+      },
+      {
+        "question": "'査'의 뜻은?",
+        "options": [
+          "만들다",
+          "조사하다",
+          "사다",
+          "팔다"
+        ],
+        "correct_answer": "조사하다",
+        "explanation": "査는 '조사하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'조사'나 '검사'를 사용하여 문장을 써 보세요.",
+    "hint": "탐구나 건강에 관한 내용을 담아 보세요.",
+    "example_answer": "정기 건강 검사를 통해 건강을 챙깁니다.",
+    "key_vocabulary": [
+      "조사",
+      "검사"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "원인을 조사하겠습니다.",
+      "건강 검사를 받으세요.",
+      "경찰이 수사를 시작했습니다."
+    ],
+    "pronunciation_tips": "'사'을 명확하게 발음하며 읽어 보세요."
+  }
+}

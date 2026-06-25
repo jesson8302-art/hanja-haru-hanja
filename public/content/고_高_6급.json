@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "고",
+    "hanja_meaning": "높을",
+    "hanja_char": "高",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "높은 건물 — 높을 고(高)",
+    "etymology_story": "'높을 고(高)'는 높은 건물(亭)의 모습이에요. 땅 위에 높이 솟아오른 구조물에서 '높다'는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "고층(高層)",
+      "etymology_dissection": "높을 고(高)+층 층(層)",
+      "easy_definition": "높은 층수",
+      "context_sentence": "고층 건물이 즐비해요."
+    },
+    {
+      "word_korean": "고등(高等)",
+      "etymology_dissection": "높을 고(高)+무리 등(等)",
+      "easy_definition": "높은 수준",
+      "context_sentence": "고등학교에 입학해요."
+    },
+    {
+      "word_korean": "최고(最高)",
+      "etymology_dissection": "가장 최(最)+높을 고(高)",
+      "easy_definition": "가장 높은 것",
+      "context_sentence": "최고의 실력을 갖춰요."
+    },
+    {
+      "word_korean": "고도(高度)",
+      "etymology_dissection": "높을 고(高)+법도 도(度)",
+      "easy_definition": "높이의 정도",
+      "context_sentence": "고도가 높아지면 기압이 낮아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "높이의 가치",
+    "passage_text": "**최고(最高)**를 향해 도전해요. **고등(高等)** 교육이 미래를 열어요. **고층(高層)** 건물처럼 기초가 튼튼해야 높이 올라가요.",
+    "quiz": {
+      "question": "'최고(最高)'란?",
+      "choices": [
+        "고층",
+        "고등학교",
+        "가장 높은 것",
+        "고도"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'최고(最高)'=가장 최+높을 고, 가장 높은 수준이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "최고가 되기 위해 노력한 경험을 문장으로 써 보세요.",
+    "model_example": "고층 건물처럼 기초를 튼튼히 쌓아야 최고로 높이 올라갈 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'높을 — 고(高)! 높을 — 고(高)!' 열 번 외쳐요!"
+  }
+}

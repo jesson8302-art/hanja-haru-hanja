@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "지",
+    "hanja_meaning": "땅",
+    "hanja_char": "地",
+    "hanja_level": "7급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "땅이 구불구불 이어지다 — 땅 지(地)",
+    "etymology_story": "'땅 지(地)'는 흙(土)과 구불거릴 야(也)가 합쳐진 글자예요. 끊임없이 구불구불 이어지는 대지가 '땅(地)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "지구(地球)",
+      "etymology_dissection": "땅 지(地)+공 구(球)",
+      "easy_definition": "우리가 사는 별",
+      "context_sentence": "지구를 아껴야 해요."
+    },
+    {
+      "word_korean": "토지(土地)",
+      "etymology_dissection": "흙 토(土)+땅 지(地)",
+      "easy_definition": "논밭이나 땅",
+      "context_sentence": "토지 가격이 올랐어요."
+    },
+    {
+      "word_korean": "지도(地圖)",
+      "etymology_dissection": "땅 지(地)+그림 도(圖)",
+      "easy_definition": "땅의 모양을 그린 것",
+      "context_sentence": "지도를 보고 길을 찾아요."
+    },
+    {
+      "word_korean": "지역(地域)",
+      "etymology_dissection": "땅 지(地)+지경 역(域)",
+      "easy_definition": "일정한 범위의 땅",
+      "context_sentence": "우리 지역 행사에 참여해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "대지의 품",
+    "passage_text": "**지구(地球)**는 우리 모두의 집이에요. **지도(地圖)**는 길을 안내해요. **지역(地域)**마다 특색이 있어요. **토지(土地)**를 소중히 여겨요.",
+    "quiz": {
+      "question": "'지도(地圖)'란?",
+      "choices": [
+        "땅",
+        "땅의 모양을 그린 것",
+        "지역",
+        "지구"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'지도(地圖)'=땅 지+그림 도, 땅의 모양을 그린 그림이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "지도를 보거나 지역 탐험을 한 경험을 문장으로 써 보세요.",
+    "model_example": "지도를 손에 들고 우리 지역 곳곳을 탐험하면 지구가 얼마나 신기한 땅인지 알게 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'땅 — 지(地)! 땅 — 지(地)!' 열 번 외쳐요!"
+  }
+}

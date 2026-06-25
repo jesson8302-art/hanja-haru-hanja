@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "福",
+    "hanja_sound": "복",
+    "hanja_meaning": "복",
+    "full_reading": "복 복",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "福",
+    "sound": "복",
+    "meaning": "복",
+    "stroke_count": 14,
+    "radical": "示",
+    "etymology_story": "福은 제사상(示)과 가득찰 복(畐)이 합쳐진 글자입니다. 제사를 지내 신으로부터 복을 받는 모습에서 '복', '행복', '좋은 일'의 뜻이 생겼습니다.",
+    "memory_tip": "신(示)으로부터 가득 받는(畐) 것이 '복(福)'입니다.",
+    "level_context": "5급 한자로, 복을(를) 뜻하는 福입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "행복",
+      "word_hanja": "幸福",
+      "reading": "행복",
+      "easy_definition": "기쁘고 만족스러운 상태",
+      "etymology_dissection": "다행 행(幸)+복 복(福): 다행히 복됨",
+      "example_sentence": "행복한 하루를 보냈습니다.",
+      "sentence_meaning": "기쁘고 만족스러운 하루를 보냈습니다."
+    },
+    {
+      "word_korean": "복지",
+      "word_hanja": "福祉",
+      "reading": "복지",
+      "easy_definition": "모든 사람의 행복과 이익",
+      "etymology_dissection": "복 복(福)+복 지(祉): 복과 복",
+      "example_sentence": "사회 복지가 중요합니다.",
+      "sentence_meaning": "사회 구성원 모두의 행복이 중요합니다."
+    },
+    {
+      "word_korean": "축복",
+      "word_hanja": "祝福",
+      "reading": "축복",
+      "easy_definition": "좋은 일이 있기를 빎",
+      "etymology_dissection": "빌 축(祝)+복 복(福): 복을 빎",
+      "example_sentence": "새해 축복을 전합니다.",
+      "sentence_meaning": "새해에 좋은 일이 있기를 빕니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "행복은 작은 것에서 찾을 수 있습니다. 사회 복지 제도는 모든 국민의 삶을 개선합니다. 새해에 서로에게 축복을 전합니다.",
+    "passage_meaning": "행복, 복지, 축복 모두 '복'을 뜻하는 福에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'행복'의 뜻으로 알맞은 것은?",
+        "options": [
+          "슬프고 불만스러운 상태",
+          "기쁘고 만족스러운 상태",
+          "피곤하고 지친 상태",
+          "불안하고 긴장된 상태"
+        ],
+        "correct_answer": "기쁘고 만족스러운 상태",
+        "explanation": "행복(幸福)은 기쁘고 만족스러운 상태입니다."
+      },
+      {
+        "question": "'복지'에서 '福'의 뜻은?",
+        "options": [
+          "일",
+          "복",
+          "힘",
+          "돈"
+        ],
+        "correct_answer": "복",
+        "explanation": "복지(福祉)의 福은 '복'으로, 모든 사람의 행복과 이익을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'행복'이나 '복지'를 사용하여 문장을 써 보세요.",
+    "hint": "삶이나 사회에 관한 내용을 담아 보세요.",
+    "example_answer": "모든 사람이 행복한 사회를 만들어야 합니다.",
+    "key_vocabulary": [
+      "행복",
+      "복지"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "오늘도 행복한 하루 보내세요.",
+      "사회 복지를 향상시킵시다.",
+      "서로에게 축복을 전합니다."
+    ],
+    "pronunciation_tips": "'복'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "습",
+    "hanja_meaning": "젖을",
+    "hanja_char": "濕",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "濕 — 물이 스며들어 젖다",
+    "etymology_story": "水(물 수)와 顯(나타날 현의 일부)이 합쳐진 글자입니다. 물기가 스며들어 젖어있는 상태를 나타냅니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "습기",
+      "word_hanja": "濕氣",
+      "etymology_dissection": "濕(젖을 습)+氣(기운 기) = 젖은 기운",
+      "easy_definition": "물기를 머금은 기운",
+      "context_sentence": "장마철에는 **습기**가 많습니다."
+    },
+    {
+      "word_korean": "습도",
+      "word_hanja": "濕度",
+      "etymology_dissection": "濕(젖을 습)+度(정도 도) = 젖은 정도",
+      "easy_definition": "공기 중에 포함된 수증기의 양",
+      "context_sentence": "오늘 **습도**가 90%입니다."
+    },
+    {
+      "word_korean": "건습",
+      "word_hanja": "乾濕",
+      "etymology_dissection": "乾(마를 건)+濕(젖을 습) = 마름과 젖음",
+      "easy_definition": "건조함과 습함",
+      "context_sentence": "**건습**계는 온도와 습도를 측정합니다."
+    },
+    {
+      "word_korean": "다습",
+      "word_hanja": "多濕",
+      "etymology_dissection": "多(많을 다)+濕(젖을 습) = 습기가 많음",
+      "easy_definition": "습기가 많은 것",
+      "context_sentence": "열대 지방은 고온 **다습**합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "날씨와 습도",
+    "passage_text": "**습도**는 날씨 체감에 큰 영향을 줍니다. 같은 30도라도 **습도**가 낮으면 선선하게 느껴지고, **습도**가 높으면 훨씬 덥게 느껴집니다. 우리나라 여름은 고온 **다습**하여 불쾌지수가 높습니다. 반대로 겨울은 **건조**하여 호흡기와 피부 건강에 주의가 필요합니다. 적절한 **습도**(40~60%)를 유지하면 건강과 쾌적함에 도움이 됩니다.",
+    "quiz": {
+      "question": "같은 기온이라도 더 덥게 느껴지는 경우는?",
+      "choices": [
+        "습도가 낮을 때",
+        "습도가 높을 때",
+        "바람이 많이 불 때",
+        "구름이 많을 때"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "같은 기온이라도 습도가 높으면 훨씬 덥게 느껴진다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'습도'를 사용해서 날씨와 관련된 일상 경험을 써보세요.",
+    "model_example": "장마철에 **습도**가 높아지면 빨래가 잘 마르지 않고 음식도 빨리 상하므로 더 주의해야 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "濕(습) — 젖을 습! 습기·습도·건습·다습 모두 여기서! 잘했어요!"
+  }
+}

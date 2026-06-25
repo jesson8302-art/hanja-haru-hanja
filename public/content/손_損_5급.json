@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "손",
+    "hanja_meaning": "덜",
+    "hanja_char": "損",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "損 — 손으로 잡아당겨 줄이다",
+    "etymology_story": "手(손 수)와 員(인원 원)이 합쳐진 글자입니다. 손으로 잡아당겨 수를 줄인다는 뜻에서 '덜다', '손해'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "손해",
+      "word_hanja": "損害",
+      "etymology_dissection": "損(덜 손)+害(해칠 해) = 줄어들어 해가 됨",
+      "easy_definition": "이익이 줄어들거나 해를 입음",
+      "context_sentence": "사고로 **손해**를 입었습니다."
+    },
+    {
+      "word_korean": "손실",
+      "word_hanja": "損失",
+      "etymology_dissection": "損(덜 손)+失(잃을 실) = 덜어져 잃음",
+      "easy_definition": "잃어버리거나 줄어드는 것",
+      "context_sentence": "화재로 재산 **손실**이 발생했습니다."
+    },
+    {
+      "word_korean": "손상",
+      "word_hanja": "損傷",
+      "etymology_dissection": "損(덜 손)+傷(다칠 상) = 덜어져 다침",
+      "easy_definition": "물건이나 몸이 상하거나 망가짐",
+      "context_sentence": "책을 물에 빠뜨려 **손상**이 생겼습니다."
+    },
+    {
+      "word_korean": "훼손",
+      "word_hanja": "毁損",
+      "etymology_dissection": "毁(헐 훼)+損(덜 손) = 헐어 손상함",
+      "easy_definition": "물건이나 명예를 망가뜨림",
+      "context_sentence": "공공 시설을 **훼손**하면 안 됩니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "손해를 보지 않으려면",
+    "passage_text": "살다 보면 **손해**를 볼 때가 있습니다. 물건이 **손상**되거나, 투자에서 **손실**이 나거나, 공공 시설이 **훼손**되기도 합니다. 중요한 것은 **손해**를 최소화하고 재발을 막는 것입니다. 보험은 예상치 못한 **손해**에 대비하는 방법 중 하나입니다. 또한 공공 시설을 아끼고 잘 사용하면 모두의 **손실**을 막을 수 있습니다.",
+    "quiz": {
+      "question": "손해를 최소화하는 방법으로 글에서 언급된 것은?",
+      "choices": [
+        "손해가 나면 포기한다",
+        "재발을 막고 보험으로 대비한다",
+        "무조건 이익만 추구한다",
+        "남 탓을 한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 손해를 최소화하고 재발을 막는 것이 중요하며, 보험이 대비 방법 중 하나라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'손해'나 '손상'을 사용해서 물건을 소중히 다루어야 하는 이유를 써보세요.",
+    "model_example": "책을 함부로 다루면 **손상**이 생겨 다음 사람이 사용할 수 없게 되는 **손해**가 발생합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "損(손) — 덜 손! 손해·손실·손상·훼손 모두 여기서! 잘했어요!"
+  }
+}

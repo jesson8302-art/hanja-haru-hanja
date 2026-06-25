@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "득",
+    "hanja_meaning": "얻을",
+    "hanja_char": "得",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "得 — 조개를 손으로 집어 얻다",
+    "etymology_story": "彳(조금 걸을 척)과 貝(조개 패)와 寸(마디 촌)이 합쳐진 글자입니다. 길을 가다 손으로 조개(재물)를 집어 얻는 모습에서 '얻다'는 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "취득",
+      "word_hanja": "取得",
+      "etymology_dissection": "取(가질 취)+得(얻을 득) = 가져서 얻음",
+      "easy_definition": "자격이나 물건을 차지하여 얻음",
+      "context_sentence": "운전면허를 **취득**했습니다."
+    },
+    {
+      "word_korean": "습득",
+      "word_hanja": "拾得",
+      "etymology_dissection": "拾(주울 습)+得(얻을 득) = 주워서 얻음",
+      "easy_definition": "떨어진 것을 주워서 얻음",
+      "context_sentence": "길에서 지갑을 **습득**하면 경찰서에 신고해야 합니다."
+    },
+    {
+      "word_korean": "득점",
+      "word_hanja": "得點",
+      "etymology_dissection": "得(얻을 득)+點(점 점) = 점수를 얻음",
+      "easy_definition": "경기나 시험에서 점수를 얻음",
+      "context_sentence": "마지막 슛으로 **득점**에 성공했습니다."
+    },
+    {
+      "word_korean": "소득",
+      "word_hanja": "所得",
+      "etymology_dissection": "所(바 소)+得(얻을 득) = 얻은 것",
+      "easy_definition": "일을 해서 얻는 돈이나 이익",
+      "context_sentence": "**소득**이 높을수록 더 많은 세금을 냅니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "정직한 방법으로 얻어야",
+    "passage_text": "무엇을 얻는 방법에는 여러 가지가 있습니다. 열심히 일해서 **소득**을 얻거나, 공부해서 자격증을 **취득**하는 것은 정직한 방법입니다. 반면 남의 것을 빼앗거나 속여서 얻는 것은 올바르지 않습니다. **습득**한 물건을 주인에게 돌려주는 것처럼, 정당하게 얻지 않은 것은 돌려줘야 합니다. **득점**의 기쁨도 규칙 안에서 이루어질 때 진정한 가치가 있습니다.",
+    "quiz": {
+      "question": "정직하게 무언가를 얻는 방법으로 알맞은 것은?",
+      "choices": [
+        "남의 것을 몰래 가져간다",
+        "속여서 얻는다",
+        "열심히 일하거나 공부해서 얻는다",
+        "운이 좋기만을 기다린다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "글에서 열심히 일해서 소득을 얻거나, 공부해서 자격증을 취득하는 것이 정직한 방법이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'소득'이나 '취득'을 사용해서 열심히 노력해서 얻은 경험을 써보세요.",
+    "model_example": "오랫동안 연습한 끝에 피아노 자격증을 **취득**했을 때의 기쁨은 정말 컸습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "得(득) — 얻을 득! 취득·습득·득점·소득 모두 여기서! 멋져요!"
+  }
+}

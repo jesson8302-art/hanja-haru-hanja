@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "창",
+    "hanja_meaning": "창",
+    "hanja_char": "窓",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "窓 — 집 지붕의 틈새로 빛이 들어오다",
+    "etymology_story": "窓(창)은 구멍 혈(穴)과 마음 심(心)과 사사 사(厶)가 합쳐진 글자예요. 집에 뚫린 구멍으로 빛이 들어오는 '창문'을 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "창문(窓門)",
+      "etymology_dissection": "창 창(窓)+문 문(門)",
+      "easy_definition": "빛과 바람을 통하게 하는 문",
+      "context_sentence": "창문을 열어 신선한 공기를 마셨어요."
+    },
+    {
+      "word_korean": "창가(窓가)",
+      "etymology_dissection": "창 창(窓)+가 가",
+      "easy_definition": "창문 가까운 곳",
+      "context_sentence": "창가 자리에 앉아 하늘을 바라봤어요."
+    },
+    {
+      "word_korean": "차창(車窓)",
+      "etymology_dissection": "수레 차(車)+창 창(窓)",
+      "easy_definition": "자동차나 기차의 창문",
+      "context_sentence": "기차 차창 밖으로 들판이 펼쳐졌어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "창문 너머의 세상",
+    "passage_text": "교실 창가(窓가)에 앉은 채아는 창문(窓門) 너머로 하늘을 봤어요. 하얀 구름이 떠다녔어요. 기차를 타면 차창(車窓) 밖으로 멋진 풍경이 펼쳐지겠지 하고 상상했어요.",
+    "quiz": {
+      "question": "'창문'이 하는 역할은?",
+      "choices": [
+        "빛과 바람을 통하게 함",
+        "문을 잠그는 역할",
+        "지붕을 받치는 역할",
+        "벽을 두껍게 하는 역할"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "창문(窓門)은 실내에 빛과 신선한 공기를 들이고, 안에서 바깥 세상을 볼 수 있게 해주는 중요한 역할을 해요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "창문 밖으로 보이는 풍경을 자세히 묘사해 보세요. 무엇이 보이나요?",
+    "model_example": "예) 창문 밖에는 큰 나무가 있어요. 바람이 불 때마다 나뭇잎이 흔들려요. 그 너머로 파란 하늘이 보여요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "窓(창)! 세상을 향해 열린 창처럼 마음을 열어요! 잘했어요! 🪟"
+  }
+}

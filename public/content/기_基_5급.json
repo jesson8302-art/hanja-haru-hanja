@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "基",
+    "hanja_sound": "기",
+    "hanja_meaning": "터",
+    "full_reading": "터 기",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "基",
+    "sound": "기",
+    "meaning": "터",
+    "stroke_count": 11,
+    "radical": "土",
+    "etymology_story": "基는 흙(土)과 기(其)가 합쳐진 글자입니다. 건물의 아랫부분, 즉 기초 흙을 나타내며 '터', '기초', '기반'의 뜻이 생겼습니다.",
+    "memory_tip": "건물을 세우는 바탕 흙(土)이 '터', '기초'입니다.",
+    "level_context": "5급 한자로, 터을(를) 뜻하는 基입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "기초",
+      "word_hanja": "基礎",
+      "reading": "기초",
+      "easy_definition": "가장 기본이 되는 바탕",
+      "etymology_dissection": "터 기(基)+주춧돌 초(礎): 바탕이 되는 돌",
+      "example_sentence": "기초 공사가 중요합니다.",
+      "sentence_meaning": "건물의 기본 바탕 공사가 중요합니다."
+    },
+    {
+      "word_korean": "기반",
+      "word_hanja": "基盤",
+      "reading": "기반",
+      "easy_definition": "사물의 기초가 되는 바탕",
+      "etymology_dissection": "터 기(基)+쟁반 반(盤): 기초 바탕",
+      "example_sentence": "탄탄한 기반을 닦았습니다.",
+      "sentence_meaning": "굳건한 기초를 마련했습니다."
+    },
+    {
+      "word_korean": "기본",
+      "word_hanja": "基本",
+      "reading": "기본",
+      "easy_definition": "가장 기초적이고 중요한 것",
+      "etymology_dissection": "터 기(基)+근본 본(本): 터와 근본",
+      "example_sentence": "기본에 충실해야 합니다.",
+      "sentence_meaning": "가장 기초적이고 중요한 것에 충실해야 합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "기초 없이는 큰 건물을 세울 수 없습니다. 학문도 기본이 중요합니다. 탄탄한 기반이 있어야 발전할 수 있습니다.",
+    "passage_meaning": "기초, 기반, 기본 모두 '터'를 뜻하는 基에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'기초'의 뜻으로 알맞은 것은?",
+        "options": [
+          "가장 마지막 단계",
+          "가장 기본이 되는 바탕",
+          "높은 수준의 내용",
+          "완성된 결과"
+        ],
+        "correct_answer": "가장 기본이 되는 바탕",
+        "explanation": "기초(基礎)는 가장 기본이 되는 바탕입니다."
+      },
+      {
+        "question": "'기본'에서 '基'의 뜻은?",
+        "options": [
+          "높다",
+          "터·기초",
+          "크다",
+          "넓다"
+        ],
+        "correct_answer": "터·기초",
+        "explanation": "기본(基本)의 基는 '터', '기초'로, 가장 기본이 되는 것을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'기초'나 '기본'을 사용하여 문장을 써 보세요.",
+    "hint": "학습이나 성장의 기초에 관한 내용을 담아 보세요.",
+    "example_answer": "기초를 탄탄히 다져야 더 높이 올라갈 수 있습니다.",
+    "key_vocabulary": [
+      "기초",
+      "기반"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "기초부터 차근차근 배웁시다.",
+      "기본에 충실한 사람이 성공합니다.",
+      "탄탄한 기반 위에 꿈을 세웁니다."
+    ],
+    "pronunciation_tips": "'기'을 명확하게 발음하며 읽어 보세요."
+  }
+}

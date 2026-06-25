@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "도",
+    "hanja_meaning": "법도",
+    "hanja_char": "度",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 수학"
+  },
+  "step_1_etymology": {
+    "visual_title": "손으로 재는 기준 — 법도 도(度)",
+    "etymology_story": "'법도 도(度)'는 집(广)과 손(又)이 합쳐진 글자예요. 손으로 길이를 재는 것처럼, 기준을 세워 재고 규칙을 만드는 것이 '법도(度)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "온도(溫度)",
+      "etymology_dissection": "따뜻할 온(溫)+법도 도(度)",
+      "easy_definition": "따뜻한 정도",
+      "context_sentence": "온도를 재요."
+    },
+    {
+      "word_korean": "속도(速度)",
+      "etymology_dissection": "빠를 속(速)+법도 도(度)",
+      "easy_definition": "빠르기의 정도",
+      "context_sentence": "속도를 줄여요."
+    },
+    {
+      "word_korean": "제도(制度)",
+      "etymology_dissection": "억제할 제(制)+법도 도(度)",
+      "easy_definition": "사회의 규칙이나 제도",
+      "context_sentence": "좋은 제도가 필요해요."
+    },
+    {
+      "word_korean": "태도(態度)",
+      "etymology_dissection": "모습 태(態)+법도 도(度)",
+      "easy_definition": "마음과 행동의 방식",
+      "context_sentence": "바른 태도를 가져요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "기준의 중요성",
+    "passage_text": "**온도(溫度)**와 **속도(速度)**처럼 기준이 있어야 측정할 수 있어요. **태도(態度)**가 결과를 좌우해요. 좋은 **제도(制度)**가 사회를 건강하게 해요.",
+    "quiz": {
+      "question": "'태도(態度)'란?",
+      "choices": [
+        "온도",
+        "속도",
+        "마음과 행동의 방식",
+        "제도"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'태도(態度)'=모습 태+법도 도, 마음가짐이 드러나는 행동과 방식이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "바른 태도가 좋은 결과를 가져온 경험을 문장으로 써 보세요.",
+    "model_example": "속도보다 태도가 중요해요. 온도처럼 적당하고 제도처럼 바른 태도가 성공을 만들어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'법도 — 도(度)! 법도 — 도(度)!' 열 번 외쳐요!"
+  }
+}

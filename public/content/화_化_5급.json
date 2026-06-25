@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "될",
+    "hanja_char": "化",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "化 — 사람이 거꾸로 변하는 모습",
+    "etymology_story": "人(사람 인)과 그것이 뒤집힌 모습이 합쳐진 글자입니다. 사람이 변해 다른 모습이 되는 것에서 '변하다', '되다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "변화",
+      "word_hanja": "變化",
+      "etymology_dissection": "變(변할 변)+化(될 화) = 변해서 됨",
+      "easy_definition": "모습이나 상태가 달라짐",
+      "context_sentence": "계절의 **변화**가 자연을 아름답게 합니다."
+    },
+    {
+      "word_korean": "문화",
+      "word_hanja": "文化",
+      "etymology_dissection": "文(글 문)+化(될 화) = 글이 되어감",
+      "easy_definition": "인간이 이루어 낸 정신적·물질적 성과의 총체",
+      "context_sentence": "다양한 **문화**를 이해하면 더 넓은 세상이 보입니다."
+    },
+    {
+      "word_korean": "소화",
+      "word_hanja": "消化",
+      "etymology_dissection": "消(사라질 소)+化(될 화) = 사라지게 됨",
+      "easy_definition": "음식물을 분해하여 흡수하는 과정",
+      "context_sentence": "위장이 음식을 **소화**하는 데 시간이 걸립니다."
+    },
+    {
+      "word_korean": "진화",
+      "word_hanja": "進化",
+      "etymology_dissection": "進(나아갈 진)+化(될 화) = 나아가 됨",
+      "easy_definition": "생물이 오랜 시간에 걸쳐 변하여 발전함",
+      "context_sentence": "다윈은 생물의 **진화**론을 주장했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "진화와 변화",
+    "passage_text": "**진화**는 생물이 수백만 년에 걸쳐 환경에 적응하며 **변화**하는 과정입니다. 다윈은 자연 선택에 의해 생물이 **진화**한다고 주장했습니다. 더 잘 적응한 개체가 생존하고 번식하여, 유리한 특성이 후대에 전달됩니다. 사회와 **문화**도 **진화**처럼 끊임없이 **변화**합니다. 변하지 않는 것은 없으며, **변화**에 적응하는 능력이 생존의 열쇠입니다.",
+    "quiz": {
+      "question": "다윈의 진화론에서 진화의 원동력은?",
+      "choices": [
+        "신의 의지",
+        "자연 선택",
+        "인간의 의도",
+        "기온 변화"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "다윈은 자연 선택에 의해 생물이 진화한다고 주장했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'변화'를 사용해서 자신이 경험한 변화나 성장에 대해 써보세요.",
+    "model_example": "매일 일기를 쓰기 시작한 후, 생각을 정리하는 능력이 놀랍게 **변화**했습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "化(화) — 될 화! 변화·문화·소화·진화 모두 여기서! 대단해요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "島",
+    "hanja_sound": "도",
+    "hanja_meaning": "섬",
+    "full_reading": "섬 도",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "島",
+    "sound": "도",
+    "meaning": "섬",
+    "stroke_count": 10,
+    "radical": "山",
+    "etymology_story": "島는 새(鳥)와 산(山)이 합쳐진 글자입니다. 새가 날아와 쉬는 산처럼 바다 위에 솟아오른 땅, 즉 '섬'을 뜻합니다.",
+    "memory_tip": "새(鳥)가 쉬는 바다의 산(山)이 '섬'입니다.",
+    "level_context": "5급 한자로, 섬을(를) 뜻하는 島입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "반도",
+      "word_hanja": "半島",
+      "reading": "반도",
+      "easy_definition": "삼면이 바다로 둘러싸인 땅",
+      "etymology_dissection": "반 반(半)+섬 도(島): 반 섬",
+      "example_sentence": "한국은 반도 국가입니다.",
+      "sentence_meaning": "한국은 삼면이 바다로 둘러싸인 나라입니다."
+    },
+    {
+      "word_korean": "섬",
+      "word_hanja": "島",
+      "reading": "도",
+      "easy_definition": "바다로 둘러싸인 땅",
+      "etymology_dissection": "섬 도(島): 섬",
+      "example_sentence": "제주도는 아름다운 섬입니다.",
+      "sentence_meaning": "제주도는 아름다운 섬입니다."
+    },
+    {
+      "word_korean": "군도",
+      "word_hanja": "群島",
+      "reading": "군도",
+      "easy_definition": "섬들의 무리",
+      "etymology_dissection": "무리 군(群)+섬 도(島): 섬의 무리",
+      "example_sentence": "하와이는 군도로 이루어져 있습니다.",
+      "sentence_meaning": "하와이는 여러 섬의 무리로 이루어져 있습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "제주도는 한국의 아름다운 섬입니다. 한국은 삼면이 바다인 반도 국가입니다. 하와이 군도는 태평양 가운데 있습니다.",
+    "passage_meaning": "島는 섬을 뜻하며, 반도, 군도 등 다양한 지리 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'반도'의 뜻으로 알맞은 것는?",
+        "options": [
+          "완전히 섬인 땅",
+          "삼면이 바다로 둘러싸인 땅",
+          "산악 지형",
+          "사막 지역"
+        ],
+        "correct_answer": "삼면이 바다로 둘러싸인 땅",
+        "explanation": "반도(半島)는 삼면이 바다로 둘러싸인 땅입니다."
+      },
+      {
+        "question": "'군도'에서 '島'의 뜻은?",
+        "options": [
+          "산",
+          "섬",
+          "강",
+          "호수"
+        ],
+        "correct_answer": "섬",
+        "explanation": "군도(群島)의 島는 '섬'으로, 섬들의 무리를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'반도'나 '섬'을 사용하여 문장을 써 보세요.",
+    "hint": "지리나 여행과 관련된 내용을 담아 보세요.",
+    "example_answer": "한국은 아름다운 반도 국가입니다.",
+    "key_vocabulary": [
+      "반도",
+      "섬"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "제주도는 아름다운 섬입니다.",
+      "한반도는 삼면이 바다입니다.",
+      "군도를 여행하고 싶습니다."
+    ],
+    "pronunciation_tips": "'도'을 명확하게 발음하며 읽어 보세요."
+  }
+}

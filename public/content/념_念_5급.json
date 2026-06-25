@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "념",
+    "hanja_meaning": "생각",
+    "hanja_char": "念",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "念 — 마음속에 지금 생각이 든다",
+    "etymology_story": "今(이제 금)과 心(마음 심)이 합쳐진 글자입니다. 지금 이 순간 마음속에 생각이 담긴 모습에서 '생각하다', '念하다'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "개념",
+      "word_hanja": "槪念",
+      "etymology_dissection": "槪(대략 개)+念(생각 념) = 대략의 생각",
+      "easy_definition": "어떤 것에 대한 보편적인 생각이나 정의",
+      "context_sentence": "**개념**을 이해하면 응용이 쉬워집니다."
+    },
+    {
+      "word_korean": "이념",
+      "word_hanja": "理念",
+      "etymology_dissection": "理(다스릴 리)+念(생각 념) = 다스리는 생각",
+      "easy_definition": "사회나 집단이 추구하는 기본 사상",
+      "context_sentence": "민주주의는 자유와 평등의 **이념**을 바탕으로 합니다."
+    },
+    {
+      "word_korean": "신념",
+      "word_hanja": "信念",
+      "etymology_dissection": "信(믿을 신)+念(생각 념) = 믿는 생각",
+      "easy_definition": "굳게 믿고 있는 생각",
+      "context_sentence": "**신념**이 있는 사람은 어려움 앞에서도 흔들리지 않습니다."
+    },
+    {
+      "word_korean": "염원",
+      "word_hanja": "念願",
+      "etymology_dissection": "念(생각 념)+願(바랄 원) = 생각하고 바람",
+      "easy_definition": "간절히 바라는 마음",
+      "context_sentence": "통일은 우리 민족의 **염원**입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이념과 현실",
+    "passage_text": "**이념**은 사회가 나아가야 할 방향을 제시하는 나침반입니다. 자유, 평등, 연대 같은 **이념**은 역사 속에서 많은 변화를 이끌었습니다. 그러나 어떤 **이념**도 완벽하지 않습니다. 자유를 너무 강조하면 불평등이 심해지고, 평등을 너무 강조하면 자유가 억압됩니다. **신념**을 가지되 현실을 외면하지 않는 균형이 중요합니다. **개념**을 명확히 이해하고 **신념**을 가진 채 현실을 바꾸어가는 것이 지혜입니다.",
+    "quiz": {
+      "question": "이념의 한계로 글에서 설명된 것은?",
+      "choices": [
+        "이념은 모두 옳다",
+        "어떤 이념도 완벽하지 않다",
+        "이념은 필요 없다",
+        "이념은 경제학에만 해당한다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 어떤 이념도 완벽하지 않다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'신념'을 사용해서 자신이 굳게 믿는 것에 대해 써보세요.",
+    "model_example": "저의 **신념**은 '사람은 누구나 변할 수 있다'입니다. 이 **신념**을 갖고 있기에 실수해도 포기하지 않고 다시 노력할 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "念(념) — 생각 념! 개념·이념·신념·염원 모두 여기서! 깊게 생각하며 잘했어요!"
+  }
+}

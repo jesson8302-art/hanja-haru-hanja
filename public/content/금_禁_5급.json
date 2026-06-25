@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "禁",
+    "hanja_sound": "금",
+    "hanja_meaning": "금할",
+    "full_reading": "금할 금",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "禁",
+    "sound": "금",
+    "meaning": "금할",
+    "stroke_count": 13,
+    "radical": "示",
+    "etymology_story": "禁은 수풀(林)과 제사상(示)이 합쳐진 글자입니다. 신성한 숲에 함부로 들어가지 못하게 막는 모습에서 '금하다', '금지하다'의 뜻이 생겼습니다.",
+    "memory_tip": "신성한 숲(林)에 들어가지 못하게(示) 막는 것이 '금하다'입니다.",
+    "level_context": "5급 한자로, 금할을(를) 뜻하는 禁입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "금지",
+      "word_hanja": "禁止",
+      "reading": "금지",
+      "easy_definition": "하지 못하게 막음",
+      "etymology_dissection": "금할 금(禁)+그칠 지(止): 금하고 그침",
+      "example_sentence": "여기는 출입 금지입니다.",
+      "sentence_meaning": "여기는 들어오지 못하는 곳입니다."
+    },
+    {
+      "word_korean": "엄금",
+      "word_hanja": "嚴禁",
+      "reading": "엄금",
+      "easy_definition": "엄하게 금함",
+      "etymology_dissection": "엄할 엄(嚴)+금할 금(禁): 엄격히 금함",
+      "example_sentence": "흡연은 엄금입니다.",
+      "sentence_meaning": "담배를 피우는 것이 엄격히 금지되어 있습니다."
+    },
+    {
+      "word_korean": "금연",
+      "word_hanja": "禁煙",
+      "reading": "금연",
+      "easy_definition": "담배를 못 피우게 함",
+      "etymology_dissection": "금할 금(禁)+연기 연(煙): 연기를 금함",
+      "example_sentence": "금연 구역에서는 흡연 불가입니다.",
+      "sentence_meaning": "담배 연기 금지 구역에서는 담배를 못 피웁니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "공공장소에서는 흡연이 엄금입니다. 출입 금지 구역에 들어가면 안 됩니다. 금연 구역을 지키는 것은 타인을 배려하는 행동입니다.",
+    "passage_meaning": "공공장소에서 금지된 행동을 하지 않는 것이 서로를 배려하는 방법입니다.",
+    "questions": [
+      {
+        "question": "'금지'의 뜻으로 알맞은 것은?",
+        "options": [
+          "강제로 시키는 것",
+          "하지 못하게 막는 것",
+          "허락하는 것",
+          "권하는 것"
+        ],
+        "correct_answer": "하지 못하게 막는 것",
+        "explanation": "금지(禁止)는 하지 못하게 막는 것입니다."
+      },
+      {
+        "question": "'금연'에서 '禁'의 뜻은?",
+        "options": [
+          "허락하다",
+          "금하다",
+          "권하다",
+          "시작하다"
+        ],
+        "correct_answer": "금하다",
+        "explanation": "금연(禁煙)의 禁은 '금하다'로, 담배 피우는 것을 금지하는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'금지'나 '금연'을 사용하여 문장을 써 보세요.",
+    "hint": "공공 규칙과 관련된 내용을 담아 보세요.",
+    "example_answer": "공공장소에서 흡연 금지를 지켜야 합니다.",
+    "key_vocabulary": [
+      "금지",
+      "엄금"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "이곳은 출입 금지 구역입니다.",
+      "금연 구역을 꼭 지킵시다.",
+      "위험한 행동은 엄금입니다."
+    ],
+    "pronunciation_tips": "'금'을 명확하게 발음하며 읽어 보세요."
+  }
+}

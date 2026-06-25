@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "천",
+    "hanja_meaning": "하늘",
+    "hanja_char": "天",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람 머리 위에 펼쳐진 하늘 — 하늘 천(天)",
+    "etymology_story": "'하늘 천(天)'은 사람(大) 위에 선 하나를 그어 '저 위쪽이 하늘'이라고 표현한 글자예요. 키 큰 어른이 손을 들어 하늘을 가리키는 모습이에요. 하늘은 사람보다 더 크고 높은 존재라는 생각이 담겨 있답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "천기(天氣)",
+      "etymology_dissection": "하늘 천(天) + 기운 기(氣) = 하늘의 기운",
+      "easy_definition": "날씨",
+      "context_sentence": "천기 예보를 보고 우산을 챙겼어요."
+    },
+    {
+      "word_korean": "천연(天然)",
+      "etymology_dissection": "하늘 천(天) + 그럴 연(然) = 하늘이 그렇게 만든 것",
+      "easy_definition": "사람이 만든 것이 아닌 자연 그대로의 것",
+      "context_sentence": "천연 재료로 만든 비누가 피부에 좋아요."
+    },
+    {
+      "word_korean": "천재(天才)",
+      "etymology_dissection": "하늘 천(天) + 재주 재(才) = 하늘이 준 재주",
+      "easy_definition": "하늘이 내린 뛰어난 재능을 가진 사람",
+      "context_sentence": "모차르트는 음악의 천재였어요."
+    },
+    {
+      "word_korean": "천국(天國)",
+      "etymology_dissection": "하늘 천(天) + 나라 국(國) = 하늘의 나라",
+      "easy_definition": "걱정이나 슬픔 없이 행복한 이상적인 곳",
+      "context_sentence": "가족이 모두 모인 명절이 천국 같아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "하늘이 준 것들",
+    "passage_text": "**천연(天然)** 숲에서 맑은 공기를 마시면 **천국(天國)**이 따로 없어요. **천재(天才)**는 타고난 재능도 있지만, 노력이 없으면 빛나지 못해요. 오늘 **천기(天氣)**가 맑으니 밖에서 놀아요!",
+    "quiz": {
+      "question": "'천연(天然)'의 뜻은?",
+      "choices": [
+        "사람이 만든 것",
+        "하늘이 내린 재주",
+        "자연 그대로의 것",
+        "하늘나라"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'천연(天然)'은 '하늘 천 + 그럴 연' = 하늘이 원래 그렇게 만든 것, 즉 자연 그대로의 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 자연이나 하늘에 대한 나만의 문장을 써 보세요.",
+    "model_example": "천연 숲 속에서 맑은 천기를 마시면, 이곳이 바로 천국이라는 생각이 들어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'하늘 — 천(天)! 하늘 — 천(天)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

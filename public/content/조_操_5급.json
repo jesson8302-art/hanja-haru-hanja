@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "조",
+    "hanja_meaning": "잡을",
+    "hanja_char": "操",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "操 — 나무를 손으로 잡아 다스리다",
+    "etymology_story": "手(손 수)와 喿(새소리 조)가 합쳐진 글자입니다. 손으로 단단히 잡고 통제하는 모습에서 '잡다', '조종하다', '지조'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "조종",
+      "word_hanja": "操縱",
+      "etymology_dissection": "操(잡을 조)+縱(세로 종) = 잡아 다스림",
+      "easy_definition": "기계나 사람을 마음대로 다루고 부림",
+      "context_sentence": "비행기를 **조종**하려면 오랜 훈련이 필요합니다."
+    },
+    {
+      "word_korean": "체조",
+      "word_hanja": "體操",
+      "etymology_dissection": "體(몸 체)+操(잡을 조) = 몸을 잡음",
+      "easy_definition": "몸의 단련을 위한 규칙적인 운동",
+      "context_sentence": "매일 아침 **체조**로 하루를 시작합니다."
+    },
+    {
+      "word_korean": "지조",
+      "word_hanja": "志操",
+      "etymology_dissection": "志(뜻 지)+操(잡을 조) = 뜻을 잡음",
+      "easy_definition": "신념이나 원칙을 굳게 지키는 것",
+      "context_sentence": "어떤 유혹에도 **지조**를 지켰습니다."
+    },
+    {
+      "word_korean": "조작",
+      "word_hanja": "操作",
+      "etymology_dissection": "操(잡을 조)+作(지을 작) = 잡아서 만듦",
+      "easy_definition": "기계를 조종하거나 부정하게 꾸밈",
+      "context_sentence": "증거 **조작**은 범죄입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "지조의 가치",
+    "passage_text": "**지조**는 자신의 신념이나 원칙을 어떤 상황에서도 굳게 지키는 것입니다. 역사 속에서 **지조** 있는 인물들은 압력에도 굴하지 않았습니다. 이황, 이이 같은 조선의 선비들은 불의와 타협하지 않는 **지조**를 중요하게 여겼습니다. 현대에도 **지조**는 신뢰와 리더십의 핵심입니다. 쉽게 의견을 바꾸거나 이익에 따라 태도를 바꾸면 **지조**가 없다고 합니다. **지조**를 지키는 것은 때로 어렵지만 그것이 한 사람의 품격을 만듭니다.",
+    "quiz": {
+      "question": "지조에 대한 설명으로 글에서 설명된 것은?",
+      "choices": [
+        "이익에 따라 태도를 유연하게 바꾸는 것",
+        "신념이나 원칙을 어떤 상황에서도 굳게 지키는 것",
+        "남의 의견에 항상 동의하는 것",
+        "규칙을 따르는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "지조는 신념이나 원칙을 어떤 상황에서도 굳게 지키는 것이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'지조'를 사용해서 흔들리지 않고 지키고 싶은 자신의 신념을 써보세요.",
+    "model_example": "어떤 상황에서도 거짓말을 하지 않겠다는 **지조**를 지키면, 처음에는 불편해도 결국 사람들의 신뢰를 얻게 됩니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "操(조) — 잡을 조! 조종·체조·지조·조작 모두 여기서! 지조 있게 잘했어요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "물",
+    "hanja_meaning": "만물",
+    "hanja_char": "物",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "소와 깃발로 많은 것을 표현한 '만물 물(物)'",
+    "etymology_story": "'만물 물(物)'은 소(牛)와 깃발 무늬(勿)가 합쳐진 글자예요. 옛날에 소는 가장 중요한 재산이었고, 다양한 무늬처럼 세상에 많은 것들이 있다는 뜻이 됐어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동물(動物)",
+      "etymology_dissection": "움직일 동(動)+만물 물(物)",
+      "easy_definition": "스스로 움직이는 생물",
+      "context_sentence": "동물원에서 사자를 봤어요."
+    },
+    {
+      "word_korean": "식물(植物)",
+      "etymology_dissection": "심을 식(植)+만물 물(物)",
+      "easy_definition": "땅에 뿌리박고 사는 생물",
+      "context_sentence": "식물이 광합성을 해요."
+    },
+    {
+      "word_korean": "물건(物件)",
+      "etymology_dissection": "만물 물(物)+물건 건(件)",
+      "easy_definition": "사물, 물체",
+      "context_sentence": "물건을 소중히 다뤄요."
+    },
+    {
+      "word_korean": "인물(人物)",
+      "etymology_dissection": "사람 인(人)+만물 물(物)",
+      "easy_definition": "뛰어난 사람",
+      "context_sentence": "역사 속 위대한 인물을 배워요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "세상의 모든 것",
+    "passage_text": "**동물(動物)**과 **식물(植物)**이 함께 어우러지는 자연이 아름다워요. **물건(物件)**도 소중히 다뤄야 해요. **인물(人物)** 중 하나가 될 수 있도록 노력해요.",
+    "quiz": {
+      "question": "'인물(人物)'이란?",
+      "choices": [
+        "동물",
+        "물건",
+        "뛰어난 사람",
+        "식물"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'인물(人物)'=사람 인+만물 물, 특히 뛰어난 사람을 이르는 말이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 존경하는 역사 속 인물에 대해 문장으로 써 보세요.",
+    "model_example": "세종대왕은 동물도 식물도 아닌 인물 중의 인물로, 한글이라는 물건 이상의 것을 우리에게 줬어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'만물 — 물(物)! 만물 — 물(物)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "府",
+    "hanja_sound": "부",
+    "hanja_meaning": "관청",
+    "full_reading": "관청 부",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "府",
+    "sound": "부",
+    "meaning": "관청",
+    "stroke_count": 8,
+    "radical": "广",
+    "etymology_story": "府는 넓은 집(广)과 줄 부(付)가 합쳐진 글자입니다. 서류를 보관하는 넓은 건물에서 '관청', '정부', '府(행정구역)'의 뜻이 생겼습니다.",
+    "memory_tip": "서류(付)를 보관하는 넓은 집(广)이 '관청(府)'입니다.",
+    "level_context": "5급 한자로, 관청을(를) 뜻하는 府입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "정부",
+      "word_hanja": "政府",
+      "reading": "정부",
+      "easy_definition": "나라를 다스리는 기관",
+      "etymology_dissection": "정사 정(政)+관청 부(府): 정치의 관청",
+      "example_sentence": "정부에서 정책을 발표했습니다.",
+      "sentence_meaning": "나라를 다스리는 기관에서 정책을 발표했습니다."
+    },
+    {
+      "word_korean": "수도부",
+      "word_hanja": "首都府",
+      "reading": "수도부",
+      "easy_definition": "수도의 행정구역",
+      "etymology_dissection": "머리 수(首)+도읍 도(都)+관청 부(府)",
+      "example_sentence": "도쿄도는 일본의 수도부입니다.",
+      "sentence_meaning": "도쿄도는 일본의 수도 행정구역입니다."
+    },
+    {
+      "word_korean": "관부",
+      "word_hanja": "官府",
+      "reading": "관부",
+      "easy_definition": "관청",
+      "etymology_dissection": "벼슬 관(官)+관청 부(府): 관의 청사",
+      "example_sentence": "관부에 서류를 제출했습니다.",
+      "sentence_meaning": "관청에 서류를 냈습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "정부에서 새로운 경제 정책을 발표했습니다. 관부에 필요한 서류를 제출합니다. 정부는 국민의 삶을 위해 일합니다.",
+    "passage_meaning": "정부, 관부 모두 '관청'을 뜻하는 府에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'정부'의 뜻으로 알맞은 것은?",
+        "options": [
+          "개인 회사",
+          "나라를 다스리는 기관",
+          "비영리 단체",
+          "학교"
+        ],
+        "correct_answer": "나라를 다스리는 기관",
+        "explanation": "정부(政府)는 나라를 다스리는 기관입니다."
+      },
+      {
+        "question": "'府'의 뜻은?",
+        "options": [
+          "집",
+          "관청",
+          "학교",
+          "병원"
+        ],
+        "correct_answer": "관청",
+        "explanation": "府는 '관청'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'정부'를 사용하여 문장을 써 보세요.",
+    "hint": "국가나 행정과 관련된 내용을 담아 보세요.",
+    "example_answer": "정부는 국민을 위해 다양한 정책을 만듭니다.",
+    "key_vocabulary": [
+      "정부",
+      "수도부"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "정부에서 새 정책을 발표했습니다.",
+      "정부와 국민이 협력합니다.",
+      "관부에 민원을 접수했습니다."
+    ],
+    "pronunciation_tips": "'부'을 명확하게 발음하며 읽어 보세요."
+  }
+}

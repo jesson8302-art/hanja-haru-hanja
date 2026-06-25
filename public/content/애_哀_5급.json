@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "哀",
+    "hanja_sound": "애",
+    "hanja_meaning": "슬플",
+    "full_reading": "슬플 애",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "哀",
+    "sound": "애",
+    "meaning": "슬플",
+    "stroke_count": 9,
+    "radical": "口",
+    "etymology_story": "哀는 입(口)과 옷 의(衣) 안에 입이 있는 모습입니다. 옷 속에 얼굴을 묻고 슬피 우는 모습에서 '슬프다', '불쌍히 여기다'의 뜻이 생겼습니다.",
+    "memory_tip": "옷(衣) 속에 얼굴을 묻고 우는(口) 것이 '슬프다(哀)'입니다.",
+    "level_context": "5급 한자로, 슬플을(를) 뜻하는 哀입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "슬픔",
+      "word_hanja": "哀",
+      "reading": "애",
+      "easy_definition": "마음이 아프고 슬픔",
+      "etymology_dissection": "슬플 애(哀): 슬픔",
+      "example_sentence": "애절한 이야기가 슬픕니다.",
+      "sentence_meaning": "마음이 아프고 슬픈 이야기입니다."
+    },
+    {
+      "word_korean": "애도",
+      "word_hanja": "哀悼",
+      "reading": "애도",
+      "easy_definition": "슬피 생각함",
+      "etymology_dissection": "슬플 애(哀)+생각할 도(悼): 슬피 생각함",
+      "example_sentence": "고인을 애도했습니다.",
+      "sentence_meaning": "돌아가신 분을 슬피 생각했습니다."
+    },
+    {
+      "word_korean": "애처롭다",
+      "word_hanja": "哀",
+      "reading": "애",
+      "easy_definition": "불쌍하고 슬프다",
+      "etymology_dissection": "슬플 애(哀): 불쌍하고 슬프다",
+      "example_sentence": "애처로운 이야기입니다.",
+      "sentence_meaning": "불쌍하고 슬픈 이야기입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "고인의 죽음을 애도합니다. 애절한 음악이 슬픔을 자아냅니다. 어려운 처지에 있는 사람을 불쌍히 여깁니다.",
+    "passage_meaning": "哀는 '슬프다', '불쌍히 여기다'를 뜻하며 애도, 애절 등의 단어에 쓰입니다.",
+    "questions": [
+      {
+        "question": "'애도'의 뜻은?",
+        "options": [
+          "기쁘게 생각함",
+          "슬피 생각함",
+          "화나게 생각함",
+          "무감각하게 생각함"
+        ],
+        "correct_answer": "슬피 생각함",
+        "explanation": "애도(哀悼)는 슬피 생각하는 것입니다."
+      },
+      {
+        "question": "'哀'의 뜻은?",
+        "options": [
+          "기쁘다",
+          "슬프다",
+          "화나다",
+          "행복하다"
+        ],
+        "correct_answer": "슬프다",
+        "explanation": "哀는 '슬프다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'애도'를 사용하여 문장을 써 보세요.",
+    "hint": "감정이나 기억에 관한 내용을 담아 보세요.",
+    "example_answer": "사고로 돌아가신 분들을 깊이 애도합니다.",
+    "key_vocabulary": [
+      "슬픔",
+      "애도"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "고인을 애도합니다.",
+      "슬픈 이야기가 마음을 아프게 합니다.",
+      "불쌍한 사람을 도웁니다."
+    ],
+    "pronunciation_tips": "'애'을 명확하게 발음하며 읽어 보세요."
+  }
+}

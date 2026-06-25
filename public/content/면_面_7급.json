@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "면",
+    "hanja_meaning": "낯",
+    "hanja_char": "面",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "얼굴 윤곽선을 그린 '낯 면(面)'",
+    "etymology_story": "'낯 면(面)'은 사람의 얼굴 윤곽을 선으로 그린 글자예요. 눈·코·입이 있는 얼굴 앞면을 나타내요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "면접(面接)",
+      "etymology_dissection": "낯 면(面)+이을 접(接)",
+      "easy_definition": "직접 만나 대화하는 것",
+      "context_sentence": "취업 면접을 잘 봐야 해요."
+    },
+    {
+      "word_korean": "표면(表面)",
+      "etymology_dissection": "나타낼 표(表)+낯 면(面)",
+      "easy_definition": "겉으로 드러난 면",
+      "context_sentence": "지구 표면의 70%는 바다예요."
+    },
+    {
+      "word_korean": "정면(正面)",
+      "etymology_dissection": "바를 정(正)+낯 면(面)",
+      "easy_definition": "똑바로 앞을 향한 면",
+      "context_sentence": "카메라 정면을 보세요."
+    },
+    {
+      "word_korean": "방면(方面)",
+      "etymology_dissection": "모 방(方)+낯 면(面)",
+      "easy_definition": "어떤 방향이나 분야",
+      "context_sentence": "과학 방면으로 진로를 정했어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "면의 다양함",
+    "passage_text": "**정면(正面)**을 바라보는 자신감이 필요해요. **표면(表面)**만 보지 말고 속을 봐야 해요. **면접(面接)**에서는 자신의 **방면(方面)** 능력을 보여줘요.",
+    "quiz": {
+      "question": "'표면(表面)'이란?",
+      "choices": [
+        "얼굴",
+        "겉으로 드러난 면",
+        "면접",
+        "어떤 분야"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'표면(表面)'=나타낼 표+낯 면, 겉으로 드러난 면이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "겉모습(표면)과 속마음의 차이에 대해 문장으로 써 보세요.",
+    "model_example": "표면은 자신감 있어 보여도 면접 날은 정면을 바라보기 어려울 만큼 긴장했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'낯 — 면(面)! 낯 — 면(面)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "산",
+    "hanja_meaning": "낳을",
+    "hanja_char": "産",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "産 — 새 생명을 낳다",
+    "etymology_story": "生(날 생)과 彦(선비 언, 여기서는 소리)이 합쳐진 글자입니다. 새 생명을 낳는 모습에서 '낳다', '생산하다'는 뜻이 생겼습니다. 물건을 만들어 내는 것도 '낳는다'는 의미에서 産을 씁니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "생산",
+      "word_hanja": "生産",
+      "etymology_dissection": "生(날 생)+産(낳을 산) = 만들어 냄",
+      "easy_definition": "사람이 필요로 하는 물건을 만들어 내는 일",
+      "context_sentence": "공장에서 자동차를 **생산**합니다."
+    },
+    {
+      "word_korean": "산업",
+      "word_hanja": "産業",
+      "etymology_dissection": "産(낳을 산)+業(일 업) = 생산하는 일",
+      "easy_definition": "물건이나 서비스를 만들어 내는 경제 활동",
+      "context_sentence": "**산업**이 발전하면 일자리가 늘어납니다."
+    },
+    {
+      "word_korean": "출산",
+      "word_hanja": "出産",
+      "etymology_dissection": "出(날 출)+産(낳을 산) = 아이를 낳음",
+      "easy_definition": "아이를 낳는 것",
+      "context_sentence": "저출산은 **출산**율이 낮아지는 현상을 말합니다."
+    },
+    {
+      "word_korean": "부산물",
+      "word_hanja": "副産物",
+      "etymology_dissection": "副(버금 부)+産(낳을 산)+物(물건 물) = 곁에서 낳아진 것",
+      "easy_definition": "주된 생산 과정에서 함께 생겨나는 것",
+      "context_sentence": "치즈를 만드는 **부산물**로 유청이 나옵니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "생산과 소비",
+    "passage_text": "경제는 **생산**과 소비의 순환으로 이루어집니다. 농부는 쌀을 **생산**하고, 공장에서는 옷을 **생산**합니다. 우리는 이것들을 구매해서 소비합니다. **산업**이 발달하면 더 많은 물건이 **생산**되어 사람들의 생활이 편리해집니다. 그러나 지나친 **생산**은 환경 오염이라는 **부산물**을 낳기도 합니다. 지속 가능한 **생산** 방식을 찾는 것이 중요합니다.",
+    "quiz": {
+      "question": "지나친 생산의 문제점으로 글에서 언급된 것은?",
+      "choices": [
+        "물가 상승",
+        "환경 오염",
+        "일자리 감소",
+        "소비 감소"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 지나친 생산은 환경 오염이라는 부산물을 낳기도 한다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'생산'이나 '산업'을 사용해서 우리나라의 주요 산업 하나를 설명해보세요.",
+    "model_example": "우리나라의 반도체 **산업**은 세계 최고 수준의 반도체를 **생산**하여 수출합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "産(산) — 낳을 산! 생산·산업·출산 모두 여기서! 잘했어요!"
+  }
+}

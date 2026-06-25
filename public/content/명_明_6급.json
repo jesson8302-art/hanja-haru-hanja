@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "명",
+    "hanja_meaning": "밝을",
+    "hanja_char": "明",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "해와 달이 함께 빛나다 — 밝을 명(明)",
+    "etymology_story": "'밝을 명(明)'은 해(日)와 달(月)이 합쳐진 글자예요. 해와 달이 함께 빛을 내면 세상이 '밝아지는 것(明)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "밝다(明)",
+      "etymology_dissection": "밝을 명(明)",
+      "easy_definition": "빛이 충분한 상태",
+      "context_sentence": "방이 밝아요."
+    },
+    {
+      "word_korean": "문명(文明)",
+      "etymology_dissection": "글월 문(文)+밝을 명(明)",
+      "easy_definition": "지식과 기술로 발전한 상태",
+      "context_sentence": "인류 문명이 발전했어요."
+    },
+    {
+      "word_korean": "명확(明確)",
+      "etymology_dissection": "밝을 명(明)+굳을 확(確)",
+      "easy_definition": "분명하고 확실한 것",
+      "context_sentence": "명확하게 설명해요."
+    },
+    {
+      "word_korean": "설명(說明)",
+      "etymology_dissection": "말씀 설(說)+밝을 명(明)",
+      "easy_definition": "밝혀 말하는 것",
+      "context_sentence": "설명을 잘 해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "빛처럼 밝게",
+    "passage_text": "**문명(文明)**은 인류의 지혜가 쌓인 것이에요. **명확(明確)**한 목표가 성공을 가져와요. **설명(說明)**을 잘 하면 오해가 없어요.",
+    "quiz": {
+      "question": "'명확(明確)'이란?",
+      "choices": [
+        "문명",
+        "설명",
+        "분명하고 확실한 것",
+        "밝다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'명확(明確)'=밝을 명+굳을 확, 분명하고 확실한 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "명확하게 의견을 표현한 경험을 문장으로 써 보세요.",
+    "model_example": "해와 달처럼 밝고 명확하게 설명하면 문명처럼 모두의 이해가 빛나요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'밝을 — 명(明)! 밝을 — 명(明)!' 열 번 외쳐요!"
+  }
+}

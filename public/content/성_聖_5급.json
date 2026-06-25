@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "聖",
+    "hanja_sound": "성",
+    "hanja_meaning": "성인",
+    "full_reading": "성인 성",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "聖",
+    "sound": "성",
+    "meaning": "성인",
+    "stroke_count": 13,
+    "radical": "耳",
+    "etymology_story": "聖은 귀(耳)와 입 구(口)와 임금 왕(王)이 합쳐진 글자입니다. 귀로 듣고 입으로 말하는 왕처럼 지혜로운 사람에서 '성인', '거룩하다'의 뜻이 생겼습니다.",
+    "memory_tip": "듣고(耳) 말하는(口) 왕(王)처럼 지혜로운 것이 '聖'입니다.",
+    "level_context": "5급 한자로, 성인을(를) 뜻하는 聖입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성인",
+      "word_hanja": "聖人",
+      "reading": "성인",
+      "easy_definition": "지혜롭고 덕망 높은 사람",
+      "etymology_dissection": "성인 성(聖)+사람 인(人): 거룩한 사람",
+      "example_sentence": "공자는 위대한 성인입니다.",
+      "sentence_meaning": "공자는 위대하고 덕망 높은 분입니다."
+    },
+    {
+      "word_korean": "성경",
+      "word_hanja": "聖經",
+      "reading": "성경",
+      "easy_definition": "기독교의 거룩한 경전",
+      "etymology_dissection": "성인 성(聖)+경전 경(經): 거룩한 경전",
+      "example_sentence": "성경은 기독교의 경전입니다.",
+      "sentence_meaning": "성경은 기독교에서 가장 거룩한 책입니다."
+    },
+    {
+      "word_korean": "신성",
+      "word_hanja": "神聖",
+      "reading": "신성",
+      "easy_definition": "신처럼 거룩함",
+      "etymology_dissection": "신 신(神)+성인 성(聖): 신같이 거룩함",
+      "example_sentence": "생명은 신성한 것입니다.",
+      "sentence_meaning": "생명은 신처럼 거룩한 것입니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "공자, 석가, 예수는 세계적인 성인입니다. 성경은 기독교 신자들의 귀한 경전입니다. 생명은 신성하여 소중히 여겨야 합니다.",
+    "passage_meaning": "성인, 성경, 신성 모두 '거룩하다', '성인'을 뜻하는 聖에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'신성'의 뜻은?",
+        "options": [
+          "인간적인 것",
+          "신처럼 거룩함",
+          "평범한 것",
+          "세속적인 것"
+        ],
+        "correct_answer": "신처럼 거룩함",
+        "explanation": "신성(神聖)은 신처럼 거룩한 것입니다."
+      },
+      {
+        "question": "'聖'의 뜻은?",
+        "options": [
+          "보통",
+          "성인·거룩하다",
+          "빠르다",
+          "강하다"
+        ],
+        "correct_answer": "성인·거룩하다",
+        "explanation": "聖은 '성인', '거룩하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'성인'이나 '신성'을 사용하여 문장을 써 보세요.",
+    "hint": "역사나 종교에 관한 내용을 담아 보세요.",
+    "example_answer": "생명은 신성하여 모든 사람이 소중히 여겨야 합니다.",
+    "key_vocabulary": [
+      "성인",
+      "성경"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "성인의 가르침을 따릅니다.",
+      "생명은 신성합니다.",
+      "성경을 읽으며 묵상합니다."
+    ],
+    "pronunciation_tips": "'성'을 명확하게 발음하며 읽어 보세요."
+  }
+}

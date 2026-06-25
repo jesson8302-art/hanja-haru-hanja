@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "성",
+    "hanja_meaning": "이룰",
+    "hanja_char": "成",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "도끼로 만들어내다 — 이룰 성(成)",
+    "etymology_story": "'이룰 성(成)'은 창(戊)과 손(丁)이 합쳐진 글자예요. 도구를 사용해 무언가를 만들어내는 것이 '이루다(成)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "성공(成功)",
+      "etymology_dissection": "이룰 성(成)+공 공(功)",
+      "easy_definition": "목표를 이루는 것",
+      "context_sentence": "성공을 향해요."
+    },
+    {
+      "word_korean": "성장(成長)",
+      "etymology_dissection": "이룰 성(成)+길 장(長)",
+      "easy_definition": "커지고 발전하는 것",
+      "context_sentence": "성장이 중요해요."
+    },
+    {
+      "word_korean": "완성(完成)",
+      "etymology_dissection": "완전할 완(完)+이룰 성(成)",
+      "easy_definition": "완전히 이루는 것",
+      "context_sentence": "완성을 목표로 해요."
+    },
+    {
+      "word_korean": "형성(形成)",
+      "etymology_dissection": "모양 형(形)+이룰 성(成)",
+      "easy_definition": "형태가 이루어지는 것",
+      "context_sentence": "성격이 형성돼요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이루어가는 삶",
+    "passage_text": "**성장(成長)**이 없으면 **성공(成功)**도 없어요. **완성(完成)**을 향해 꾸준히 나아가요. 좋은 **형성(形成)**이 미래를 만들어요.",
+    "quiz": {
+      "question": "'성장(成長)'이란?",
+      "choices": [
+        "성공",
+        "완성",
+        "커지고 발전하는 것",
+        "형성"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'성장(成長)'=이룰 성+길 장, 이루어가며 커지는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "성장을 느낀 경험을 문장으로 써 보세요.",
+    "model_example": "성장이 쌓이면 성공이 되고, 완성된 나를 형성하는 과정이 인생이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'이룰 — 성(成)! 이룰 — 성(成)!' 열 번 외쳐요!"
+  }
+}

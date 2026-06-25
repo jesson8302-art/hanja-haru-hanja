@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "초",
+    "hanja_meaning": "처음",
+    "hanja_char": "初",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "初 — 옷감을 칼로 첫 번 자르다",
+    "etymology_story": "刀(칼 도)와 衣(옷 의)가 합쳐진 글자입니다. 옷을 만들기 위해 천을 처음 자르는 순간에서 '처음', '최초'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "최초",
+      "word_hanja": "最初",
+      "etymology_dissection": "最(가장 최)+初(처음 초) = 가장 처음",
+      "easy_definition": "역사상 처음",
+      "context_sentence": "인류 **최초**의 달 착륙은 1969년이었습니다."
+    },
+    {
+      "word_korean": "초등",
+      "word_hanja": "初等",
+      "etymology_dissection": "初(처음 초)+等(등급 등) = 처음 등급",
+      "easy_definition": "배움의 첫 단계",
+      "context_sentence": "**초등**학교에서 기초를 탄탄히 배웁니다."
+    },
+    {
+      "word_korean": "당초",
+      "word_hanja": "當初",
+      "etymology_dissection": "當(마땅 당)+初(처음 초) = 마땅히 처음",
+      "easy_definition": "처음에 계획하거나 생각했던 것",
+      "context_sentence": "**당초** 계획과 달리 일정이 바뀌었습니다."
+    },
+    {
+      "word_korean": "초심",
+      "word_hanja": "初心",
+      "etymology_dissection": "初(처음 초)+心(마음 심) = 처음 마음",
+      "easy_definition": "처음에 먹었던 마음이나 각오",
+      "context_sentence": "**초심**을 잃지 말자는 말이 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "초심의 중요성",
+    "passage_text": "무슨 일을 시작할 때의 설레고 진지한 마음을 **초심**이라 합니다. 시간이 지나면 **초심**을 잃기 쉽습니다. 의사는 **최초**에 환자를 위해 헌신하겠다는 **초심**으로 일을 시작합니다. 하지만 바쁜 일상 속에서 **초심**을 잃고 무심해질 수 있습니다. **당초**에 그 일을 왜 시작했는지 기억하는 것, 즉 **초심**으로 돌아가는 것이 지속적인 성장의 비결입니다.",
+    "quiz": {
+      "question": "초심을 잃지 않는 것이 중요한 이유는?",
+      "choices": [
+        "처음이 가장 힘들기 때문",
+        "초심이 지속적인 성장의 비결이기 때문",
+        "초심은 변할 수 없기 때문에",
+        "시간이 지나면 자동으로 회복되기 때문"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 초심으로 돌아가는 것이 지속적인 성장의 비결이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'초심'을 사용해서 자신이 무언가를 처음 시작했을 때의 마음을 써보세요.",
+    "model_example": "처음 한자를 공부하기 시작했을 때의 **초심**을 기억하면, 지금도 더 열심히 하고 싶어집니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "初(초) — 처음 초! 최초·초등·당초·초심 모두 여기서! 훌륭해요!"
+  }
+}

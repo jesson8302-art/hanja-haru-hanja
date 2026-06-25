@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "문",
+    "hanja_meaning": "들을",
+    "hanja_char": "聞",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "귀로 듣다 — 들을 문(聞)",
+    "etymology_story": "'들을 문(聞)'은 문(門) 사이로 귀(耳)를 기울이는 모습이에요. 문틈으로 소리를 귀 기울여 듣는 것이 '듣다(聞)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "신문(新聞)",
+      "etymology_dissection": "새 신(新)+들을 문(聞)",
+      "easy_definition": "새로운 소식을 전하는 인쇄물",
+      "context_sentence": "신문을 매일 읽어요."
+    },
+    {
+      "word_korean": "견문(見聞)",
+      "etymology_dissection": "볼 견(見)+들을 문(聞)",
+      "easy_definition": "보고 들은 것",
+      "context_sentence": "견문을 넓혀요."
+    },
+    {
+      "word_korean": "소문(所聞)",
+      "etymology_dissection": "바 소(所)+들을 문(聞)",
+      "easy_definition": "들어서 퍼진 이야기",
+      "context_sentence": "소문에 흔들리지 말아요."
+    },
+    {
+      "word_korean": "문화(聞化)",
+      "etymology_dissection": "들을 문(聞)+될 화(化)",
+      "easy_definition": "들어 익히는 것",
+      "context_sentence": "다양한 문화를 접해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "듣기의 힘",
+    "passage_text": "**신문(新聞)**으로 세상을 알아요. **견문(見聞)**을 넓히면 시야가 커져요. **소문(所聞)**보다 직접 확인이 중요해요.",
+    "quiz": {
+      "question": "'견문(見聞)'이란?",
+      "choices": [
+        "신문",
+        "소문",
+        "보고 들은 것",
+        "문화"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'견문(見聞)'=볼 견+들을 문, 직접 보고 들어서 얻은 지식과 경험이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "견문을 넓힌 경험이나 신문에서 배운 것을 문장으로 써 보세요.",
+    "model_example": "신문을 읽고 견문을 넓히면 소문에 흔들리지 않는 판단력이 생겨요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'들을 — 문(聞)! 들을 — 문(聞)!' 열 번 외쳐요!"
+  }
+}

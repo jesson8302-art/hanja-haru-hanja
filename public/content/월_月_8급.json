@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "월",
+    "hanja_meaning": "달",
+    "hanja_char": "月",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "초승달 모양을 그대로 담은 '달 월(月)'",
+    "etymology_story": "'달 월(月)'은 초승달의 모양을 그대로 본뜬 글자예요. 꽉 찬 원이 아니라 살짝 비어 있는 달 모양이죠. 옛사람들은 달이 뜨고 지는 것을 보며 시간과 달력을 만들었답니다!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "월요일(月曜日)",
+      "etymology_dissection": "달 월(月) + 빛날 요(曜) + 날 일(日) = 달의 날",
+      "easy_definition": "한 주의 첫 번째 날",
+      "context_sentence": "월요일 아침은 항상 기분이 새로워요."
+    },
+    {
+      "word_korean": "월급(月給)",
+      "etymology_dissection": "달 월(月) + 줄 급(給) = 달마다 주는 돈",
+      "easy_definition": "한 달에 한 번 받는 돈",
+      "context_sentence": "부모님은 월급으로 우리 가족을 돌봐요."
+    },
+    {
+      "word_korean": "세월(歲月)",
+      "etymology_dissection": "해 세(歲) + 달 월(月) = 해와 달, 흘러가는 시간",
+      "easy_definition": "흘러가는 시간",
+      "context_sentence": "세월이 빠르게 지나가요."
+    },
+    {
+      "word_korean": "만월(滿月)",
+      "etymology_dissection": "가득 찰 만(滿) + 달 월(月) = 가득 찬 달",
+      "easy_definition": "둥글게 꽉 찬 보름달",
+      "context_sentence": "추석날 밤 만월이 정말 밝고 아름다웠어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "달이 알려 주는 시간",
+    "passage_text": "**만월(滿月)**이 뜨는 밤은 너무 밝아서 책도 읽을 수 있어요. **월요일(月曜日)**이 되면 한 주가 다시 시작돼요. **세월(歲月)**이 흐를수록 달이 이렇게 소중한 것인지 더 잘 알게 돼요.",
+    "quiz": {
+      "question": "'만월(滿月)'은 어떤 달을 말하나요?",
+      "choices": [
+        "초승달",
+        "반달",
+        "보름달",
+        "없어지는 달"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'만월(滿月)'은 '가득 찰 만 + 달 월' = 가득 찬 달, 즉 보름달이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 '월요일', '세월', '만월' 중 하나를 골라 시간에 대한 나의 생각을 문장으로 써 보세요.",
+    "model_example": "세월이 빠르게 지나간다고 어른들이 말씀하셔서, 나는 매일 월요일 아침마다 이번 주를 소중하게 보내겠다고 다짐해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'달 — 월(月)! 달 — 월(月)!' 열 번 크게 외쳐요! 잘 했어요!"
+  }
+}

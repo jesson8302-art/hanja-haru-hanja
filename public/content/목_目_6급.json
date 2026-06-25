@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "목",
+    "hanja_meaning": "눈",
+    "hanja_char": "目",
+    "hanja_level": "6급",
+    "linked_subject": "과학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람의 눈 모양 — 눈 목(目)",
+    "etymology_story": "'눈 목(目)'은 세로로 세운 눈 모양이에요. 눈동자(○)와 눈의 테두리를 그린 가장 직관적인 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "목적(目的)",
+      "etymology_dissection": "눈 목(目)+과녁 적(的)",
+      "easy_definition": "이루려는 것",
+      "context_sentence": "목적을 분명히 해요."
+    },
+    {
+      "word_korean": "제목(題目)",
+      "etymology_dissection": "제목 제(題)+눈 목(目)",
+      "easy_definition": "글이나 작품의 이름",
+      "context_sentence": "제목이 중요해요."
+    },
+    {
+      "word_korean": "주목(注目)",
+      "etymology_dissection": "물댈 주(注)+눈 목(目)",
+      "easy_definition": "눈길을 집중하는 것",
+      "context_sentence": "주목을 받아요."
+    },
+    {
+      "word_korean": "목록(目錄)",
+      "etymology_dissection": "눈 목(目)+기록할 록(錄)",
+      "easy_definition": "여러 가지를 나열한 것",
+      "context_sentence": "목록을 만들어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "눈의 역할",
+    "passage_text": "**목적(目的)**이 분명하면 방향이 보여요. **주목(注目)**받으려면 열심히 준비해요. **목록(目錄)**을 만들면 정리가 돼요.",
+    "quiz": {
+      "question": "'목적(目的)'이란?",
+      "choices": [
+        "제목",
+        "목록",
+        "이루려는 목표",
+        "주목"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'목적(目的)'=눈 목+과녁 적, 눈을 향한 과녁처럼 이루려는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 목적이나 목표를 문장으로 써 보세요.",
+    "model_example": "목적을 분명히 하고 주목받을 준비를 하면 목록 하나씩 이뤄가는 기쁨이 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'눈 — 목(目)! 눈 — 목(目)!' 열 번 외쳐요!"
+  }
+}

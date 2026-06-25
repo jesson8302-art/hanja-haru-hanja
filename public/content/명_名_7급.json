@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "명",
+    "hanja_meaning": "이름",
+    "hanja_char": "名",
+    "hanja_level": "7급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "저녁에 어둠 속에서 이름을 부르다 — 이름 명(名)",
+    "etymology_story": "'이름 명(名)'은 저녁(夕)에 어두워지면 얼굴이 안 보이니 입(口)으로 이름을 불러 확인하는 모습이에요. 어둠 속에서 이름 부르기에서 '이름'이라는 뜻이 나왔어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "이름(名)",
+      "etymology_dissection": "이름 명(名)에서",
+      "easy_definition": "사람·사물을 부르는 말",
+      "context_sentence": "내 이름은 소중한 선물이에요."
+    },
+    {
+      "word_korean": "유명(有名)",
+      "etymology_dissection": "있을 유(有)+이름 명(名)",
+      "easy_definition": "이름이 널리 알려진 것",
+      "context_sentence": "유명한 가수의 콘서트에 갔어요."
+    },
+    {
+      "word_korean": "명품(名品)",
+      "etymology_dissection": "이름 명(名)+물건 품(品)",
+      "easy_definition": "이름 높은 품질 좋은 것",
+      "context_sentence": "진짜 명품은 오래가요."
+    },
+    {
+      "word_korean": "명예(名譽)",
+      "etymology_dissection": "이름 명(名)+기릴 예(譽)",
+      "easy_definition": "좋은 평판과 자랑스러운 이름",
+      "context_sentence": "명예를 지키는 것이 중요해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이름의 가치",
+    "passage_text": "**유명(有名)**해지는 것보다 좋은 **명예(名譽)**를 갖는 것이 중요해요. 진짜 **명품(名品)**은 화려함보다 가치예요. 내 이름이 빛나도록 노력해요.",
+    "quiz": {
+      "question": "'명예(名譽)'란?",
+      "choices": [
+        "유명한 것",
+        "이름값이 비싼 것",
+        "좋은 평판과 자랑스러운 이름",
+        "물건 이름"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'명예(名譽)'=이름 명+기릴 예, 좋은 평판으로 기려지는 이름이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내 이름이 어떤 사람으로 기억되길 바라는지 문장으로 써 보세요.",
+    "model_example": "유명한 것보다 명예로운 이름을 남기고 싶어요. 명품처럼 오래 가치 있는 사람이 될 거예요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'이름 — 명(名)! 이름 — 명(名)!' 열 번 외쳐요!"
+  }
+}

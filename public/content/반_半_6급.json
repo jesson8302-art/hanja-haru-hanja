@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "반",
+    "hanja_meaning": "반",
+    "hanja_char": "半",
+    "hanja_level": "6급",
+    "linked_subject": "수학, 국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "소를 반으로 나누다 — 반 반(半)",
+    "etymology_story": "'반 반(半)'은 여덟 팔(八)과 소 우(牛)가 합쳐진 글자예요. 소(牛)를 반으로 나눈(八) 것이 '절반(半)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "절반(折半)",
+      "etymology_dissection": "꺾을 절(折)+반 반(半)",
+      "easy_definition": "전체의 반",
+      "context_sentence": "절반을 주었어요."
+    },
+    {
+      "word_korean": "반도(半島)",
+      "etymology_dissection": "반 반(半)+섬 도(島)",
+      "easy_definition": "삼면이 바다인 땅",
+      "context_sentence": "한반도가 아름다워요."
+    },
+    {
+      "word_korean": "전반(前半)",
+      "etymology_dissection": "앞 전(前)+반 반(半)",
+      "easy_definition": "전체의 앞 절반",
+      "context_sentence": "전반부가 재밌어요."
+    },
+    {
+      "word_korean": "반반(半半)",
+      "etymology_dissection": "반 반(半)+반 반(半)",
+      "easy_definition": "정확히 반씩",
+      "context_sentence": "음식을 반반으로 나눠요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "반의 가치",
+    "passage_text": "**절반(折半)**이라도 나누는 마음이 아름다워요. **한반도(半島)**는 우리의 소중한 땅이에요. **전반(前半)**에 최선을 다해요.",
+    "quiz": {
+      "question": "'한반도(半島)'란?",
+      "choices": [
+        "절반",
+        "삼면이 바다로 둘러싸인 우리 땅",
+        "전반",
+        "반반"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'반도(半島)'=반 반+섬 도, 삼면이 바다로 둘러싸인 땅이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나누거나 절반을 양보한 경험을 문장으로 써 보세요.",
+    "model_example": "절반을 나누는 마음이 한반도 전반에 퍼지면 더 아름다운 나라가 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'반 — 반(半)! 반 — 반(半)!' 열 번 외쳐요!"
+  }
+}

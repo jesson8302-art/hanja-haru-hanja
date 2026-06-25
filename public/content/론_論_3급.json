@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "론",
+    "hanja_meaning": "논할",
+    "hanja_char": "論",
+    "hanja_level": "3급",
+    "linked_subject": "국어, 사회, 철학"
+  },
+  "step_1_etymology": {
+    "visual_title": "말을 가지런히 엮어 주장을 펼치다 — 논할 론(論)",
+    "etymology_story": "'논할 론(論)'은 말씀 언(言)과 모을 륜(侖)이 합쳐진 글자예요. '륜(侖)'은 대나무 조각들을 묶어 가지런히 정리하는 모습이에요. 즉, 말(言)을 가지런히 엮어(侖) 주장을 펼치는 것이 바로 '논(論)'이랍니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "논리(論理)",
+      "etymology_dissection": "논할 론(論) + 다스릴 리(理) = 주장을 다스리는 원칙",
+      "easy_definition": "말이나 글의 생각이 조리 있게 이어지는 흐름",
+      "context_sentence": "논리적으로 말하면 상대방을 더 잘 설득할 수 있어요."
+    },
+    {
+      "word_korean": "결론(結論)",
+      "etymology_dissection": "맺을 결(結) + 논할 론(論) = 논의를 맺는 것",
+      "easy_definition": "논의나 생각 끝에 내린 최종 판단",
+      "context_sentence": "토론 끝에 환경 보호가 필요하다는 결론이 났어요."
+    },
+    {
+      "word_korean": "토론(討論)",
+      "etymology_dissection": "칠 토(討) + 논할 론(論) = 서로 맞서며 논하는 것",
+      "easy_definition": "어떤 주제에 대해 서로 의견을 주고받는 것",
+      "context_sentence": "학급 회의에서 청소 방법에 대해 토론했어요."
+    },
+    {
+      "word_korean": "이론(理論)",
+      "etymology_dissection": "다스릴 리(理) + 논할 론(論) = 원리를 논하는 것",
+      "easy_definition": "현상을 설명하는 체계적인 원리나 지식",
+      "context_sentence": "아인슈타인의 상대성 이론은 물리학을 바꿔 놓았어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "논리로 세상을 설득하다",
+    "passage_text": "설득력 있는 글쓰기의 핵심은 **논리(論理)**예요. **토론(討論)**에서 이기려면 감정이 아닌 근거로 말해야 해요. **이론(理論)**은 추상적으로 들리지만, 결국 현실을 바꾸는 힘이 있어요. 모든 훌륭한 **결론(結論)**은 탄탄한 논리 위에서 나온답니다.",
+    "quiz": {
+      "question": "'토론(討論)'에서 가장 중요한 것은?",
+      "choices": [
+        "목소리를 크게 내는 것",
+        "상대방의 의견을 무시하는 것",
+        "감정이 아닌 근거로 의견을 주고받는 것",
+        "빨리 결론을 내는 것"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'토론(討論)'은 서로 의견을 논리적으로 주고받는 것이에요. 감정이 아닌 근거와 논리가 핵심이랍니다!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 내가 주장하고 싶은 의견을 논리적 근거와 함께 문장으로 써 보세요.",
+    "model_example": "환경 보호에 관한 토론에서 나는 일회용 플라스틱 사용을 줄여야 한다는 결론을 이론과 통계를 근거로 주장했어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'논할 — 론(論)! 논할 — 론(論)!' 열 번 크게 외쳐요! 보관함에 저장하세요!"
+  }
+}

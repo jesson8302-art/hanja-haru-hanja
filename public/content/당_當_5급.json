@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "當",
+    "hanja_sound": "당",
+    "hanja_meaning": "마땅",
+    "full_reading": "마땅 당",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "當",
+    "sound": "당",
+    "meaning": "마땅",
+    "stroke_count": 13,
+    "radical": "田",
+    "etymology_story": "當은 밭(田)과 상당할 당(尚)이 합쳐진 글자입니다. 밭에서 마땅히 해야 할 일을 나타내며 '마땅하다', '당연하다', '당하다'의 뜻이 생겼습니다.",
+    "memory_tip": "밭(田)에서 마땅히(尚) 해야 할 일이 '當'입니다.",
+    "level_context": "5급 한자로, 마땅을(를) 뜻하는 當입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "당연",
+      "word_hanja": "當然",
+      "reading": "당연",
+      "easy_definition": "마땅히 그러해야 함",
+      "etymology_dissection": "마땅 당(當)+그럴 연(然): 마땅히 그러함",
+      "example_sentence": "노력하면 당연히 성과가 납니다.",
+      "sentence_meaning": "노력하면 마땅히 성과가 나는 것입니다."
+    },
+    {
+      "word_korean": "당번",
+      "word_hanja": "當番",
+      "reading": "당번",
+      "easy_definition": "마땅히 해야 할 차례",
+      "etymology_dissection": "마땅 당(當)+차례 번(番): 마땅한 차례",
+      "example_sentence": "오늘은 내 당번입니다.",
+      "sentence_meaning": "오늘은 내가 해야 할 차례입니다."
+    },
+    {
+      "word_korean": "해당",
+      "word_hanja": "該當",
+      "reading": "해당",
+      "easy_definition": "어떤 범위나 조건에 맞음",
+      "etymology_dissection": "그 해(該)+마땅 당(當): 그것에 마땅함",
+      "example_sentence": "이 경우에 해당합니까?",
+      "sentence_meaning": "이 경우에 맞는 조건입니까?"
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "당번인 날에는 청소를 당연히 해야 합니다. 규칙에 해당하는 경우에는 규칙을 따라야 합니다. 당연한 의무를 다하는 것이 중요합니다.",
+    "passage_meaning": "당연히 해야 할 일을 당번에 맞게 실천하고, 해당 규칙을 따르는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'당연'의 뜻으로 알맞은 것은?",
+        "options": [
+          "가끔 하는 것",
+          "마땅히 그러해야 함",
+          "억지로 하는 것",
+          "실수로 하는 것"
+        ],
+        "correct_answer": "마땅히 그러해야 함",
+        "explanation": "당연(當然)은 마땅히 그러해야 함을 뜻합니다."
+      },
+      {
+        "question": "'당번'에서 '當'의 뜻은?",
+        "options": [
+          "빠르다",
+          "마땅하다",
+          "크다",
+          "느리다"
+        ],
+        "correct_answer": "마땅하다",
+        "explanation": "당번(當番)의 當은 '마땅하다'로, 마땅히 해야 할 차례를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'당연'이나 '당번'을 사용하여 문장을 써 보세요.",
+    "hint": "책임이나 의무에 관한 내용을 담아 보세요.",
+    "example_answer": "오늘은 내 당번이라 교실 청소를 했습니다.",
+    "key_vocabulary": [
+      "당연",
+      "당번"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "당연한 의무를 다해야 합니다.",
+      "오늘 당번은 누구입니까?",
+      "이 조건에 해당하십니까?"
+    ],
+    "pronunciation_tips": "'당'을 명확하게 발음하며 읽어 보세요."
+  }
+}

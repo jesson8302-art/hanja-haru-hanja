@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "餘",
+    "hanja_sound": "여",
+    "hanja_meaning": "남을",
+    "full_reading": "남을 여",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "餘",
+    "sound": "여",
+    "meaning": "남을",
+    "stroke_count": 16,
+    "radical": "食",
+    "etymology_story": "餘는 먹을 식(食)과 나 여(余)가 합쳐진 글자입니다. 먹고 남는 음식처럼 '남다', '여분', '나머지'의 뜻이 생겼습니다.",
+    "memory_tip": "먹고(食) 남은(余) 것이 '나머지(餘)'입니다.",
+    "level_context": "5급 한자로, 남을을(를) 뜻하는 餘입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "여유",
+      "word_hanja": "餘裕",
+      "reading": "여유",
+      "easy_definition": "넉넉하게 남음",
+      "etymology_dissection": "남을 여(餘)+넉넉할 유(裕): 남아 넉넉함",
+      "example_sentence": "여유를 갖고 살아갑니다.",
+      "sentence_meaning": "넉넉하게 남는 여유를 갖고 살아갑니다."
+    },
+    {
+      "word_korean": "여가",
+      "word_hanja": "餘暇",
+      "reading": "여가",
+      "easy_definition": "일 외의 남는 시간",
+      "etymology_dissection": "남을 여(餘)+틈 가(暇): 남는 틈",
+      "example_sentence": "여가 시간에 독서합니다.",
+      "sentence_meaning": "일 외에 남는 시간에 독서합니다."
+    },
+    {
+      "word_korean": "잉여",
+      "word_hanja": "剩餘",
+      "reading": "잉여",
+      "easy_definition": "남아도는 것",
+      "etymology_dissection": "남을 잉(剩)+남을 여(餘): 남아 남음",
+      "example_sentence": "잉여 자원을 활용합니다.",
+      "sentence_meaning": "남아도는 자원을 활용합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "여가 시간에 취미 활동을 즐깁니다. 마음의 여유를 갖는 것이 중요합니다. 잉여 자원을 효율적으로 활용해야 합니다.",
+    "passage_meaning": "여유, 여가, 잉여 모두 '남다', '나머지'를 뜻하는 餘에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'여가'의 뜻은?",
+        "options": [
+          "일하는 시간",
+          "일 외의 남는 시간",
+          "힘든 시간",
+          "공부하는 시간"
+        ],
+        "correct_answer": "일 외의 남는 시간",
+        "explanation": "여가(餘暇)는 일 외의 남는 시간입니다."
+      },
+      {
+        "question": "'餘'의 뜻은?",
+        "options": [
+          "부족하다",
+          "남다·나머지",
+          "적다",
+          "없다"
+        ],
+        "correct_answer": "남다·나머지",
+        "explanation": "餘는 '남다', '나머지'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'여유'나 '여가'를 사용하여 문장을 써 보세요.",
+    "hint": "생활이나 취미에 관한 내용을 담아 보세요.",
+    "example_answer": "여가 시간에 취미를 즐기면 마음의 여유가 생깁니다.",
+    "key_vocabulary": [
+      "여유",
+      "여가"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "여유 있게 살아갑니다.",
+      "여가 시간을 즐깁니다.",
+      "잉여 자원을 활용합니다."
+    ],
+    "pronunciation_tips": "'여'을 명확하게 발음하며 읽어 보세요."
+  }
+}

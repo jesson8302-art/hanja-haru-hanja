@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "象",
+    "hanja_sound": "상",
+    "hanja_meaning": "코끼리",
+    "full_reading": "코끼리 상",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "象",
+    "sound": "상",
+    "meaning": "코끼리",
+    "stroke_count": 12,
+    "radical": "豕",
+    "etymology_story": "象은 코끼리의 전체 모양을 본뜬 글자입니다. 코가 길고 몸집이 큰 코끼리의 특징적인 모습에서 '코끼리', '모양', '상징'의 뜻이 생겼습니다.",
+    "memory_tip": "코가 길고 큰 코끼리의 모양이 '象'입니다.",
+    "level_context": "5급 한자로, 코끼리을(를) 뜻하는 象입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "코끼리",
+      "word_hanja": "象",
+      "reading": "상",
+      "easy_definition": "코가 길고 큰 동물",
+      "etymology_dissection": "코끼리 상(象): 코끼리",
+      "example_sentence": "코끼리는 영리한 동물입니다.",
+      "sentence_meaning": "코가 길고 큰 동물이 영리합니다."
+    },
+    {
+      "word_korean": "상징",
+      "word_hanja": "象徵",
+      "reading": "상징",
+      "easy_definition": "어떤 것을 나타내는 표시",
+      "etymology_dissection": "코끼리 상(象)+부를 징(徵): 모양을 부름",
+      "example_sentence": "태극기는 우리나라의 상징입니다.",
+      "sentence_meaning": "태극기는 우리나라를 나타내는 표시입니다."
+    },
+    {
+      "word_korean": "현상",
+      "word_hanja": "現象",
+      "reading": "현상",
+      "easy_definition": "나타나는 사물의 모양",
+      "etymology_dissection": "나타날 현(現)+코끼리 상(象): 나타난 모양",
+      "example_sentence": "자연 현상을 관찰합니다.",
+      "sentence_meaning": "자연에서 나타나는 모양을 관찰합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "코끼리는 기억력이 뛰어난 동물입니다. 태극기는 우리나라의 상징입니다. 자연 현상을 관찰하면 과학을 이해할 수 있습니다.",
+    "passage_meaning": "코끼리, 상징, 현상 모두 '코끼리', '모양'을 뜻하는 象에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'상징'의 뜻은?",
+        "options": [
+          "어떤 것을 나타내는 표시",
+          "실제 물건",
+          "크기",
+          "색깔"
+        ],
+        "correct_answer": "어떤 것을 나타내는 표시",
+        "explanation": "상징(象徵)은 어떤 것을 나타내는 표시입니다."
+      },
+      {
+        "question": "'象'의 뜻은?",
+        "options": [
+          "사자",
+          "코끼리·모양",
+          "호랑이",
+          "새"
+        ],
+        "correct_answer": "코끼리·모양",
+        "explanation": "象은 '코끼리', '모양'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'상징'이나 '현상'을 사용하여 문장을 써 보세요.",
+    "hint": "우리나라나 자연에 관한 내용을 담아 보세요.",
+    "example_answer": "태극기는 우리나라의 소중한 상징입니다.",
+    "key_vocabulary": [
+      "코끼리",
+      "상징"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "태극기가 우리나라의 상징입니다.",
+      "자연 현상을 관찰합시다.",
+      "코끼리는 영리한 동물입니다."
+    ],
+    "pronunciation_tips": "'상'을 명확하게 발음하며 읽어 보세요."
+  }
+}

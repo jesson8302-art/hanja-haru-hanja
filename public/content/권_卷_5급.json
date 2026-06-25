@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "卷",
+    "hanja_sound": "권",
+    "hanja_meaning": "책",
+    "full_reading": "책 권",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "卷",
+    "sound": "권",
+    "meaning": "책",
+    "stroke_count": 8,
+    "radical": "卩",
+    "etymology_story": "卷은 손으로 두루마리를 마는 모양을 본뜬 글자입니다. 종이나 대나무를 둥글게 마는 모습에서 '책', '두루마리', '권(책의 단위)'의 뜻이 생겼습니다.",
+    "memory_tip": "종이를 둥글게 마는 것이 '卷(책)'입니다.",
+    "level_context": "5급 한자로, 책을(를) 뜻하는 卷입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "권",
+      "word_hanja": "卷",
+      "reading": "권",
+      "easy_definition": "책을 세는 단위",
+      "etymology_dissection": "책 권(卷): 책 세는 단위",
+      "example_sentence": "이 전집은 총 10권입니다.",
+      "sentence_meaning": "이 전집은 모두 10권으로 이루어졌습니다."
+    },
+    {
+      "word_korean": "상권",
+      "word_hanja": "上卷",
+      "reading": "상권",
+      "easy_definition": "책의 첫 번째 권",
+      "etymology_dissection": "위 상(上)+책 권(卷): 위의 책",
+      "example_sentence": "이 책은 상권과 하권으로 나뉩니다.",
+      "sentence_meaning": "이 책은 첫 번째와 두 번째 책으로 나뉩니다."
+    },
+    {
+      "word_korean": "권호",
+      "word_hanja": "卷號",
+      "reading": "권호",
+      "easy_definition": "책의 권과 호",
+      "etymology_dissection": "책 권(卷)+번호 호(號): 책의 번호",
+      "example_sentence": "이 잡지 3권 2호를 읽었습니다.",
+      "sentence_meaning": "이 잡지 3권 2호를 읽었습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "도서관에 가면 수천 권의 책이 있습니다. 두꺼운 소설은 상권과 하권으로 나뉘기도 합니다. 책을 많이 읽으면 지식이 쌓입니다.",
+    "passage_meaning": "책은 권이라는 단위로 세며, 두꺼운 책은 상권과 하권으로 나뉩니다.",
+    "questions": [
+      {
+        "question": "'상권'의 뜻으로 알맞은 것은?",
+        "options": [
+          "책의 마지막 권",
+          "책의 첫 번째 권",
+          "책의 중간 권",
+          "책의 부록"
+        ],
+        "correct_answer": "책의 첫 번째 권",
+        "explanation": "상권(上卷)은 책의 첫 번째 권입니다."
+      },
+      {
+        "question": "'卷'의 뜻으로 알맞은 것은?",
+        "options": [
+          "필통",
+          "책",
+          "연필",
+          "가방"
+        ],
+        "correct_answer": "책",
+        "explanation": "卷은 두루마리에서 비롯된 글자로 '책'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'권'이나 '상권'을 사용하여 문장을 써 보세요.",
+    "hint": "독서나 책과 관련된 내용을 담아 보세요.",
+    "example_answer": "방학 동안 책 5권을 읽었습니다.",
+    "key_vocabulary": [
+      "권",
+      "상권"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "이 책은 총 3권으로 이루어져 있습니다.",
+      "상권을 다 읽고 하권을 샀습니다.",
+      "도서관에 책이 몇 권이나 있을까요?"
+    ],
+    "pronunciation_tips": "'권'을 명확하게 발음하며 읽어 보세요."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "단",
+    "hanja_meaning": "층계",
+    "hanja_char": "段",
+    "hanja_level": "5급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "段 — 계단처럼 쪼개어 나누다",
+    "etymology_story": "殳(칠 수)와 石(돌 석, 변형)이 합쳐진 글자입니다. 돌을 쪼아 계단을 만드는 모습에서 '단계', '층계'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "단계",
+      "word_hanja": "段階",
+      "etymology_dissection": "段(층계 단)+階(층계 계) = 층계와 층계",
+      "easy_definition": "어떤 과정이나 정도를 나눈 각 단위",
+      "context_sentence": "**단계**별로 학습하면 쉽게 이해됩니다."
+    },
+    {
+      "word_korean": "수단",
+      "word_hanja": "手段",
+      "etymology_dissection": "手(손 수)+段(층계 단) = 손의 층계",
+      "easy_definition": "목적을 이루기 위한 방법이나 도구",
+      "context_sentence": "목적이 정당해도 **수단**도 옳아야 합니다."
+    },
+    {
+      "word_korean": "단락",
+      "word_hanja": "段落",
+      "etymology_dissection": "段(층계 단)+落(떨어질 락) = 구분이 떨어짐",
+      "easy_definition": "글에서 내용상 하나로 묶이는 부분",
+      "context_sentence": "**단락**을 나누어 글을 구성합니다."
+    },
+    {
+      "word_korean": "초단",
+      "word_hanja": "初段",
+      "etymology_dissection": "初(처음 초)+段(층계 단) = 처음 단계",
+      "easy_definition": "바둑, 유도 등에서 가장 낮은 급",
+      "context_sentence": "유도 **초단**을 땄습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "목적과 수단",
+    "passage_text": "철학에서 '목적이 **수단**을 정당화하는가?'는 중요한 질문입니다. 마키아벨리는 '결과가 좋다면 어떤 **수단**도 허용된다'고 했습니다. 그러나 칸트는 '사람을 **수단**으로만 대하면 안 된다'고 반론을 제기했습니다. 좋은 목적을 위해 나쁜 **수단**을 쓰면, 결국 그 **수단**이 목적 자체를 오염시킵니다. **단계**적으로 옳은 방법을 찾아가는 것이 중요합니다.",
+    "quiz": {
+      "question": "칸트가 주장한 것은?",
+      "choices": [
+        "목적이 수단을 정당화한다",
+        "사람을 수단으로만 대하면 안 된다",
+        "결과만 좋으면 된다",
+        "도덕은 필요 없다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "칸트는 사람을 수단으로만 대하면 안 된다고 반론을 제기했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'수단'을 사용해서 목적과 수단의 관계에 대한 자신의 생각을 써보세요.",
+    "model_example": "아무리 좋은 목적이라도 다른 사람에게 피해를 주는 **수단**을 쓴다면, 그것은 진정한 선이라고 할 수 없습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "段(단) — 층계 단! 단계·수단·단락·초단 모두 여기서! 단계적으로 잘했어요!"
+  }
+}

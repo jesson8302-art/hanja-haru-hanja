@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "均",
+    "hanja_sound": "균",
+    "hanja_meaning": "고를",
+    "full_reading": "고를 균",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "均",
+    "sound": "균",
+    "meaning": "고를",
+    "stroke_count": 7,
+    "radical": "土",
+    "etymology_story": "均은 흙(土)과 고르다·가지런하다의 뜻인 匀(균)이 합쳐진 글자입니다. 흙을 고르게 펼치는 모습에서 '고르다', '균등하다'의 뜻이 생겼습니다.",
+    "memory_tip": "흙(土)을 고르게(匀) 펼치는 것이 '고를 均'입니다.",
+    "level_context": "5급 한자로, 고를을(를) 뜻하는 均입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "균등",
+      "word_hanja": "均等",
+      "reading": "균등",
+      "easy_definition": "차이 없이 고름",
+      "etymology_dissection": "고를 균(均)+같을 등(等): 고르고 같음",
+      "example_sentence": "기회를 균등하게 주어야 합니다.",
+      "sentence_meaning": "차이 없이 고른 기회를 주어야 합니다."
+    },
+    {
+      "word_korean": "평균",
+      "word_hanja": "平均",
+      "reading": "평균",
+      "easy_definition": "여럿을 합쳐 고른 값",
+      "etymology_dissection": "평평할 평(平)+고를 균(均): 평평하게 고름",
+      "example_sentence": "이번 시험 평균이 올랐습니다.",
+      "sentence_meaning": "이번 시험에서 여러 점수를 합쳐 고른 값이 올랐습니다."
+    },
+    {
+      "word_korean": "균형",
+      "word_hanja": "均衡",
+      "reading": "균형",
+      "easy_definition": "서로 기울지 않게 고름",
+      "etymology_dissection": "고를 균(均)+저울 형(衡): 저울처럼 고름",
+      "example_sentence": "균형 잡힌 식사가 중요합니다.",
+      "sentence_meaning": "치우치지 않고 고른 식사가 중요합니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "균형 잡힌 식사로 건강을 지킵니다. 이번 시험 평균이 지난번보다 올랐습니다. 모든 학생에게 균등한 기회를 주어야 합니다.",
+    "passage_meaning": "균등한 기회와 균형 잡힌 생활이 건강하고 공정한 삶의 기초입니다.",
+    "questions": [
+      {
+        "question": "'균등'의 뜻으로 알맞은 것은?",
+        "options": [
+          "차이가 많이 남",
+          "차이 없이 고름",
+          "한쪽으로 치우침",
+          "무너짐"
+        ],
+        "correct_answer": "차이 없이 고름",
+        "explanation": "균등(均等)은 차이 없이 고른 것입니다."
+      },
+      {
+        "question": "'평균'에서 '均'의 뜻은?",
+        "options": [
+          "평평하다",
+          "고르다",
+          "빠르다",
+          "크다"
+        ],
+        "correct_answer": "고르다",
+        "explanation": "평균(平均)의 均은 '고르다'로, 여럿을 합쳐 고른 값을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'균등'이나 '균형'을 사용하여 문장을 써 보세요.",
+    "hint": "공정함이나 건강과 관련된 내용을 담아 보세요.",
+    "example_answer": "균형 잡힌 생활이 건강의 비결입니다.",
+    "key_vocabulary": [
+      "균등",
+      "평균"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "기회는 균등해야 합니다.",
+      "평균 점수가 오르고 있습니다.",
+      "균형 잡힌 식단을 지킵시다."
+    ],
+    "pronunciation_tips": "'균'을 명확하게 발음하며 읽어 보세요."
+  }
+}

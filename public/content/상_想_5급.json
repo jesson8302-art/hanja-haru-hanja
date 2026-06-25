@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "想",
+    "hanja_sound": "상",
+    "hanja_meaning": "생각할",
+    "full_reading": "생각할 상",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "想",
+    "sound": "상",
+    "meaning": "생각할",
+    "stroke_count": 13,
+    "radical": "心",
+    "etymology_story": "想은 마음(心)과 서로 상(相)이 합쳐진 글자입니다. 마음으로 자세히 살펴 생각하는 모습에서 '생각하다', '상상하다'의 뜻이 생겼습니다.",
+    "memory_tip": "마음(心)으로 살펴(相) 생각하는 것이 '想'입니다.",
+    "level_context": "5급 한자로, 생각할을(를) 뜻하는 想입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "상상",
+      "word_hanja": "想像",
+      "reading": "상상",
+      "easy_definition": "없는 것을 마음속에 그려봄",
+      "etymology_dissection": "생각할 상(想)+모양 상(像): 생각의 모양",
+      "example_sentence": "자유롭게 상상하세요.",
+      "sentence_meaning": "없는 것을 마음속에 그려보세요."
+    },
+    {
+      "word_korean": "이상",
+      "word_hanja": "理想",
+      "reading": "이상",
+      "easy_definition": "이치에 맞는 완전한 상태",
+      "etymology_dissection": "이치 리(理)+생각할 상(想): 이치의 생각",
+      "example_sentence": "이상을 향해 나아갑니다.",
+      "sentence_meaning": "완전한 목표를 향해 나아갑니다."
+    },
+    {
+      "word_korean": "감상",
+      "word_hanja": "感想",
+      "reading": "감상",
+      "easy_definition": "느끼고 생각함",
+      "etymology_dissection": "느낄 감(感)+생각할 상(想): 느낀 생각",
+      "example_sentence": "독서 감상문을 썼습니다.",
+      "sentence_meaning": "책을 읽고 느끼고 생각한 글을 썼습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "자유로운 상상이 창의력을 키웁니다. 이상을 향해 꾸준히 노력합니다. 독서 감상문을 쓰면 생각이 정리됩니다.",
+    "passage_meaning": "상상, 이상, 감상 모두 '생각하다'는 뜻의 想에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'상상'의 뜻은?",
+        "options": [
+          "실제로 있는 것",
+          "없는 것을 마음속에 그려봄",
+          "기억하는 것",
+          "잊는 것"
+        ],
+        "correct_answer": "없는 것을 마음속에 그려봄",
+        "explanation": "상상(想像)은 없는 것을 마음속에 그려보는 것입니다."
+      },
+      {
+        "question": "'想'의 뜻은?",
+        "options": [
+          "잊다",
+          "생각하다",
+          "달리다",
+          "먹다"
+        ],
+        "correct_answer": "생각하다",
+        "explanation": "想은 '생각하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'상상'이나 '이상'을 사용하여 문장을 써 보세요.",
+    "hint": "꿈이나 창의력에 관한 내용을 담아 보세요.",
+    "example_answer": "자유롭게 상상하면 창의력이 자랍니다.",
+    "key_vocabulary": [
+      "상상",
+      "이상"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "자유롭게 상상하세요.",
+      "이상을 향해 도전합시다.",
+      "독서 감상문을 써봅시다."
+    ],
+    "pronunciation_tips": "'상'을 명확하게 발음하며 읽어 보세요."
+  }
+}

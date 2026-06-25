@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "충",
+    "hanja_meaning": "충성",
+    "hanja_char": "忠",
+    "hanja_level": "4급",
+    "linked_subject": "도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "忠 — 마음 한가운데에서 우러나오는 정성",
+    "etymology_story": "中(가운데 중)과 心(마음 심)이 합쳐진 글자입니다. 마음의 정중앙에서 우러나오는 진정한 정성이라는 뜻에서 '충성'의 의미가 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "충성",
+      "word_hanja": "忠誠",
+      "etymology_dissection": "忠(충성 충)+誠(정성 성) = 충성스러운 정성",
+      "easy_definition": "나라나 윗사람에게 정성을 다해 섬기는 것",
+      "context_sentence": "군인들은 나라에 **충성**을 맹세합니다."
+    },
+    {
+      "word_korean": "충고",
+      "word_hanja": "忠告",
+      "etymology_dissection": "忠(충성 충)+告(고할 고) = 충심으로 알려줌",
+      "easy_definition": "진심으로 잘 되기를 바라며 알려주는 말",
+      "context_sentence": "친구의 **충고**를 귀담아 들어야 합니다."
+    },
+    {
+      "word_korean": "충신",
+      "word_hanja": "忠臣",
+      "etymology_dissection": "忠(충성 충)+臣(신하 신) = 충성스러운 신하",
+      "easy_definition": "임금에게 충성을 다하는 신하",
+      "context_sentence": "이순신 장군은 조선의 대표적인 **충신**입니다."
+    },
+    {
+      "word_korean": "충실",
+      "word_hanja": "忠實",
+      "etymology_dissection": "忠(충성 충)+實(열매 실) = 충성스럽고 열매 맺음",
+      "easy_definition": "맡은 일을 성실하게 잘 해냄",
+      "context_sentence": "자신의 역할에 **충실**한 사람이 신뢰를 얻습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "이순신 장군의 충성",
+    "passage_text": "이순신 장군은 조선 최고의 **충신**으로 꼽힙니다. 임진왜란 때 그는 열두 척의 배로 130척의 왜군을 물리쳤습니다. 억울하게 파직당했을 때도 **충성**심을 잃지 않았습니다. 그의 **충고**는 항상 나라를 위한 것이었습니다. 자신의 역할에 **충실**하여 결국 나라를 구한 위대한 장군의 이야기는 오늘날에도 귀감이 됩니다.",
+    "quiz": {
+      "question": "이순신 장군에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        "열두 척의 배로 왜군을 물리쳤다",
+        "억울하게 파직당했다",
+        "충성심을 잃고 도망쳤다",
+        "나라를 위한 충고를 했다"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "이순신 장군은 억울하게 파직당했을 때도 충성심을 잃지 않았다고 했으므로, 도망쳤다는 내용은 틀렸습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'충실'을 사용해서 자신이 맡은 역할에 성실하게 임하겠다는 다짐을 써보세요.",
+    "model_example": "학생으로서 나의 역할인 공부와 예절에 **충실**하여 훗날 사회에 도움이 되는 사람이 되겠습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "忠(충) — 충성 충! 충성·충고·충실 모두 여기서! 대단해요!"
+  }
+}

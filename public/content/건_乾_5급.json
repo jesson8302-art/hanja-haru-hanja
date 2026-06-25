@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "건",
+    "hanja_meaning": "하늘",
+    "hanja_char": "乾",
+    "hanja_level": "5급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "乾 — 해가 떠서 건조하게 하다",
+    "etymology_story": "乙(새 을, 초목)과 倝(해가 뜨는 모양)이 합쳐진 글자입니다. 해가 뜨면 습기가 마르는 모습에서 '마르다', '하늘'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "건조",
+      "word_hanja": "乾燥",
+      "etymology_dissection": "乾(마를 건)+燥(마를 조) = 마르고 또 마름",
+      "easy_definition": "습기가 없어 바짝 마른 상태",
+      "context_sentence": "겨울에는 공기가 **건조**해집니다."
+    },
+    {
+      "word_korean": "건강",
+      "word_hanja": "健康",
+      "etymology_dissection": "健(굳셀 건)+康(편안 강) = 굳세고 편안함",
+      "easy_definition": "몸과 마음이 탈 없이 정상적임",
+      "context_sentence": "규칙적인 운동이 **건강**에 도움이 됩니다."
+    },
+    {
+      "word_korean": "건물",
+      "word_hanja": "建物",
+      "etymology_dissection": "建(세울 건)+物(물건 물) = 세운 물건",
+      "easy_definition": "사람이 살거나 일하는 구조물",
+      "context_sentence": "이 **건물**은 지어진 지 100년이 넘었습니다."
+    },
+    {
+      "word_korean": "건배",
+      "word_hanja": "乾杯",
+      "etymology_dissection": "乾(마를 건)+杯(잔 배) = 잔을 비워 마름",
+      "easy_definition": "잔을 들어 모두 마심을 뜻하는 건배 인사",
+      "context_sentence": "기념일에 **건배**를 외쳤습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "건조한 환경",
+    "passage_text": "사막은 연 강수량 250mm 미만의 **건조** 지역입니다. 이런 **건조**한 환경에서도 선인장, 낙타, 전갈 같은 생물들이 살아남았습니다. 선인장은 두꺼운 표피로 수분 손실을 막고, 낙타는 혹에 지방을 저장합니다. **건조** 기후에 적응한 사람들은 천막형 **건물**에 살며 열기를 피했습니다. 자연은 언제나 **건조**함과 습함의 균형을 찾아갑니다.",
+    "quiz": {
+      "question": "사막의 특징으로 글에서 언급된 것은?",
+      "choices": [
+        "연 강수량 500mm 미만",
+        "연 강수량 250mm 미만",
+        "항상 뜨겁다",
+        "생물이 살 수 없다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 사막은 연 강수량 250mm 미만의 건조 지역이라고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'건조'를 사용해서 건조한 환경과 관련된 내용을 써보세요.",
+    "model_example": "겨울철 실내가 너무 **건조**하면 피부와 호흡기에 좋지 않으므로 가습기를 사용하거나 물을 자주 마셔야 합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "乾(건) — 마를 건! 건조·건배 / 건물·건강도 알아두세요! 잘했어요!"
+  }
+}

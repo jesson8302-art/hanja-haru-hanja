@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "都",
+    "hanja_sound": "도",
+    "hanja_meaning": "도읍",
+    "full_reading": "도읍 도",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "都",
+    "sound": "도",
+    "meaning": "도읍",
+    "stroke_count": 11,
+    "radical": "邑",
+    "etymology_story": "都는 고을(邑)과 사람(者)이 합쳐진 글자입니다. 많은 사람이 모여 사는 큰 고을, 즉 '도읍', '수도', '도시'의 뜻이 생겼습니다.",
+    "memory_tip": "많은 사람(者)이 모인 고을(邑)이 '도읍'입니다.",
+    "level_context": "5급 한자로, 도읍을(를) 뜻하는 都입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수도",
+      "word_hanja": "首都",
+      "reading": "수도",
+      "easy_definition": "나라의 중심 도시",
+      "etymology_dissection": "머리 수(首)+도읍 도(都): 머리 도시",
+      "example_sentence": "서울은 대한민국의 수도입니다.",
+      "sentence_meaning": "서울은 우리나라의 중심 도시입니다."
+    },
+    {
+      "word_korean": "도시",
+      "word_hanja": "都市",
+      "reading": "도시",
+      "easy_definition": "사람이 많이 모여 사는 지역",
+      "etymology_dissection": "도읍 도(都)+저자 시(市): 도읍의 저자",
+      "example_sentence": "도시 생활이 바쁩니다.",
+      "sentence_meaning": "사람이 많이 모여 사는 곳의 생활이 바쁩니다."
+    },
+    {
+      "word_korean": "도회",
+      "word_hanja": "都會",
+      "reading": "도회",
+      "easy_definition": "도시가 발달한 곳",
+      "etymology_dissection": "도읍 도(都)+모일 회(會): 도읍의 모임",
+      "example_sentence": "도회지로 이사했습니다.",
+      "sentence_meaning": "발달한 도시 지역으로 이사했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "서울은 우리나라의 수도입니다. 도시에는 많은 편의시설이 있습니다. 도회지와 농촌은 생활 방식이 다릅니다.",
+    "passage_meaning": "수도와 도시 모두 많은 사람이 모여 사는 '도읍'을 뜻하는 都에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'수도'의 뜻으로 알맞은 것은?",
+        "options": [
+          "작은 마을",
+          "나라의 중심 도시",
+          "농촌 지역",
+          "산속 마을"
+        ],
+        "correct_answer": "나라의 중심 도시",
+        "explanation": "수도(首都)는 나라의 중심 도시입니다."
+      },
+      {
+        "question": "'도시'에서 '都'의 뜻은?",
+        "options": [
+          "작다",
+          "도읍·도시",
+          "농촌",
+          "산"
+        ],
+        "correct_answer": "도읍·도시",
+        "explanation": "도시(都市)의 都는 '도읍'으로, 많은 사람이 모여 사는 큰 지역입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'수도'나 '도시'를 사용하여 문장을 써 보세요.",
+    "hint": "우리나라나 도시 생활에 관한 내용을 담아 보세요.",
+    "example_answer": "서울은 활기찬 수도이자 큰 도시입니다.",
+    "key_vocabulary": [
+      "수도",
+      "도시"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "서울이 우리나라 수도입니다.",
+      "도시에 다양한 편의시설이 있습니다.",
+      "도회지는 항상 바쁩니다."
+    ],
+    "pronunciation_tips": "'도'을 명확하게 발음하며 읽어 보세요."
+  }
+}

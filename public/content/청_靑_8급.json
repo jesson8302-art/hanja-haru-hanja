@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "청",
+    "hanja_meaning": "푸를",
+    "hanja_char": "靑",
+    "hanja_level": "8급",
+    "linked_subject": "국어, 미술"
+  },
+  "step_1_etymology": {
+    "visual_title": "우물가 새싹의 색 — 푸를 청(靑)",
+    "etymology_story": "'푸를 청(靑)'은 새싹(生)과 광물 안료(丹)가 합쳐진 글자예요. 새싹의 파릇한 초록과 맑은 하늘의 파란, 두 가지 모두를 청(靑)이라고 해요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "청소(淸掃)",
+      "etymology_dissection": "맑을 청(淸)+쓸 소(掃)",
+      "easy_definition": "더러운 것을 깨끗하게 하는 것",
+      "context_sentence": "교실 청소를 열심히 했어요."
+    },
+    {
+      "word_korean": "청년(靑年)",
+      "etymology_dissection": "푸를 청(靑)+해 년(年)",
+      "easy_definition": "젊고 활기찬 나이대",
+      "context_sentence": "청년들이 새로운 사회를 만들어요."
+    },
+    {
+      "word_korean": "청색(靑色)",
+      "etymology_dissection": "푸를 청(靑)+빛 색(色)",
+      "easy_definition": "파란색",
+      "context_sentence": "하늘은 청색으로 물들어 있어요."
+    },
+    {
+      "word_korean": "청춘(靑春)",
+      "etymology_dissection": "푸를 청(靑)+봄 춘(春)",
+      "easy_definition": "젊고 꿈이 넘치는 시기",
+      "context_sentence": "청춘은 다시 오지 않으니 열심히 살아요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "청춘의 빛",
+    "passage_text": "**청색(靑色)** 하늘처럼 **청춘(靑春)**은 맑고 밝아요. **청년(靑年)**의 꿈이 모여 세상을 바꿔요. 마음도 교실도 **청소(淸掃)**해서 깨끗하게 시작해요.",
+    "quiz": {
+      "question": "'청춘(靑春)'의 뜻은?",
+      "choices": [
+        "파란 하늘",
+        "젊고 꿈이 넘치는 시기",
+        "깨끗이 청소하는 것",
+        "파란색"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'청춘(靑春)'=푸를 청+봄 춘, 푸른 봄처럼 젊고 빛나는 시기예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 청춘에 꼭 이루고 싶은 꿈을 문장으로 써 보세요.",
+    "model_example": "청춘이라는 청색 하늘 아래 청년으로서 매일 더 나은 나를 만들어 가고 싶어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'푸를 — 청(靑)! 푸를 — 청(靑)!' 열 번 외쳐요!"
+  }
+}

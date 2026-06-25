@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "기",
+    "hanja_meaning": "깃발",
+    "hanja_char": "旗",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "천에 무늬가 그려진 '깃발 기(旗)'",
+    "etymology_story": "'깃발 기(旗)'는 깃발 모양(㫃)에 그 아래가 되다(其)가 합쳐진 글자예요. 무늬가 그려진 천을 장대에 달아 휘날리는 것이 깃발이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "국기(國旗)",
+      "etymology_dissection": "나라 국(國)+깃발 기(旗)",
+      "easy_definition": "나라를 상징하는 깃발",
+      "context_sentence": "대한민국 국기는 태극기예요."
+    },
+    {
+      "word_korean": "기수(旗手)",
+      "etymology_dissection": "깃발 기(旗)+손 수(手)",
+      "easy_definition": "깃발을 드는 사람",
+      "context_sentence": "운동회에서 기수가 앞장섰어요."
+    },
+    {
+      "word_korean": "백기(白旗)",
+      "etymology_dissection": "흰 백(白)+깃발 기(旗)",
+      "easy_definition": "항복을 나타내는 흰 깃발",
+      "context_sentence": "백기를 드는 것은 포기의 표시예요."
+    },
+    {
+      "word_korean": "태극기(太極旗)",
+      "etymology_dissection": "클 태(太)+다할 극(極)+깃발 기(旗)",
+      "easy_definition": "한국의 국기",
+      "context_sentence": "태극기를 보면 가슴이 뭉클해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "깃발 아래",
+    "passage_text": "**태극기(太極旗)**는 우리나라 **국기(國旗)**예요. **기수(旗手)**처럼 앞장서는 사람이 되고 싶어요. **백기(白旗)**를 들지 않고 끝까지 도전해요.",
+    "quiz": {
+      "question": "'태극기(太極旗)'란?",
+      "choices": [
+        "중국 국기",
+        "미국 국기",
+        "한국의 국기",
+        "일본 국기"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "태극기(太極旗)는 대한민국의 국기(國旗)예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "태극기나 우리나라 상징에 대한 자랑스러운 마음을 문장으로 써 보세요.",
+    "model_example": "태극기를 볼 때마다 국기를 지키기 위해 싸운 선조들이 떠올라 가슴이 뜨거워져요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'깃발 — 기(旗)! 깃발 — 기(旗)!' 열 번 외쳐요!"
+  }
+}

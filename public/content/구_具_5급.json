@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "具",
+    "hanja_sound": "구",
+    "hanja_meaning": "갖출",
+    "full_reading": "갖출 구",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "具",
+    "sound": "구",
+    "meaning": "갖출",
+    "stroke_count": 8,
+    "radical": "八",
+    "etymology_story": "具는 솥(鼎)의 모양을 간략히 한 것으로, 두 손으로 솥을 들고 있는 모습에서 '갖추다', '기구', '도구'의 뜻이 생겼습니다.",
+    "memory_tip": "두 손으로 도구를 들고 갖추는 것이 '具'입니다.",
+    "level_context": "5급 한자로, 갖출을(를) 뜻하는 具입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "도구",
+      "word_hanja": "道具",
+      "reading": "도구",
+      "easy_definition": "어떤 일을 하는 데 쓰는 연장",
+      "etymology_dissection": "길 도(道)+갖출 구(具): 일에 쓰는 것",
+      "example_sentence": "요리 도구를 준비했습니다.",
+      "sentence_meaning": "요리에 쓰는 연장을 준비했습니다."
+    },
+    {
+      "word_korean": "구체",
+      "word_hanja": "具體",
+      "reading": "구체",
+      "easy_definition": "실제로 있는 형체를 갖춤",
+      "etymology_dissection": "갖출 구(具)+몸 체(體): 몸을 갖춤",
+      "example_sentence": "구체적으로 설명해 주세요.",
+      "sentence_meaning": "실제로 있는 모습으로 자세히 설명해 주세요."
+    },
+    {
+      "word_korean": "가구",
+      "word_hanja": "家具",
+      "reading": "가구",
+      "easy_definition": "집에 갖추는 살림 기구",
+      "etymology_dissection": "집 가(家)+갖출 구(具): 집의 기구",
+      "example_sentence": "새 가구를 구입했습니다.",
+      "sentence_meaning": "새 살림 기구를 샀습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "새로운 가구로 방을 꾸몄습니다. 요리할 때는 올바른 도구를 사용해야 합니다. 계획은 구체적으로 세워야 실천하기 쉽습니다.",
+    "passage_meaning": "가구로 공간을 꾸미고, 도구를 사용하여 일을 하며, 구체적인 계획을 세우는 것이 중요합니다.",
+    "questions": [
+      {
+        "question": "'도구'의 뜻으로 알맞은 것은?",
+        "options": [
+          "목적 없이 쓰는 물건",
+          "어떤 일을 하는 데 쓰는 연장",
+          "그냥 두는 물건",
+          "버리는 물건"
+        ],
+        "correct_answer": "어떤 일을 하는 데 쓰는 연장",
+        "explanation": "도구(道具)는 어떤 일을 하는 데 쓰는 연장입니다."
+      },
+      {
+        "question": "'가구'에서 '具'의 뜻은?",
+        "options": [
+          "집",
+          "갖추다",
+          "사람",
+          "식물"
+        ],
+        "correct_answer": "갖추다",
+        "explanation": "가구(家具)의 具는 '갖추다'로, 집에 갖추는 살림 기구입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'도구'나 '구체'를 사용하여 문장을 써 보세요.",
+    "hint": "공부나 일과 관련된 내용을 담아 보세요.",
+    "example_answer": "목표를 구체적으로 정하니 실천하기 쉬워졌습니다.",
+    "key_vocabulary": [
+      "도구",
+      "구체"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "올바른 도구를 사용하세요.",
+      "구체적인 계획을 세웁시다.",
+      "새 가구로 방이 예뻐졌습니다."
+    ],
+    "pronunciation_tips": "'구'을 명확하게 발음하며 읽어 보세요."
+  }
+}

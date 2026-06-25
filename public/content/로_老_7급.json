@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "로",
+    "hanja_meaning": "늙을",
+    "hanja_char": "老",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "지팡이 짚은 노인 — 늙을 로(老)",
+    "etymology_story": "'늙을 로(老)'는 머리가 긴 노인이 허리를 구부리고 지팡이를 짚은 모습이에요. 오래 살아온 어른의 지혜와 모습을 담았어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "노인(老人)",
+      "etymology_dissection": "늙을 로(老)+사람 인(人)",
+      "easy_definition": "나이 든 어른",
+      "context_sentence": "노인을 공경하는 것이 예의예요."
+    },
+    {
+      "word_korean": "노력(努力)",
+      "etymology_dissection": "힘쓸 노(努)+힘 력(力)",
+      "easy_definition": "목표를 위해 힘을 다하는 것",
+      "context_sentence": "노력하면 꿈이 이루어져요."
+    },
+    {
+      "word_korean": "노래(老來)",
+      "etymology_dissection": "늙을 로(老)+올 래(來)",
+      "easy_definition": "목소리로 부르는 음악",
+      "context_sentence": "신나는 노래를 부르면 기분이 좋아요."
+    },
+    {
+      "word_korean": "경로(敬老)",
+      "etymology_dissection": "공경할 경(敬)+늙을 로(老)",
+      "easy_definition": "노인을 공경하는 것",
+      "context_sentence": "경로당에서 어르신을 도왔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "어른의 지혜",
+    "passage_text": "**노인(老人)**의 지혜는 오랜 경험에서 나와요. **노력(努力)**하지 않으면 꿈을 이룰 수 없어요. **경로(敬老)** 정신으로 어른을 공경하는 아름다운 사회를 만들어요.",
+    "quiz": {
+      "question": "'경로(敬老)'란?",
+      "choices": [
+        "노인이 오는 것",
+        "노인을 공경하는 것",
+        "노력하는 것",
+        "노래하는 것"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'경로(敬老)'=공경할 경+늙을 로, 노인을 공경하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어른을 공경했거나 노력이 결실을 맺은 경험을 문장으로 써 보세요.",
+    "model_example": "경로당 어르신께 노래를 불러 드렸더니 그 노력이 노인의 미소로 돌아왔어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'늙을 — 로(老)! 늙을 — 로(老)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "불",
+    "hanja_char": "火",
+    "hanja_level": "8급",
+    "linked_subject": "과학, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "불꽃이 타오르는 모습 그대로 — 불 화(火)",
+    "etymology_story": "'불 화(火)'는 불꽃이 위로 활활 타오르는 모양을 그대로 그린 글자예요. 아래에는 불씨, 위로 솟은 선들은 타오르는 불꽃이랍니다. 옛날 사람들은 불 덕분에 따뜻하게 살 수 있었어요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "화재(火災)",
+      "etymology_dissection": "불 화(火) + 재앙 재(災) = 불로 생긴 재앙",
+      "easy_definition": "불이 나서 생기는 사고",
+      "context_sentence": "화재가 났을 때는 빨리 대피해야 해요."
+    },
+    {
+      "word_korean": "화산(火山)",
+      "etymology_dissection": "불 화(火) + 뫼 산(山) = 불이 나오는 산",
+      "easy_definition": "땅속 마그마가 터져 나오는 산",
+      "context_sentence": "화산이 폭발하면 용암이 흘러내려요."
+    },
+    {
+      "word_korean": "소화기(消火器)",
+      "etymology_dissection": "꺼질 소(消) + 불 화(火) + 그릇 기(器) = 불을 끄는 도구",
+      "easy_definition": "불을 끄는 데 쓰는 기구",
+      "context_sentence": "교실 복도에 소화기가 있어야 해요."
+    },
+    {
+      "word_korean": "화력(火力)",
+      "etymology_dissection": "불 화(火) + 힘 력(力) = 불의 힘",
+      "easy_definition": "불이 타는 힘이나 열의 세기",
+      "context_sentence": "화력이 센 불로 음식을 빨리 익혀요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "불과 함께 사는 우리",
+    "passage_text": "불은 우리 생활에서 꼭 필요해요. 하지만 **화재(火災)**가 나면 아주 위험해요. 그래서 학교에는 **소화기(消火器)**가 준비되어 있어요. **화산(火山)**처럼 자연에서도 불은 무서운 힘을 가지고 있어요.",
+    "quiz": {
+      "question": "'소화기(消火器)'를 사용하는 때는 언제인가요?",
+      "choices": [
+        "배가 고플 때",
+        "불이 났을 때",
+        "비가 올 때",
+        "더울 때"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "'소화기'는 '꺼질 소 + 불 화 + 그릇 기' = 불을 끄는 도구예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "오늘 배운 단어 중 하나를 골라 불에 대해 내가 아는 것을 문장으로 써 보세요.",
+    "model_example": "요리 시간에 화력이 세면 음식이 금방 익어서 좋지만, 화재가 나지 않도록 조심해야 해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'불 — 화(火)! 불 — 화(火)!' 열 번 외치고 보관함에 저장하세요!"
+  }
+}

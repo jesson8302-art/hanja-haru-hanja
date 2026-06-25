@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "시",
+    "hanja_meaning": "처음",
+    "hanja_char": "始",
+    "hanja_level": "6급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "여자가 새로 시작하다 — 처음 시(始)",
+    "etymology_story": "'처음 시(始)'는 여자(女)와 태(台)가 합쳐진 글자예요. 씨앗처럼 새 생명이 여자에게서 시작되는 것이 '처음(始)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "시작(始作)",
+      "etymology_dissection": "처음 시(始)+지을 작(作)",
+      "easy_definition": "처음으로 하는 것",
+      "context_sentence": "시작이 반이에요."
+    },
+    {
+      "word_korean": "시조(始祖)",
+      "etymology_dissection": "처음 시(始)+조상 조(祖)",
+      "easy_definition": "처음 시작한 조상",
+      "context_sentence": "시조를 기억해요."
+    },
+    {
+      "word_korean": "개시(開始)",
+      "etymology_dissection": "열 개(開)+처음 시(始)",
+      "easy_definition": "시작하는 것",
+      "context_sentence": "게임 개시예요."
+    },
+    {
+      "word_korean": "원시(原始)",
+      "etymology_dissection": "근원 원(原)+처음 시(始)",
+      "easy_definition": "가장 처음의 상태",
+      "context_sentence": "원시 시대를 상상해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "시작의 용기",
+    "passage_text": "**시작(始作)**이 반이라는 말처럼 용기 있게 첫 발을 내디뎌요. **개시(開始)**를 망설이지 말아요. **원시(原始)**처럼 순수하게 시작해요.",
+    "quiz": {
+      "question": "'시작(始作)'이란?",
+      "choices": [
+        "시조",
+        "개시",
+        "처음으로 하는 것",
+        "원시"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "'시작(始作)'=처음 시+지을 작, 처음으로 무언가를 만들어 시작하는 것이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "새로운 시작의 경험이나 다짐을 문장으로 써 보세요.",
+    "model_example": "원시처럼 순수한 마음으로 개시하면 어떤 시작도 의미 있는 첫걸음이 돼요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'처음 — 시(始)! 처음 — 시(始)!' 열 번 외쳐요!"
+  }
+}

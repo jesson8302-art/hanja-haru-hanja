@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "특",
+    "hanja_meaning": "특별할",
+    "hanja_char": "特",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 도덕"
+  },
+  "step_1_etymology": {
+    "visual_title": "特 — 뭇 소 중에서 유독 눈에 띄는 한 마리",
+    "etymology_story": "特(특)은 소 우(牛)와 사찰 사(寺)가 합쳐진 글자예요. 많은 소 중에서 특별히 구별되는 한 마리처럼 '특별하다·뛰어나다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "특별(特別)",
+      "etymology_dissection": "특별할 특(特)+다를 별(別)",
+      "easy_definition": "보통과 다름",
+      "context_sentence": "오늘은 특별한 날이에요."
+    },
+    {
+      "word_korean": "특기(特技)",
+      "etymology_dissection": "특별할 특(特)+재주 기(技)",
+      "easy_definition": "남보다 뛰어난 재주",
+      "context_sentence": "제 특기는 피아노예요."
+    },
+    {
+      "word_korean": "독특(獨特)",
+      "etymology_dissection": "홀로 독(獨)+특별할 특(特)",
+      "easy_definition": "혼자만의 독특한 개성",
+      "context_sentence": "그 친구의 독특한 아이디어가 뽑혔어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "나만의 특기",
+    "passage_text": "누구에게나 특기(特技)가 있어요. 남들과 달라도 괜찮아요. 독특(獨特)한 개성이 오히려 특별(特別)한 매력이 되기도 해요. 자신만의 특별함을 자랑스럽게 여겨요.",
+    "quiz": {
+      "question": "'특기'의 뜻은?",
+      "choices": [
+        "남보다 뛰어난 재주",
+        "모두가 잘하는 것",
+        "배워야 하는 것",
+        "어려운 과목"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "특기(特技)는 '특별할 특(特)+재주 기(技)'로, 자신이 특히 잘하거나 자신 있는 능력이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "나의 특기나 독특한 점을 한 가지 소개해 보세요. 그 특기를 어떻게 키웠는지도 써 주세요.",
+    "model_example": "예) 제 특기는 종이접기예요. 유치원 때부터 좋아해서 지금은 복잡한 모양도 만들 수 있어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "特(특)! 너만의 특별함이 최고야! 훌륭해요! 🌟"
+  }
+}

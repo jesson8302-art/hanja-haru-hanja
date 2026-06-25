@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "우",
+    "hanja_meaning": "비",
+    "hanja_char": "雨",
+    "hanja_level": "7급",
+    "linked_subject": "과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "하늘에서 떨어지는 빗방울 — 비 우(雨)",
+    "etymology_story": "'비 우(雨)'는 하늘(一) 아래 구름(冂) 사이로 빗방울(四點)이 떨어지는 모습이에요. 하늘에서 내리는 비를 그대로 그린 글자예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "우산(雨傘)",
+      "etymology_dissection": "비 우(雨)+우산 산(傘)",
+      "easy_definition": "비를 막는 도구",
+      "context_sentence": "비 오면 우산을 써요."
+    },
+    {
+      "word_korean": "우천(雨天)",
+      "etymology_dissection": "비 우(雨)+하늘 천(天)",
+      "easy_definition": "비 오는 날씨",
+      "context_sentence": "우천 시 행사가 취소돼요."
+    },
+    {
+      "word_korean": "폭우(暴雨)",
+      "etymology_dissection": "사나울 폭(暴)+비 우(雨)",
+      "easy_definition": "갑자기 쏟아지는 많은 비",
+      "context_sentence": "폭우에 대비해야 해요."
+    },
+    {
+      "word_korean": "강우량(降雨量)",
+      "etymology_dissection": "내릴 강(降)+비 우(雨)+양 량(量)",
+      "easy_definition": "내린 비의 양",
+      "context_sentence": "강우량이 많으면 홍수가 나요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "비의 선물",
+    "passage_text": "**비 우(雨)**는 생명의 근원이에요. **폭우(暴雨)**는 주의가 필요하지만 **강우량(降雨量)**이 적당해야 농사가 잘 돼요. **우천(雨天)**에는 **우산(雨傘)**을 꼭 챙겨요.",
+    "quiz": {
+      "question": "'폭우(暴雨)'란?",
+      "choices": [
+        "가랑비",
+        "안개",
+        "갑자기 쏟아지는 많은 비",
+        "우산"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'폭우(暴雨)'=사나울 폭+비 우, 갑자기 사납게 쏟아지는 많은 비예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "비가 와서 좋았거나 곤란했던 경험을 문장으로 써 보세요.",
+    "model_example": "폭우가 쏟아지던 날 우산 없이 나갔다가 강우량의 무서움을 온몸으로 배웠어요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'비 — 우(雨)! 비 — 우(雨)!' 열 번 외쳐요!"
+  }
+}

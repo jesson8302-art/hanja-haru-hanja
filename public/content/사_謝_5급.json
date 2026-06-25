@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "謝",
+    "hanja_sound": "사",
+    "hanja_meaning": "사례할",
+    "full_reading": "사례할 사",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "謝",
+    "sound": "사",
+    "meaning": "사례할",
+    "stroke_count": 17,
+    "radical": "言",
+    "etymology_story": "謝는 말(言)과 쏠 사(射)가 합쳐진 글자입니다. 말을 쏘아 보내듯 감사나 사과를 전하는 모습에서 '감사하다', '사과하다'의 뜻이 생겼습니다.",
+    "memory_tip": "말(言)을 활처럼(射) 쏘아 전하는 것이 '謝'입니다.",
+    "level_context": "5급 한자로, 사례할을(를) 뜻하는 謝입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "감사",
+      "word_hanja": "感謝",
+      "reading": "감사",
+      "easy_definition": "고마움을 표현함",
+      "etymology_dissection": "느낄 감(感)+사례할 사(謝): 느껴 사례함",
+      "example_sentence": "감사의 말을 전했습니다.",
+      "sentence_meaning": "고마움을 표현하는 말을 전했습니다."
+    },
+    {
+      "word_korean": "사과",
+      "word_hanja": "謝過",
+      "reading": "사과",
+      "easy_definition": "잘못을 인정하고 용서를 구함",
+      "etymology_dissection": "사례할 사(謝)+지날 과(過): 잘못을 사례함",
+      "example_sentence": "진심으로 사과했습니다.",
+      "sentence_meaning": "진심으로 잘못을 인정하고 용서를 구했습니다."
+    },
+    {
+      "word_korean": "사절",
+      "word_hanja": "謝絶",
+      "reading": "사절",
+      "easy_definition": "정중히 거절함",
+      "etymology_dissection": "사례할 사(謝)+끊을 절(絶): 사례하며 끊음",
+      "example_sentence": "정중히 사절했습니다.",
+      "sentence_meaning": "예의 바르게 거절했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "매일 감사하는 마음으로 살면 행복해집니다. 실수를 했을 때 진심으로 사과합니다. 정중한 사절도 예의 바른 행동입니다.",
+    "passage_meaning": "감사, 사과, 사절 모두 '사례하다'는 뜻의 謝에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'사과'의 뜻은?",
+        "options": [
+          "감사를 표현하는 것",
+          "잘못을 인정하고 용서를 구하는 것",
+          "선물을 주는 것",
+          "축하하는 것"
+        ],
+        "correct_answer": "잘못을 인정하고 용서를 구하는 것",
+        "explanation": "사과(謝過)는 잘못을 인정하고 용서를 구하는 것입니다."
+      },
+      {
+        "question": "'謝'의 뜻은?",
+        "options": [
+          "거짓말하다",
+          "사례하다·감사하다",
+          "비난하다",
+          "무시하다"
+        ],
+        "correct_answer": "사례하다·감사하다",
+        "explanation": "謝는 '사례하다', '감사하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'감사'나 '사과'를 사용하여 문장을 써 보세요.",
+    "hint": "예의나 관계에 관한 내용을 담아 보세요.",
+    "example_answer": "잘못을 했을 때 진심으로 사과합니다.",
+    "key_vocabulary": [
+      "감사",
+      "사과"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "항상 감사하는 마음을 갖습니다.",
+      "잘못했을 때 사과하세요.",
+      "정중히 사절합니다."
+    ],
+    "pronunciation_tips": "'사'을 명확하게 발음하며 읽어 보세요."
+  }
+}

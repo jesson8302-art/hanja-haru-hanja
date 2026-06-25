@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "구",
+    "hanja_meaning": "공",
+    "hanja_char": "球",
+    "hanja_level": "6급",
+    "linked_subject": "체육, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "옥처럼 둥근 것 — 공 구(球)",
+    "etymology_story": "'공 구(球)'는 옥(玉)과 구할 구(求)가 합쳐진 글자예요. 옥처럼 둥글고 완전한 모양이 '공(球)'이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "야구(野球)",
+      "etymology_dissection": "들 야(野)+공 구(球)",
+      "easy_definition": "배트로 치고 달리는 운동",
+      "context_sentence": "야구를 관람했어요."
+    },
+    {
+      "word_korean": "축구(蹴球)",
+      "etymology_dissection": "찰 축(蹴)+공 구(球)",
+      "easy_definition": "발로 차는 운동",
+      "context_sentence": "축구를 좋아해요."
+    },
+    {
+      "word_korean": "지구(地球)",
+      "etymology_dissection": "땅 지(地)+공 구(球)",
+      "easy_definition": "우리가 사는 별",
+      "context_sentence": "지구를 보호해요."
+    },
+    {
+      "word_korean": "구체(球體)",
+      "etymology_dissection": "공 구(球)+몸 체(體)",
+      "easy_definition": "공 모양의 형태",
+      "context_sentence": "구체는 완벽한 형태예요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "둥근 세상",
+    "passage_text": "**지구(地球)**는 거대한 공이에요. **야구(野球)**와 **축구(蹴球)**는 공을 가지고 하는 운동이에요. **구체(球體)**처럼 어느 방향으로도 굴러갈 수 있어요.",
+    "quiz": {
+      "question": "'지구(地球)'란?",
+      "choices": [
+        "야구",
+        "축구",
+        "우리가 사는 별",
+        "구체"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'지구(地球)'=땅 지+공 구, 공처럼 둥근 우리가 사는 별이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "공을 가지고 놀거나 지구 환경에 대한 생각을 문장으로 써 보세요.",
+    "model_example": "지구라는 하나의 큰 구체 위에서 야구도 축구도 함께 즐길 수 있어 행복해요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'공 — 구(球)! 공 — 구(球)!' 열 번 외쳐요!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "演",
+    "hanja_sound": "연",
+    "hanja_meaning": "펼",
+    "full_reading": "펼 연",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "演",
+    "sound": "연",
+    "meaning": "펼",
+    "stroke_count": 14,
+    "radical": "水",
+    "etymology_story": "演은 물(水)과 길 연(寅)이 합쳐진 글자입니다. 물이 흘러 넓게 퍼지듯 재능을 펼치는 모습에서 '펼치다', '연기하다', '공연'의 뜻이 생겼습니다.",
+    "memory_tip": "물(水)이 퍼지듯 재능을 펼치는(寅) 것이 '演'입니다.",
+    "level_context": "5급 한자로, 펼을(를) 뜻하는 演입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "연주",
+      "word_hanja": "演奏",
+      "reading": "연주",
+      "easy_definition": "악기를 연주함",
+      "etymology_dissection": "펼 연(演)+아뢸 주(奏): 펼쳐 아룀",
+      "example_sentence": "피아노를 연주했습니다.",
+      "sentence_meaning": "피아노를 펼쳐 연주했습니다."
+    },
+    {
+      "word_korean": "공연",
+      "word_hanja": "公演",
+      "reading": "공연",
+      "easy_definition": "사람들 앞에서 연기함",
+      "etymology_dissection": "공공 공(公)+펼 연(演): 공공으로 펼침",
+      "example_sentence": "멋진 공연이 있었습니다.",
+      "sentence_meaning": "사람들 앞에서 멋진 연기가 있었습니다."
+    },
+    {
+      "word_korean": "강연",
+      "word_hanja": "講演",
+      "reading": "강연",
+      "easy_definition": "사람들 앞에서 이야기함",
+      "etymology_dissection": "강의 강(講)+펼 연(演): 강의를 펼침",
+      "example_sentence": "유명 인사가 강연했습니다.",
+      "sentence_meaning": "유명한 분이 사람들 앞에서 이야기했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "피아니스트의 연주가 감동적입니다. 뮤지컬 공연을 관람했습니다. 유명 과학자의 강연을 들었습니다.",
+    "passage_meaning": "연주, 공연, 강연 모두 '펼치다', '연기하다'를 뜻하는 演에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'강연'의 뜻은?",
+        "options": [
+          "혼자 연습하는 것",
+          "사람들 앞에서 이야기하는 것",
+          "책을 읽는 것",
+          "시험을 보는 것"
+        ],
+        "correct_answer": "사람들 앞에서 이야기하는 것",
+        "explanation": "강연(講演)은 사람들 앞에서 이야기하는 것입니다."
+      },
+      {
+        "question": "'演'의 뜻은?",
+        "options": [
+          "감추다",
+          "펼치다·연기하다",
+          "숨다",
+          "달리다"
+        ],
+        "correct_answer": "펼치다·연기하다",
+        "explanation": "演은 '펼치다', '연기하다'를 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'연주'나 '공연'을 사용하여 문장을 써 보세요.",
+    "hint": "음악이나 예술에 관한 내용을 담아 보세요.",
+    "example_answer": "학예회에서 피아노 연주와 공연이 있었습니다.",
+    "key_vocabulary": [
+      "연주",
+      "공연"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "아름다운 연주를 들었습니다.",
+      "공연 관람을 즐겼습니다.",
+      "강연에서 많이 배웠습니다."
+    ],
+    "pronunciation_tips": "'연'을 명확하게 발음하며 읽어 보세요."
+  }
+}

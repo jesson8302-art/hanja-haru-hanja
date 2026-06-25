@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "首",
+    "hanja_sound": "수",
+    "hanja_meaning": "머리",
+    "full_reading": "머리 수",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "首",
+    "sound": "수",
+    "meaning": "머리",
+    "stroke_count": 9,
+    "radical": "首",
+    "etymology_story": "首는 머리카락(髟) 아래 얼굴의 형태를 본뜬 글자입니다. 사람의 머리 모습에서 '머리', '으뜸', '처음'의 뜻이 생겼습니다.",
+    "memory_tip": "사람의 머리 모양을 본뜬 것이 '首'입니다.",
+    "level_context": "5급 한자로, 머리을(를) 뜻하는 首입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "수도",
+      "word_hanja": "首都",
+      "reading": "수도",
+      "easy_definition": "나라의 으뜸 도시",
+      "etymology_dissection": "머리 수(首)+도읍 도(都): 으뜸 도시",
+      "example_sentence": "서울은 대한민국의 수도입니다.",
+      "sentence_meaning": "서울은 대한민국에서 가장 중요한 도시입니다."
+    },
+    {
+      "word_korean": "수석",
+      "word_hanja": "首席",
+      "reading": "수석",
+      "easy_definition": "으뜸 자리",
+      "etymology_dissection": "머리 수(首)+자리 석(席): 으뜸 자리",
+      "example_sentence": "수석으로 졸업했습니다.",
+      "sentence_meaning": "가장 높은 자리로 졸업했습니다."
+    },
+    {
+      "word_korean": "원수",
+      "word_hanja": "元首",
+      "reading": "원수",
+      "easy_definition": "나라의 으뜸 지도자",
+      "etymology_dissection": "으뜸 원(元)+머리 수(首): 으뜸 머리",
+      "example_sentence": "국가 원수가 방문했습니다.",
+      "sentence_meaning": "나라의 으뜸 지도자가 방문했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "서울은 대한민국의 수도입니다. 수석 졸업생이 대표 연설을 했습니다. 국가 원수들이 회의를 위해 모였습니다.",
+    "passage_meaning": "수도, 수석, 원수 모두 '머리', '으뜸'을 뜻하는 首에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'수도'의 뜻은?",
+        "options": [
+          "작은 마을",
+          "나라의 으뜸 도시",
+          "항구 도시",
+          "외딴 섬"
+        ],
+        "correct_answer": "나라의 으뜸 도시",
+        "explanation": "수도(首都)는 나라의 으뜸 도시입니다."
+      },
+      {
+        "question": "'首'의 뜻은?",
+        "options": [
+          "발",
+          "머리·으뜸",
+          "손",
+          "등"
+        ],
+        "correct_answer": "머리·으뜸",
+        "explanation": "首는 '머리', '으뜸'을 뜻합니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'수도'나 '수석'을 사용하여 문장을 써 보세요.",
+    "hint": "도시나 성취에 관한 내용을 담아 보세요.",
+    "example_answer": "서울은 아름답고 활기찬 대한민국의 수도입니다.",
+    "key_vocabulary": [
+      "수도",
+      "수석"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "서울은 수도입니다.",
+      "수석으로 합격했습니다.",
+      "국가 원수가 방문했습니다."
+    ],
+    "pronunciation_tips": "'수'을 명확하게 발음하며 읽어 보세요."
+  }
+}

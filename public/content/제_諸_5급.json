@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "제",
+    "hanja_meaning": "모든",
+    "hanja_char": "諸",
+    "hanja_level": "5급",
+    "linked_subject": "국어"
+  },
+  "step_1_etymology": {
+    "visual_title": "諸 — 말로 여러 가지를 모으다",
+    "etymology_story": "言(말씀 언)과 者(놈 자)가 합쳐진 글자입니다. 여러 사람의 말을 모은 모습에서 '모든', '여러'의 뜻이 생겼습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "제반",
+      "word_hanja": "諸般",
+      "etymology_dissection": "諸(모든 제)+般(반 반) = 모든 것들",
+      "easy_definition": "여러 가지 모든",
+      "context_sentence": "**제반** 사항을 검토합니다."
+    },
+    {
+      "word_korean": "제도",
+      "word_hanja": "諸島",
+      "etymology_dissection": "諸(모든 제)+島(섬 도) = 모든 섬",
+      "easy_definition": "여러 섬을 통틀어 이르는 말",
+      "context_sentence": "다도해 **제도**가 아름답습니다."
+    },
+    {
+      "word_korean": "제군",
+      "word_hanja": "諸君",
+      "etymology_dissection": "諸(모든 제)+君(임금 군) = 여러분들",
+      "easy_definition": "여러분을 격식을 갖춰 이르는 말",
+      "context_sentence": "**제군**, 최선을 다합시다."
+    },
+    {
+      "word_korean": "제한",
+      "word_hanja": "諸限",
+      "etymology_dissection": "제→여러",
+      "easy_definition": "여러 가지 제한 사항 (현대어 변용)",
+      "context_sentence": "**제반** 규정을 확인하세요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "다양성의 가치",
+    "passage_text": "세상에는 다양한 사람, 문화, 생각이 있습니다. **제반** 다양성을 존중하는 것이 성숙한 사회의 특징입니다. 생태계도 다양한 **제도**의 생물이 서로 연결될 때 건강합니다. 인간 사회도 다양한 생각이 공존할 때 더 창의적인 해결책이 나옵니다. **제군**이 서로 다른 의견을 내고 토론하는 과정에서 더 좋은 결론이 만들어집니다. 다양성은 약점이 아니라 강점입니다.",
+    "quiz": {
+      "question": "다양성의 가치로 글에서 언급된 것은?",
+      "choices": [
+        "다양성은 혼란을 일으킨다",
+        "다양한 생각이 공존할 때 더 창의적인 해결책이 나온다",
+        "다양성을 없애야 한다",
+        "하나의 생각이 가장 좋다"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "다양한 생각이 공존할 때 더 창의적인 해결책이 나온다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'제반'을 사용해서 어떤 일을 시작할 때 확인해야 할 것들에 대해 써보세요.",
+    "model_example": "여행을 떠나기 전에 여권, 숙소, 비용, 일정 등 **제반** 사항을 꼼꼼히 준비해야 낭패를 피할 수 있습니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "諸(제) — 모든 제! 제반·제군 모두 여기서! 모두 잘했어요!"
+  }
+}

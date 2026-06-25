@@ -1,0 +1,55 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "집",
+    "hanja_meaning": "모일",
+    "hanja_char": "集",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "集 — 나무 위에 새들이 모여 앉다",
+    "etymology_story": "集(집)은 새 추(隹)와 나무 목(木)이 합쳐진 글자예요. 나무 위에 새들이 모여 앉은 모양으로 '모이다·집합하다'를 뜻해요."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "집합(集合)",
+      "etymology_dissection": "모일 집(集)+합할 합(合)",
+      "easy_definition": "한 곳에 모임",
+      "context_sentence": "운동장에 집합하라는 방송이 나왔어요."
+    },
+    {
+      "word_korean": "수집(收集)",
+      "etymology_dissection": "거둘 수(收)+모일 집(集)",
+      "easy_definition": "여러 것을 모아 모음",
+      "context_sentence": "우표 수집이 취미예요."
+    },
+    {
+      "word_korean": "문집(文集)",
+      "etymology_dissection": "글 문(文)+모일 집(集)",
+      "easy_definition": "여러 글을 모아 엮은 책",
+      "context_sentence": "우리 반 문집을 만들었어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우표 수집 취미",
+    "passage_text": "은호는 우표 수집(收集)을 좋아해요. 세계 여러 나라 우표를 모아요. 모은 우표를 정리해서 나만의 작은 문집(文集)처럼 책을 만들었어요. 친구들에게 보여주니 함께 모이자고 했어요.",
+    "quiz": {
+      "question": "'수집'의 뜻은?",
+      "choices": [
+        "여러 것을 모아 모음",
+        "물건을 버리는 것",
+        "물건을 나눠 주는 것",
+        "혼자 쓰는 것"
+      ],
+      "correct_answer_index": 0,
+      "detailed_explanation": "수집(收集)은 '거둘 수(收)+모일 집(集)'으로, 관심 있는 것을 하나하나 모아가는 활동이에요."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "내가 모으고 싶은 것 또는 이미 모으고 있는 것을 써 보고, 왜 그것을 모으는지 이유도 써 보세요.",
+    "model_example": "예) 저는 여행 스티커를 모아요. 가본 곳마다 스티커를 사면 추억이 쌓이기 때문이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "集(집)! 모으는 즐거움! 오늘도 잘했어요! 📦"
+  }
+}

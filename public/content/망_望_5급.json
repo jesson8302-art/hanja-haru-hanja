@@ -1,0 +1,99 @@
+{
+  "daily_metadata": {
+    "date": "2026-01-01",
+    "hanja_char": "望",
+    "hanja_sound": "망",
+    "hanja_meaning": "바랄",
+    "full_reading": "바랄 망",
+    "level": "5급",
+    "day_number": 1
+  },
+  "step_1_etymology": {
+    "title": "오늘의 한자",
+    "hanja_char": "望",
+    "sound": "망",
+    "meaning": "바랄",
+    "stroke_count": 11,
+    "radical": "月",
+    "etymology_story": "望은 달(月)과 멀리 바라보는 사람의 모습이 합쳐진 글자입니다. 높은 곳에서 달을 바라보는 모습에서 '바라다', '희망', '바라보다'의 뜻이 생겼습니다.",
+    "memory_tip": "달(月)을 바라보며 소원을 비는 것이 '望'입니다.",
+    "level_context": "5급 한자로, 바랄을(를) 뜻하는 望입니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "희망",
+      "word_hanja": "希望",
+      "reading": "희망",
+      "easy_definition": "바라고 원하는 것",
+      "etymology_dissection": "바랄 희(希)+바랄 망(望): 바라고 바람",
+      "example_sentence": "희망을 잃지 마세요.",
+      "sentence_meaning": "바라고 원하는 것을 포기하지 마세요."
+    },
+    {
+      "word_korean": "욕망",
+      "word_hanja": "欲望",
+      "reading": "욕망",
+      "easy_definition": "강하게 원하는 마음",
+      "etymology_dissection": "바랄 욕(欲)+바랄 망(望): 강하게 바람",
+      "example_sentence": "욕망을 적절히 조절해야 합니다.",
+      "sentence_meaning": "강하게 원하는 마음을 알맞게 다스려야 합니다."
+    },
+    {
+      "word_korean": "실망",
+      "word_hanja": "失望",
+      "reading": "실망",
+      "easy_definition": "바라던 것을 잃음",
+      "etymology_dissection": "잃을 실(失)+바랄 망(望): 바람을 잃음",
+      "example_sentence": "결과에 실망했습니다.",
+      "sentence_meaning": "바라던 결과가 나오지 않아 落望했습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "title": "독해 퀴즈",
+    "passage": "희망을 가지고 노력하면 목표를 이룰 수 있습니다. 욕망을 조절하면 더 현명한 삶을 살 수 있습니다. 실망하더라도 다시 일어서는 것이 중요합니다.",
+    "passage_meaning": "희망, 욕망, 실망 모두 '바라다'는 뜻의 望에서 나온 단어들입니다.",
+    "questions": [
+      {
+        "question": "'희망'의 뜻으로 알맞은 것은?",
+        "options": [
+          "바라고 원하는 것",
+          "잃어버린 것",
+          "두려운 것",
+          "슬픈 것"
+        ],
+        "correct_answer": "바라고 원하는 것",
+        "explanation": "희망(希望)은 바라고 원하는 것입니다."
+      },
+      {
+        "question": "'실망'에서 '望'의 뜻은?",
+        "options": [
+          "잃다",
+          "바라다",
+          "크다",
+          "빠르다"
+        ],
+        "correct_answer": "바라다",
+        "explanation": "실망(失望)의 望은 '바라다'로, 바라던 것을 잃는 것입니다."
+      }
+    ]
+  },
+  "step_4_writing_challenge": {
+    "title": "작문 챌린지",
+    "prompt": "'희망'이나 '실망'을 사용하여 문장을 써 보세요.",
+    "hint": "꿈이나 감정과 관련된 내용을 담아 보세요.",
+    "example_answer": "실망하더라도 희망을 잃지 않겠습니다.",
+    "key_vocabulary": [
+      "희망",
+      "욕망"
+    ]
+  },
+  "step_5_vocal_review": {
+    "title": "낭독 미션",
+    "sentences": [
+      "항상 희망을 가지세요.",
+      "욕망을 적절히 조절합시다.",
+      "실망해도 다시 도전합니다."
+    ],
+    "pronunciation_tips": "'망'을 명확하게 발음하며 읽어 보세요."
+  }
+}

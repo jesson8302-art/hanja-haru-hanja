@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "동",
+    "hanja_meaning": "마을",
+    "hanja_char": "洞",
+    "hanja_level": "7급",
+    "linked_subject": "국어, 사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "물이 통하는 마을 — 마을 동(洞)",
+    "etymology_story": "'마을 동(洞)'은 물(水→氵)과 통할 통(同)이 합쳐진 글자예요. 물이 통하여 흐르는 곳에 사람이 모여 사는 마을이 생긴 것이에요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "동네(洞네)",
+      "etymology_dissection": "마을 동(洞)+",
+      "easy_definition": "가까운 주변 마을",
+      "context_sentence": "동네 친구들과 공원에서 놀았어요."
+    },
+    {
+      "word_korean": "동굴(洞窟)",
+      "etymology_dissection": "마을 동(洞)+굴 굴(窟)",
+      "easy_definition": "땅속에 뚫린 굴",
+      "context_sentence": "동굴 탐험이 신기하고 무서웠어요."
+    },
+    {
+      "word_korean": "공동(空洞)",
+      "etymology_dissection": "빌 공(空)+마을 동(洞)",
+      "easy_definition": "속이 비어 있는 것",
+      "context_sentence": "빈 공동(空洞)처럼 마음이 허전해요."
+    },
+    {
+      "word_korean": "동장(洞長)",
+      "etymology_dissection": "마을 동(洞)+길 장(長)",
+      "easy_definition": "동의 행정을 담당하는 사람",
+      "context_sentence": "동장님께서 주민을 도와주셨어요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "우리 동네",
+    "passage_text": "**동네(洞네)** 친구들과 놀며 자라는 것이 행복이에요. **동굴(洞窟)** 탐험은 자연의 신비를 보여줘요. **동장(洞長)**님이 마을을 따뜻하게 이끌어요.",
+    "quiz": {
+      "question": "'동굴(洞窟)'이란?",
+      "choices": [
+        "마을",
+        "행정 담당자",
+        "땅속에 뚫린 굴",
+        "빈 공간"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'동굴(洞窟)'=마을 동+굴 굴, 땅속에 뚫린 자연 굴이에요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "동네나 마을에서 있었던 즐거운 기억을 문장으로 써 보세요.",
+    "model_example": "동네 골목에서 친구들과 놀던 기억은 동굴처럼 깊이 새겨진 소중한 추억이에요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'마을 — 동(洞)! 마을 — 동(洞)!' 열 번 외쳐요!"
+  }
+}

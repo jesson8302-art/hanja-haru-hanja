@@ -1,0 +1,61 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "두",
+    "hanja_meaning": "머리",
+    "hanja_char": "頭",
+    "hanja_level": "6급",
+    "linked_subject": "국어, 과학"
+  },
+  "step_1_etymology": {
+    "visual_title": "사람의 머리 — 머리 두(頭)",
+    "etymology_story": "'머리 두(頭)'는 콩 두(豆)와 머리 혈(頁)이 합쳐진 글자예요. 동그란 콩(豆)처럼 둥근 머리(頁)가 바로 '머리(頭)'예요!"
+  },
+  "step_2_words": [
+    {
+      "word_korean": "두뇌(頭腦)",
+      "etymology_dissection": "머리 두(頭)+골 뇌(腦)",
+      "easy_definition": "머리와 뇌",
+      "context_sentence": "두뇌가 발달해요."
+    },
+    {
+      "word_korean": "선두(先頭)",
+      "etymology_dissection": "먼저 선(先)+머리 두(頭)",
+      "easy_definition": "맨 앞에 서는 것",
+      "context_sentence": "선두에 서요."
+    },
+    {
+      "word_korean": "두각(頭角)",
+      "etymology_dissection": "머리 두(頭)+뿔 각(角)",
+      "easy_definition": "머리와 뿔처럼 드러나는 것",
+      "context_sentence": "두각을 나타내요."
+    },
+    {
+      "word_korean": "교두보(橋頭堡)",
+      "etymology_dissection": "다리 교(橋)+머리 두(頭)+보루 보(堡)",
+      "easy_definition": "발판이 되는 거점",
+      "context_sentence": "성공의 교두보를 마련해요."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "머리를 써요",
+    "passage_text": "**두뇌(頭腦)**를 발달시키면 **선두(先頭)**에 설 수 있어요. **두각(頭角)**을 나타내면 인정받아요.",
+    "quiz": {
+      "question": "'두각(頭角)'이란?",
+      "choices": [
+        "두뇌",
+        "선두",
+        "머리뿔처럼 뛰어나게 드러나는 것",
+        "교두보"
+      ],
+      "correct_answer_index": 2,
+      "detailed_explanation": "'두각(頭角)'=머리 두+뿔 각, 뿔처럼 두드러지게 뛰어난 재능이나 성과예요!"
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "어떤 분야에서 두각을 나타내고 싶은지 문장으로 써 보세요.",
+    "model_example": "두뇌를 갈고닦으면 선두에 서고 두각을 나타내는 날이 반드시 와요."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "'머리 — 두(頭)! 머리 — 두(頭)!' 열 번 외쳐요!"
+  }
+}

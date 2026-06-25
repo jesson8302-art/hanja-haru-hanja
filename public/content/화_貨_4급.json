@@ -1,0 +1,65 @@
+{
+  "daily_metadata": {
+    "hanja_sound": "화",
+    "hanja_meaning": "재화",
+    "hanja_char": "貨",
+    "hanja_level": "4급",
+    "linked_subject": "사회"
+  },
+  "step_1_etymology": {
+    "visual_title": "貨 — 변하고 쓰이는 재물",
+    "etymology_story": "貝(조개 패, 옛날 화폐의 뜻)와 化(변할 화)가 합쳐진 글자입니다. 조개껍데기처럼 변하고 교환되는 재물을 뜻했습니다. 옛날 조개는 화폐로 사용되었기 때문에 貝가 들어간 한자는 돈이나 재물과 관련이 많습니다."
+  },
+  "step_2_words": [
+    {
+      "word_korean": "화폐",
+      "word_hanja": "貨幣",
+      "etymology_dissection": "貨(재화 화)+幣(비단 폐) = 교환에 쓰이는 물건",
+      "easy_definition": "물건을 사고팔 때 사용하는 돈",
+      "context_sentence": "동전과 지폐는 모두 **화폐**입니다."
+    },
+    {
+      "word_korean": "화물",
+      "word_hanja": "貨物",
+      "etymology_dissection": "貨(재화 화)+物(물건 물) = 거래되는 물건",
+      "easy_definition": "거래나 운송의 대상이 되는 물건",
+      "context_sentence": "기차로 **화물**을 운반합니다."
+    },
+    {
+      "word_korean": "재화",
+      "word_hanja": "財貨",
+      "etymology_dissection": "財(재물 재)+貨(재화 화) = 재물",
+      "easy_definition": "경제적 가치를 지닌 모든 것",
+      "context_sentence": "공기는 우리에게 필요하지만 거래되지 않아 **재화**가 아닙니다."
+    },
+    {
+      "word_korean": "잡화",
+      "word_hanja": "雜貨",
+      "etymology_dissection": "雜(섞일 잡)+貨(재화 화) = 여러 가지 물건",
+      "easy_definition": "여러 종류의 일용품을 통틀어 이르는 말",
+      "context_sentence": "동네 **잡화**점에서 필요한 물건을 샀습니다."
+    }
+  ],
+  "step_3_reading_comprehension": {
+    "passage_title": "화폐의 역사",
+    "passage_text": "옛날 사람들은 물물교환을 했습니다. 그러나 물물교환은 내가 원하는 것을 가진 사람이 내 것을 원해야만 가능했습니다. 이런 불편함을 해결하기 위해 **화폐**가 등장했습니다. 처음엔 조개껍데기나 금속 같은 **재화**가 화폐로 쓰였고, 나중에 종이 **화폐**가 생겼습니다. 오늘날에는 신용카드나 전자화폐처럼 **화폐** 형태가 더욱 다양해졌습니다.",
+    "quiz": {
+      "question": "화폐가 등장한 이유로 알맞은 것은?",
+      "choices": [
+        "물물교환이 너무 재미있어서",
+        "물물교환의 불편함을 해결하기 위해",
+        "정부가 강제로 만들어서",
+        "금속이 너무 많아서"
+      ],
+      "correct_answer_index": 1,
+      "detailed_explanation": "글에서 물물교환의 불편함(서로 원하는 것이 일치해야 함)을 해결하기 위해 화폐가 등장했다고 했습니다."
+    }
+  },
+  "step_4_writing_challenge": {
+    "mission_guideline": "'화폐'를 사용해서 화폐의 종류나 역할에 대해 설명하는 문장을 써보세요.",
+    "model_example": "오늘날 **화폐**는 동전, 지폐뿐 아니라 스마트폰으로 결제하는 전자 **화폐**까지 그 형태가 다양합니다."
+  },
+  "step_5_vocal_review": {
+    "cheer_message": "貨(화) — 재화 화! 화폐·화물·잡화 모두 여기서! 훌륭해요!"
+  }
+}
