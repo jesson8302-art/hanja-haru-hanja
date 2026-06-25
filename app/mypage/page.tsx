@@ -461,7 +461,6 @@ export default function MyPage() {
                   const c       = getLvColor(lv);
                   if (learned === 0) return null;
                   return (
-                  return (
                     <div key={lv}>
                       <div className="flex items-center justify-between mb-1">
                         <div className="flex items-center gap-2">
