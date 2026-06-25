@@ -30,6 +30,8 @@ export interface ReviewRecord {
 export interface LearningRecord {
   hanja: string;
   sound: string;
+  meaning: string;
+  full_reading: string;
   level: string;
   completed_at: string;   // ISO 날짜
   quiz_correct: boolean;
