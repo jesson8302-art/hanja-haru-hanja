@@ -510,7 +510,7 @@ export default function MyPage() {
                             return (
                               <div key={`${r.hanja}-${i}`} className={`flex items-center gap-1 rounded-lg px-2.5 py-1.5 border ${c.bg} ${c.border}`}>
                                 <span className={`text-sm font-black ${c.text}`}>{r.hanja}</span>
-                                <span className="text-[10px] text-gray-500">{r.meaning} {r.sound}</span>
+                                <span className="text-[10px] text-gray-500">{r.sound}</span>
                               </div>
                             );
                           })}
