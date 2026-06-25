@@ -11,18 +11,20 @@ import {
 } from "@/lib/review-system";
 
 // ── 상수 ──────────────────────────────────────────────────────
+type LvColorStyle = { bg: string; text: string; border: string };
+
 // Lv.X 색상 (4구간) + 구 급수 fallback
 function getLvColor(level: string) {
   const m = level.match(/^Lv\.(\d+)$/);
   if (m) {
     const n = parseInt(m[1]);
-    if (n <= 5)  return { bg: "bg-emerald-100", text: "text-emerald-700", border: "border-emerald-300" };
-    if (n <= 10) return { bg: "bg-blue-100",    text: "text-blue-700",    border: "border-blue-300" };
-    if (n <= 15) return { bg: "bg-violet-100",  text: "text-violet-700",  border: "border-violet-300" };
-    return             { bg: "bg-rose-100",     text: "text-rose-700",    border: "border-rose-300" };
+    if (n <= 5)  return { bg: "bg-emerald-100", text: "text-emerald-700", border: "border-emerald-300" } as LvColorStyle;
+    if (n <= 10) return { bg: "bg-blue-100",    text: "text-blue-700",    border: "border-blue-300" }    as LvColorStyle;
+    if (n <= 15) return { bg: "bg-violet-100",  text: "text-violet-700",  border: "border-violet-300" } as LvColorStyle;
+    return             { bg: "bg-rose-100",     text: "text-rose-700",    border: "border-rose-300" }    as LvColorStyle;
   }
   // 구 급수 fallback
-  const OLD: Record<string, { bg: string; text: string; border: string }> = {
+  const OLD: Record<string, LvColorStyle> = {
     "8급": { bg: "bg-green-100",  text: "text-green-700",  border: "border-green-300" },
     "7급": { bg: "bg-teal-100",   text: "text-teal-700",   border: "border-teal-300" },
     "6급": { bg: "bg-blue-100",   text: "text-blue-700",   border: "border-blue-300" },
@@ -30,7 +32,7 @@ function getLvColor(level: string) {
     "4급": { bg: "bg-purple-100", text: "text-purple-700", border: "border-purple-300" },
     "3급": { bg: "bg-pink-100",   text: "text-pink-700",   border: "border-pink-300" },
   };
-  return OLD[level] ?? { bg: "bg-amber-100", text: "text-amber-700", border: "border-amber-300" };
+  return OLD[level] ?? ({ bg: "bg-amber-100", text: "text-amber-700", border: "border-amber-300" } as LvColorStyle);
 }
 
 // Lv.1~20 정의
