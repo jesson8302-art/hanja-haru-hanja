@@ -455,4 +455,14 @@ export const IDIOMS: Idiom[] = [
 // 최소 학습 요건 확인 (7급 완료 기준: 100자 이상)
 export const IDIOMS_MIN_LEARNED = 100;
 
-export function getIdiomsByLevel(level: "beginner" | "intermediate" | "advanced"): Idiom[
+export function getIdiomsByLevel(level: "beginner" | "intermediate" | "advanced"): Idiom[] {
+  return IDIOMS.filter((idiom) => idiom.level === level);
+}
+
+export function getIdiomByChars(hanja: string): Idiom | undefined {
+  return IDIOMS.find((idiom) => idiom.hanja === hanja);
+}
+
+export function getAllIdioms(): Idiom[] {
+  return IDIOMS;
+}

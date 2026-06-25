@@ -392,4 +392,5 @@ export function getMorningReviewStats(): {
     });
   }
 
-  return { total, passed, skipped
+  return { total, passed, skipped, passRate, currentStreak, recentDays };
+}

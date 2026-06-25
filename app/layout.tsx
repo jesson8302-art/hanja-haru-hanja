@@ -14,4 +14,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="bg-amber
+      <body className="bg-amber-50 min-h-screen">
+        <AuthProvider>{children}</AuthProvider>
+      </body>
+    </html>
+  );
+}
